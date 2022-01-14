@@ -14,18 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 14 2022 11:12:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 14 2022 12:12:26 GMT+0800 (China Standard Time) -->
 
-1. [长津湖 2 定档春节](https://www.zhihu.com/search?q=水门桥)
+1. [意外车祸致搭车同事死亡](https://www.zhihu.com/search?q=搭车死亡)
 1. [新秦时明月更新](https://www.zhihu.com/search?q=新秦时明月)
 1. [上海新增 2 例本土确诊](https://www.zhihu.com/search?q=上海疫情)
 1. [《秦殇》中文版发售](https://www.zhihu.com/search?q=秦殇)
-1. [携程创始人「印钱鼓励生育可行」](https://www.zhihu.com/search?q=携程创始人)
 1. [库里 12 分勇士负雄鹿](https://www.zhihu.com/search?q=勇士)
+1. [网传一国航员工自尽](https://www.zhihu.com/search?q=国航员工自尽)
 1. [22 年职业资格考试时间](https://www.zhihu.com/search?q=职业资格考试时间)
+1. [杭州新增 1 例核酸阳性](https://www.zhihu.com/search?q=杭州疫情)
+1. [长津湖 2 定档春节](https://www.zhihu.com/search?q=水门桥)
+1. [太吾绘卷正式版进度公告](https://www.zhihu.com/search?q=太吾绘卷)
+1. [携程创始人「印钱鼓励生育可行」](https://www.zhihu.com/search?q=携程创始人)
 1. [河南新增 98 例本土确诊](https://www.zhihu.com/search?q=河南疫情)
 1. [「行李箱藏尸案」被告人被公诉](https://www.zhihu.com/search?q=行李箱藏尸案)
-1. [网传一国航员工自尽](https://www.zhihu.com/search?q=国航员工自尽)
 1. [马化腾说腾讯只是普通公司](https://www.zhihu.com/search?q=马化腾)
 1. [电信断网](https://www.zhihu.com/search?q=电信断网)
 1. [中消协评肯德基盲盒](https://www.zhihu.com/search?q=肯德基盲盒)
@@ -44,7 +47,6 @@
 1. [河南新增 76 例本土确诊](https://www.zhihu.com/search?q=河南疫情)
 1. [永劫无间外挂涉案金超千万](https://www.zhihu.com/search?q=永劫无间)
 1. [天津返大连感染学生遭网暴](https://www.zhihu.com/search?q=感染学生被网暴)
-1. [太吾绘卷正式版进度公告](https://www.zhihu.com/search?q=太吾绘卷)
 
 <!-- END -->
 
