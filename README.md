@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 19 2022 00:17:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 19 2022 01:21:02 GMT+0800 (China Standard Time) -->
 
 1. [汤加所有房屋均被摧毁](https://www.zhihu.com/search?q=汤加)
 1. [B 站用户上传破解监控画面](https://www.zhihu.com/search?q=b站监控画面)
@@ -23,8 +23,8 @@
 1. [宋智雅发文承认用假货](https://www.zhihu.com/search?q=宋智雅)
 1. [微软将收购动视暴雪](https://www.zhihu.com/search?q=微软收购动视暴雪)
 1. [原神高德导航语音](https://www.zhihu.com/search?q=原神)
-1. [海淀发现 1 例核酸阳性](https://www.zhihu.com/search?q=北京疫情)
 1. [拼多多回应砍价争议](https://www.zhihu.com/search?q=拼多多)
+1. [海淀发现 1 例核酸阳性](https://www.zhihu.com/search?q=北京疫情)
 1. [周杰伦 43 岁生日](https://www.zhihu.com/search?q=周杰伦)
 
 <!-- END -->
