@@ -14,12 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 23 2022 18:24:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 23 2022 18:59:46 GMT+0800 (China Standard Time) -->
 
 1. [北京新增 9 例本土确诊](https://www.zhihu.com/search?q=北京疫情)
 1. [小红书被罚 30 万](https://www.zhihu.com/search?q=小红书)
-1. [番大王《去你的岛》](https://www.zhihu.com/search?q=去你的岛)
 1. [破产董事长流浪深圳街头靠拾荒为生](https://www.zhihu.com/search?q=破产董事长拾荒)
+1. [番大王《去你的岛》](https://www.zhihu.com/search?q=去你的岛)
 1. [暴雪 CEO 公开信](https://www.zhihu.com/search?q=暴雪)
 1. [西安整区解封前进行全员核酸](https://www.zhihu.com/search?q=西安解封)
 1. [徐瑛彬 3-1 樊振东](https://www.zhihu.com/search?q=樊振东)
