@@ -14,18 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 23 2022 19:00:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 23 2022 19:01:50 GMT+0800 (China Standard Time) -->
 
 1. [北京新增 9 例本土确诊](https://www.zhihu.com/search?q=北京疫情)
-1. [小红书被罚 30 万](https://www.zhihu.com/search?q=小红书)
 1. [破产董事长流浪深圳街头靠拾荒为生](https://www.zhihu.com/search?q=破产董事长拾荒)
+1. [小红书被罚 30 万](https://www.zhihu.com/search?q=小红书)
 1. [番大王《去你的岛》](https://www.zhihu.com/search?q=去你的岛)
-1. [暴雪 CEO 公开信](https://www.zhihu.com/search?q=暴雪)
-1. [西安整区解封前进行全员核酸](https://www.zhihu.com/search?q=西安解封)
 1. [徐瑛彬 3-1 樊振东](https://www.zhihu.com/search?q=樊振东)
+1. [暴雪 CEO 公开信](https://www.zhihu.com/search?q=暴雪)
 1. [进击的巨人最终季 Part.2](https://www.zhihu.com/search?q=进击的巨人)
 1. [青海发生 5.8 级地震](https://www.zhihu.com/search?q=青海地震)
+1. [凡人修仙传年番更新](https://www.zhihu.com/search?q=凡人修仙传)
 1. [EDG 开赛四连胜](https://www.zhihu.com/search?q=edg)
+1. [西安整区解封前进行全员核酸](https://www.zhihu.com/search?q=西安解封)
 1. [网红炸鸡店厕所泡原材料](https://www.zhihu.com/search?q=网红炸鸡店)
 1. [FPX 新赛季首败](https://www.zhihu.com/search?q=fpx)
 1. [秦始皇陵陪葬墓新出土文物](https://www.zhihu.com/search?q=秦始皇陵)
