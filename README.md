@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 24 2022 22:45:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 24 2022 23:47:26 GMT+0800 (China Standard Time) -->
 
 1. [鬼灭之刃第二季更新](https://www.zhihu.com/search?q=鬼灭之刃)
 1. [广东珠海新增 2 例确诊](https://www.zhihu.com/search?q=广东疫情)
