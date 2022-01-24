@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 25 2022 05:44:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 25 2022 05:45:23 GMT+0800 (China Standard Time) -->
 
 1. [鬼灭之刃第二季更新](https://www.zhihu.com/search?q=鬼灭之刃)
 1. [《原神》新春会](https://www.zhihu.com/search?q=原神)
