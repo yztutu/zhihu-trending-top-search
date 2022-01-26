@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 26 2022 11:55:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 26 2022 11:56:20 GMT+0800 (China Standard Time) -->
 
 1. [辽宁新增 1 例本土确诊](https://www.zhihu.com/search?q=辽宁新增)
 1. [《开端》大结局](https://www.zhihu.com/search?q=开端大结局)
