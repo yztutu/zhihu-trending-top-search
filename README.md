@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jan 29 2022 05:07:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jan 29 2022 06:08:23 GMT+0800 (China Standard Time) -->
 
 1. [国王排名更新](https://www.zhihu.com/search?q=国王排名)
 1. [河北新增 4 例本土确诊病例](https://www.zhihu.com/search?q=河北疫情)
