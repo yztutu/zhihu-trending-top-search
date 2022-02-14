@@ -14,18 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Feb 15 2022 00:16:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Feb 15 2022 01:13:25 GMT+0800 (China Standard Time) -->
 
-1. [谷爱凌吃韭菜盒子](https://www.zhihu.com/search?q=谷爱凌)
 1. [羽生结弦表示不会退役](https://www.zhihu.com/search?q=羽生结弦)
-1. [情人节](https://www.zhihu.com/search?q=情人节)
-1. [吴倩张雨剑离婚](https://www.zhihu.com/search?q=吴倩张雨剑离婚)
-1. [徐梦桃夺中国第 5 金](https://www.zhihu.com/search?q=徐梦桃)
-1. [进击的巨人最终季 Part.2](https://www.zhihu.com/search?q=进击的巨人)
-1. [鬼灭之刃第二季大结局](https://www.zhihu.com/search?q=鬼灭之刃)
 1. [凡人修仙传年番更新](https://www.zhihu.com/search?q=凡人修仙传)
-1. [2022 超级碗](https://www.zhihu.com/search?q=超级碗)
+1. [吴倩张雨剑离婚](https://www.zhihu.com/search?q=吴倩张雨剑离婚)
+1. [鬼灭之刃第二季大结局](https://www.zhihu.com/search?q=鬼灭之刃)
+1. [进击的巨人最终季 Part.2](https://www.zhihu.com/search?q=进击的巨人)
+1. [美国运动员特莎又哭了](https://www.zhihu.com/search?q=美国运动员特莎)
+1. [徐梦桃夺中国第 5 金](https://www.zhihu.com/search?q=徐梦桃)
 1. [瓦利耶娃获准继续参赛](https://www.zhihu.com/search?q=瓦利耶娃)
+1. [谷爱凌吃韭菜盒子](https://www.zhihu.com/search?q=谷爱凌)
+1. [王濛怒斥黄大宪犯规](https://www.zhihu.com/search?q=王濛怒斥黄大宪)
+1. [情人节](https://www.zhihu.com/search?q=情人节)
+1. [2022 超级碗](https://www.zhihu.com/search?q=超级碗)
 
 <!-- END -->
 
