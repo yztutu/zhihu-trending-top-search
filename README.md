@@ -14,17 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Feb 15 2022 20:18:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Feb 15 2022 21:12:26 GMT+0800 (China Standard Time) -->
 
 1. [苏翊鸣 中国单板历史首金](https://www.zhihu.com/search?q=苏翊鸣)
 1. [谷爱凌坡障摘银](https://www.zhihu.com/search?q=谷爱凌)
-1. [王濛怒斥黄大宪犯规](https://www.zhihu.com/search?q=王濛怒斥黄大宪)
+1. [观察者网编辑谈《原神》](https://www.zhihu.com/search?q=原神)
 1. [羽生结弦表示不会退役](https://www.zhihu.com/search?q=羽生结弦)
 1. [杜江否认情人节私信女网红](https://www.zhihu.com/search?q=杜江)
-1. [观察者网编辑谈《原神》](https://www.zhihu.com/search?q=原神)
-1. [徐梦桃夺中国第 5 金](https://www.zhihu.com/search?q=徐梦桃)
 1. [吴倩张雨剑离婚](https://www.zhihu.com/search?q=吴倩张雨剑离婚)
+1. [英国首相喊话普京](https://www.zhihu.com/search?q=英国首相)
+1. [王濛怒斥黄大宪犯规](https://www.zhihu.com/search?q=王濛怒斥黄大宪)
+1. [《狙击手》拍得有多真实](https://www.zhihu.com/search?q=狙击手)
 1. [鬼灭之刃第三季 PV](https://www.zhihu.com/search?q=鬼灭之刃)
+1. [徐梦桃夺中国第 5 金](https://www.zhihu.com/search?q=徐梦桃)
 1. [蚂蚁财富回应葛兰基金摘牌](https://www.zhihu.com/search?q=葛兰基金被摘牌)
 1. [2022 超级碗](https://www.zhihu.com/search?q=超级碗)
 1. [张艺谋工作强度近乎疯狂](https://www.zhihu.com/search?q=张艺谋工作强度)
@@ -32,7 +34,6 @@
 1. [江苏新增 8 例本土确诊](https://www.zhihu.com/search?q=江苏疫情)
 1. [宁德时代否认与特斯拉谈崩](https://www.zhihu.com/search?q=宁德时代)
 1. [易烊千玺领衔主演电影票房全部超 10 亿](https://www.zhihu.com/search?q=易烊千玺)
-1. [《狙击手》拍得有多真实](https://www.zhihu.com/search?q=狙击手)
 1. [世茂集团挂牌 22.5 亿出售深坑酒店](https://www.zhihu.com/search?q=世茂集团)
 1. [加拿大鹅中国大陆市场业务大增](https://www.zhihu.com/search?q=加拿大鹅)
 1. [三国杀 Steam 下架](https://www.zhihu.com/search?q=三国杀)
