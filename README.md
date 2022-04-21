@@ -14,18 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 21 2022 17:16:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 21 2022 18:14:55 GMT+0800 (China Standard Time) -->
 
 1. [莎拉波娃宣布怀孕](https://www.zhihu.com/search?q=莎拉波娃宣布怀孕)
 1. [微信朋友圈 10 年](https://www.zhihu.com/search?q=朋友圈)
 1. [赌王何鸿燊遗产争夺案宣判](https://www.zhihu.com/search?q=何鸿燊 何超贤)
+1. [美籍外教以故意杀人罪判处死刑](https://www.zhihu.com/search?q=美籍外教以故意杀人罪判处死刑)
 1. [最新一艘 055 型驱逐舰亮相](https://www.zhihu.com/search?q=055型驱逐舰亮相)
-1. [民航局发布东航故调查初步报告](https://www.zhihu.com/search?q=东航事故报告)
-1. [台媒新闻快讯闹出大乌龙](https://www.zhihu.com/search?q=台媒新闻快讯闹出大乌龙)
-1. [女子实名举报医师丈夫](https://www.zhihu.com/search?q=女子实名举报医师丈夫)
-1. [艾尔登法环 1.04 更新](https://www.zhihu.com/search?q=艾尔登法环1.04)
 1. [陶虹 5 年分红 4.2 亿元](https://www.zhihu.com/search?q=陶虹分红)
+1. [女子实名举报医师丈夫](https://www.zhihu.com/search?q=女子实名举报医师丈夫)
+1. [民航局发布东航故调查初步报告](https://www.zhihu.com/search?q=东航事故报告)
+1. [艾尔登法环 1.04 更新](https://www.zhihu.com/search?q=艾尔登法环1.04)
 1. [博鳌亚洲论坛 2022 年会](https://www.zhihu.com/search?q=博鳌亚洲论坛 2022 年会)
+1. [台媒新闻快讯闹出大乌龙](https://www.zhihu.com/search?q=台媒新闻快讯闹出大乌龙)
 1. [腾讯游戏 QQ 堂正式停服](https://www.zhihu.com/search?q=QQ堂停服)
 1. [海贼王 1047 话情报](https://www.zhihu.com/search?q=海贼王1047)
 1. [个人养老金制度即将出炉](https://www.zhihu.com/search?q=个人养老金制度)
