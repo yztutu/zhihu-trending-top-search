@@ -14,18 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 15 2022 12:17:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 15 2022 13:14:10 GMT+0800 (China Standard Time) -->
 
-1. [进一步加快封管控缩短集中隔离时间](https://www.zhihu.com/search?q=进一步加快封管控缩短集中隔离时间)
-1. [小区高空抛下洗衣机](https://www.zhihu.com/search?q=小区高空抛下洗衣机)
+1. [印度暴发「番茄流感」](https://www.zhihu.com/search?q=印度暴发「番茄流感」)
+1. [快递 48 条中华烟办酒席被罚](https://www.zhihu.com/search?q=快递 48 条中华烟办酒席被罚)
+1. [新冠治疗新药千金藤素](https://www.zhihu.com/search?q=新冠治疗新药千金藤素)
+1. [韦东奕辟谣](https://www.zhihu.com/search?q=韦东奕辟谣)
+1. [一拳超人 209 话](https://www.zhihu.com/search?q=一拳超人 209 话)
 1. [知网涉嫌垄断被立案调查](https://www.zhihu.com/search?q=知网涉嫌垄断被立案调查)
+1. [进一步加快封管控缩短集中隔离时间](https://www.zhihu.com/search?q=进一步加快封管控缩短集中隔离时间)
+1. [Gala 重赛再拿五杀](https://www.zhihu.com/search?q=Gala 重赛再拿五杀)
+1. [马斯克收购推特交易搁置](https://www.zhihu.com/search?q=马斯克收购推特交易搁置)
 1. [美研究人员首次在月球土壤中种出植物](https://www.zhihu.com/search?q=美研究人员首次在月球土壤中种出植物)
+1. [小区高空抛下洗衣机](https://www.zhihu.com/search?q=小区高空抛下洗衣机)
 1. [武汉早期新冠患者两年后还有症状](https://www.zhihu.com/search?q=武汉早期新冠患者两年后还有症状)
 1. [《绝区零》首曝PV](https://www.zhihu.com/search?q=《绝区零》首曝PV)
-1. [快递 48 条中华烟办酒席被罚](https://www.zhihu.com/search?q=快递 48 条中华烟办酒席被罚)
-1. [韦东奕辟谣](https://www.zhihu.com/search?q=韦东奕辟谣)
 1. [小放牛被判赔偿海底捞 95 万元](https://www.zhihu.com/search?q=小放牛被判赔偿海底捞 95 万元)
-1. [新冠治疗新药千金藤素](https://www.zhihu.com/search?q=新冠治疗新药千金藤素)
 1. [谷爱凌皈依佛教](https://www.zhihu.com/search?q=谷爱凌皈依佛教)
 1. [东契奇准三双独行侠 3:3 太阳](https://www.zhihu.com/search?q=东契奇准三双独行侠 3:3 太阳)
 1. [海贼王 1049 话](https://www.zhihu.com/search?q=海贼王 1049 话)
@@ -38,7 +42,6 @@
 1. [贵州茅台原董事长被查](https://www.zhihu.com/search?q=贵州茅台原董事长被查)
 1. [拜登下令全美降半旗](https://www.zhihu.com/search?q=拜登下令全美降半旗)
 1. [康师傅油包疑有虫卵](https://www.zhihu.com/search?q=康师傅油包疑有虫卵)
-1. [一拳超人 209 话](https://www.zhihu.com/search?q=一拳超人 209 话)
 1. [美方执意邀请台湾方面](https://www.zhihu.com/search?q=美方执意邀请台湾方面)
 1. [大妈们公厕外排队狂抽厕纸](https://www.zhihu.com/search?q=大妈们公厕外排队狂抽厕纸)
 
