@@ -14,15 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 17 2022 22:09:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 17 2022 23:16:33 GMT+0800 (China Standard Time) -->
 
-1. [哈尔滨通报「男子烧伤身亡」](https://www.zhihu.com/search?q=哈尔滨通报「男子烧伤身亡」)
-1. [奥密克戎变异株进入广东](https://www.zhihu.com/search?q=奥密克戎变异株进入广东)
-1. [美国超市枪击案遇害者均为非裔](https://www.zhihu.com/search?q=美国超市枪击案遇害者均为非裔)
+1. [凯尔特人 4:3 淘汰雄鹿](https://www.zhihu.com/search?q=凯尔特人 4:3 淘汰雄鹿)
 1. [巴黎世家「破烂鞋」一双卖 1.2 万元](https://www.zhihu.com/search?q=巴黎世家「破烂鞋」一双卖 1.2 万元)
+1. [乌克兰主动关闭俄输欧天然气中转站](https://www.zhihu.com/search?q=乌克兰主动关闭俄输欧天然气中转站)
+1. [独行侠淘汰太阳将战勇士](https://www.zhihu.com/search?q=独行侠淘汰太阳将战勇士)
 1. [4 月社会消费品零售总额同比下降 11.1%](https://www.zhihu.com/search?q=4 月社会消费品零售总额同比下降
    11.1%)
-1. [乌克兰主动关闭俄输欧天然气中转站](https://www.zhihu.com/search?q=乌克兰主动关闭俄输欧天然气中转站)
+1. [美国超市枪击案遇害者均为非裔](https://www.zhihu.com/search?q=美国超市枪击案遇害者均为非裔)
+1. [IE 浏览器退役](https://www.zhihu.com/search?q=IE 浏览器退役)
+1. [明日方舟危机合约新赛季](https://www.zhihu.com/search?q=明日方舟危机合约新赛季)
+1. [SELECTED 将关闭 1300 余家店铺](https://www.zhihu.com/search?q=SELECTED 将关闭 1300
+   余家店铺)
+1. [	男孩爬变压器捡球右手烧伤摔落](https://www.zhihu.com/search?q=	男孩爬变压器捡球右手烧伤摔落)
+1. [哈尔滨通报「男子烧伤身亡」](https://www.zhihu.com/search?q=哈尔滨通报「男子烧伤身亡」)
+1. [奥密克戎变异株进入广东](https://www.zhihu.com/search?q=奥密克戎变异株进入广东)
 1. [5 月 16 日起多个上海出发客运航班恢复](https://www.zhihu.com/search?q=5 月 16 日起多个上海出发客运航班恢复)
 1. [瑞典正式签署加入北约申请](https://www.zhihu.com/search?q=瑞典正式签署加入北约申请)
 1. [俄黑客组织向英美德等十国政府网站宣战](https://www.zhihu.com/search?q=俄黑客组织向英美德等十国政府网站宣战)
@@ -37,7 +44,6 @@
 1. [瑞典政府宣布将申请加入北约](https://www.zhihu.com/search?q=瑞典政府宣布将申请加入北约)
 1. [T1 延迟 22ms](https://www.zhihu.com/search?q=T1 延迟 22ms)
 1. [不明原因儿童急性肝炎最新发现](https://www.zhihu.com/search?q=不明原因儿童急性肝炎最新发现)
-1. [	男孩爬变压器捡球右手烧伤摔落](https://www.zhihu.com/search?q=	男孩爬变压器捡球右手烧伤摔落)
 1. [印度夺得汤姆斯杯冠军](https://www.zhihu.com/search?q=印度夺得汤姆斯杯冠军)
 1. [芬兰总统批准芬兰加入北约的申请](https://www.zhihu.com/search?q=芬兰总统批准芬兰加入北约的申请)
 1. [梅德韦杰夫发文回击 G7 外长声明](https://www.zhihu.com/search?q=梅德韦杰夫发文回击 G7 外长声明)
@@ -48,7 +54,6 @@
 1. [人民币特别提款权权重上调](https://www.zhihu.com/search?q=人民币特别提款权权重上调)
 1. [四川邻水县一周发现 499 例感染者](https://www.zhihu.com/search?q=四川邻水县一周发现 499 例感染者)
 1. [北京世纪坛医院副院长高伟去世](https://www.zhihu.com/search?q=北京世纪坛医院副院长高伟去世)
-1. [IE 浏览器退役](https://www.zhihu.com/search?q=IE 浏览器退役)
 1. [华尔街巨头抄底中国互联网股](https://www.zhihu.com/search?q=华尔街巨头抄底中国互联网股)
 1. [调整差别化住房信贷政策](https://www.zhihu.com/search?q=调整差别化住房信贷政策)
 1. [俄罗斯暂停供电芬兰](https://www.zhihu.com/search?q=俄罗斯暂停供电芬兰)
