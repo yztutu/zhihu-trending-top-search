@@ -14,15 +14,17 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 03 2022 20:19:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 03 2022 21:26:20 GMT+0800 (China Standard Time) -->
 
 1. [端午安康](https://www.zhihu.com/search?q=端午安康)
 1. [北京已经转入动态清零阶段](https://www.zhihu.com/search?q=北京已经转入动态清零阶段)
 1. [NBA 总决赛](https://www.zhihu.com/search?q=NBA 总决赛)
 1. [河南大学回应一学生在宿舍打 120 求救](https://www.zhihu.com/search?q=河南大学回应一学生在宿舍打 120 求救)
 1. [Uzi 离队](https://www.zhihu.com/search?q=Uzi 离队)
-1. [台湾新增本土确诊病例 76517 例](https://www.zhihu.com/search?q=台湾新增本土确诊病例 76517 例)
+1. [俄乌冲突升级 100 天](https://www.zhihu.com/search?q=俄乌冲突升级 100 天)
 1. [老师带网瘾少年去妈妈工地搬钢筋](https://www.zhihu.com/search?q=老师带网瘾少年去妈妈工地搬钢筋)
+1. [北京要求端午假期非必要不出京](https://www.zhihu.com/search?q=北京要求端午假期非必要不出京)
+1. [台湾新增本土确诊病例 76517 例](https://www.zhihu.com/search?q=台湾新增本土确诊病例 76517 例)
 1. [反诈老陈道歉](https://www.zhihu.com/search?q=反诈老陈道歉)
 1. [美国一医院发生枪击案致 4 人死亡](https://www.zhihu.com/search?q=美国一医院发生枪击案致 4 人死亡)
 1. [卢布成全球表现最好货币](https://www.zhihu.com/search?q=卢布成全球表现最好货币)
@@ -31,7 +33,6 @@
 1. [神舟十三号航天员乘组在轨拍摄的 8k 高清影像「曝光」](https://www.zhihu.com/search?q=神舟十三号航天员乘组在轨拍摄的
    8k 高清影像「曝光」)
 1. [爱彼迎开放房东一键迁移通道](https://www.zhihu.com/search?q=爱彼迎开放房东一键迁移通道)
-1. [俄乌冲突升级 100 天](https://www.zhihu.com/search?q=俄乌冲突升级 100 天)
 1. [美团第一季度营收 462.7 亿元](https://www.zhihu.com/search?q=美团第一季度营收 462.7 亿元)
 1. [北京扩大阶段性缓缴三项社保费实施范围](https://www.zhihu.com/search?q=北京扩大阶段性缓缴三项社保费实施范围)
 1. [芦山 6.1 级地震为 2013 年芦山 7.0 级地震余震](https://www.zhihu.com/search?q=芦山 6.1 级地震为
@@ -52,7 +53,6 @@
 1. [小米电视再被曝屏幕自动脱落](https://www.zhihu.com/search?q=小米电视再被曝屏幕自动脱落)
 1. [二连浩特发现 4 例初筛阳性](https://www.zhihu.com/search?q=二连浩特发现 4 例初筛阳性)
 1. [男子撞兰博基尼下跪求饶转头炫耀](https://www.zhihu.com/search?q=男子撞兰博基尼下跪求饶转头炫耀)
-1. [北京要求端午假期非必要不出京](https://www.zhihu.com/search?q=北京要求端午假期非必要不出京)
 1. [出版社回应教辅书配日军背老太图](https://www.zhihu.com/search?q=出版社回应教辅书配日军背老太图)
 1. [海贼王 1051 话](https://www.zhihu.com/search?q=海贼王 1051 话)
 1. [长沙一早餐店燃爆致 1 死 13 伤](https://www.zhihu.com/search?q=长沙一早餐店燃爆致 1 死 13 伤)
