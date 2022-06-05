@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 05 2022 10:49:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 05 2022 11:32:13 GMT+0800 (China Standard Time) -->
 
 1. [《生化危机 4 重制版》公布](https://www.zhihu.com/search?q=《生化危机 4 重制版》公布)
 1. [38 岁的特维斯自宣确认挂靴](https://www.zhihu.com/search?q=38 岁的特维斯自宣确认挂靴)
