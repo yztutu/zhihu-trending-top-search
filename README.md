@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 21 2022 12:28:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 21 2022 13:16:37 GMT+0800 (China Standard Time) -->
 
 1. [唐山被打女孩最新情况](https://www.zhihu.com/search?q=唐山被打女孩最新情况)
 1. [唐山公安局路北分局局长等被查](https://www.zhihu.com/search?q=唐山公安局路北分局局长等被查)
