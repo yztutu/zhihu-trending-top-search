@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 01 2022 11:49:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 01 2022 12:49:16 GMT+0800 (China Standard Time) -->
 
 1. [香港回归 25 周年](https://www.zhihu.com/search?q=香港回归 25 周年)
 1. [媒体评行程卡摘星「不排除出现替代品」](https://www.zhihu.com/search?q=媒体评行程卡摘星「不排除出现替代品」)
