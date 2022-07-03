@@ -14,11 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 03 2022 15:09:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 03 2022 16:12:18 GMT+0800 (China Standard Time) -->
 
 1. [北京暴雨](https://www.zhihu.com/search?q=北京暴雨)
 1. [开播情景喜剧](https://www.zhihu.com/search?q=开播情景喜剧)
-1. [台风「暹芭」登陆广东电白](https://www.zhihu.com/search?q=台风「暹芭」登陆广东电白)
 1. [中国跳水梦之队已包揽 10 金](https://www.zhihu.com/search?q=中国跳水梦之队已包揽 10 金)
 1. [7 成美国人反对拜登连任总统](https://www.zhihu.com/search?q=7 成美国人反对拜登连任总统)
 1. [游戏崩坏三疑似加入男武神](https://www.zhihu.com/search?q=游戏崩坏三疑似加入男武神)
@@ -27,6 +26,8 @@
 1. [朱婷加盟意大利斯坎迪奇俱乐部](https://www.zhihu.com/search?q=朱婷加盟意大利斯坎迪奇俱乐部)
 1. [第 33 届金曲奖](https://www.zhihu.com/search?q=第 33 届金曲奖)
 1. [中国说唱巅峰对决](https://www.zhihu.com/search?q=中国说唱巅峰对决)
+1. [钟薛高雪糕 31℃ 放 1 小时不化](https://www.zhihu.com/search?q=钟薛高雪糕 31℃ 放 1 小时不化)
+1. [台风「暹芭」登陆广东电白](https://www.zhihu.com/search?q=台风「暹芭」登陆广东电白)
 1. [演员刘伯勋因心梗去世](https://www.zhihu.com/search?q=演员刘伯勋因心梗去世)
 1. [全红婵正式落户广州](https://www.zhihu.com/search?q=全红婵正式落户广州)
 1. [小鹏 P7 出事故安全气囊没有弹出](https://www.zhihu.com/search?q=小鹏 P7 出事故安全气囊没有弹出)
