@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 07 2022 15:09:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 07 2022 16:13:38 GMT+0800 (China Standard Time) -->
 
 1. [北京本轮疫情病毒属奥密克戎 BA.5.2 分支](https://www.zhihu.com/search?q=北京本轮疫情病毒属奥密克戎 BA.5.2
    分支)
