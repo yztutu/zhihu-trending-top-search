@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 08 2022 21:30:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 08 2022 22:10:57 GMT+0800 (China Standard Time) -->
 
 1. [安倍晋三遇刺身亡](https://www.zhihu.com/search?q=安倍晋三遇刺身亡)
 1. [进北京公共场所无需查疫苗](https://www.zhihu.com/search?q=进北京公共场所无需查疫苗)
