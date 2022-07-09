@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 09 2022 20:16:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 09 2022 21:20:48 GMT+0800 (China Standard Time) -->
 
 1. [向往的生活](https://www.zhihu.com/search?q=向往的生活)
 1. [我国 6 月 CPI 数据](https://www.zhihu.com/search?q=我国 6 月 CPI 数据)
