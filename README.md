@@ -14,11 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 12 2022 19:19:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 12 2022 20:27:50 GMT+0800 (China Standard Time) -->
 
 1. [上海青浦疾控回应「同一微信群判定次密接」](https://www.zhihu.com/search?q=上海青浦疾控回应「同一微信群判定次密接」)
 1. [所有乌居民可通过简化程序获取俄公民身份](https://www.zhihu.com/search?q=所有乌居民可通过简化程序获取俄公民身份)
 1. [江浙沪局地可达 40℃ 以上](https://www.zhihu.com/search?q=江浙沪局地可达 40℃ 以上)
+1. [七月游戏版号下发](https://www.zhihu.com/search?q=七月游戏版号下发)
 1. [江西一地竖牌曝光「失足妇女」照片](https://www.zhihu.com/search?q=江西一地竖牌曝光「失足妇女」照片)
 1. [美国 F/A-18 飞机被吹走](https://www.zhihu.com/search?q=美国 F/A-18 飞机被吹走)
 1. [安徽蚌埠对村镇银行客户垫付](https://www.zhihu.com/search?q=安徽蚌埠对村镇银行客户垫付)
