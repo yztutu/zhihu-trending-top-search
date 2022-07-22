@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 22 2022 11:43:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 22 2022 12:37:52 GMT+0800 (China Standard Time) -->
 
 1. [北京市教育督导问责实施细则下月实施](https://www.zhihu.com/search?q=北京市教育督导问责实施细则下月实施)
 1. [北溪 1 号管道已重启](https://www.zhihu.com/search?q=北溪 1 号管道已重启)
