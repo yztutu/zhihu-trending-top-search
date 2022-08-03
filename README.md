@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 03 2022 11:48:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 03 2022 12:56:45 GMT+0800 (China Standard Time) -->
 
 1. [诛仙动画开播](https://www.zhihu.com/search?q=诛仙动画开播)
 1. [海贼王 1056 话情报](https://www.zhihu.com/search?q=海贼王 1056 话情报)
