@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 23 2022 18:12:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 23 2022 19:09:32 GMT+0800 (China Standard Time) -->
 
 1. [张朝阳建议大家少睡觉](https://www.zhihu.com/search?q=张朝阳建议大家少睡觉)
 1. [奥特之王声优去世](https://www.zhihu.com/search?q=奥特之王声优去世)
