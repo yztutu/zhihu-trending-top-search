@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 25 2022 13:49:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 25 2022 14:25:35 GMT+0800 (China Standard Time) -->
 
 1. [四六级成绩](https://www.zhihu.com/search?q=四六级成绩)
 1. [张庭转战马来西亚](https://www.zhihu.com/search?q=张庭转战马来西亚)
