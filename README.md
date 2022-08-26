@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 26 2022 21:30:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 26 2022 22:09:41 GMT+0800 (China Standard Time) -->
 
 1. [湘雅二院刘翔峰被查](https://www.zhihu.com/search?q=湘雅二院刘翔峰被查)
 1. [中国排协回应女排戴口罩比赛](https://www.zhihu.com/search?q=中国排协回应女排戴口罩比赛)
