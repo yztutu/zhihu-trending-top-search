@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 02 2022 03:08:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 02 2022 04:12:13 GMT+0800 (China Standard Time) -->
 
 1. [台风轩岚诺](https://www.zhihu.com/search?q=台风轩岚诺)
+1. [日本医疗机构称新冠疫情已达灾害级别](https://www.zhihu.com/search?q=日本医疗机构称新冠疫情已达灾害级别)
 1. [青海山体滑坡](https://www.zhihu.com/search?q=青海山体滑坡)
 1. [开学首日](https://www.zhihu.com/search?q=开学首日)
 1. [宝可梦起诉国内山寨游戏](https://www.zhihu.com/search?q=宝可梦起诉国内山寨游戏)
