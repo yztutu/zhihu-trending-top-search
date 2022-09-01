@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 01 2022 15:14:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 01 2022 16:16:13 GMT+0800 (China Standard Time) -->
 
 1. [台风轩岚诺](https://www.zhihu.com/search?q=台风轩岚诺)
 1. [辽宁捕获 4 只金色蚊子](https://www.zhihu.com/search?q=辽宁捕获 4 只金色蚊子)
