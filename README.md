@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 01 2022 21:31:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 01 2022 22:10:30 GMT+0800 (China Standard Time) -->
 
 1. [台风轩岚诺](https://www.zhihu.com/search?q=台风轩岚诺)
 1. [杨红樱 下架](https://www.zhihu.com/search?q=杨红樱 下架)
