@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 02 2022 14:37:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 02 2022 15:18:33 GMT+0800 (China Standard Time) -->
 
 1. [反诈骗法通过](https://www.zhihu.com/search?q=反诈骗法通过)
 1. [辣目洋子恢复本名](https://www.zhihu.com/search?q=辣目洋子恢复本名)
@@ -24,6 +24,7 @@
 1. [JDG 夺 LPL 夏季赛总冠军](https://www.zhihu.com/search?q=JDG 夺 LPL 夏季赛总冠军)
 1. [《刺客信条：王朝》完结](https://www.zhihu.com/search?q=《刺客信条：王朝》完结)
 1. [成都累计报告病例逾 900 例](https://www.zhihu.com/search?q=成都累计报告病例逾 900 例)
+1. [印度北部出现不明传染性疾病](https://www.zhihu.com/search?q=印度北部出现不明传染性疾病)
 1. [大连新增 112 例本土无症状](https://www.zhihu.com/search?q=大连新增 112 例本土无症状)
 1. [安徽警方通报六安女子失踪案告破](https://www.zhihu.com/search?q=安徽警方通报六安女子失踪案告破)
 1. [坚决反对美方不断滥用出口管制措施](https://www.zhihu.com/search?q=坚决反对美方不断滥用出口管制措施)
