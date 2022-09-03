@@ -1,4 +1,9 @@
 [
+  { "query": "柳传志被选入小学教材引争议", "display_query": "柳传志被选入小学教材引争议" },
+  { "query": "贾浅浅未入选作协新会员名单", "display_query": "贾浅浅未入选作协新会员名单" },
+  { "query": "深圳：暂停非必要人员流动与活动", "display_query": "深圳：暂停非必要人员流动与活动" },
+  { "query": "北溪管道天然气运输停止", "display_query": "北溪管道天然气运输停止" },
+  { "query": "《刺客信条：王朝》完结", "display_query": "《刺客信条：王朝》完结" },
   { "query": "反诈骗法通过", "display_query": "反诈骗法通过" },
   { "query": "大连新增 112 例本土无症状", "display_query": "大连新增 112 例本土无症状" },
   { "query": "安徽警方通报六安女子失踪案告破", "display_query": "安徽警方通报六安女子失踪案告破" },
@@ -7,7 +12,5 @@
   { "query": "中量大校长开学致辞", "display_query": "中量大校长开学致辞" },
   { "query": "JOJO 石之海更新", "display_query": "JOJO 石之海更新" },
   { "query": "「阿里女员工案」二审宣判", "display_query": "「阿里女员工案」二审宣判" },
-  { "query": "《刺客信条：王朝》完结", "display_query": "《刺客信条：王朝》完结" },
-  { "query": "柳传志被选入小学教材引争议", "display_query": "柳传志被选入小学教材引争议" },
   { "query": "成都累计报告病例逾 900 例", "display_query": "成都累计报告病例逾 900 例" }
 ]
