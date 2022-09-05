@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 05 2022 12:13:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 05 2022 13:57:41 GMT+0800 (China Standard Time) -->
 
 1. [国产太阳能无人机首飞成功](https://www.zhihu.com/search?q=国产太阳能无人机首飞成功)
 1. [「轩岚诺」增强为超强台风级](https://www.zhihu.com/search?q=「轩岚诺」增强为超强台风级)
@@ -26,6 +26,7 @@
 1. [加拿大持刀伤人事件已致 10 人死亡](https://www.zhihu.com/search?q=加拿大持刀伤人事件已致 10 人死亡)
 1. [北京 11 家餐饮单位因使用假健康证被立案](https://www.zhihu.com/search?q=北京 11 家餐饮单位因使用假健康证被立案)
 1. [玩游戏花 17 万致父母卖房](https://www.zhihu.com/search?q=玩游戏花 17 万致父母卖房)
+1. [四川甘孜 6.8 级地震](https://www.zhihu.com/search?q=四川甘孜 6.8 级地震)
 
 <!-- END -->
 
