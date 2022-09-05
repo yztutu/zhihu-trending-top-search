@@ -9,5 +9,11 @@
   {
     "query": "部分 iPhone 14 机型或移除 SIM 卡槽",
     "display_query": "部分 iPhone 14 机型或移除 SIM 卡槽"
-  }
+  },
+  { "query": "加拿大持刀伤人事件已致 10 人死亡", "display_query": "加拿大持刀伤人事件已致 10 人死亡" },
+  {
+    "query": "北京 11 家餐饮单位因使用假健康证被立案",
+    "display_query": "北京 11 家餐饮单位因使用假健康证被立案"
+  },
+  { "query": "玩游戏花 17 万致父母卖房", "display_query": "玩游戏花 17 万致父母卖房" }
 ]
