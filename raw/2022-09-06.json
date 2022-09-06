@@ -1,8 +1,4 @@
 [
-  {
-    "query": "部分 iPhone 14 机型或移除 SIM 卡槽",
-    "display_query": "部分 iPhone 14 机型或移除 SIM 卡槽"
-  },
   { "query": "加拿大持刀伤人事件已致 10 人死亡", "display_query": "加拿大持刀伤人事件已致 10 人死亡" },
   {
     "query": "北京 11 家餐饮单位因使用假健康证被立案",
@@ -15,6 +11,11 @@
   { "query": "四川绵竹疑现大量蝙蝠", "display_query": "四川绵竹疑现大量蝙蝠" },
   { "query": "美国长期无差别监听中国手机用户", "display_query": "美国长期无差别监听中国手机用户" },
   { "query": "湘雅二院 15 医护人员违规被罚", "display_query": "湘雅二院 15 医护人员违规被罚" },
+  { "query": "扎波罗热核电站再遭袭击", "display_query": "扎波罗热核电站再遭袭击" },
+  {
+    "query": "部分 iPhone 14 机型或移除 SIM 卡槽",
+    "display_query": "部分 iPhone 14 机型或移除 SIM 卡槽"
+  },
   { "query": "黄瓜等多首网传诗歌非贾浅浅创作", "display_query": "黄瓜等多首网传诗歌非贾浅浅创作" },
   { "query": "西北工业大学遭美国国安局网络攻击", "display_query": "西北工业大学遭美国国安局网络攻击" },
   { "query": "韩国最大在野党对总统尹锡悦提起诉讼", "display_query": "韩国最大在野党对总统尹锡悦提起诉讼" }
