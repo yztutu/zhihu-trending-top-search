@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 12 2022 21:40:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 12 2022 22:17:57 GMT+0800 (China Standard Time) -->
 
 1. [华鼎奖取消李易峰称号](https://www.zhihu.com/search?q=华鼎奖取消李易峰称号)
 1. [四川泸定地震造成 93 人遇难](https://www.zhihu.com/search?q=四川泸定地震造成 93 人遇难)
