@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 15 2022 12:16:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 15 2022 13:57:38 GMT+0800 (China Standard Time) -->
 
 1. [B 站诉争哔哩哔哩商标被驳回](https://www.zhihu.com/search?q=B 站诉争哔哩哔哩商标被驳回)
 1. [冯远征任北京人艺第五任院长](https://www.zhihu.com/search?q=冯远征任北京人艺第五任院长)
