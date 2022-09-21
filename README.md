@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 21 2022 22:23:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 21 2022 23:12:36 GMT+0800 (China Standard Time) -->
 
 1. [世界阿尔茨海默病日](https://www.zhihu.com/search?q=世界阿尔茨海默病日)
 1. [国庆节放假调休安排公布](https://www.zhihu.com/search?q=国庆节放假调休安排公布)
