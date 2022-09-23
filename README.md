@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 23 2022 13:56:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 23 2022 14:43:14 GMT+0800 (China Standard Time) -->
 
 1. [喜剧大赛 2 开播](https://www.zhihu.com/search?q=喜剧大赛 2 开播)
 1. [新疆 不明飞行物](https://www.zhihu.com/search?q=新疆 不明飞行物)
