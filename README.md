@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 25 2022 03:09:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 25 2022 04:12:14 GMT+0800 (China Standard Time) -->
 
 1. [费德勒 谢幕](https://www.zhihu.com/search?q=费德勒 谢幕)
 1. [泄露《GTA6》黑客被逮捕](https://www.zhihu.com/search?q=泄露《GTA6》黑客被逮捕)
