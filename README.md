@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Sep 24 2022 18:12:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 24 2022 19:10:07 GMT+0800 (China Standard Time) -->
 
 1. [费德勒 谢幕](https://www.zhihu.com/search?q=费德勒 谢幕)
 1. [2023 考研今起预报名](https://www.zhihu.com/search?q=2023 考研今起预报名)
