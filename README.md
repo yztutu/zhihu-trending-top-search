@@ -14,8 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Sep 24 2022 09:11:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 24 2022 12:09:49 GMT+0800 (China Standard Time) -->
 
+1. [美不限制从中国进口钕磁体](https://www.zhihu.com/search?q=美不限制从中国进口钕磁体)
+1. [费德勒 谢幕](https://www.zhihu.com/search?q=费德勒 谢幕)
+1. [2023 考研今起预报名](https://www.zhihu.com/search?q=2023 考研今起预报名)
+1. [山艺高彦事件成立调查组](https://www.zhihu.com/search?q=山艺高彦事件成立调查组)
 1. [喜剧大赛 2 开播](https://www.zhihu.com/search?q=喜剧大赛 2 开播)
 1. [中国县域人口密度榜](https://www.zhihu.com/search?q=中国县域人口密度榜)
 1. [上海不再全面禁止路边摊](https://www.zhihu.com/search?q=上海不再全面禁止路边摊)
