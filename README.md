@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 10 2022 07:13:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 10 2022 09:13:53 GMT+0800 (China Standard Time) -->
 
-1. [德国北部铁路交通被蓄意破坏](https://www.zhihu.com/search?q=德国北部铁路交通被蓄意破坏)
 1. [监管部门回应椰树擦边直播](https://www.zhihu.com/search?q=监管部门回应椰树擦边直播)
 1. [国考报名季](https://www.zhihu.com/search?q=国考报名季)
 1. [高达水星的魔女更新](https://www.zhihu.com/search?q=高达水星的魔女更新)
@@ -26,6 +25,7 @@
 1. [中国男团世乒赛十连冠](https://www.zhihu.com/search?q=中国男团世乒赛十连冠)
 1. [北京公积金 5 年以上贷款利率下调](https://www.zhihu.com/search?q=北京公积金 5 年以上贷款利率下调)
 1. [多地官宣下调公积金贷款利率](https://www.zhihu.com/search?q=多地官宣下调公积金贷款利率)
+1. [德国北部铁路交通被蓄意破坏](https://www.zhihu.com/search?q=德国北部铁路交通被蓄意破坏)
 
 <!-- END -->
 
