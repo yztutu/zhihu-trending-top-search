@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 10 2022 13:57:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 10 2022 14:46:36 GMT+0800 (China Standard Time) -->
 
 1. [监管部门回应椰树擦边直播](https://www.zhihu.com/search?q=监管部门回应椰树擦边直播)
 1. [国考报名季](https://www.zhihu.com/search?q=国考报名季)
