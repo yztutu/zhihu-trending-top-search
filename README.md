@@ -14,11 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 11 2022 13:55:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 11 2022 14:38:16 GMT+0800 (China Standard Time) -->
 
-1. [网红兔狲狲思邈意外死亡](https://www.zhihu.com/search?q=网红兔狲狲思邈意外死亡)
-1. [乌克兰首都发生多次爆炸](https://www.zhihu.com/search?q=乌克兰首都发生多次爆炸)
-1. [乌克兰第聂伯罗遭到俄军攻击](https://www.zhihu.com/search?q=乌克兰第聂伯罗遭到俄军攻击)
 1. [死神千年血战篇](https://www.zhihu.com/search?q=死神千年血战篇)
 1. [俄罗斯与白俄罗斯就部署区域联合部队达成一致](https://www.zhihu.com/search?q=俄罗斯与白俄罗斯就部署区域联合部队达成一致)
 1. [女子骑车脖子遭横空风筝线割伤](https://www.zhihu.com/search?q=女子骑车脖子遭横空风筝线割伤)
@@ -26,6 +23,12 @@
 1. [俄军用高精度武器打击乌基础设施](https://www.zhihu.com/search?q=俄军用高精度武器打击乌基础设施)
 1. [学而思称与某桌游剧本馆没有任何业务关联](https://www.zhihu.com/search?q=学而思称与某桌游剧本馆没有任何业务关联)
 1. [「世界上最小的鸡」走红网络](https://www.zhihu.com/search?q=「世界上最小的鸡」走红网络)
+1. [RGE 小组赛首轮全胜](https://www.zhihu.com/search?q=RGE 小组赛首轮全胜)
+1. [TES 遭遇二连败](https://www.zhihu.com/search?q=TES 遭遇二连败)
+1. [「天宫课堂」第三课来了](https://www.zhihu.com/search?q=「天宫课堂」第三课来了)
+1. [网红兔狲狲思邈意外死亡](https://www.zhihu.com/search?q=网红兔狲狲思邈意外死亡)
+1. [乌克兰首都发生多次爆炸](https://www.zhihu.com/search?q=乌克兰首都发生多次爆炸)
+1. [乌克兰第聂伯罗遭到俄军攻击](https://www.zhihu.com/search?q=乌克兰第聂伯罗遭到俄军攻击)
 1. [全球外汇储备减少约 1 万亿美元](https://www.zhihu.com/search?q=全球外汇储备减少约 1 万亿美元)
 1. [TES 不敌 DRX](https://www.zhihu.com/search?q=TES 不敌 DRX)
 
