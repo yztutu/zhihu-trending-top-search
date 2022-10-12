@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 12 2022 14:26:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 12 2022 15:21:39 GMT+0800 (China Standard Time) -->
 
 1. [死神千年血战篇](https://www.zhihu.com/search?q=死神千年血战篇)
 1. [央行：坚决抑制汇率大起大落](https://www.zhihu.com/search?q=央行：坚决抑制汇率大起大落)
