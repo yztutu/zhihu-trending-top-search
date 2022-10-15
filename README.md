@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 15 2022 18:12:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 15 2022 19:10:14 GMT+0800 (China Standard Time) -->
 
 1. [英国财政大臣被解职](https://www.zhihu.com/search?q=英国财政大臣被解职)
 1. [新一轮冷空气 15 日抵达](https://www.zhihu.com/search?q=新一轮冷空气 15 日抵达)
