@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 22 2022 18:13:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 22 2022 19:10:47 GMT+0800 (China Standard Time) -->
 
 1. [151 日元兑换 1 美元](https://www.zhihu.com/search?q=151 日元兑换 1 美元)
 1. [韩检方中止起诉拜登保镖](https://www.zhihu.com/search?q=韩检方中止起诉拜登保镖)
