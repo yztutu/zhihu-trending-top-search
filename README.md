@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 25 2022 18:17:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 25 2022 19:13:11 GMT+0800 (China Standard Time) -->
 
 1. [苏纳克将出任英国新任首相](https://www.zhihu.com/search?q=苏纳克将出任英国新任首相)
 1. [女排奥运冠军林莉宣布退役](https://www.zhihu.com/search?q=女排奥运冠军林莉宣布退役)
