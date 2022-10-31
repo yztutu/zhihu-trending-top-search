@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 31 2022 18:13:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 31 2022 19:11:18 GMT+0800 (China Standard Time) -->
 
+1. [原神新角色](https://www.zhihu.com/search?q=原神新角色)
 1. [Tundra 夺得 TI11 冠军](https://www.zhihu.com/search?q=Tundra 夺得 TI11 冠军)
 1. [李智汉在梨泰院事故中遇难](https://www.zhihu.com/search?q=李智汉在梨泰院事故中遇难)
 1. [今冬或现三重拉尼娜事件](https://www.zhihu.com/search?q=今冬或现三重拉尼娜事件)
