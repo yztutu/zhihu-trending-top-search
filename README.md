@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 20 2022 20:18:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 20 2022 21:21:04 GMT+0800 (China Standard Time) -->
 
 1. [黄健翔知乎圆桌直播首秀](https://www.zhihu.com/search?q=黄健翔知乎圆桌直播首秀)
 1. [31 省份平均工资发布](https://www.zhihu.com/search?q=31 省份平均工资发布)
