@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 29 2022 17:10:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 29 2022 18:10:46 GMT+0800 (China Standard Time) -->
 
 1. [死神千年血战篇更新](https://www.zhihu.com/search?q=死神千年血战篇更新)
 1. [韩国 2:3 惜败加纳](https://www.zhihu.com/search?q=韩国 2:3 惜败加纳)
