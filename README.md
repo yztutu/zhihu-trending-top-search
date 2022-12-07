@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 07 2022 11:15:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 07 2022 12:11:55 GMT+0800 (China Standard Time) -->
 
 1. [有药店连花清瘟单盒卖百元](https://www.zhihu.com/search?q=有药店连花清瘟单盒卖百元)
 1. [潘懋元逝世](https://www.zhihu.com/search?q=潘懋元逝世)
