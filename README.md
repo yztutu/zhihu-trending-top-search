@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 12 2022 05:07:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 12 2022 06:08:37 GMT+0800 (China Standard Time) -->
 
 1. [国产动画三体开播](https://www.zhihu.com/search?q=国产动画三体开播)
 1. [钟南山：今年倡导就地过年的可能性很小](https://www.zhihu.com/search?q=钟南山：今年倡导就地过年的可能性很小)
