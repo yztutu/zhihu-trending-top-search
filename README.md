@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 13 2022 16:12:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 13 2022 17:10:11 GMT+0800 (China Standard Time) -->
 
 1. [连花清瘟有上百种替代药](https://www.zhihu.com/search?q=连花清瘟有上百种替代药)
 1. [阿根廷 vs 克罗地亚](https://www.zhihu.com/search?q=阿根廷 vs 克罗地亚)
