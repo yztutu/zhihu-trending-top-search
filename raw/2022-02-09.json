@@ -13,8 +13,14 @@
   { "query": "师父游戏", "display_query": "法国制造功夫游戏《师父》" },
   { "query": "美商务部", "display_query": "中国实体被纳入未核实名单" },
   { "query": "江西少年案", "display_query": "江西少年案当事人获刑" },
-  { "query": "韩国选手拒绝采访黑脸离场", "display_query": "韩国选手拒绝采访黑脸离场" },
-  { "query": "短道速滑申诉", "display_query": "国际滑联发声明驳回韩国匈牙利申诉" },
+  {
+    "query": "韩国选手拒绝采访黑脸离场",
+    "display_query": "韩国选手拒绝采访黑脸离场"
+  },
+  {
+    "query": "短道速滑申诉",
+    "display_query": "国际滑联发声明驳回韩国匈牙利申诉"
+  },
   { "query": "丰县", "display_query": "「丰县生育八孩女子」进展" },
   { "query": "美国贸易逆差", "display_query": "2021 美国贸易逆差历史新高" },
   { "query": "广西疫情", "display_query": "广西新增本土确诊病例 64 例" },
@@ -25,8 +31,14 @@
   { "query": "美国竞争法案", "display_query": "美国通过《美国竞争法案》" },
   { "query": "篮网", "display_query": "篮网 9 连败" },
   { "query": "速度滑冰", "display_query": "速度滑冰宁忠岩第 7" },
-  { "query": "B站员工过年加班猝死", "display_query": "网传 B 站员工过年加班猝死" },
-  { "query": "短道速滑女子500米", "display_query": "短道速滑女子短道速滑女子张雨婷获第 4" },
+  {
+    "query": "B站员工过年加班猝死",
+    "display_query": "网传 B 站员工过年加班猝死"
+  },
+  {
+    "query": "短道速滑女子500米",
+    "display_query": "短道速滑女子短道速滑女子张雨婷获第 4"
+  },
   { "query": "短道速滑男子", "display_query": "短道速滑 1000 米中国包揽金银" },
   { "query": "台湾地震", "display_query": "台湾发生 5.1 级左右地震" },
   { "query": "冰壶", "display_query": "中国冰壶混双结束冬奥征程" },

@@ -15,7 +15,10 @@
   { "query": "爱尔眼科", "display_query": "爆料称爱尔眼科存在行贿现象" },
   { "query": "西安盒马", "display_query": "西安盒马被监管局立案查处" },
   { "query": "虎年生肖邮票", "display_query": "网友吐槽虎年生肖邮票没有虎威" },
-  { "query": "湖南衡阳医养中心火灾", "display_query": "湖南衡阳一医养中心发生火灾" },
+  {
+    "query": "湖南衡阳医养中心火灾",
+    "display_query": "湖南衡阳一医养中心发生火灾"
+  },
   { "query": "河南疫情", "display_query": "河南新增 60 例本土确诊" },
   { "query": "鬼灭之刃", "display_query": "鬼灭之刃第二季更新" },
   { "query": "天津疫情", "display_query": "天津新增 21 例本土确诊" },

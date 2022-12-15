@@ -9,7 +9,10 @@
   { "query": "篮网", "display_query": "欧文 30 分篮网负森林狼" },
   { "query": "原神", "display_query": "《原神》新春会" },
   { "query": "明日方舟", "display_query": "《明日方舟》新春会" },
-  { "query": "冬奥人员复检阳性", "display_query": "冬奥人员海关复检阳性 39 人" },
+  {
+    "query": "冬奥人员复检阳性",
+    "display_query": "冬奥人员海关复检阳性 39 人"
+  },
   { "query": "tes", "display_query": "V5 让一追二击败 TES" },
   { "query": "上海地铁", "display_query": "上海地铁乘客被屏蔽门夹住身亡" },
   { "query": "俄罗斯乌克兰", "display_query": "俄罗斯乌克兰局势" },
