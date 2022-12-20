@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 20 2022 15:08:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 20 2022 16:12:10 GMT+0800 (China Standard Time) -->
 
 1. [女子阳性后头发一夜变白脱发](https://www.zhihu.com/search?q=女子阳性后头发一夜变白脱发)
 1. [「复阳」跟「二次感染」有什么区别？](https://www.zhihu.com/search?q=「复阳」跟「二次感染」有什么区别？)
