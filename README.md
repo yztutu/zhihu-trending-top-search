@@ -15,12 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 25 2022 11:09:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 25 2022 12:10:57 GMT+0800 (China Standard Time) -->
 
 1. [全球首架 C919
    将开始一百小时验证飞行](https://www.zhihu.com/search?q=全球首架 C919
    将开始一百小时验证飞行)
-1. [无限超越班](https://www.zhihu.com/search?q=无限超越班)
 1. [《三体》动画第四集](https://www.zhihu.com/search?q=《三体》动画第四集)
 1. [《西游记》太上老君扮演者郑榕逝世](https://www.zhihu.com/search?q=《西游记》太上老君扮演者郑榕逝世)
 1. [考研英语](https://www.zhihu.com/search?q=考研英语)
@@ -30,6 +29,8 @@
 1. [专家称高蛋白食物不利于降低体温](https://www.zhihu.com/search?q=专家称高蛋白食物不利于降低体温)
 1. [腾讯发布元旦假期未成年游戏限玩通知](https://www.zhihu.com/search?q=腾讯发布元旦假期未成年游戏限玩通知)
 1. [春节前后全国或达感染高峰](https://www.zhihu.com/search?q=春节前后全国或达感染高峰)
+1. [转阴后为什么还咳嗽不停](https://www.zhihu.com/search?q=转阴后为什么还咳嗽不停)
+1. [无限超越班](https://www.zhihu.com/search?q=无限超越班)
 1. [青岛通报每日新增感染约 50
    万人](https://www.zhihu.com/search?q=青岛通报每日新增感染约 50 万人)
 1. [布林肯盘点今年美「外交成果」](https://www.zhihu.com/search?q=布林肯盘点今年美「外交成果」)
