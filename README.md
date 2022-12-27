@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 27 2022 11:10:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 27 2022 12:11:12 GMT+0800 (China Standard Time) -->
 
 1. [死神千年血战篇更新](https://www.zhihu.com/search?q=死神千年血战篇更新)
 1. [Epic 假日特卖](https://www.zhihu.com/search?q=Epic 假日特卖)
@@ -27,6 +27,8 @@
 1. [官方发布中外人员往来暂行措施](https://www.zhihu.com/search?q=官方发布中外人员往来暂行措施)
 1. [韩国报告首例「食脑虫」病例](https://www.zhihu.com/search?q=韩国报告首例「食脑虫」病例)
 1. [媒体：多国对来自中国旅客查核酸](https://www.zhihu.com/search?q=媒体：多国对来自中国旅客查核酸)
+1. [官方发布「乙类乙管」5
+   个配套文件](https://www.zhihu.com/search?q=官方发布「乙类乙管」5 个配套文件)
 1. [高达水星的魔女更新](https://www.zhihu.com/search?q=高达水星的魔女更新)
 
 <!-- END -->
