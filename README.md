@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 31 2022 00:11:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 31 2022 01:07:55 GMT+0800 (China Standard Time) -->
 
 1. [球王贝利去世](https://www.zhihu.com/search?q=球王贝利去世)
 1. [是否低估新冠死亡人数？官方回应](https://www.zhihu.com/search?q=是否低估新冠死亡人数？官方回应)
