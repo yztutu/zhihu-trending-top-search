@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 04 2023 07:09:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 04 2023 08:49:05 GMT+0800 (China Standard Time) -->
 
 1. [囤药不如囤「好身体」](https://www.zhihu.com/search?q=囤药不如囤「好身体」)
 1. [深海定档大年初一](https://www.zhihu.com/search?q=深海定档大年初一)
@@ -24,6 +24,7 @@
 1. [乐视实行四天半工作制](https://www.zhihu.com/search?q=乐视实行四天半工作制)
 1. [刘亦菲新剧开播](https://www.zhihu.com/search?q=刘亦菲新剧开播)
 1. [华夏航空一飞机外层风挡破裂](https://www.zhihu.com/search?q=华夏航空一飞机外层风挡破裂)
+1. [今年春节放七天上七天](https://www.zhihu.com/search?q=今年春节放七天上七天)
 
 <!-- END -->
 
