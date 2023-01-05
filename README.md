@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 06 2023 00:14:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 06 2023 01:08:50 GMT+0800 (China Standard Time) -->
 
 1. [欧盟建议各国要求自中国入境者提供核酸](https://www.zhihu.com/search?q=欧盟建议各国要求自中国入境者提供核酸)
 1. [国产 ECMO 产品获批上市](https://www.zhihu.com/search?q=国产 ECMO
