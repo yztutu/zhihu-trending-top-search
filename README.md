@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 09 2023 14:12:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 09 2023 15:09:22 GMT+0800 (China Standard Time) -->
 
 1. [辉瑞新冠药未能纳入医保目录](https://www.zhihu.com/search?q=辉瑞新冠药未能纳入医保目录)
 1. [我国阳后出现肺炎人群约为
