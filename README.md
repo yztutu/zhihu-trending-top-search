@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 25 2023 01:08:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 25 2023 02:11:39 GMT+0800 (China Standard Time) -->
 
 1. [AI 为你画出兔年祝福](https://www.zhihu.com/search?q=AI 为你画出兔年祝福)
 1. [《守望先锋》国服关闭](https://www.zhihu.com/search?q=《守望先锋》国服关闭)
