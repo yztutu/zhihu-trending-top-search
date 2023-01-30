@@ -15,12 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jan 28 2023 01:08:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 30 2023 23:10:00 GMT+0800 (China Standard Time) -->
 
 1. [AI 为你画出兔年祝福](https://www.zhihu.com/search?q=AI 为你画出兔年祝福)
-1. [春节假期全国国内旅游出游 3.08
-   亿人次](https://www.zhihu.com/search?q=春节假期全国国内旅游出游 3.08 亿人次)
-1. [剧版三体第十五集](https://www.zhihu.com/search?q=剧版三体第十五集)
+1. [四川生育登记取消结婚限制](https://www.zhihu.com/search?q=四川生育登记取消结婚限制)
+1. [剧版三体第十七集](https://www.zhihu.com/search?q=剧版三体第十七集)
 
 <!-- END -->
 
