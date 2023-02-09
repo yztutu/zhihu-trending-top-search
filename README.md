@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 09 2023 21:19:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 09 2023 22:09:20 GMT+0800 (China Standard Time) -->
 
 1. [任天堂发布直面会](https://www.zhihu.com/search?q=任天堂发布直面会)
 1. [建行、工行等多个网点终止营业](https://www.zhihu.com/search?q=建行、工行等多个网点终止营业)
