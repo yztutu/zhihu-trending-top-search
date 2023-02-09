@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 09 2023 10:17:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 09 2023 11:13:27 GMT+0800 (China Standard Time) -->
 
 1. [任天堂 Switch 销量超 1.21 亿台](https://www.zhihu.com/search?q=任天堂 Switch
    销量超 1.21 亿台)
@@ -23,6 +23,7 @@
 1. [兰州多车相撞事故](https://www.zhihu.com/search?q=兰州多车相撞事故)
 1. [我捡起了一地属性动画开播](https://www.zhihu.com/search?q=我捡起了一地属性动画开播)
 1. [剧版三体第二十五集](https://www.zhihu.com/search?q=剧版三体第二十五集)
+1. [任天堂发布直面会](https://www.zhihu.com/search?q=任天堂发布直面会)
 
 <!-- END -->
 
