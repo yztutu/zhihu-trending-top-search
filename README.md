@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 13 2023 21:19:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 13 2023 22:09:10 GMT+0800 (China Standard Time) -->
 
 1. [黄海北部海域进行实弹射击](https://www.zhihu.com/search?q=黄海北部海域进行实弹射击)
 1. [刘学州被网暴致死案网上开庭](https://www.zhihu.com/search?q=刘学州被网暴致死案网上开庭)
