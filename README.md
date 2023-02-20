@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Feb 21 2023 03:07:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Feb 21 2023 04:10:11 GMT+0800 (China Standard Time) -->
 
 1. [柯南新封面引发争论](https://www.zhihu.com/search?q=柯南新封面引发争论)
 1. [考研成绩公布](https://www.zhihu.com/search?q=考研成绩公布)
