@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Feb 21 2023 15:09:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Feb 21 2023 16:13:02 GMT+0800 (China Standard Time) -->
 
 1. [俄乌冲突即将一周年](https://www.zhihu.com/search?q=俄乌冲突即将一周年)
 1. [日本 66% 的高端外国人才是中国人](https://www.zhihu.com/search?q=日本 66%
