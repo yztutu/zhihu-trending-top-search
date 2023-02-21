@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Feb 21 2023 23:10:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 22 2023 00:12:01 GMT+0800 (China Standard Time) -->
 
 1. [俄乌冲突即将一周年](https://www.zhihu.com/search?q=俄乌冲突即将一周年)
 1. [日本 66% 的高端外国人才是中国人](https://www.zhihu.com/search?q=日本 66%
@@ -23,9 +23,6 @@
 1. [个人游戏生涯喜好表](https://www.zhihu.com/search?q=个人游戏生涯喜好表)
 1. [微软游戏将登陆任天堂](https://www.zhihu.com/search?q=微软游戏将登陆任天堂)
 1. [多地学校因新冠甲流停课，专家回应](https://www.zhihu.com/search?q=多地学校因新冠甲流停课，专家回应)
-1. [漫画家松本零士去世](https://www.zhihu.com/search?q=漫画家松本零士去世)
-1. [考研成绩公布](https://www.zhihu.com/search?q=考研成绩公布)
-1. [柯南新封面引发争论](https://www.zhihu.com/search?q=柯南新封面引发争论)
 
 <!-- END -->
 
