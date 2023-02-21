@@ -15,11 +15,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Feb 21 2023 10:19:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Feb 21 2023 11:16:01 GMT+0800 (China Standard Time) -->
 
 1. [柯南新封面引发争论](https://www.zhihu.com/search?q=柯南新封面引发争论)
 1. [考研成绩公布](https://www.zhihu.com/search?q=考研成绩公布)
 1. [漫画家松本零士去世](https://www.zhihu.com/search?q=漫画家松本零士去世)
+1. [俄乌冲突即将一周年](https://www.zhihu.com/search?q=俄乌冲突即将一周年)
 
 <!-- END -->
 
