@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 22 2023 12:12:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 22 2023 13:09:34 GMT+0800 (China Standard Time) -->
 
 1. [个人游戏生涯喜好表](https://www.zhihu.com/search?q=个人游戏生涯喜好表)
 1. [微软游戏将登陆任天堂](https://www.zhihu.com/search?q=微软游戏将登陆任天堂)
