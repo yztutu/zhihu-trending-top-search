@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 22 2023 15:09:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 22 2023 16:13:09 GMT+0800 (China Standard Time) -->
 
 1. [微软游戏将登陆任天堂](https://www.zhihu.com/search?q=微软游戏将登陆任天堂)
 1. [多地学校因新冠甲流停课，专家回应](https://www.zhihu.com/search?q=多地学校因新冠甲流停课，专家回应)
