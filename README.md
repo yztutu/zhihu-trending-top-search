@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 22 2023 23:10:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 23 2023 00:13:08 GMT+0800 (China Standard Time) -->
 
 1. [皇马 5:2 逆转利物浦](https://www.zhihu.com/search?q=皇马 5:2 逆转利物浦)
 1. [《钢铁是怎样炼成的》回归俄中学课本](https://www.zhihu.com/search?q=《钢铁是怎样炼成的》回归俄中学课本)
@@ -24,13 +24,6 @@
 1. [索尼新 VR 游戏机发售](https://www.zhihu.com/search?q=索尼新 VR 游戏机发售)
 1. [内蒙古一煤矿坍塌 50
    余人失联](https://www.zhihu.com/search?q=内蒙古一煤矿坍塌 50 余人失联)
-1. [多地学校因新冠甲流停课，专家回应](https://www.zhihu.com/search?q=多地学校因新冠甲流停课，专家回应)
-1. [农行「连心贷」](https://www.zhihu.com/search?q=农行「连心贷」)
-1. [微软游戏将登陆任天堂](https://www.zhihu.com/search?q=微软游戏将登陆任天堂)
-1. [个人游戏生涯喜好表](https://www.zhihu.com/search?q=个人游戏生涯喜好表)
-1. [日本 66% 的高端外国人才是中国人](https://www.zhihu.com/search?q=日本 66%
-   的高端外国人才是中国人)
-1. [俄乌冲突即将一周年](https://www.zhihu.com/search?q=俄乌冲突即将一周年)
 
 <!-- END -->
 
