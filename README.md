@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 23 2023 12:12:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 23 2023 15:09:25 GMT+0800 (China Standard Time) -->
 
 1. [农行「连心贷」引热议](https://www.zhihu.com/search?q=农行「连心贷」引热议)
 1. [张雪峰发文致歉](https://www.zhihu.com/search?q=张雪峰发文致歉)
@@ -28,6 +28,9 @@
 1. [首轮关停潮已来 幼儿园一孩难求](https://www.zhihu.com/search?q=首轮关停潮已来
    幼儿园一孩难求)
 1. [黎明觉醒手游上线](https://www.zhihu.com/search?q=黎明觉醒手游上线)
+1. [美国 5 名环境顾问前往俄亥俄州时坠机身亡](https://www.zhihu.com/search?q=美国
+   5 名环境顾问前往俄亥俄州时坠机身亡)
+1. [乌克兰要求停售游戏原子之心](https://www.zhihu.com/search?q=乌克兰要求停售游戏原子之心)
 1. [《钢铁是怎样炼成的》回归俄中学课本](https://www.zhihu.com/search?q=《钢铁是怎样炼成的》回归俄中学课本)
 1. [皇马 5:2 逆转利物浦](https://www.zhihu.com/search?q=皇马 5:2 逆转利物浦)
 
