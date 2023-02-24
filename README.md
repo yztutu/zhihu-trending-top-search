@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 24 2023 12:12:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 24 2023 13:09:27 GMT+0800 (China Standard Time) -->
 
 1. [美国 5 名环境顾问前往俄亥俄州时坠机身亡](https://www.zhihu.com/search?q=美国
    5 名环境顾问前往俄亥俄州时坠机身亡)
