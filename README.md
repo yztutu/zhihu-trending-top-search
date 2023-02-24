@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 24 2023 15:09:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 24 2023 16:13:05 GMT+0800 (China Standard Time) -->
 
 1. [艾尔登法环突破两千万套](https://www.zhihu.com/search?q=艾尔登法环突破两千万套)
 1. [俄乌冲突亲历者故事](https://www.zhihu.com/search?q=俄乌冲突亲历者故事)
