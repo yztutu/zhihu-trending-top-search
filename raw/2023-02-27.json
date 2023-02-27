@@ -1,5 +1,4 @@
 [
-  { "query": "WBG 不敌 LNG", "display_query": "WBG 不敌 LNG" },
   {
     "query": "杨紫琼美国演员工会奖影后",
     "display_query": "杨紫琼美国演员工会奖影后"
@@ -12,6 +11,11 @@
     "query": "全国最「有钱」城市出炉",
     "display_query": "全国最「有钱」城市出炉"
   },
+  {
+    "query": "著名经济学家厉以宁逝世",
+    "display_query": "著名经济学家厉以宁逝世"
+  },
+  { "query": "WBG 不敌 LNG", "display_query": "WBG 不敌 LNG" },
   {
     "query": "仅 6.1% 应届本科生起薪过万",
     "display_query": "仅 6.1% 应届本科生起薪过万"
