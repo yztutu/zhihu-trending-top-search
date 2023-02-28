@@ -15,12 +15,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Feb 28 2023 11:14:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Feb 28 2023 12:12:10 GMT+0800 (China Standard Time) -->
 
-1. [杨紫琼美国演员工会奖影后](https://www.zhihu.com/search?q=杨紫琼美国演员工会奖影后)
 1. [网文作家藤萍获茅盾新人奖](https://www.zhihu.com/search?q=网文作家藤萍获茅盾新人奖)
 1. [全国最「有钱」城市出炉](https://www.zhihu.com/search?q=全国最「有钱」城市出炉)
 1. [著名经济学家厉以宁逝世](https://www.zhihu.com/search?q=著名经济学家厉以宁逝世)
+1. [宝可梦直面发布会](https://www.zhihu.com/search?q=宝可梦直面发布会)
+1. [杨紫琼美国演员工会奖影后](https://www.zhihu.com/search?q=杨紫琼美国演员工会奖影后)
 
 <!-- END -->
 
