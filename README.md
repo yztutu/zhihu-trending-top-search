@@ -15,14 +15,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 01 2023 11:24:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 01 2023 12:12:31 GMT+0800 (China Standard Time) -->
 
-1. [宝可梦直面发布会](https://www.zhihu.com/search?q=宝可梦直面发布会)
 1. [艾尔登法环官宣 DLC](https://www.zhihu.com/search?q=艾尔登法环官宣 DLC)
 1. [四川甘孜 4.8 级地震](https://www.zhihu.com/search?q=四川甘孜 4.8 级地震)
 1. [建议延长春节假期至 9 天](https://www.zhihu.com/search?q=建议延长春节假期至 9
    天)
 1. [建议生育登记应全国统一](https://www.zhihu.com/search?q=建议生育登记应全国统一)
+1. [宝可梦直面发布会](https://www.zhihu.com/search?q=宝可梦直面发布会)
 
 <!-- END -->
 
