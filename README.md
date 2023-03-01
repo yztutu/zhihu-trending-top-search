@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 01 2023 18:11:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 01 2023 19:09:02 GMT+0800 (China Standard Time) -->
 
 1. [艾尔登法环官宣 DLC](https://www.zhihu.com/search?q=艾尔登法环官宣 DLC)
 1. [四川甘孜 4.8 级地震](https://www.zhihu.com/search?q=四川甘孜 4.8 级地震)
