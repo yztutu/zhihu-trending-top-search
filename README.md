@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 05 2023 23:08:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 06 2023 00:11:43 GMT+0800 (China Standard Time) -->
 
 1. [财政支出 7 成以上用于民生](https://www.zhihu.com/search?q=财政支出 7
    成以上用于民生)
@@ -23,7 +23,6 @@
    7.2%)
 1. [三体动画第十二集](https://www.zhihu.com/search?q=三体动画第十二集)
 1. [建议「六三三」学制改为「五二三」](https://www.zhihu.com/search?q=建议「六三三」学制改为「五二三」)
-1. [进击的巨人最终季更新](https://www.zhihu.com/search?q=进击的巨人最终季更新)
 
 <!-- END -->
 
