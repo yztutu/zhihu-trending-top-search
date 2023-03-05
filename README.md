@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 05 2023 15:08:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 05 2023 16:11:45 GMT+0800 (China Standard Time) -->
 
 1. [财政支出 7 成以上用于民生](https://www.zhihu.com/search?q=财政支出 7
    成以上用于民生)
