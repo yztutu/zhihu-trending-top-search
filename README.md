@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 07 2023 05:09:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 07 2023 06:09:42 GMT+0800 (China Standard Time) -->
 
 1. [利物浦 7:0 曼联](https://www.zhihu.com/search?q=利物浦 7:0 曼联)
 1. [惊蛰节气](https://www.zhihu.com/search?q=惊蛰节气)
