@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 06 2023 10:21:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 06 2023 11:16:41 GMT+0800 (China Standard Time) -->
 
 1. [今年国防费预算增长 7.2%](https://www.zhihu.com/search?q=今年国防费预算增长
    7.2%)
