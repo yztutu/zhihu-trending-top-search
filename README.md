@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 06 2023 18:11:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 06 2023 19:08:44 GMT+0800 (China Standard Time) -->
 
 1. [建议「六三三」学制改为「五二三」](https://www.zhihu.com/search?q=建议「六三三」学制改为「五二三」)
 1. [利物浦 7:0 曼联](https://www.zhihu.com/search?q=利物浦 7:0 曼联)
