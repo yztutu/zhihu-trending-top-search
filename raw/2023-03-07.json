@@ -1,9 +1,5 @@
 [
   {
-    "query": "一本院校招聘会现洗碗工岗位",
-    "display_query": "一本院校招聘会现洗碗工岗位"
-  },
-  {
     "query": "谭克非回应军费预算增长",
     "display_query": "谭克非回应军费预算增长"
   },
@@ -15,6 +11,11 @@
   {
     "query": "Lofter 推出 AI 绘图遭用户抵制",
     "display_query": "Lofter 推出 AI 绘图遭用户抵制"
+  },
+  { "query": "重新组建科学技术部", "display_query": "重新组建科学技术部" },
+  {
+    "query": "一本院校招聘会现洗碗工岗位",
+    "display_query": "一本院校招聘会现洗碗工岗位"
   },
   { "query": "利物浦 7:0 曼联", "display_query": "利物浦 7:0 曼联" },
   { "query": "惊蛰节气", "display_query": "惊蛰节气" }
