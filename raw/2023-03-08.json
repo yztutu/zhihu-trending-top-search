@@ -1,9 +1,5 @@
 [
   {
-    "query": "Lofter 推出 AI 绘图遭用户抵制",
-    "display_query": "Lofter 推出 AI 绘图遭用户抵制"
-  },
-  {
     "query": "人民网评鸡你太美是恶俗烂梗",
     "display_query": "人民网评鸡你太美是恶俗烂梗"
   },
@@ -13,6 +9,10 @@
     "display_query": "不再保留中国人民银行县市支行"
   },
   { "query": "「三八」国际妇女节", "display_query": "「三八」国际妇女节" },
+  {
+    "query": "Lofter 推出 AI 绘图遭用户抵制",
+    "display_query": "Lofter 推出 AI 绘图遭用户抵制"
+  },
   {
     "query": "建议推进「共享员工」模式",
     "display_query": "建议推进「共享员工」模式"
