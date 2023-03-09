@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 09 2023 23:10:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 10 2023 00:13:29 GMT+0800 (China Standard Time) -->
 
 1. [被打还手不再认定为互殴](https://www.zhihu.com/search?q=被打还手不再认定为互殴)
 1. [个人养老金配置扩围](https://www.zhihu.com/search?q=个人养老金配置扩围)
@@ -26,9 +26,6 @@
 1. [超 30 个汽车品牌降价](https://www.zhihu.com/search?q=超 30 个汽车品牌降价)
 1. [ U20 亚洲杯中国队晋级八强](https://www.zhihu.com/search?q= U20
    亚洲杯中国队晋级八强)
-1. [韩国或加入美日印澳「四边机制」](https://www.zhihu.com/search?q=韩国或加入美日印澳「四边机制」)
-1. [游戏天际线 2 正式公开](https://www.zhihu.com/search?q=游戏天际线 2 正式公开)
-1. [「三八」国际妇女节](https://www.zhihu.com/search?q=「三八」国际妇女节)
 
 <!-- END -->
 
