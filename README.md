@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 10 2023 17:10:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 10 2023 18:11:08 GMT+0800 (China Standard Time) -->
 
 1. [建议在农村淘汰老头乐](https://www.zhihu.com/search?q=建议在农村淘汰老头乐)
 1. [超 30 个汽车品牌降价](https://www.zhihu.com/search?q=超 30 个汽车品牌降价)
