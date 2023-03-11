@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 12 2023 01:07:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 12 2023 02:10:48 GMT+0800 (China Standard Time) -->
 
 1. [美国硅谷银行破产关闭](https://www.zhihu.com/search?q=美国硅谷银行破产关闭)
 1. [东风汽车「骨折」降价](https://www.zhihu.com/search?q=东风汽车「骨折」降价)
