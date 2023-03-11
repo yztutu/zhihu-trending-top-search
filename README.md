@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Mar 11 2023 12:11:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Mar 11 2023 13:08:30 GMT+0800 (China Standard Time) -->
 
 1. [新生化危机四试玩上线](https://www.zhihu.com/search?q=新生化危机四试玩上线)
 1. [美国硅谷银行破产关闭](https://www.zhihu.com/search?q=美国硅谷银行破产关闭)
