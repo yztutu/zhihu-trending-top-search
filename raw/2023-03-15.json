@@ -1,9 +1,5 @@
 [
   { "query": "315", "display_query": "315" },
-  {
-    "query": "\t瑞信自曝财报程序「重大缺陷」",
-    "display_query": "\t瑞信自曝财报程序「重大缺陷」"
-  },
   { "query": "OpenAI 发布 GPT-4", "display_query": "OpenAI 发布 GPT-4" },
   { "query": "国考成绩公布", "display_query": "国考成绩公布" },
   { "query": "哈兰德五球曼城晋级", "display_query": "哈兰德五球曼城晋级" },
@@ -19,6 +15,10 @@
   {
     "query": "吉野家吃出蟑螂后检查又发现 43 只",
     "display_query": "吉野家吃出蟑螂后检查又发现 43 只"
+  },
+  {
+    "query": "\t瑞信自曝财报程序「重大缺陷」",
+    "display_query": "\t瑞信自曝财报程序「重大缺陷」"
   },
   {
     "query": "俄导弹疑摧毁北约在乌影子参谋部",

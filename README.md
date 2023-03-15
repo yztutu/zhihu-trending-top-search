@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 15 2023 18:10:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 15 2023 19:08:23 GMT+0800 (China Standard Time) -->
 
 1. [315](https://www.zhihu.com/search?q=315)
-1. [	瑞信自曝财报程序「重大缺陷」](https://www.zhihu.com/search?q=	瑞信自曝财报程序「重大缺陷」)
 1. [OpenAI 发布 GPT-4](https://www.zhihu.com/search?q=OpenAI 发布 GPT-4)
 1. [国考成绩公布](https://www.zhihu.com/search?q=国考成绩公布)
 1. [哈兰德五球曼城晋级](https://www.zhihu.com/search?q=哈兰德五球曼城晋级)
@@ -28,6 +27,7 @@
 1. [伍六七第四季大结局](https://www.zhihu.com/search?q=伍六七第四季大结局)
 1. [吉野家吃出蟑螂后检查又发现 43
    只](https://www.zhihu.com/search?q=吉野家吃出蟑螂后检查又发现 43 只)
+1. [	瑞信自曝财报程序「重大缺陷」](https://www.zhihu.com/search?q=	瑞信自曝财报程序「重大缺陷」)
 1. [俄导弹疑摧毁北约在乌影子参谋部](https://www.zhihu.com/search?q=俄导弹疑摧毁北约在乌影子参谋部)
 1. [硅谷银行破产](https://www.zhihu.com/search?q=硅谷银行破产)
 1. [三部门：开学后师生在校期间不强制佩戴口罩](https://www.zhihu.com/search?q=三部门：开学后师生在校期间不强制佩戴口罩)
