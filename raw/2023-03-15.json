@@ -1,10 +1,6 @@
 [
   { "query": "315", "display_query": "315" },
   {
-    "query": "三部门：开学后师生在校期间不强制佩戴口罩",
-    "display_query": "三部门：开学后师生在校期间不强制佩戴口罩"
-  },
-  {
     "query": "俄导弹疑摧毁北约在乌影子参谋部",
     "display_query": "俄导弹疑摧毁北约在乌影子参谋部"
   },
@@ -16,6 +12,14 @@
   { "query": "OpenAI 发布 GPT-4", "display_query": "OpenAI 发布 GPT-4" },
   { "query": "国考成绩公布", "display_query": "国考成绩公布" },
   { "query": "哈兰德五球曼城晋级", "display_query": "哈兰德五球曼城晋级" },
+  {
+    "query": "美国 2 月 CPI 同比涨 6% ",
+    "display_query": "美国 2 月 CPI 同比涨 6% "
+  },
+  {
+    "query": "三部门：开学后师生在校期间不强制佩戴口罩",
+    "display_query": "三部门：开学后师生在校期间不强制佩戴口罩"
+  },
   {
     "query": "官方：恢复审发外国人各类赴华签证",
     "display_query": "官方：恢复审发外国人各类赴华签证"
