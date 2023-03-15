@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 15 2023 10:08:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 15 2023 11:10:13 GMT+0800 (China Standard Time) -->
 
 1. [315](https://www.zhihu.com/search?q=315)
 1. [三部门：开学后师生在校期间不强制佩戴口罩](https://www.zhihu.com/search?q=三部门：开学后师生在校期间不强制佩戴口罩)
