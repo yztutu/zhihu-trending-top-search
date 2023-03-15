@@ -1,4 +1,5 @@
 [
+  { "query": "315", "display_query": "315" },
   {
     "query": "官方：恢复审发外国人各类赴华签证",
     "display_query": "官方：恢复审发外国人各类赴华签证"
@@ -19,5 +20,8 @@
   {
     "query": "\t瑞信自曝财报程序「重大缺陷」",
     "display_query": "\t瑞信自曝财报程序「重大缺陷」"
-  }
+  },
+  { "query": "OpenAI 发布 GPT-4", "display_query": "OpenAI 发布 GPT-4" },
+  { "query": "国考成绩公布", "display_query": "国考成绩公布" },
+  { "query": "哈兰德五球曼城晋级", "display_query": "哈兰德五球曼城晋级" }
 ]
