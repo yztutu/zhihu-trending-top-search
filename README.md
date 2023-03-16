@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 17 2023 01:09:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 17 2023 02:12:00 GMT+0800 (China Standard Time) -->
 
 1. [OpenAI 发布 GPT-4](https://www.zhihu.com/search?q=OpenAI 发布 GPT-4)
 1. [城管劝离工地卖饭被怼](https://www.zhihu.com/search?q=城管劝离工地卖饭被怼)
