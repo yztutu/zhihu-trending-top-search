@@ -1,5 +1,4 @@
 [
-  { "query": "OpenAI 发布 GPT-4", "display_query": "OpenAI 发布 GPT-4" },
   { "query": "城管劝离工地卖饭被怼", "display_query": "城管劝离工地卖饭被怼" },
   {
     "query": "《炉石传说》被取消亚运项目资格",
@@ -19,5 +18,6 @@
     "display_query": "蜜雪冰城食材频改标签过期继续用"
   },
   { "query": "多国鸡蛋供应紧张", "display_query": "多国鸡蛋供应紧张" },
-  { "query": "利比亚数吨铀失踪", "display_query": "利比亚数吨铀失踪" }
+  { "query": "利比亚数吨铀失踪", "display_query": "利比亚数吨铀失踪" },
+  { "query": "OpenAI 发布 GPT-4", "display_query": "OpenAI 发布 GPT-4" }
 ]
