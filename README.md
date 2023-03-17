@@ -15,9 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 17 2023 16:12:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 17 2023 17:10:01 GMT+0800 (China Standard Time) -->
 
-1. [百度股价跳水](https://www.zhihu.com/search?q=百度股价跳水)
 1. [韩国、日本同意取消出口限制](https://www.zhihu.com/search?q=韩国、日本同意取消出口限制)
 1. [蜜雪冰城食材频改标签过期继续用](https://www.zhihu.com/search?q=蜜雪冰城食材频改标签过期继续用)
 1. [多国鸡蛋供应紧张](https://www.zhihu.com/search?q=多国鸡蛋供应紧张)
@@ -28,6 +27,8 @@
 1. [女神异闻录首款手游公布](https://www.zhihu.com/search?q=女神异闻录首款手游公布)
 1. [一人之下漫画第 615 话](https://www.zhihu.com/search?q=一人之下漫画第 615 话)
 1. [博人传漫画第 79 话](https://www.zhihu.com/search?q=博人传漫画第 79 话)
+1. [美联储紧急贷款升至新纪录](https://www.zhihu.com/search?q=美联储紧急贷款升至新纪录)
+1. [百度股价跳水](https://www.zhihu.com/search?q=百度股价跳水)
 1. [GPT-4 是如何理解人类意图和动机的](https://www.zhihu.com/search?q=GPT-4
    是如何理解人类意图和动机的)
 1. [《炉石传说》被取消亚运项目资格](https://www.zhihu.com/search?q=《炉石传说》被取消亚运项目资格)

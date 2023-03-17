@@ -1,5 +1,4 @@
 [
-  { "query": "百度股价跳水", "display_query": "百度股价跳水" },
   {
     "query": "韩国、日本同意取消出口限制",
     "display_query": "韩国、日本同意取消出口限制"
@@ -24,6 +23,11 @@
     "display_query": "一人之下漫画第 615 话"
   },
   { "query": "博人传漫画第 79 话", "display_query": "博人传漫画第 79 话" },
+  {
+    "query": "美联储紧急贷款升至新纪录",
+    "display_query": "美联储紧急贷款升至新纪录"
+  },
+  { "query": "百度股价跳水", "display_query": "百度股价跳水" },
   {
     "query": "GPT-4 是如何理解人类意图和动机的",
     "display_query": "GPT-4 是如何理解人类意图和动机的"
