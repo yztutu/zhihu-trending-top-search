@@ -1,12 +1,4 @@
 [
-  {
-    "query": "女神异闻录首款手游公布",
-    "display_query": "女神异闻录首款手游公布"
-  },
-  {
-    "query": "一人之下漫画第 615 话",
-    "display_query": "一人之下漫画第 615 话"
-  },
   { "query": "博人传漫画第 79 话", "display_query": "博人传漫画第 79 话" },
   {
     "query": "美联储紧急贷款升至新纪录",
@@ -33,6 +25,14 @@
     "display_query": "央行降低存款准备金率 0.25 个百分点"
   },
   { "query": "姜广涛涉嫌刑事犯罪", "display_query": "姜广涛涉嫌刑事犯罪" },
+  {
+    "query": "女神异闻录首款手游公布",
+    "display_query": "女神异闻录首款手游公布"
+  },
+  {
+    "query": "一人之下漫画第 615 话",
+    "display_query": "一人之下漫画第 615 话"
+  },
   {
     "query": "GPT4 全面植入 Office 办公软件",
     "display_query": "GPT4 全面植入 Office 办公软件"
