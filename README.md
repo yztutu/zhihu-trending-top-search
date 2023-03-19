@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 20 2023 03:07:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 20 2023 04:09:19 GMT+0800 (China Standard Time) -->
 
 1. [河南一居民楼爆炸](https://www.zhihu.com/search?q=河南一居民楼爆炸)
 1. [克莉丝汀所有门店暂停运营](https://www.zhihu.com/search?q=克莉丝汀所有门店暂停运营)
