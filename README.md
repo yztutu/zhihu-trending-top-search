@@ -15,13 +15,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 22 2023 11:09:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 22 2023 12:10:45 GMT+0800 (China Standard Time) -->
 
-1. [新版出生医学证明将启用](https://www.zhihu.com/search?q=新版出生医学证明将启用)
-1. [北方最大规模沙尘天来袭](https://www.zhihu.com/search?q=北方最大规模沙尘天来袭)
 1. [我国商品房待售面积突破 6.5
    亿](https://www.zhihu.com/search?q=我国商品房待售面积突破 6.5 亿)
 1. [谷歌 Bard 开放内测](https://www.zhihu.com/search?q=谷歌 Bard 开放内测)
+1. [新版出生医学证明将启用](https://www.zhihu.com/search?q=新版出生医学证明将启用)
+1. [北方最大规模沙尘天来袭](https://www.zhihu.com/search?q=北方最大规模沙尘天来袭)
 1. [适合春分节气的文案](https://www.zhihu.com/search?q=适合春分节气的文案)
 1. [我国罐头出口量持续增长](https://www.zhihu.com/search?q=我国罐头出口量持续增长)
 
