@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 23 2023 03:07:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 23 2023 04:09:27 GMT+0800 (China Standard Time) -->
 
 1. [谷歌 Bard 开放内测](https://www.zhihu.com/search?q=谷歌 Bard 开放内测)
 1. [原神新角色米卡实装](https://www.zhihu.com/search?q=原神新角色米卡实装)
