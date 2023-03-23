@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 23 2023 12:11:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 23 2023 13:08:25 GMT+0800 (China Standard Time) -->
 
 1. [原神新角色米卡实装](https://www.zhihu.com/search?q=原神新角色米卡实装)
 1. [近两成未婚者指定朋友等继承遗产](https://www.zhihu.com/search?q=近两成未婚者指定朋友等继承遗产)
