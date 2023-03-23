@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 24 2023 01:08:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 24 2023 02:11:40 GMT+0800 (China Standard Time) -->
 
 1. [美联储加息 25 个基点](https://www.zhihu.com/search?q=美联储加息 25 个基点)
 1. [媒体评「请假耻辱」](https://www.zhihu.com/search?q=媒体评「请假耻辱」)
