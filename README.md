@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 23 2023 06:07:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 23 2023 08:46:43 GMT+0800 (China Standard Time) -->
 
 1. [谷歌 Bard 开放内测](https://www.zhihu.com/search?q=谷歌 Bard 开放内测)
 1. [原神新角色米卡实装](https://www.zhihu.com/search?q=原神新角色米卡实装)
@@ -24,6 +24,7 @@
 1. [恒大境外债将重组成功](https://www.zhihu.com/search?q=恒大境外债将重组成功)
 1. [腾讯财报](https://www.zhihu.com/search?q=腾讯财报)
 1. [瑞典议会批准瑞典加入北约](https://www.zhihu.com/search?q=瑞典议会批准瑞典加入北约)
+1. [美联储加息 25 个基点](https://www.zhihu.com/search?q=美联储加息 25 个基点)
 
 <!-- END -->
 
