@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 23 2023 19:07:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 23 2023 20:17:53 GMT+0800 (China Standard Time) -->
 
 1. [近两成未婚者指定朋友等继承遗产](https://www.zhihu.com/search?q=近两成未婚者指定朋友等继承遗产)
 1. [21 省份去年人口数据](https://www.zhihu.com/search?q=21 省份去年人口数据)
