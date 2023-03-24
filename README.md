@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 24 2023 23:10:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Mar 25 2023 00:12:11 GMT+0800 (China Standard Time) -->
 
 1. [京津冀人口东北化](https://www.zhihu.com/search?q=京津冀人口东北化)
 1. [不止不休电影](https://www.zhihu.com/search?q=不止不休电影)
@@ -25,13 +25,6 @@
 1. [杰克奥特曼人间体演员去世](https://www.zhihu.com/search?q=杰克奥特曼人间体演员去世)
 1. [新海诚《铃芽之旅》上映](https://www.zhihu.com/search?q=新海诚《铃芽之旅》上映)
 1. [《互联网广告管理办法》公布](https://www.zhihu.com/search?q=《互联网广告管理办法》公布)
-1. [3 月 86 款游戏获批](https://www.zhihu.com/search?q=3 月 86 款游戏获批)
-1. [国足 0:0 新西兰](https://www.zhihu.com/search?q=国足 0:0 新西兰)
-1. [海南 13 岁女孩遭霸凌左耳鼓膜穿孔](https://www.zhihu.com/search?q=海南 13
-   岁女孩遭霸凌左耳鼓膜穿孔)
-1. [TikTok 美国听证会](https://www.zhihu.com/search?q=TikTok 美国听证会)
-1. [媒体评「请假耻辱」](https://www.zhihu.com/search?q=媒体评「请假耻辱」)
-1. [美联储加息 25 个基点](https://www.zhihu.com/search?q=美联储加息 25 个基点)
 
 <!-- END -->
 
