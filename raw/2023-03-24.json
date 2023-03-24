@@ -1,5 +1,4 @@
 [
-  { "query": "国足 0:0 新西兰", "display_query": "国足 0:0 新西兰" },
   { "query": "3 月 86 款游戏获批", "display_query": "3 月 86 款游戏获批" },
   { "query": "京津冀人口东北化", "display_query": "京津冀人口东北化" },
   { "query": "不止不休电影", "display_query": "不止不休电影" },
@@ -16,6 +15,7 @@
     "query": "杰克奥特曼人间体演员去世",
     "display_query": "杰克奥特曼人间体演员去世"
   },
+  { "query": "国足 0:0 新西兰", "display_query": "国足 0:0 新西兰" },
   {
     "query": "海南 13 岁女孩遭霸凌左耳鼓膜穿孔",
     "display_query": "海南 13 岁女孩遭霸凌左耳鼓膜穿孔"
