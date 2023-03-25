@@ -1,9 +1,6 @@
 [
+  { "query": "一人之下锈铁更新", "display_query": "一人之下锈铁更新" },
   { "query": "极限挑战宝藏行收官", "display_query": "极限挑战宝藏行收官" },
-  {
-    "query": "杰克奥特曼人间体演员去世",
-    "display_query": "杰克奥特曼人间体演员去世"
-  },
   {
     "query": "新海诚《铃芽之旅》上映",
     "display_query": "新海诚《铃芽之旅》上映"
@@ -21,6 +18,10 @@
     "display_query": "埃森哲将裁员近 2 万人"
   },
   { "query": "国内 6 款新冠药获批", "display_query": "国内 6 款新冠药获批" },
+  {
+    "query": "杰克奥特曼人间体演员去世",
+    "display_query": "杰克奥特曼人间体演员去世"
+  },
   { "query": "不止不休电影", "display_query": "不止不休电影" },
   {
     "query": "劳荣枝死刑复核最新进展",
