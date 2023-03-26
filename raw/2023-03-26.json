@@ -1,5 +1,8 @@
 [
-  { "query": "一人之下锈铁更新", "display_query": "一人之下锈铁更新" },
+  {
+    "query": "新海诚《铃芽之旅》上映",
+    "display_query": "新海诚《铃芽之旅》上映"
+  },
   { "query": "刘少林回应入籍", "display_query": "刘少林回应入籍" },
   { "query": "考研调剂 ", "display_query": "考研调剂 " },
   { "query": "深圳暴雨橙色预警", "display_query": "深圳暴雨橙色预警" },
@@ -21,6 +24,7 @@
     "query": "中国和洪都拉斯建立外交关系",
     "display_query": "中国和洪都拉斯建立外交关系"
   },
+  { "query": "一人之下锈铁更新", "display_query": "一人之下锈铁更新" },
   { "query": "极限挑战宝藏行收官", "display_query": "极限挑战宝藏行收官" },
   { "query": "国内 6 款新冠药获批", "display_query": "国内 6 款新冠药获批" },
   {
