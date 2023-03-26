@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 26 2023 20:15:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 26 2023 21:11:12 GMT+0800 (China Standard Time) -->
 
 1. [新海诚《铃芽之旅》上映](https://www.zhihu.com/search?q=新海诚《铃芽之旅》上映)
 1. [近期发现本土变异株 120 例](https://www.zhihu.com/search?q=近期发现本土变异株
