@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 27 2023 17:10:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 27 2023 18:10:23 GMT+0800 (China Standard Time) -->
 
 1. [新海诚《铃芽之旅》上映](https://www.zhihu.com/search?q=新海诚《铃芽之旅》上映)
 1. [胖东来设委屈奖补贴员工](https://www.zhihu.com/search?q=胖东来设委屈奖补贴员工)
@@ -25,6 +25,7 @@
 1. [iOS17 或添加新功能](https://www.zhihu.com/search?q=iOS17 或添加新功能)
 1. [韦神出的数学题](https://www.zhihu.com/search?q=韦神出的数学题)
 1. [手游鸣潮新实机演示](https://www.zhihu.com/search?q=手游鸣潮新实机演示)
+1. [村「BA」总冠军](https://www.zhihu.com/search?q=村「BA」总冠军)
 1. [中国和洪都拉斯建立外交关系](https://www.zhihu.com/search?q=中国和洪都拉斯建立外交关系)
 1. [三体动画完结](https://www.zhihu.com/search?q=三体动画完结)
 1. [各地古镇相似度高达 99%](https://www.zhihu.com/search?q=各地古镇相似度高达
