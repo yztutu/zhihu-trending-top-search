@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 28 2023 16:13:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 28 2023 17:09:53 GMT+0800 (China Standard Time) -->
 
 1. [村「BA」总冠军](https://www.zhihu.com/search?q=村「BA」总冠军)
 1. [首个国产新冠药停产](https://www.zhihu.com/search?q=首个国产新冠药停产)
@@ -25,6 +25,7 @@
 1. [全球最大交易所CEO 被起诉](https://www.zhihu.com/search?q=全球最大交易所CEO
    被起诉)
 1. [慢性肾病年轻化](https://www.zhihu.com/search?q=慢性肾病年轻化)
+1. [医学生培养八年还不会看病](https://www.zhihu.com/search?q=医学生培养八年还不会看病)
 1. [手游鸣潮新实机演示](https://www.zhihu.com/search?q=手游鸣潮新实机演示)
 1. [新海诚《铃芽之旅》上映](https://www.zhihu.com/search?q=新海诚《铃芽之旅》上映)
 1. [韦神出的数学题](https://www.zhihu.com/search?q=韦神出的数学题)
