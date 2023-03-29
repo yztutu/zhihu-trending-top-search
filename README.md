@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 29 2023 23:20:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 30 2023 01:36:28 GMT+0800 (China Standard Time) -->
 
 1. [塞尔达传说：王国之泪](https://www.zhihu.com/search?q=塞尔达传说：王国之泪)
 1. [河北冷库火灾致 11 死](https://www.zhihu.com/search?q=河北冷库火灾致 11 死)
@@ -25,14 +25,6 @@
 1. [汽车雷达在陵园显示人影](https://www.zhihu.com/search?q=汽车雷达在陵园显示人影)
 1. [佛山地震](https://www.zhihu.com/search?q=佛山地震)
 1. [钟薛高推出 3.5 元雪糕](https://www.zhihu.com/search?q=钟薛高推出 3.5 元雪糕)
-1. [葛优打葛优躺官司获赔759万](https://www.zhihu.com/search?q=葛优打葛优躺官司获赔759万)
-1. [阿里设立六大业务集团](https://www.zhihu.com/search?q=阿里设立六大业务集团)
-1. [医学生培养八年还不会看病](https://www.zhihu.com/search?q=医学生培养八年还不会看病)
-1. [多地现不明飞行物](https://www.zhihu.com/search?q=多地现不明飞行物)
-1. [带薪休假难](https://www.zhihu.com/search?q=带薪休假难)
-1. [全球最大交易所CEO 被起诉](https://www.zhihu.com/search?q=全球最大交易所CEO
-   被起诉)
-1. [慢性肾病年轻化](https://www.zhihu.com/search?q=慢性肾病年轻化)
 
 <!-- END -->
 
