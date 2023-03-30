@@ -15,9 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 30 2023 08:49:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 30 2023 10:06:02 GMT+0800 (China Standard Time) -->
 
-1. [塞尔达传说：王国之泪](https://www.zhihu.com/search?q=塞尔达传说：王国之泪)
 1. [河北冷库火灾致 11 死](https://www.zhihu.com/search?q=河北冷库火灾致 11 死)
 1. [成年子女不能与父母同住标间](https://www.zhihu.com/search?q=成年子女不能与父母同住标间)
 1. [京剧表演艺术家孙毓敏去世](https://www.zhihu.com/search?q=京剧表演艺术家孙毓敏去世)
@@ -25,6 +24,10 @@
 1. [汽车雷达在陵园显示人影](https://www.zhihu.com/search?q=汽车雷达在陵园显示人影)
 1. [佛山地震](https://www.zhihu.com/search?q=佛山地震)
 1. [钟薛高推出 3.5 元雪糕](https://www.zhihu.com/search?q=钟薛高推出 3.5 元雪糕)
+1. [多城人口增量放缓](https://www.zhihu.com/search?q=多城人口增量放缓)
+1. [科技从业者呼吁暂停AI训练](https://www.zhihu.com/search?q=科技从业者呼吁暂停AI训练)
+1. [「猛犸象肉丸」制成](https://www.zhihu.com/search?q=「猛犸象肉丸」制成)
+1. [塞尔达传说：王国之泪](https://www.zhihu.com/search?q=塞尔达传说：王国之泪)
 
 <!-- END -->
 
