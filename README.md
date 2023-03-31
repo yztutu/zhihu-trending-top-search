@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 31 2023 07:09:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 31 2023 08:49:11 GMT+0800 (China Standard Time) -->
 
 1. [多城人口增量放缓](https://www.zhihu.com/search?q=多城人口增量放缓)
 1. [科技从业者呼吁暂停AI训练](https://www.zhihu.com/search?q=科技从业者呼吁暂停AI训练)
