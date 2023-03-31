@@ -15,9 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 31 2023 20:17:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 31 2023 21:14:01 GMT+0800 (China Standard Time) -->
 
-1. [海南全岛封关运作](https://www.zhihu.com/search?q=海南全岛封关运作)
 1. [美 CIA 副局长罕见访巴拉圭](https://www.zhihu.com/search?q=美 CIA
    副局长罕见访巴拉圭)
 1. [美军两架「黑鹰」直升机坠毁](https://www.zhihu.com/search?q=美军两架「黑鹰」直升机坠毁)
@@ -28,6 +27,8 @@
 1. [新冠患者医保报销调整](https://www.zhihu.com/search?q=新冠患者医保报销调整)
 1. [露营倒闭潮来袭](https://www.zhihu.com/search?q=露营倒闭潮来袭)
 1. [湘雅医院因骗保被罚](https://www.zhihu.com/search?q=湘雅医院因骗保被罚)
+1. [云南巧家县禁止脏车入城](https://www.zhihu.com/search?q=云南巧家县禁止脏车入城)
+1. [海南全岛封关运作](https://www.zhihu.com/search?q=海南全岛封关运作)
 1. [张小泉斩骨刀断了](https://www.zhihu.com/search?q=张小泉斩骨刀断了)
 1. [多城人口增量放缓](https://www.zhihu.com/search?q=多城人口增量放缓)
 1. [科技从业者呼吁暂停AI训练](https://www.zhihu.com/search?q=科技从业者呼吁暂停AI训练)
