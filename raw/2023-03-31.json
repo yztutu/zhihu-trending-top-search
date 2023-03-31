@@ -1,5 +1,4 @@
 [
-  { "query": "张小泉斩骨刀断了", "display_query": "张小泉斩骨刀断了" },
   { "query": "海南全岛封关运作", "display_query": "海南全岛封关运作" },
   {
     "query": "美 CIA 副局长罕见访巴拉圭",
@@ -14,6 +13,11 @@
     "query": "官方通报林场主跪地求水",
     "display_query": "官方通报林场主跪地求水"
   },
+  {
+    "query": "一人之下漫画第 617 话",
+    "display_query": "一人之下漫画第 617 话"
+  },
+  { "query": "张小泉斩骨刀断了", "display_query": "张小泉斩骨刀断了" },
   { "query": "多城人口增量放缓", "display_query": "多城人口增量放缓" },
   {
     "query": "科技从业者呼吁暂停AI训练",
