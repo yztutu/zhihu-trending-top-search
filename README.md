@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Apr 02 2023 05:07:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Apr 02 2023 06:07:21 GMT+0800 (China Standard Time) -->
 
 1. [今年最大范围雨雪](https://www.zhihu.com/search?q=今年最大范围雨雪)
 1. [张继科回应因欠债传播女演员隐私视频](https://www.zhihu.com/search?q=张继科回应因欠债传播女演员隐私视频)
