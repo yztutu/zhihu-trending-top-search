@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Apr 01 2023 13:08:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Apr 01 2023 14:10:41 GMT+0800 (China Standard Time) -->
 
 1. [湘雅医院因骗保被罚](https://www.zhihu.com/search?q=湘雅医院因骗保被罚)
 1. [云南巧家县禁止脏车入城](https://www.zhihu.com/search?q=云南巧家县禁止脏车入城)
