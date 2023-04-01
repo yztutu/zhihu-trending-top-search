@@ -1,9 +1,4 @@
 [
-  { "query": "湘雅医院因骗保被罚", "display_query": "湘雅医院因骗保被罚" },
-  {
-    "query": "云南巧家县禁止脏车入城",
-    "display_query": "云南巧家县禁止脏车入城"
-  },
   { "query": "豫章书院案重审", "display_query": "豫章书院案重审" },
   { "query": "全面推进房产带押过户", "display_query": "全面推进房产带押过户" },
   { "query": "油价迎今年最大降幅", "display_query": "油价迎今年最大降幅" },
@@ -16,6 +11,11 @@
     "display_query": "钟南山称条件允许可不戴口罩"
   },
   { "query": "今年最大范围雨雪", "display_query": "今年最大范围雨雪" },
+  { "query": "湘雅医院因骗保被罚", "display_query": "湘雅医院因骗保被罚" },
+  {
+    "query": "云南巧家县禁止脏车入城",
+    "display_query": "云南巧家县禁止脏车入城"
+  },
   {
     "query": "京津冀取消异地就医备案",
     "display_query": "京津冀取消异地就医备案"
