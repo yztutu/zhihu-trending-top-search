@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Apr 02 2023 11:08:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Apr 02 2023 12:09:58 GMT+0800 (China Standard Time) -->
 
 1. [今年最大范围雨雪](https://www.zhihu.com/search?q=今年最大范围雨雪)
 1. [张继科回应因欠债传播女演员隐私视频](https://www.zhihu.com/search?q=张继科回应因欠债传播女演员隐私视频)
@@ -23,6 +23,7 @@
 1. [T1 击败 GEN 锁定季中赛](https://www.zhihu.com/search?q=T1 击败 GEN
    锁定季中赛)
 1. [马保国直播带货](https://www.zhihu.com/search?q=马保国直播带货)
+1. [林场主跪地求水新进展](https://www.zhihu.com/search?q=林场主跪地求水新进展)
 
 <!-- END -->
 
