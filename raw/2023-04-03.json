@@ -1,9 +1,5 @@
 [
   {
-    "query": "B 站 UP 主发起停更潮 ",
-    "display_query": "B 站 UP 主发起停更潮 "
-  },
-  {
     "query": "「要像造汽车一样去造房子」",
     "display_query": "「要像造汽车一样去造房子」"
   },
@@ -14,6 +10,14 @@
   {
     "query": "记者曝光疑似张继科借款合同",
     "display_query": "记者曝光疑似张继科借款合同"
+  },
+  {
+    "query": "张继科年收入曾达 6000 万元",
+    "display_query": "张继科年收入曾达 6000 万元"
+  },
+  {
+    "query": "B 站 UP 主发起停更潮 ",
+    "display_query": "B 站 UP 主发起停更潮 "
   },
   { "query": "林场主跪地求水新进展", "display_query": "林场主跪地求水新进展" },
   { "query": "RNG 止步八强", "display_query": "RNG 止步八强" },
