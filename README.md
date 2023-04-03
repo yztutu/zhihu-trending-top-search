@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 04 2023 03:06:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 04 2023 04:09:07 GMT+0800 (China Standard Time) -->
 
 1. [重庆男子持刀行凶](https://www.zhihu.com/search?q=重庆男子持刀行凶)
 1. [俄外长与布林肯通话](https://www.zhihu.com/search?q=俄外长与布林肯通话)
