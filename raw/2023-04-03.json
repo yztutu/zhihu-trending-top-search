@@ -1,5 +1,4 @@
 [
-  { "query": "坂本龙一去世", "display_query": "坂本龙一去世" },
   { "query": "重庆男子持刀行凶", "display_query": "重庆男子持刀行凶" },
   { "query": "俄外长与布林肯通话", "display_query": "俄外长与布林肯通话" },
   {
@@ -19,6 +18,7 @@
     "query": "今年考研录取率或不到两成",
     "display_query": "今年考研录取率或不到两成"
   },
+  { "query": "坂本龙一去世", "display_query": "坂本龙一去世" },
   {
     "query": "「要像造汽车一样去造房子」",
     "display_query": "「要像造汽车一样去造房子」"
