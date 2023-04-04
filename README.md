@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 04 2023 13:08:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 04 2023 14:11:48 GMT+0800 (China Standard Time) -->
 
 1. [安踏删除张继科宣传物料](https://www.zhihu.com/search?q=安踏删除张继科宣传物料)
 1. [多国自愿石油减产](https://www.zhihu.com/search?q=多国自愿石油减产)
@@ -25,6 +25,7 @@
    米深海发现怪鱼)
 1. [女子双腿绑 14 瓶茅台入境](https://www.zhihu.com/search?q=女子双腿绑 14
    瓶茅台入境)
+1. [铃芽之旅成日本动画票房冠军](https://www.zhihu.com/search?q=铃芽之旅成日本动画票房冠军)
 1. [张继科年收入曾达 6000 万元](https://www.zhihu.com/search?q=张继科年收入曾达
    6000 万元)
 1. [重庆男子持刀行凶](https://www.zhihu.com/search?q=重庆男子持刀行凶)
