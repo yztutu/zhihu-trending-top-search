@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 04 2023 23:09:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 05 2023 00:11:24 GMT+0800 (China Standard Time) -->
 
 1. [乒协相关人士证实张继科已退役](https://www.zhihu.com/search?q=乒协相关人士证实张继科已退役)
 1. [日本 8336 米深海发现怪鱼](https://www.zhihu.com/search?q=日本 8336
@@ -27,15 +27,6 @@
 1. [美国裁员潮蔓延至消费业](https://www.zhihu.com/search?q=美国裁员潮蔓延至消费业)
 1. [高校将优化学科专业布点](https://www.zhihu.com/search?q=高校将优化学科专业布点)
 1. [周鸿祎官宣离婚](https://www.zhihu.com/search?q=周鸿祎官宣离婚)
-1. [张继科没有正式宣布退役](https://www.zhihu.com/search?q=张继科没有正式宣布退役)
-1. [多国自愿石油减产](https://www.zhihu.com/search?q=多国自愿石油减产)
-1. [今年考研录取率或不到两成](https://www.zhihu.com/search?q=今年考研录取率或不到两成)
-1. [安踏删除张继科宣传物料](https://www.zhihu.com/search?q=安踏删除张继科宣传物料)
-1. [张继科年收入曾达 6000 万元](https://www.zhihu.com/search?q=张继科年收入曾达
-   6000 万元)
-1. [重庆男子持刀行凶](https://www.zhihu.com/search?q=重庆男子持刀行凶)
-1. [俄外长与布林肯通话](https://www.zhihu.com/search?q=俄外长与布林肯通话)
-1. [记者曝光疑似张继科借款合同](https://www.zhihu.com/search?q=记者曝光疑似张继科借款合同)
 
 <!-- END -->
 
