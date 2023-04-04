@@ -1,9 +1,4 @@
 [
-  { "query": "多国自愿石油减产", "display_query": "多国自愿石油减产" },
-  {
-    "query": "今年考研录取率或不到两成",
-    "display_query": "今年考研录取率或不到两成"
-  },
   {
     "query": "张继科没有正式宣布退役",
     "display_query": "张继科没有正式宣布退役"
@@ -21,6 +16,11 @@
     "display_query": "铃芽之旅成日本动画票房冠军"
   },
   { "query": "柯南贝克街的亡灵上映", "display_query": "柯南贝克街的亡灵上映" },
+  { "query": "多国自愿石油减产", "display_query": "多国自愿石油减产" },
+  {
+    "query": "今年考研录取率或不到两成",
+    "display_query": "今年考研录取率或不到两成"
+  },
   {
     "query": "安踏删除张继科宣传物料",
     "display_query": "安踏删除张继科宣传物料"
