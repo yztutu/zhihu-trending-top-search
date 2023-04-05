@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 05 2023 19:07:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 05 2023 20:20:36 GMT+0800 (China Standard Time) -->
 
 1. [高校将优化学科专业布点](https://www.zhihu.com/search?q=高校将优化学科专业布点)
 1. [周鸿祎官宣离婚](https://www.zhihu.com/search?q=周鸿祎官宣离婚)
