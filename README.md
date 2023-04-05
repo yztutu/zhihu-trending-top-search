@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 05 2023 12:10:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 05 2023 13:08:27 GMT+0800 (China Standard Time) -->
 
 1. [铃芽之旅成日本动画票房冠军](https://www.zhihu.com/search?q=铃芽之旅成日本动画票房冠军)
 1. [柯南贝克街的亡灵上映](https://www.zhihu.com/search?q=柯南贝克街的亡灵上映)
