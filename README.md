@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 06 2023 15:08:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 06 2023 16:11:15 GMT+0800 (China Standard Time) -->
 
 1. [翟欣欣案一审宣判](https://www.zhihu.com/search?q=翟欣欣案一审宣判)
 1. [巴萨 0 比 4 皇马](https://www.zhihu.com/search?q=巴萨 0 比 4 皇马)
