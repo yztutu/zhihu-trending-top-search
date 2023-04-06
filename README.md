@@ -15,12 +15,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 06 2023 11:09:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 06 2023 12:10:40 GMT+0800 (China Standard Time) -->
 
-1. [中电科回应](https://www.zhihu.com/search?q=中电科回应)
 1. [翟欣欣案一审宣判](https://www.zhihu.com/search?q=翟欣欣案一审宣判)
 1. [巴萨 0 比 4 皇马](https://www.zhihu.com/search?q=巴萨 0 比 4 皇马)
 1. [首例室温氢负离子导体](https://www.zhihu.com/search?q=首例室温氢负离子导体)
+1. [中电科回应](https://www.zhihu.com/search?q=中电科回应)
 
 <!-- END -->
 
