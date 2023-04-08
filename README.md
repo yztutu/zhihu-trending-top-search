@@ -15,11 +15,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Apr 08 2023 07:07:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Apr 08 2023 08:42:38 GMT+0800 (China Standard Time) -->
 
 1. [杭州阿里巴巴由 122 亿减资至 1
    亿](https://www.zhihu.com/search?q=杭州阿里巴巴由 122 亿减资至 1 亿)
 1. [张波叶诚尘二审翻供](https://www.zhihu.com/search?q=张波叶诚尘二审翻供)
+1. [国际珍稀动物保护日](https://www.zhihu.com/search?q=国际珍稀动物保护日)
 
 <!-- END -->
 
