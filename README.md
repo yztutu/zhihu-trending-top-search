@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Apr 09 2023 01:07:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Apr 09 2023 02:09:44 GMT+0800 (China Standard Time) -->
 
 1. [31 省份最低工资表公布](https://www.zhihu.com/search?q=31 省份最低工资表公布)
 1. [新冠最有可能的起源是什么](https://www.zhihu.com/search?q=新冠最有可能的起源是什么)
