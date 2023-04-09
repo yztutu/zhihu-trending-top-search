@@ -15,10 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Apr 09 2023 21:09:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Apr 09 2023 22:07:08 GMT+0800 (China Standard Time) -->
 
-1. [苏科大凌晨 4 点考研通知](https://www.zhihu.com/search?q=苏科大凌晨 4
-   点考研通知)
 1. [中石油子公司员工索要 3000
    小时加班费](https://www.zhihu.com/search?q=中石油子公司员工索要 3000
    小时加班费)
@@ -27,6 +25,8 @@
 1. [年轻人为啥会被胃癌盯上](https://www.zhihu.com/search?q=年轻人为啥会被胃癌盯上)
 1. [GEN 夺得春季赛冠军](https://www.zhihu.com/search?q=GEN 夺得春季赛冠军)
 1. [男子因感情纠纷撞人致3死](https://www.zhihu.com/search?q=男子因感情纠纷撞人致3死)
+1. [苏科大凌晨 4 点考研通知](https://www.zhihu.com/search?q=苏科大凌晨 4
+   点考研通知)
 1. [新冠最有可能的起源是什么](https://www.zhihu.com/search?q=新冠最有可能的起源是什么)
 1. [31 省份最低工资表公布](https://www.zhihu.com/search?q=31 省份最低工资表公布)
 
