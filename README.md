@@ -15,9 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Apr 09 2023 11:08:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Apr 09 2023 12:10:09 GMT+0800 (China Standard Time) -->
 
-1. [31 省份最低工资表公布](https://www.zhihu.com/search?q=31 省份最低工资表公布)
 1. [新冠最有可能的起源是什么](https://www.zhihu.com/search?q=新冠最有可能的起源是什么)
 1. [苏科大凌晨 4 点考研通知](https://www.zhihu.com/search?q=苏科大凌晨 4
    点考研通知)
@@ -26,6 +25,7 @@
    小时加班费)
 1. [「做四休三」能实现吗？](https://www.zhihu.com/search?q=「做四休三」能实现吗？)
 1. [白糖减产 17 万吨](https://www.zhihu.com/search?q=白糖减产 17 万吨)
+1. [31 省份最低工资表公布](https://www.zhihu.com/search?q=31 省份最低工资表公布)
 
 <!-- END -->
 
