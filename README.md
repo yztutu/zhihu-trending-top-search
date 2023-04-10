@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 10 2023 08:45:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 10 2023 09:56:57 GMT+0800 (China Standard Time) -->
 
 1. [年轻人为啥会被胃癌盯上](https://www.zhihu.com/search?q=年轻人为啥会被胃癌盯上)
 1. [GEN 夺得春季赛冠军](https://www.zhihu.com/search?q=GEN 夺得春季赛冠军)
@@ -24,6 +24,7 @@
    1%](https://www.zhihu.com/search?q=多地医保单位缴费率下调 1%)
 1. [成都街头爬满黑色虫子](https://www.zhihu.com/search?q=成都街头爬满黑色虫子)
 1. [首个有两套 DNA 的动物](https://www.zhihu.com/search?q=首个有两套 DNA 的动物)
+1. [餐厅「纸巾刺客」](https://www.zhihu.com/search?q=餐厅「纸巾刺客」)
 1. [中石油子公司员工索要 3000
    小时加班费](https://www.zhihu.com/search?q=中石油子公司员工索要 3000
    小时加班费)
