@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 10 2023 15:08:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 10 2023 16:11:37 GMT+0800 (China Standard Time) -->
 
 1. [GEN 夺得春季赛冠军](https://www.zhihu.com/search?q=GEN 夺得春季赛冠军)
 1. [男子因感情纠纷撞人致3死](https://www.zhihu.com/search?q=男子因感情纠纷撞人致3死)
