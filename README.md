@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 11 2023 13:08:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 11 2023 14:11:38 GMT+0800 (China Standard Time) -->
 
 1. [崩坏星穹铁道姬子 PV](https://www.zhihu.com/search?q=崩坏星穹铁道姬子 PV)
 1. [安徽全省整治剧本杀](https://www.zhihu.com/search?q=安徽全省整治剧本杀)
