@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 13 2023 23:09:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 14 2023 00:10:23 GMT+0800 (China Standard Time) -->
 
 1. [漫改动画我推的孩子](https://www.zhihu.com/search?q=漫改动画我推的孩子)
 1. [社保代缴系违法](https://www.zhihu.com/search?q=社保代缴系违法)
@@ -23,14 +23,6 @@
 1. [一季度我国货物贸易进出口总值](https://www.zhihu.com/search?q=一季度我国货物贸易进出口总值)
 1. [研究发现「失控」黑洞](https://www.zhihu.com/search?q=研究发现「失控」黑洞)
 1. [中国「人造太阳」创纪录](https://www.zhihu.com/search?q=中国「人造太阳」创纪录)
-1. [世卫通报全球首例 H3N8
-   死亡病例](https://www.zhihu.com/search?q=世卫通报全球首例 H3N8 死亡病例)
-1. [官方：这些情形或场景可不佩戴口罩](https://www.zhihu.com/search?q=官方：这些情形或场景可不佩戴口罩)
-1. [专家称「子女是长周期的耐用消费品」](https://www.zhihu.com/search?q=专家称「子女是长周期的耐用消费品」)
-1. [马斯克被曝买 1 万个 GPU 筹备 AI
-   项目](https://www.zhihu.com/search?q=马斯克被曝买 1 万个 GPU 筹备 AI 项目)
-1. [网传劳荣枝案已核准死刑](https://www.zhihu.com/search?q=网传劳荣枝案已核准死刑)
-1. [沙尘暴蓝色预警](https://www.zhihu.com/search?q=沙尘暴蓝色预警)
 
 <!-- END -->
 
