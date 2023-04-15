@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Apr 16 2023 05:07:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Apr 16 2023 06:07:41 GMT+0800 (China Standard Time) -->
 
 1. [三月份 70 城房价出炉](https://www.zhihu.com/search?q=三月份 70 城房价出炉)
 1. [美国最新研究发现潜在「身高基因」](https://www.zhihu.com/search?q=美国最新研究发现潜在「身高基因」)
