@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 17 2023 10:00:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 17 2023 11:09:30 GMT+0800 (China Standard Time) -->
 
 1. [官方回应公务接待喝 20
    元酒被处分](https://www.zhihu.com/search?q=官方回应公务接待喝 20 元酒被处分)
@@ -23,6 +23,7 @@
 1. [刘青云郑秀文获影帝影后](https://www.zhihu.com/search?q=刘青云郑秀文获影帝影后)
 1. [官方通报「杂技演员高空坠亡」](https://www.zhihu.com/search?q=官方通报「杂技演员高空坠亡」)
 1. [「癌症地图」出炉](https://www.zhihu.com/search?q=「癌症地图」出炉)
+1. [中移动市值超贵州茅台](https://www.zhihu.com/search?q=中移动市值超贵州茅台)
 
 <!-- END -->
 
