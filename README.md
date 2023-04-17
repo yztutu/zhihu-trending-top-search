@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 17 2023 23:09:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 18 2023 00:11:42 GMT+0800 (China Standard Time) -->
 
 1. [国内油价大幅上涨](https://www.zhihu.com/search?q=国内油价大幅上涨)
 1. [刘青云郑秀文获影帝影后](https://www.zhihu.com/search?q=刘青云郑秀文获影帝影后)
@@ -24,8 +24,6 @@
 1. [中移动市值超贵州茅台](https://www.zhihu.com/search?q=中移动市值超贵州茅台)
 1. [SpaceX「星舰」发射计划推迟](https://www.zhihu.com/search?q=SpaceX「星舰」发射计划推迟)
 1. [网友质疑云南泼水节「流氓节」](https://www.zhihu.com/search?q=网友质疑云南泼水节「流氓节」)
-1. [官方回应公务接待喝 20
-   元酒被处分](https://www.zhihu.com/search?q=官方回应公务接待喝 20 元酒被处分)
 
 <!-- END -->
 
