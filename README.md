@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 18 2023 23:10:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 19 2023 00:09:49 GMT+0800 (China Standard Time) -->
 
 1. [金山宣布推出 WPS AI](https://www.zhihu.com/search?q=金山宣布推出 WPS AI)
 1. [中国连续第 7 个月减持美国债](https://www.zhihu.com/search?q=中国连续第 7
@@ -24,13 +24,6 @@
 1. [新冠新变种 Arcturus 传入国内](https://www.zhihu.com/search?q=新冠新变种
    Arcturus 传入国内)
 1. [游戏实体碟遭恶意退款](https://www.zhihu.com/search?q=游戏实体碟遭恶意退款)
-1. [SpaceX「星舰」发射计划推迟](https://www.zhihu.com/search?q=SpaceX「星舰」发射计划推迟)
-1. [网友质疑云南泼水节「流氓节」](https://www.zhihu.com/search?q=网友质疑云南泼水节「流氓节」)
-1. [中移动市值超贵州茅台](https://www.zhihu.com/search?q=中移动市值超贵州茅台)
-1. [国内油价大幅上涨](https://www.zhihu.com/search?q=国内油价大幅上涨)
-1. [刘青云郑秀文获影帝影后](https://www.zhihu.com/search?q=刘青云郑秀文获影帝影后)
-1. [官方通报「杂技演员高空坠亡」](https://www.zhihu.com/search?q=官方通报「杂技演员高空坠亡」)
-1. [「癌症地图」出炉](https://www.zhihu.com/search?q=「癌症地图」出炉)
 
 <!-- END -->
 
