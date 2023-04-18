@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 18 2023 22:09:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 18 2023 23:10:03 GMT+0800 (China Standard Time) -->
 
 1. [金山宣布推出 WPS AI](https://www.zhihu.com/search?q=金山宣布推出 WPS AI)
 1. [中国连续第 7 个月减持美国债](https://www.zhihu.com/search?q=中国连续第 7
