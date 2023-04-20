@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 20 2023 15:08:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 20 2023 16:11:47 GMT+0800 (China Standard Time) -->
 
 1. [咒术回战五条悟回归](https://www.zhihu.com/search?q=咒术回战五条悟回归)
 1. [ASTRO 成员文彬去世](https://www.zhihu.com/search?q=ASTRO 成员文彬去世)
