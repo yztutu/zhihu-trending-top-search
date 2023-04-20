@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Apr 21 2023 06:07:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 21 2023 07:08:56 GMT+0800 (China Standard Time) -->
 
 1. [ASTRO 成员文彬去世](https://www.zhihu.com/search?q=ASTRO 成员文彬去世)
 1. [灌篮高手动画电影上映](https://www.zhihu.com/search?q=灌篮高手动画电影上映)
