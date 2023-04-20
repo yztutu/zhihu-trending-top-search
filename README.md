@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 20 2023 23:09:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 21 2023 00:11:27 GMT+0800 (China Standard Time) -->
 
 1. [ASTRO 成员文彬去世](https://www.zhihu.com/search?q=ASTRO 成员文彬去世)
 1. [灌篮高手动画电影上映](https://www.zhihu.com/search?q=灌篮高手动画电影上映)
@@ -23,10 +23,6 @@
 1. [宝马 mini 展区被指区别对待](https://www.zhihu.com/search?q=宝马 mini
    展区被指区别对待)
 1. [SpaceX 星舰发射失败](https://www.zhihu.com/search?q=SpaceX 星舰发射失败)
-1. [咒术回战五条悟回归](https://www.zhihu.com/search?q=咒术回战五条悟回归)
-1. [降糖药司美格鲁肽断货](https://www.zhihu.com/search?q=降糖药司美格鲁肽断货)
-1. [西氢东送](https://www.zhihu.com/search?q=西氢东送)
-1. [郑渊洁称不再发表作品](https://www.zhihu.com/search?q=郑渊洁称不再发表作品)
 
 <!-- END -->
 
