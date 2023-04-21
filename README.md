@@ -15,11 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Apr 21 2023 21:11:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 21 2023 22:08:06 GMT+0800 (China Standard Time) -->
 
-1. [SpaceX 星舰发射失败](https://www.zhihu.com/search?q=SpaceX 星舰发射失败)
 1. [史诗级灾难公关](https://www.zhihu.com/search?q=史诗级灾难公关)
 1. [光与夜之恋公布主线 PV](https://www.zhihu.com/search?q=光与夜之恋公布主线 PV)
+1. [SpaceX 星舰发射失败](https://www.zhihu.com/search?q=SpaceX 星舰发射失败)
 1. [山科大伤人案](https://www.zhihu.com/search?q=山科大伤人案)
 1. [宝马 mini 展区被指区别对待](https://www.zhihu.com/search?q=宝马 mini
    展区被指区别对待)
