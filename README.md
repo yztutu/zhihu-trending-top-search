@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Apr 21 2023 11:09:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 21 2023 12:10:48 GMT+0800 (China Standard Time) -->
 
 1. [山科大伤人案](https://www.zhihu.com/search?q=山科大伤人案)
 1. [宝马 mini 展区被指区别对待](https://www.zhihu.com/search?q=宝马 mini
