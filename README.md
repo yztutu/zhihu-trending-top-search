@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Apr 21 2023 10:00:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 21 2023 10:34:03 GMT+0800 (China Standard Time) -->
 
 1. [灌篮高手动画电影上映](https://www.zhihu.com/search?q=灌篮高手动画电影上映)
 1. [山科大伤人案](https://www.zhihu.com/search?q=山科大伤人案)
