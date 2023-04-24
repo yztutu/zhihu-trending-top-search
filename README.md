@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 24 2023 10:02:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 24 2023 11:09:43 GMT+0800 (China Standard Time) -->
 
 1. [2023世界读书日](https://www.zhihu.com/search?q=2023世界读书日)
 1. [中国绘制火星全球影像图首次发布](https://www.zhihu.com/search?q=中国绘制火星全球影像图首次发布)
