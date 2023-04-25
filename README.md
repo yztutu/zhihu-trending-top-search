@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 25 2023 15:08:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 25 2023 16:11:47 GMT+0800 (China Standard Time) -->
 
 1. [多省严管老年代步车](https://www.zhihu.com/search?q=多省严管老年代步车)
 1. [今年全球或迎史上最热夏天](https://www.zhihu.com/search?q=今年全球或迎史上最热夏天)
