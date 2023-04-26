@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 26 2023 23:09:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 27 2023 00:11:35 GMT+0800 (China Standard Time) -->
 
 1. [天涯社区官网已无法打开](https://www.zhihu.com/search?q=天涯社区官网已无法打开)
 1. [星穹铁道公测开启](https://www.zhihu.com/search?q=星穹铁道公测开启)
@@ -25,13 +25,6 @@
 1. [不动产统一登记对普通人意味着什么](https://www.zhihu.com/search?q=不动产统一登记对普通人意味着什么)
 1. [淄博五一客流已超接待能力](https://www.zhihu.com/search?q=淄博五一客流已超接待能力)
 1. [电影是第二种人生](https://www.zhihu.com/search?q=电影是第二种人生)
-1. [我国全面实现不动产统一登记](https://www.zhihu.com/search?q=我国全面实现不动产统一登记)
-1. [五一假期有酒店推出「 99
-   元睡大厅」](https://www.zhihu.com/search?q=五一假期有酒店推出「 99
-   元睡大厅」)
-1. [多省严管老年代步车](https://www.zhihu.com/search?q=多省严管老年代步车)
-1. [今年全球或迎史上最热夏天](https://www.zhihu.com/search?q=今年全球或迎史上最热夏天)
-1. [近九成网友表示调休影响工作效率](https://www.zhihu.com/search?q=近九成网友表示调休影响工作效率)
 
 <!-- END -->
 
