@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 26 2023 19:07:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 26 2023 20:16:34 GMT+0800 (China Standard Time) -->
 
 1. [天涯社区官网已无法打开](https://www.zhihu.com/search?q=天涯社区官网已无法打开)
 1. [星穹铁道公测开启](https://www.zhihu.com/search?q=星穹铁道公测开启)
