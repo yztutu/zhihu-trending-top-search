@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 27 2023 13:08:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 27 2023 14:11:57 GMT+0800 (China Standard Time) -->
 
 1. [患癌晚期 可以给女儿留下些什么](https://www.zhihu.com/search?q=患癌晚期
    可以给女儿留下些什么)
@@ -25,6 +25,7 @@
 1. [阿根廷将使用人民币结算中国进口商品](https://www.zhihu.com/search?q=阿根廷将使用人民币结算中国进口商品)
 1. [31 省份常住人口数据出炉](https://www.zhihu.com/search?q=31
    省份常住人口数据出炉)
+1. [中国跨境交易中人民币使用首超美元](https://www.zhihu.com/search?q=中国跨境交易中人民币使用首超美元)
 1. [广州警方回应梅姨被抓：正在核实](https://www.zhihu.com/search?q=广州警方回应梅姨被抓：正在核实)
 1. [星穹铁道公测开启](https://www.zhihu.com/search?q=星穹铁道公测开启)
 1. [天涯社区官网已无法打开](https://www.zhihu.com/search?q=天涯社区官网已无法打开)
