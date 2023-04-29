@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Apr 30 2023 04:08:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Apr 30 2023 05:06:56 GMT+0800 (China Standard Time) -->
 
 1. [今年「五一」假期你去哪儿了？](https://www.zhihu.com/search?q=今年「五一」假期你去哪儿了？)
 1. [国铁 29 日预计发送旅客 1950 万人次](https://www.zhihu.com/search?q=国铁 29
