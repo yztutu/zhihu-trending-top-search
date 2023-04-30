@@ -15,9 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Apr 30 2023 13:08:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Apr 30 2023 14:11:02 GMT+0800 (China Standard Time) -->
 
 1. [年轻人玩起「交换旅游」](https://www.zhihu.com/search?q=年轻人玩起「交换旅游」)
+1. [新冠检测阳性率波动增加](https://www.zhihu.com/search?q=新冠检测阳性率波动增加)
+1. [五一假期多地热门景区寸步难行](https://www.zhihu.com/search?q=五一假期多地热门景区寸步难行)
 1. [5 月起一批新规将实施](https://www.zhihu.com/search?q=5 月起一批新规将实施)
 1. [国铁 29 日预计发送旅客 1950 万人次](https://www.zhihu.com/search?q=国铁 29
    日预计发送旅客 1950 万人次)
