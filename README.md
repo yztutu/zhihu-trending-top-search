@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Apr 30 2023 12:10:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Apr 30 2023 13:08:10 GMT+0800 (China Standard Time) -->
 
 1. [年轻人玩起「交换旅游」](https://www.zhihu.com/search?q=年轻人玩起「交换旅游」)
 1. [5 月起一批新规将实施](https://www.zhihu.com/search?q=5 月起一批新规将实施)
