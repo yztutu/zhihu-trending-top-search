@@ -15,12 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon May 01 2023 23:08:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 02 2023 00:11:17 GMT+0800 (China Standard Time) -->
 
 1. [「港车北上」6 月 1
    日起接受申请](https://www.zhihu.com/search?q=「港车北上」6 月 1 日起接受申请)
-1. [新冠检测阳性率波动增加](https://www.zhihu.com/search?q=新冠检测阳性率波动增加)
-1. [五一假期多地热门景区寸步难行](https://www.zhihu.com/search?q=五一假期多地热门景区寸步难行)
 
 <!-- END -->
 
