@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu May 04 2023 01:08:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu May 04 2023 02:10:26 GMT+0800 (China Standard Time) -->
 
 1. [云南保山 5.2 级地震](https://www.zhihu.com/search?q=云南保山 5.2 级地震)
 1. [梅西被巴黎停赛两周](https://www.zhihu.com/search?q=梅西被巴黎停赛两周)
