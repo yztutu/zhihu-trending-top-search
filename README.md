@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu May 04 2023 21:11:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu May 04 2023 22:08:12 GMT+0800 (China Standard Time) -->
 
 1. [深圳不再全面禁止路边摊](https://www.zhihu.com/search?q=深圳不再全面禁止路边摊)
 1. [四川宜宾 4.9 级地震](https://www.zhihu.com/search?q=四川宜宾 4.9 级地震)
