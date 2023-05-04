@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu May 04 2023 14:11:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu May 04 2023 15:08:18 GMT+0800 (China Standard Time) -->
 
 1. [苏丹冲突波及可乐供应](https://www.zhihu.com/search?q=苏丹冲突波及可乐供应)
 1. [深圳不再全面禁止路边摊](https://www.zhihu.com/search?q=深圳不再全面禁止路边摊)
