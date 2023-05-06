@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat May 06 2023 20:14:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat May 06 2023 21:08:46 GMT+0800 (China Standard Time) -->
 
 1. [新冠不再构成国际突发公共卫生事件](https://www.zhihu.com/search?q=新冠不再构成国际突发公共卫生事件)
 1. [一人之下漫画 622 话](https://www.zhihu.com/search?q=一人之下漫画 622 话)
