@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 09 2023 20:54:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 09 2023 21:34:11 GMT+0800 (China Standard Time) -->
 
 1. [「AI 孙燕姿」](https://www.zhihu.com/search?q=「AI 孙燕姿」)
 1. [领英职场宣布停服](https://www.zhihu.com/search?q=领英职场宣布停服)
