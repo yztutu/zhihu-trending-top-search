@@ -1,5 +1,4 @@
 [
-  { "query": "「AI 孙燕姿」", "display_query": "「AI 孙燕姿」" },
   { "query": "领英职场宣布停服", "display_query": "领英职场宣布停服" },
   {
     "query": "俄罗斯举行胜利日红场阅兵",
@@ -14,5 +13,14 @@
     "query": "「领英职场」将于 8 月 9 日停止服务",
     "display_query": "「领英职场」将于 8 月 9 日停止服务"
   },
-  { "query": "2022 年平均工资出炉", "display_query": "2022 年平均工资出炉" }
+  { "query": "2022 年平均工资出炉", "display_query": "2022 年平均工资出炉" },
+  {
+    "query": "7 月起全国范围实施汽车国六排放标准 6b 阶段",
+    "display_query": "7 月起全国范围实施汽车国六排放标准 6b 阶段"
+  },
+  {
+    "query": "山西怀仁野地现无名女尸",
+    "display_query": "山西怀仁野地现无名女尸"
+  },
+  { "query": "「AI 孙燕姿」", "display_query": "「AI 孙燕姿」" }
 ]
