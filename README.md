@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed May 10 2023 20:16:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed May 10 2023 21:17:27 GMT+0800 (China Standard Time) -->
 
 1. [2022 年平均工资出炉](https://www.zhihu.com/search?q=2022 年平均工资出炉)
 1. [7 月起全国范围实施汽车国六排放标准 6b 阶段](https://www.zhihu.com/search?q=7
