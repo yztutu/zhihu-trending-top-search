@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu May 11 2023 18:09:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu May 11 2023 19:07:00 GMT+0800 (China Standard Time) -->
 
 1. [5 月 15 日起全面恢复口岸快捷通关](https://www.zhihu.com/search?q=5 月 15
    日起全面恢复口岸快捷通关)
