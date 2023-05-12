@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat May 13 2023 02:10:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat May 13 2023 03:06:54 GMT+0800 (China Standard Time) -->
 
 1. [四川泸定深夜突发多次地震](https://www.zhihu.com/search?q=四川泸定深夜突发多次地震)
 1. [汶川地震十五周年](https://www.zhihu.com/search?q=汶川地震十五周年)
