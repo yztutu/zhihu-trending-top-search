@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon May 15 2023 05:07:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon May 15 2023 06:07:35 GMT+0800 (China Standard Time) -->
 
 1. [山西兴县发生重大刑案致 7 死 11
    伤](https://www.zhihu.com/search?q=山西兴县发生重大刑案致 7 死 11 伤)
