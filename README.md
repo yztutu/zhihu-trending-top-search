@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon May 15 2023 23:09:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 16 2023 00:10:52 GMT+0800 (China Standard Time) -->
 
 1. [工作生活都在乎](https://www.zhihu.com/search?q=工作生活都在乎)
 1. [这届职人](https://www.zhihu.com/search?q=这届职人)
@@ -26,10 +26,6 @@
 1. [钟南山:全国约 11 亿至 12
    亿人染过新冠](https://www.zhihu.com/search?q=钟南山:全国约 11 亿至 12
    亿人染过新冠)
-1. [北方今年首轮高温来袭](https://www.zhihu.com/search?q=北方今年首轮高温来袭)
-1. [山西兴县发生重大刑案致 7 死 11
-   伤](https://www.zhihu.com/search?q=山西兴县发生重大刑案致 7 死 11 伤)
-1. [中国科学家在月壤中发现天然玻璃纤维](https://www.zhihu.com/search?q=中国科学家在月壤中发现天然玻璃纤维)
 
 <!-- END -->
 
