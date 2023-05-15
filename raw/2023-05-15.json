@@ -1,5 +1,4 @@
 [
-  { "query": "北方今年首轮高温来袭", "display_query": "北方今年首轮高温来袭" },
   { "query": "工作生活都在乎 ", "display_query": "工作生活都在乎 " },
   { "query": "这届职人 ", "display_query": "这届职人 " },
   { "query": "新职人密档", "display_query": "新职人密档" },
@@ -15,6 +14,7 @@
     "query": "广东拟推行「妈妈岗」就业模式",
     "display_query": "广东拟推行「妈妈岗」就业模式"
   },
+  { "query": "北方今年首轮高温来袭", "display_query": "北方今年首轮高温来袭" },
   {
     "query": "山西兴县发生重大刑案致 7 死 11 伤",
     "display_query": "山西兴县发生重大刑案致 7 死 11 伤"
