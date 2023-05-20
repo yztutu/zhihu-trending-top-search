@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat May 20 2023 12:10:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat May 20 2023 13:08:06 GMT+0800 (China Standard Time) -->
 
 1. [工作生活都在乎](https://www.zhihu.com/search?q=工作生活都在乎)
 1. [这届职人](https://www.zhihu.com/search?q=这届职人)
@@ -25,6 +25,7 @@
 1. [巨型小行星正靠近地球](https://www.zhihu.com/search?q=巨型小行星正靠近地球)
 1. [可口可乐涨价](https://www.zhihu.com/search?q=可口可乐涨价)
 1. [樱桃一斤直降 30 元](https://www.zhihu.com/search?q=樱桃一斤直降 30 元)
+1. [原神举办赛事活动](https://www.zhihu.com/search?q=原神举办赛事活动)
 1. [山东现世界级巨型单体金矿床](https://www.zhihu.com/search?q=山东现世界级巨型单体金矿床)
 
 <!-- END -->
