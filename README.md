@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon May 22 2023 11:09:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon May 22 2023 12:10:32 GMT+0800 (China Standard Time) -->
 
 1. [工作生活都在乎](https://www.zhihu.com/search?q=工作生活都在乎)
 1. [这届职人](https://www.zhihu.com/search?q=这届职人)
@@ -25,6 +25,7 @@
    领证人数较去年大幅降低)
 1. [袁隆平院士逝世两周年](https://www.zhihu.com/search?q=袁隆平院士逝世两周年)
 1. [全红婵 207C 又拿满分](https://www.zhihu.com/search?q=全红婵 207C 又拿满分)
+1. [奥特曼新作雷古洛思开播](https://www.zhihu.com/search?q=奥特曼新作雷古洛思开播)
 
 <!-- END -->
 
