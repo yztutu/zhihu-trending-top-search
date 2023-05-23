@@ -3,10 +3,6 @@
   { "query": "这届职人 ", "display_query": "这届职人 " },
   { "query": "新职人密档", "display_query": "新职人密档" },
   {
-    "query": "奥特曼新作雷古洛思开播",
-    "display_query": "奥特曼新作雷古洛思开播"
-  },
-  {
     "query": "新框架可提升 GPT-4 推理能力",
     "display_query": "新框架可提升 GPT-4 推理能力"
   },
@@ -20,6 +16,11 @@
   {
     "query": "比太阳大一万倍的超巨星",
     "display_query": "比太阳大一万倍的超巨星"
+  },
+  { "query": "国泰航空紧急致歉", "display_query": "国泰航空紧急致歉" },
+  {
+    "query": "奥特曼新作雷古洛思开播",
+    "display_query": "奥特曼新作雷古洛思开播"
   },
   { "query": "全红婵 207C 又拿满分", "display_query": "全红婵 207C 又拿满分" },
   {
