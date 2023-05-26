@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat May 27 2023 06:08:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat May 27 2023 07:08:39 GMT+0800 (China Standard Time) -->
 
 1. [脑机接口人体试验获批](https://www.zhihu.com/search?q=脑机接口人体试验获批)
 1. [一人之下漫画 625 话](https://www.zhihu.com/search?q=一人之下漫画 625 话)
