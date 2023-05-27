@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat May 27 2023 11:08:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat May 27 2023 12:09:59 GMT+0800 (China Standard Time) -->
 
 1. [C919 本周日商业航班首航](https://www.zhihu.com/search?q=C919
    本周日商业航班首航)
