@@ -15,12 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 28 2023 23:08:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon May 29 2023 00:09:47 GMT+0800 (China Standard Time) -->
 
 1. [印度最高面值纸币将停用](https://www.zhihu.com/search?q=印度最高面值纸币将停用)
 1. [C919 商业首飞](https://www.zhihu.com/search?q=C919 商业首飞)
-1. [首批毒刺防空导弹 24 日抵台](https://www.zhihu.com/search?q=首批毒刺防空导弹
-   24 日抵台)
 
 <!-- END -->
 
