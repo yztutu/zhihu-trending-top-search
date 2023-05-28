@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 28 2023 13:07:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 28 2023 14:10:48 GMT+0800 (China Standard Time) -->
 
 1. [印度最高面值纸币将停用](https://www.zhihu.com/search?q=印度最高面值纸币将停用)
 1. [C919 商业首飞](https://www.zhihu.com/search?q=C919 商业首飞)
