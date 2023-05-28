@@ -15,10 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 28 2023 07:08:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 28 2023 08:52:32 GMT+0800 (China Standard Time) -->
 
 1. [首批毒刺防空导弹 24 日抵台](https://www.zhihu.com/search?q=首批毒刺防空导弹
    24 日抵台)
+1. [印度最高面值纸币将停用](https://www.zhihu.com/search?q=印度最高面值纸币将停用)
 
 <!-- END -->
 
