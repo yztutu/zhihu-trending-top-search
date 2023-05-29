@@ -15,12 +15,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon May 29 2023 13:08:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon May 29 2023 14:12:08 GMT+0800 (China Standard Time) -->
 
 1. [科学应对「二阳」](https://www.zhihu.com/search?q=科学应对「二阳」)
 1. [神舟十六号将于明日发射](https://www.zhihu.com/search?q=神舟十六号将于明日发射)
 1. [载荷专家将首登天宫](https://www.zhihu.com/search?q=载荷专家将首登天宫)
 1. [俄对乌开出停火「四要求」](https://www.zhihu.com/search?q=俄对乌开出停火「四要求」)
+1. [鬼谷八荒正式版上线](https://www.zhihu.com/search?q=鬼谷八荒正式版上线)
 1. [C919 商业首飞](https://www.zhihu.com/search?q=C919 商业首飞)
 1. [印度最高面值纸币将停用](https://www.zhihu.com/search?q=印度最高面值纸币将停用)
 
