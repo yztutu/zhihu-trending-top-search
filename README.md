@@ -15,11 +15,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 30 2023 11:09:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 30 2023 12:10:22 GMT+0800 (China Standard Time) -->
 
-1. [俄对乌开出停火「四要求」](https://www.zhihu.com/search?q=俄对乌开出停火「四要求」)
 1. [鬼谷八荒正式版上线](https://www.zhihu.com/search?q=鬼谷八荒正式版上线)
 1. [吴谢宇案二审维持原判](https://www.zhihu.com/search?q=吴谢宇案二审维持原判)
+1. [继承之战最终季大结局](https://www.zhihu.com/search?q=继承之战最终季大结局)
+1. [俄对乌开出停火「四要求」](https://www.zhihu.com/search?q=俄对乌开出停火「四要求」)
 1. [载荷专家将首登天宫](https://www.zhihu.com/search?q=载荷专家将首登天宫)
 1. [科学应对「二阳」](https://www.zhihu.com/search?q=科学应对「二阳」)
 
