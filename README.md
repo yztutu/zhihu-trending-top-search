@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed May 31 2023 01:06:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed May 31 2023 02:10:45 GMT+0800 (China Standard Time) -->
 
 1. [吴谢宇案二审维持原判](https://www.zhihu.com/search?q=吴谢宇案二审维持原判)
 1. [继承之战最终季大结局](https://www.zhihu.com/search?q=继承之战最终季大结局)
