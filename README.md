@@ -15,11 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 02 2023 16:10:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 02 2023 17:08:45 GMT+0800 (China Standard Time) -->
 
-1. [剑网三联动虹猫蓝兔七侠传](https://www.zhihu.com/search?q=剑网三联动虹猫蓝兔七侠传)
 1. [一人之下漫画 626 话](https://www.zhihu.com/search?q=一人之下漫画 626 话)
 1. [蜘蛛侠纵横宇宙上映](https://www.zhihu.com/search?q=蜘蛛侠纵横宇宙上映)
+1. [剑网三联动虹猫蓝兔七侠传](https://www.zhihu.com/search?q=剑网三联动虹猫蓝兔七侠传)
 1. [宫崎骏电影天空之城上映](https://www.zhihu.com/search?q=宫崎骏电影天空之城上映)
 1. [毕节通报记者被打事件](https://www.zhihu.com/search?q=毕节通报记者被打事件)
 1. [国产武侠动画镖人开播](https://www.zhihu.com/search?q=国产武侠动画镖人开播)
