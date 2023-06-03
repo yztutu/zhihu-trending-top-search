@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 03 2023 14:10:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 03 2023 15:07:39 GMT+0800 (China Standard Time) -->
 
 1. [印度列车相撞已致 233 人死亡](https://www.zhihu.com/search?q=印度列车相撞已致
    233 人死亡)
