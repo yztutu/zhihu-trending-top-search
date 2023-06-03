@@ -15,10 +15,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 03 2023 08:53:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 03 2023 10:14:46 GMT+0800 (China Standard Time) -->
 
 1. [一人之下漫画 626 话](https://www.zhihu.com/search?q=一人之下漫画 626 话)
 1. [蜘蛛侠纵横宇宙上映](https://www.zhihu.com/search?q=蜘蛛侠纵横宇宙上映)
+1. [印度列车相撞已致 233 人死亡](https://www.zhihu.com/search?q=印度列车相撞已致
+   233 人死亡)
 
 <!-- END -->
 
