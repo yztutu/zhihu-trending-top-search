@@ -15,11 +15,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 03 2023 22:06:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 03 2023 23:07:40 GMT+0800 (China Standard Time) -->
 
 1. [印度列车相撞已致超过 300
    人死亡](https://www.zhihu.com/search?q=印度列车相撞已致超过 300 人死亡)
 1. [《明日方舟》空想花庭活动](https://www.zhihu.com/search?q=《明日方舟》空想花庭活动)
+1. [外企高管再掀「来华潮」](https://www.zhihu.com/search?q=外企高管再掀「来华潮」)
 1. [印度列车相撞已致 233 人死亡](https://www.zhihu.com/search?q=印度列车相撞已致
    233 人死亡)
 1. [一人之下漫画 626 话](https://www.zhihu.com/search?q=一人之下漫画 626 话)
