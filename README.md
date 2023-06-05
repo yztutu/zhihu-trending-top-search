@@ -15,11 +15,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 05 2023 19:07:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 05 2023 20:17:53 GMT+0800 (China Standard Time) -->
 
 1. [答主楚云卿原创诗句「入选」诗经](https://www.zhihu.com/search?q=答主楚云卿原创诗句「入选」诗经)
 1. [大量安卓用户逃离换 iPhone](https://www.zhihu.com/search?q=大量安卓用户逃离换
    iPhone)
+1. [华为已申请 GPT 相关商标](https://www.zhihu.com/search?q=华为已申请 GPT
+   相关商标)
 
 <!-- END -->
 
