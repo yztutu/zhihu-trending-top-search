@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 06 2023 21:12:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 06 2023 22:07:56 GMT+0800 (China Standard Time) -->
 
 1. [高考倒计时 1 天](https://www.zhihu.com/search?q=高考倒计时 1 天)
 1. [答主楚云卿原创诗句「入选」诗经](https://www.zhihu.com/search?q=答主楚云卿原创诗句「入选」诗经)
