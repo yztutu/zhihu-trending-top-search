@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 07 2023 23:09:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 08 2023 00:11:28 GMT+0800 (China Standard Time) -->
 
 1. [高考作文](https://www.zhihu.com/search?q=高考作文)
 1. [答主楚云卿原创诗句「入选」诗经](https://www.zhihu.com/search?q=答主楚云卿原创诗句「入选」诗经)
@@ -23,13 +23,6 @@
 1. [高考全国卷作文](https://www.zhihu.com/search?q=高考全国卷作文)
 1. [我国科研人员发现宇宙中最古老恒星遗迹](https://www.zhihu.com/search?q=我国科研人员发现宇宙中最古老恒星遗迹)
 1. [苹果发布 tvOS 17](https://www.zhihu.com/search?q=苹果发布 tvOS 17)
-1. [北京发现两例猴痘病例](https://www.zhihu.com/search?q=北京发现两例猴痘病例)
-1. [多家大行存款利率将再迎下调？](https://www.zhihu.com/search?q=多家大行存款利率将再迎下调？)
-1. [专家谈鸭脖争议：80%
-   概率为鼠头](https://www.zhihu.com/search?q=专家谈鸭脖争议：80% 概率为鼠头)
-1. [一线城市房地产限购该调整吗？](https://www.zhihu.com/search?q=一线城市房地产限购该调整吗？)
-1. [我们这代人存不下钱的原因是什么？](https://www.zhihu.com/search?q=我们这代人存不下钱的原因是什么？)
-1. [苹果发布首款 MR 头显](https://www.zhihu.com/search?q=苹果发布首款 MR 头显)
 
 <!-- END -->
 
