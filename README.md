@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 08 2023 07:09:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 08 2023 08:54:22 GMT+0800 (China Standard Time) -->
 
 1. [高考作文](https://www.zhihu.com/search?q=高考作文)
 1. [答主楚云卿原创诗句「入选」诗经](https://www.zhihu.com/search?q=答主楚云卿原创诗句「入选」诗经)
@@ -23,6 +23,7 @@
 1. [高考全国卷作文](https://www.zhihu.com/search?q=高考全国卷作文)
 1. [我国科研人员发现宇宙中最古老恒星遗迹](https://www.zhihu.com/search?q=我国科研人员发现宇宙中最古老恒星遗迹)
 1. [苹果发布 tvOS 17](https://www.zhihu.com/search?q=苹果发布 tvOS 17)
+1. [全国将举办村 BA 比赛](https://www.zhihu.com/search?q=全国将举办村 BA 比赛)
 
 <!-- END -->
 
