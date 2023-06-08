@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 09 2023 01:08:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 09 2023 02:10:40 GMT+0800 (China Standard Time) -->
 
 1. [高考进行中](https://www.zhihu.com/search?q=高考进行中)
 1. [全国将举办村 BA 比赛](https://www.zhihu.com/search?q=全国将举办村 BA 比赛)
