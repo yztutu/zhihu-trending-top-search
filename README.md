@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 09 2023 15:08:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 09 2023 16:11:02 GMT+0800 (China Standard Time) -->
 
 1. [高考进行中](https://www.zhihu.com/search?q=高考进行中)
 1. [中国电信广东地区崩了](https://www.zhihu.com/search?q=中国电信广东地区崩了)
@@ -25,6 +25,7 @@
 1. [新冠重症可能是未确诊癌症的标志](https://www.zhihu.com/search?q=新冠重症可能是未确诊癌症的标志)
 1. [镖人动画第 3-4 集播出](https://www.zhihu.com/search?q=镖人动画第 3-4 集播出)
 1. [高考生反映英语听力听不清](https://www.zhihu.com/search?q=高考生反映英语听力听不清)
+1. [2023 夏日游戏节](https://www.zhihu.com/search?q=2023 夏日游戏节)
 1. [全国将举办村 BA 比赛](https://www.zhihu.com/search?q=全国将举办村 BA 比赛)
 
 <!-- END -->
