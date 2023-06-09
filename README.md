@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 10 2023 06:08:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 10 2023 07:08:45 GMT+0800 (China Standard Time) -->
 
 1. [5 月 CPI 同比上升 0.2%](https://www.zhihu.com/search?q=5 月 CPI 同比上升
    0.2%)
