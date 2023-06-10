@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 10 2023 23:08:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 11 2023 00:10:28 GMT+0800 (China Standard Time) -->
 
 1. [12306 试行在线选铺服务](https://www.zhihu.com/search?q=12306
    试行在线选铺服务)
@@ -24,13 +24,6 @@
 1. [杨立昆表示类 GPT
    主流路线存在局限](https://www.zhihu.com/search?q=杨立昆表示类 GPT
    主流路线存在局限)
-1. [翟欣欣被逮捕](https://www.zhihu.com/search?q=翟欣欣被逮捕)
-1. [2023 夏日游戏节](https://www.zhihu.com/search?q=2023 夏日游戏节)
-1. [镖人动画第 3-4 集播出](https://www.zhihu.com/search?q=镖人动画第 3-4 集播出)
-1. [高考生反映英语听力听不清](https://www.zhihu.com/search?q=高考生反映英语听力听不清)
-1. [5 月 CPI 同比上升 0.2%](https://www.zhihu.com/search?q=5 月 CPI 同比上升
-   0.2%)
-1. [新冠重症可能是未确诊癌症的标志](https://www.zhihu.com/search?q=新冠重症可能是未确诊癌症的标志)
 
 <!-- END -->
 
