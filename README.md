@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 10 2023 12:10:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 10 2023 13:07:50 GMT+0800 (China Standard Time) -->
 
 1. [2023 夏日游戏节](https://www.zhihu.com/search?q=2023 夏日游戏节)
 1. [翟欣欣被逮捕](https://www.zhihu.com/search?q=翟欣欣被逮捕)
