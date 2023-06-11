@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 11 2023 15:07:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 11 2023 16:10:11 GMT+0800 (China Standard Time) -->
 
 1. [江西成立鼠头鸭脖事件联合调查组](https://www.zhihu.com/search?q=江西成立鼠头鸭脖事件联合调查组)
 1. [广州拟分路段分时段限行电动自行车](https://www.zhihu.com/search?q=广州拟分路段分时段限行电动自行车)
