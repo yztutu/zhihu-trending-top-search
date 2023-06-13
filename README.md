@@ -15,13 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 13 2023 23:08:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 14 2023 00:11:24 GMT+0800 (China Standard Time) -->
 
 1. [热火 vs 掘金](https://www.zhihu.com/search?q=热火 vs 掘金)
 1. [法医秦明动画无声的证词](https://www.zhihu.com/search?q=法医秦明动画无声的证词)
 1. [FF16 上线试玩 Demo](https://www.zhihu.com/search?q=FF16 上线试玩 Demo)
-1. [中国光伏企业高管在德国机场被带走](https://www.zhihu.com/search?q=中国光伏企业高管在德国机场被带走)
-1. [五月天演唱会异常订单退票](https://www.zhihu.com/search?q=五月天演唱会异常订单退票)
 
 <!-- END -->
 
