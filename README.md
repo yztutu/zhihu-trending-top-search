@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 13 2023 11:09:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 13 2023 12:10:45 GMT+0800 (China Standard Time) -->
 
 1. [五月天演唱会异常订单退票](https://www.zhihu.com/search?q=五月天演唱会异常订单退票)
 1. [中国光伏企业高管在德国机场被带走](https://www.zhihu.com/search?q=中国光伏企业高管在德国机场被带走)
