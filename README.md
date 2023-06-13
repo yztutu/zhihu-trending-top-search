@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 14 2023 01:08:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 14 2023 02:10:48 GMT+0800 (China Standard Time) -->
 
 1. [热火 vs 掘金](https://www.zhihu.com/search?q=热火 vs 掘金)
 1. [法医秦明动画无声的证词](https://www.zhihu.com/search?q=法医秦明动画无声的证词)
