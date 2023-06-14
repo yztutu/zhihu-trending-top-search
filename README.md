@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 14 2023 19:07:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 14 2023 20:16:51 GMT+0800 (China Standard Time) -->
 
 1. [天津居民楼爆炸致 3 死](https://www.zhihu.com/search?q=天津居民楼爆炸致 3 死)
 1. [金价上涨](https://www.zhihu.com/search?q=金价上涨)
