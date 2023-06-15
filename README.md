@@ -15,9 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 15 2023 22:08:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 15 2023 23:08:59 GMT+0800 (China Standard Time) -->
 
-1. [比尔·盖茨抵达北京](https://www.zhihu.com/search?q=比尔·盖茨抵达北京)
 1. [美联储连续加息 10 次后暂停](https://www.zhihu.com/search?q=美联储连续加息 10
    次后暂停)
 1. [上海地震](https://www.zhihu.com/search?q=上海地震)
@@ -26,6 +25,7 @@
 1. [杨丽萍回应孔雀舞惹不雅争议](https://www.zhihu.com/search?q=杨丽萍回应孔雀舞惹不雅争议)
 1. [梅西开场 81 秒进球](https://www.zhihu.com/search?q=梅西开场 81 秒进球)
 1. [阿根廷 2:0 澳大利亚](https://www.zhihu.com/search?q=阿根廷 2:0 澳大利亚)
+1. [比尔·盖茨抵达北京](https://www.zhihu.com/search?q=比尔·盖茨抵达北京)
 1. [阿根廷 vs 澳大利亚](https://www.zhihu.com/search?q=阿根廷 vs 澳大利亚)
 1. [梅西首发](https://www.zhihu.com/search?q=梅西首发)
 1. [艺术家黄永玉先生逝世](https://www.zhihu.com/search?q=艺术家黄永玉先生逝世)
