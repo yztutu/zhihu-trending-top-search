@@ -15,18 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 16 2023 23:08:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 17 2023 00:10:54 GMT+0800 (China Standard Time) -->
 
 1. [回光返照是身体能预测死亡吗](https://www.zhihu.com/search?q=回光返照是身体能预测死亡吗)
 1. [一人之下漫画 628 话](https://www.zhihu.com/search?q=一人之下漫画 628 话)
 1. [冲进球场拥抱梅西球迷被行拘](https://www.zhihu.com/search?q=冲进球场拥抱梅西球迷被行拘)
-1. [梅西开场 81 秒进球](https://www.zhihu.com/search?q=梅西开场 81 秒进球)
-1. [阿根廷 2:0 澳大利亚](https://www.zhihu.com/search?q=阿根廷 2:0 澳大利亚)
-1. [杨丽萍回应孔雀舞惹不雅争议](https://www.zhihu.com/search?q=杨丽萍回应孔雀舞惹不雅争议)
-1. [五月 70 城房价](https://www.zhihu.com/search?q=五月 70 城房价)
-1. [美联储连续加息 10 次后暂停](https://www.zhihu.com/search?q=美联储连续加息 10
-   次后暂停)
-1. [上海地震](https://www.zhihu.com/search?q=上海地震)
 
 <!-- END -->
 
