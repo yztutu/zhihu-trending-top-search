@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 18 2023 16:10:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 18 2023 17:08:12 GMT+0800 (China Standard Time) -->
 
 1. [回光返照是身体能预测死亡吗](https://www.zhihu.com/search?q=回光返照是身体能预测死亡吗)
 1. [Uzi 复出后遭遇首败](https://www.zhihu.com/search?q=Uzi 复出后遭遇首败)
