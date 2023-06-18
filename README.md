@@ -15,12 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 18 2023 23:07:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 19 2023 00:10:14 GMT+0800 (China Standard Time) -->
 
 1. [回光返照是身体能预测死亡吗](https://www.zhihu.com/search?q=回光返照是身体能预测死亡吗)
-1. [Uzi 复出后遭遇首败](https://www.zhihu.com/search?q=Uzi 复出后遭遇首败)
-1. [英语四六级考试](https://www.zhihu.com/search?q=英语四六级考试)
-1. [「鼠头鸭脖」事件异物是鼠头](https://www.zhihu.com/search?q=「鼠头鸭脖」事件异物是鼠头)
 
 <!-- END -->
 
