@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 19 2023 18:09:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 19 2023 19:07:49 GMT+0800 (China Standard Time) -->
 
 1. [新闻学教授谈张雪峰言论](https://www.zhihu.com/search?q=新闻学教授谈张雪峰言论)
 1. [鼠头鸭脖涉事企业经营 700
