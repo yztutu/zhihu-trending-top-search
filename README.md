@@ -15,8 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 20 2023 16:11:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 20 2023 17:08:48 GMT+0800 (China Standard Time) -->
 
+1. [高考用 0.7 的笔可以吗](https://www.zhihu.com/search?q=高考用 0.7 的笔可以吗)
 1. [鼠头鸭脖涉事企业经营 700
    多个食堂](https://www.zhihu.com/search?q=鼠头鸭脖涉事企业经营 700 多个食堂)
 1. [新闻学教授谈张雪峰言论](https://www.zhihu.com/search?q=新闻学教授谈张雪峰言论)
