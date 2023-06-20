@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 20 2023 20:17:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 20 2023 21:12:11 GMT+0800 (China Standard Time) -->
 
 1. [高考用 0.7 的笔可以吗](https://www.zhihu.com/search?q=高考用 0.7 的笔可以吗)
 1. [房贷降息](https://www.zhihu.com/search?q=房贷降息)
