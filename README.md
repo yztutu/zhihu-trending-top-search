@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 20 2023 17:08:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 20 2023 18:09:16 GMT+0800 (China Standard Time) -->
 
 1. [高考用 0.7 的笔可以吗](https://www.zhihu.com/search?q=高考用 0.7 的笔可以吗)
 1. [鼠头鸭脖涉事企业经营 700
