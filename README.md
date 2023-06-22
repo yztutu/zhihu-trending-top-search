@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 22 2023 23:08:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 23 2023 00:10:50 GMT+0800 (China Standard Time) -->
 
 1. [高考志愿填报攻略](https://www.zhihu.com/search?q=高考志愿填报攻略)
 1. [六月份游戏版号下发](https://www.zhihu.com/search?q=六月份游戏版号下发)
@@ -24,10 +24,6 @@
    死)
 1. [端午节](https://www.zhihu.com/search?q=端午节)
 1. [少年行开播](https://www.zhihu.com/search?q=少年行开播)
-1. [燃气灶增加患白血病风险](https://www.zhihu.com/search?q=燃气灶增加患白血病风险)
-1. [二手房交易已转变为买方市场](https://www.zhihu.com/search?q=二手房交易已转变为买方市场)
-1. [特斯拉充电桩有望「一统北美」](https://www.zhihu.com/search?q=特斯拉充电桩有望「一统北美」)
-1. [应届生就业重心下沉](https://www.zhihu.com/search?q=应届生就业重心下沉)
 
 <!-- END -->
 
