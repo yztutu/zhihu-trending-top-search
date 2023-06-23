@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 24 2023 06:09:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 24 2023 07:09:27 GMT+0800 (China Standard Time) -->
 
 1. [白玉兰获奖名单](https://www.zhihu.com/search?q=白玉兰获奖名单)
 1. [高考志愿填报攻略](https://www.zhihu.com/search?q=高考志愿填报攻略)
