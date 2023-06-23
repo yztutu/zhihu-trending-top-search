@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 23 2023 16:12:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 23 2023 17:09:58 GMT+0800 (China Standard Time) -->
 
 1. [高考志愿填报攻略](https://www.zhihu.com/search?q=高考志愿填报攻略)
-1. [端午节](https://www.zhihu.com/search?q=端午节)
 1. [少年行开播](https://www.zhihu.com/search?q=少年行开播)
 1. [泰坦号观光艇 5 名乘员死亡](https://www.zhihu.com/search?q=泰坦号观光艇 5
    名乘员死亡)
@@ -26,6 +25,7 @@
 1. [成都上空现 UFO？](https://www.zhihu.com/search?q=成都上空现 UFO？)
 1. [江西分数线公布](https://www.zhihu.com/search?q=江西分数线公布)
 1. [多地高考成绩公布](https://www.zhihu.com/search?q=多地高考成绩公布)
+1. [端午节](https://www.zhihu.com/search?q=端午节)
 1. [六月份游戏版号下发](https://www.zhihu.com/search?q=六月份游戏版号下发)
 1. [任天堂游戏直面会](https://www.zhihu.com/search?q=任天堂游戏直面会)
 1. [银川烧烤店爆炸致 31 死](https://www.zhihu.com/search?q=银川烧烤店爆炸致 31
