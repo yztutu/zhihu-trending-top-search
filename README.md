@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 23 2023 07:10:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 23 2023 08:59:07 GMT+0800 (China Standard Time) -->
 
 1. [高考志愿填报攻略](https://www.zhihu.com/search?q=高考志愿填报攻略)
 1. [六月份游戏版号下发](https://www.zhihu.com/search?q=六月份游戏版号下发)
@@ -24,6 +24,9 @@
    死)
 1. [端午节](https://www.zhihu.com/search?q=端午节)
 1. [少年行开播](https://www.zhihu.com/search?q=少年行开播)
+1. [泰坦号观光艇 5 名乘员死亡](https://www.zhihu.com/search?q=泰坦号观光艇 5
+   名乘员死亡)
+1. [保罗被交易至勇士](https://www.zhihu.com/search?q=保罗被交易至勇士)
 
 <!-- END -->
 
