@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 23 2023 23:10:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 24 2023 00:12:25 GMT+0800 (China Standard Time) -->
 
 1. [白玉兰获奖名单](https://www.zhihu.com/search?q=白玉兰获奖名单)
 1. [高考志愿填报攻略](https://www.zhihu.com/search?q=高考志愿填报攻略)
@@ -28,12 +28,6 @@
 1. [四川高考分数线公布](https://www.zhihu.com/search?q=四川高考分数线公布)
 1. [北京观测史上首次连续两日气温突破
    40℃](https://www.zhihu.com/search?q=北京观测史上首次连续两日气温突破 40℃)
-1. [少年行开播](https://www.zhihu.com/search?q=少年行开播)
-1. [端午节](https://www.zhihu.com/search?q=端午节)
-1. [六月份游戏版号下发](https://www.zhihu.com/search?q=六月份游戏版号下发)
-1. [任天堂游戏直面会](https://www.zhihu.com/search?q=任天堂游戏直面会)
-1. [银川烧烤店爆炸致 31 死](https://www.zhihu.com/search?q=银川烧烤店爆炸致 31
-   死)
 
 <!-- END -->
 
