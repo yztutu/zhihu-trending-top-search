@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 23 2023 13:09:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 23 2023 14:13:36 GMT+0800 (China Standard Time) -->
 
 1. [高考志愿填报攻略](https://www.zhihu.com/search?q=高考志愿填报攻略)
 1. [端午节](https://www.zhihu.com/search?q=端午节)
@@ -24,6 +24,8 @@
    名乘员死亡)
 1. [保罗被交易至勇士](https://www.zhihu.com/search?q=保罗被交易至勇士)
 1. [成都上空现 UFO？](https://www.zhihu.com/search?q=成都上空现 UFO？)
+1. [江西分数线公布](https://www.zhihu.com/search?q=江西分数线公布)
+1. [多地高考成绩公布](https://www.zhihu.com/search?q=多地高考成绩公布)
 1. [六月份游戏版号下发](https://www.zhihu.com/search?q=六月份游戏版号下发)
 1. [任天堂游戏直面会](https://www.zhihu.com/search?q=任天堂游戏直面会)
 1. [银川烧烤店爆炸致 31 死](https://www.zhihu.com/search?q=银川烧烤店爆炸致 31
