@@ -15,9 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 24 2023 23:09:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 25 2023 00:11:40 GMT+0800 (China Standard Time) -->
 
-1. [高考志愿填报攻略](https://www.zhihu.com/search?q=高考志愿填报攻略)
 1. [安徽高考分数线](https://www.zhihu.com/search?q=安徽高考分数线)
 1. [天津高考分数线](https://www.zhihu.com/search?q=天津高考分数线)
 1. [山西高考分数线](https://www.zhihu.com/search?q=山西高考分数线)
@@ -26,19 +25,6 @@
 1. [福建高考分数线](https://www.zhihu.com/search?q=福建高考分数线)
 1. [河南高考分数线](https://www.zhihu.com/search?q=河南高考分数线)
 1. [瓦格纳集团称「内战已经正式开始」](https://www.zhihu.com/search?q=瓦格纳集团称「内战已经正式开始」)
-1. [白玉兰获奖名单](https://www.zhihu.com/search?q=白玉兰获奖名单)
-1. [四川高考分数线公布](https://www.zhihu.com/search?q=四川高考分数线公布)
-1. [北京观测史上首次连续两日气温突破
-   40℃](https://www.zhihu.com/search?q=北京观测史上首次连续两日气温突破 40℃)
-1. [天津高考分数线公布](https://www.zhihu.com/search?q=天津高考分数线公布)
-1. [山西高考分数线公布](https://www.zhihu.com/search?q=山西高考分数线公布)
-1. [江苏高考分数线公布](https://www.zhihu.com/search?q=江苏高考分数线公布)
-1. [江西分数线公布](https://www.zhihu.com/search?q=江西分数线公布)
-1. [多地高考成绩公布](https://www.zhihu.com/search?q=多地高考成绩公布)
-1. [成都上空现 UFO？](https://www.zhihu.com/search?q=成都上空现 UFO？)
-1. [泰坦号观光艇 5 名乘员死亡](https://www.zhihu.com/search?q=泰坦号观光艇 5
-   名乘员死亡)
-1. [保罗被交易至勇士](https://www.zhihu.com/search?q=保罗被交易至勇士)
 
 <!-- END -->
 
