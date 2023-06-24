@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 24 2023 19:07:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 24 2023 20:17:30 GMT+0800 (China Standard Time) -->
 
 1. [白玉兰获奖名单](https://www.zhihu.com/search?q=白玉兰获奖名单)
 1. [高考志愿填报攻略](https://www.zhihu.com/search?q=高考志愿填报攻略)
@@ -25,6 +25,7 @@
 1. [江苏高考分数线](https://www.zhihu.com/search?q=江苏高考分数线)
 1. [辽宁高考分数线](https://www.zhihu.com/search?q=辽宁高考分数线)
 1. [福建高考分数线](https://www.zhihu.com/search?q=福建高考分数线)
+1. [河南高考分数线](https://www.zhihu.com/search?q=河南高考分数线)
 1. [四川高考分数线公布](https://www.zhihu.com/search?q=四川高考分数线公布)
 1. [北京观测史上首次连续两日气温突破
    40℃](https://www.zhihu.com/search?q=北京观测史上首次连续两日气温突破 40℃)
