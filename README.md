@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 25 2023 09:05:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 25 2023 11:06:25 GMT+0800 (China Standard Time) -->
 
 1. [安徽高考分数线](https://www.zhihu.com/search?q=安徽高考分数线)
 1. [天津高考分数线](https://www.zhihu.com/search?q=天津高考分数线)
@@ -24,6 +24,8 @@
 1. [辽宁高考分数线](https://www.zhihu.com/search?q=辽宁高考分数线)
 1. [福建高考分数线](https://www.zhihu.com/search?q=福建高考分数线)
 1. [河南高考分数线](https://www.zhihu.com/search?q=河南高考分数线)
+1. [北京高考分数线](https://www.zhihu.com/search?q=北京高考分数线)
+1. [河北高考分数线](https://www.zhihu.com/search?q=河北高考分数线)
 1. [瓦格纳集团称「内战已经正式开始」](https://www.zhihu.com/search?q=瓦格纳集团称「内战已经正式开始」)
 
 <!-- END -->
