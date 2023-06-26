@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 27 2023 00:12:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 27 2023 01:08:45 GMT+0800 (China Standard Time) -->
 
 1. [高考志愿](https://www.zhihu.com/search?q=高考志愿)
 1. [城市过夏天](https://www.zhihu.com/search?q=城市过夏天)
