@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 26 2023 13:10:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 26 2023 14:13:59 GMT+0800 (China Standard Time) -->
 
 1. [高考志愿](https://www.zhihu.com/search?q=高考志愿)
 1. [山东公布分数线](https://www.zhihu.com/search?q=山东公布分数线)
