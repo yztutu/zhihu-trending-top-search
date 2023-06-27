@@ -1,7 +1,6 @@
 [
   { "query": "高考志愿", "display_query": "高考志愿" },
   { "query": "城市过夏天", "display_query": "城市过夏天" },
-  { "query": "周杰伦海口演唱会", "display_query": "周杰伦海口演唱会" },
   {
     "query": "一季度离婚登记量同比增加 12.7 万对",
     "display_query": "一季度离婚登记量同比增加 12.7 万对"
@@ -14,6 +13,7 @@
     "query": "官方通报「医院盒饭芋头烧鸭现老鼠头」",
     "display_query": "官方通报「医院盒饭芋头烧鸭现老鼠头」"
   },
+  { "query": "周杰伦海口演唱会", "display_query": "周杰伦海口演唱会" },
   {
     "query": "AI 作画神器 Midjourney 更新",
     "display_query": "AI 作画神器 Midjourney 更新"
