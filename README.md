@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 27 2023 19:08:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 27 2023 20:19:41 GMT+0800 (China Standard Time) -->
 
 1. [高考志愿](https://www.zhihu.com/search?q=高考志愿)
 1. [城市过夏天](https://www.zhihu.com/search?q=城市过夏天)
@@ -27,6 +27,7 @@
    万对](https://www.zhihu.com/search?q=一季度离婚登记量同比增加 12.7 万对)
 1. [6 岁男童游泳后感染「食脑虫」](https://www.zhihu.com/search?q=6
    岁男童游泳后感染「食脑虫」)
+1. [官方通报「医院盒饭芋头烧鸭现老鼠头」](https://www.zhihu.com/search?q=官方通报「医院盒饭芋头烧鸭现老鼠头」)
 1. [李嘉诚家族抄底内地房企项目](https://www.zhihu.com/search?q=李嘉诚家族抄底内地房企项目)
 
 <!-- END -->
