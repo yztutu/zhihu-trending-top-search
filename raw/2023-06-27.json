@@ -2,10 +2,6 @@
   { "query": "高考志愿", "display_query": "高考志愿" },
   { "query": "城市过夏天", "display_query": "城市过夏天" },
   {
-    "query": "《三国演义》通篇使用多少计？",
-    "display_query": "《三国演义》通篇使用多少计？"
-  },
-  {
     "query": "AI 作画神器 Midjourney 更新",
     "display_query": "AI 作画神器 Midjourney 更新"
   },
@@ -21,6 +17,10 @@
   {
     "query": "官方通报「医院盒饭芋头烧鸭现老鼠头」",
     "display_query": "官方通报「医院盒饭芋头烧鸭现老鼠头」"
+  },
+  {
+    "query": "《三国演义》通篇使用多少计？",
+    "display_query": "《三国演义》通篇使用多少计？"
   },
   {
     "query": "李嘉诚家族抄底内地房企项目",
