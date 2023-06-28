@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 28 2023 16:12:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 28 2023 17:09:47 GMT+0800 (China Standard Time) -->
 
 1. [城市过夏天](https://www.zhihu.com/search?q=城市过夏天)
 1. [官方通报「医院盒饭芋头烧鸭现老鼠头」](https://www.zhihu.com/search?q=官方通报「医院盒饭芋头烧鸭现老鼠头」)
