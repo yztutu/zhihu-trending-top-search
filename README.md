@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 28 2023 22:08:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 28 2023 23:09:50 GMT+0800 (China Standard Time) -->
 
 1. [城市过夏天](https://www.zhihu.com/search?q=城市过夏天)
 1. [近 20 城放松住房限购](https://www.zhihu.com/search?q=近 20 城放松住房限购)
