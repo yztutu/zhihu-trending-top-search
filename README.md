@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 28 2023 23:09:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 29 2023 00:12:20 GMT+0800 (China Standard Time) -->
 
 1. [城市过夏天](https://www.zhihu.com/search?q=城市过夏天)
 1. [近 20 城放松住房限购](https://www.zhihu.com/search?q=近 20 城放松住房限购)
@@ -25,11 +25,6 @@
 1. [2024QS 世界大学排名](https://www.zhihu.com/search?q=2024QS 世界大学排名)
 1. [ 油价迎年内第五涨](https://www.zhihu.com/search?q= 油价迎年内第五涨)
 1. [多抓鱼将关闭北京线下门店](https://www.zhihu.com/search?q=多抓鱼将关闭北京线下门店)
-1. [官方通报「医院盒饭芋头烧鸭现老鼠头」](https://www.zhihu.com/search?q=官方通报「医院盒饭芋头烧鸭现老鼠头」)
-1. [6 岁男童游泳后感染「食脑虫」](https://www.zhihu.com/search?q=6
-   岁男童游泳后感染「食脑虫」)
-1. [一季度离婚登记量同比增加 12.7
-   万对](https://www.zhihu.com/search?q=一季度离婚登记量同比增加 12.7 万对)
 
 <!-- END -->
 
