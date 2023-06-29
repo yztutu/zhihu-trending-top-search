@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 29 2023 22:08:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 29 2023 23:09:38 GMT+0800 (China Standard Time) -->
 
 1. [泰坦号残骸中发现疑似人类遗骸](https://www.zhihu.com/search?q=泰坦号残骸中发现疑似人类遗骸)
 1. [多家高校下月起停用微信支付](https://www.zhihu.com/search?q=多家高校下月起停用微信支付)
