@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 29 2023 11:18:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 29 2023 12:11:54 GMT+0800 (China Standard Time) -->
 
 1. [城市过夏天](https://www.zhihu.com/search?q=城市过夏天)
 1. [ 油价迎年内第五涨](https://www.zhihu.com/search?q= 油价迎年内第五涨)
