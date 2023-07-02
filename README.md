@@ -15,11 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 02 2023 23:08:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 03 2023 00:10:49 GMT+0800 (China Standard Time) -->
 
 1. [中国女篮夺亚洲杯冠军](https://www.zhihu.com/search?q=中国女篮夺亚洲杯冠军)
-1. [山河大学是什么梗](https://www.zhihu.com/search?q=山河大学是什么梗)
-1. [中国女篮晋级决赛](https://www.zhihu.com/search?q=中国女篮晋级决赛)
 
 <!-- END -->
 
