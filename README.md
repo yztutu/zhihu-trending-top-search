@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 03 2023 22:08:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 03 2023 23:10:02 GMT+0800 (China Standard Time) -->
 
 1. [蔡徐坤回应](https://www.zhihu.com/search?q=蔡徐坤回应)
 1. [原神枫丹序曲 PV](https://www.zhihu.com/search?q=原神枫丹序曲 PV)
