@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 05 2023 23:10:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 06 2023 00:13:01 GMT+0800 (China Standard Time) -->
 
 1. [歌手李玟轻生去世](https://www.zhihu.com/search?q=歌手李玟轻生去世)
 1. [一个人能无聊到什么程度？](https://www.zhihu.com/search?q=一个人能无聊到什么程度？)
@@ -26,13 +26,6 @@
 1. [年轻人只有 city work](https://www.zhihu.com/search?q=年轻人只有 city work)
 1. [《西游记》中最恐怖最残忍的妖怪](https://www.zhihu.com/search?q=《西游记》中最恐怖最残忍的妖怪)
 1. [原神 3.8 版本上线](https://www.zhihu.com/search?q=原神 3.8 版本上线)
-1. [「全职儿女」](https://www.zhihu.com/search?q=「全职儿女」)
-1. [	IAEA
-   称日本核污水排海计划符合国际安全标准](https://www.zhihu.com/search?q=	IAEA
-   称日本核污水排海计划符合国际安全标准)
-1. [沈阳发现一例猴痘病例](https://www.zhihu.com/search?q=沈阳发现一例猴痘病例)
-1. [Jackeylove 退出亚运会名单](https://www.zhihu.com/search?q=Jackeylove
-   退出亚运会名单)
 
 <!-- END -->
 
