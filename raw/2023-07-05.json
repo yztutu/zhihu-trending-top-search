@@ -1,9 +1,5 @@
 [
   {
-    "query": "Jackeylove 退出亚运会名单",
-    "display_query": "Jackeylove 退出亚运会名单"
-  },
-  {
     "query": "一个人能无聊到什么程度？",
     "display_query": "一个人能无聊到什么程度？"
   },
@@ -16,5 +12,9 @@
     "query": "\tIAEA 称日本核污水排海计划符合国际安全标准",
     "display_query": "\tIAEA 称日本核污水排海计划符合国际安全标准"
   },
-  { "query": "「全职儿女」", "display_query": "「全职儿女」" }
+  { "query": "「全职儿女」", "display_query": "「全职儿女」" },
+  {
+    "query": "Jackeylove 退出亚运会名单",
+    "display_query": "Jackeylove 退出亚运会名单"
+  }
 ]
