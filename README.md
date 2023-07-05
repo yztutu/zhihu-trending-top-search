@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 05 2023 13:10:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 05 2023 14:13:48 GMT+0800 (China Standard Time) -->
 
 1. [一个人能无聊到什么程度？](https://www.zhihu.com/search?q=一个人能无聊到什么程度？)
 1. [沈阳发现一例猴痘病例](https://www.zhihu.com/search?q=沈阳发现一例猴痘病例)
@@ -24,6 +24,9 @@
    称日本核污水排海计划符合国际安全标准](https://www.zhihu.com/search?q=	IAEA
    称日本核污水排海计划符合国际安全标准)
 1. [「全职儿女」](https://www.zhihu.com/search?q=「全职儿女」)
+1. [河北工业大学芬兰校区](https://www.zhihu.com/search?q=河北工业大学芬兰校区)
+1. [重庆万州洪涝 15 人遇难](https://www.zhihu.com/search?q=重庆万州洪涝 15
+   人遇难)
 1. [Jackeylove 退出亚运会名单](https://www.zhihu.com/search?q=Jackeylove
    退出亚运会名单)
 
