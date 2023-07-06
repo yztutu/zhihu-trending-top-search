@@ -1,5 +1,4 @@
 [
-  { "query": "歌手李玟轻生去世", "display_query": "歌手李玟轻生去世" },
   {
     "query": "一个人能无聊到什么程度？",
     "display_query": "一个人能无聊到什么程度？"
@@ -18,6 +17,7 @@
   { "query": "西安过夏天", "display_query": "西安过夏天" },
   { "query": "成都过夏天", "display_query": "成都过夏天" },
   { "query": "杭州过夏天", "display_query": "杭州过夏天" },
+  { "query": "歌手李玟轻生去世", "display_query": "歌手李玟轻生去世" },
   { "query": "原神 3.8 版本上线", "display_query": "原神 3.8 版本上线" },
   { "query": "河北工业大学芬兰校区", "display_query": "河北工业大学芬兰校区" },
   {
