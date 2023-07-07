@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 07 2023 21:18:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 07 2023 22:09:01 GMT+0800 (China Standard Time) -->
 
 1. [年轻人只有 city work](https://www.zhihu.com/search?q=年轻人只有 city work)
 1. [《西游记》中最恐怖最残忍的妖怪](https://www.zhihu.com/search?q=《西游记》中最恐怖最残忍的妖怪)
@@ -25,6 +25,7 @@
 1. [蚂蚁集团被罚款 71.23 亿元](https://www.zhihu.com/search?q=蚂蚁集团被罚款
    71.23 亿元)
 1. [「牵手门」调查结果公布](https://www.zhihu.com/search?q=「牵手门」调查结果公布)
+1. [长沙发现 3 例猴痘病例](https://www.zhihu.com/search?q=长沙发现 3 例猴痘病例)
 1. [让你「心上开出一朵花」的瞬间](https://www.zhihu.com/search?q=让你「心上开出一朵花」的瞬间)
 1. [一个人能无聊到什么程度？](https://www.zhihu.com/search?q=一个人能无聊到什么程度？)
 1. [长沙过夏天](https://www.zhihu.com/search?q=长沙过夏天)
