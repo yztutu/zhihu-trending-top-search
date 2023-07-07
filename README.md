@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 07 2023 10:52:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 07 2023 11:21:37 GMT+0800 (China Standard Time) -->
 
 1. [一个人能无聊到什么程度？](https://www.zhihu.com/search?q=一个人能无聊到什么程度？)
 1. [让你「心上开出一朵花」的瞬间](https://www.zhihu.com/search?q=让你「心上开出一朵花」的瞬间)
