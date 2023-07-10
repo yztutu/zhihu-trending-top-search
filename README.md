@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 10 2023 20:19:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 10 2023 21:20:14 GMT+0800 (China Standard Time) -->
 
 1. [年轻人只有 city work](https://www.zhihu.com/search?q=年轻人只有 city work)
 1. [6 月 CPI 环比下降 0.2%](https://www.zhihu.com/search?q=6 月 CPI 环比下降
