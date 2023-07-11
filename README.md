@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 11 2023 07:09:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 11 2023 08:53:56 GMT+0800 (China Standard Time) -->
 
 1. [年轻人只有 city work](https://www.zhihu.com/search?q=年轻人只有 city work)
 1. [6 月 CPI 环比下降 0.2%](https://www.zhihu.com/search?q=6 月 CPI 环比下降
@@ -24,6 +24,8 @@
 1. [如何避免一个人去健身房尴尬的局面？](https://www.zhihu.com/search?q=如何避免一个人去健身房尴尬的局面？)
 1. [你在体制内受过哪些委屈？](https://www.zhihu.com/search?q=你在体制内受过哪些委屈？)
 1. [陕西发现一例猴痘病例](https://www.zhihu.com/search?q=陕西发现一例猴痘病例)
+1. [今日入伏](https://www.zhihu.com/search?q=今日入伏)
+1. [航班遇严重颠簸](https://www.zhihu.com/search?q=航班遇严重颠簸)
 
 <!-- END -->
 
