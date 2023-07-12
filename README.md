@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 12 2023 14:12:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 12 2023 15:09:28 GMT+0800 (China Standard Time) -->
 
 1. [年轻人只有 city work](https://www.zhihu.com/search?q=年轻人只有 city work)
+1. [「35+」歧视](https://www.zhihu.com/search?q=「35+」歧视)
 1. [离职后怎么退出工作群](https://www.zhihu.com/search?q=离职后怎么退出工作群)
 1. [海贼王 1087 话情报](https://www.zhihu.com/search?q=海贼王 1087 话情报)
 1. [宝格丽官网疑把台湾列为国家](https://www.zhihu.com/search?q=宝格丽官网疑把台湾列为国家)
