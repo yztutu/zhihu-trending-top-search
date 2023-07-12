@@ -20,5 +20,9 @@
     "display_query": "朱雀二号运载火箭发射成功"
   },
   { "query": "无畏契约国服上线", "display_query": "无畏契约国服上线" },
+  {
+    "query": "鲁迅可能是 MBTI 中的哪种？",
+    "display_query": "鲁迅可能是 MBTI 中的哪种？"
+  },
   { "query": "航班遇严重颠簸", "display_query": "航班遇严重颠簸" }
 ]

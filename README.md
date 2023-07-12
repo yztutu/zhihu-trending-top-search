@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 12 2023 11:19:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 12 2023 12:11:42 GMT+0800 (China Standard Time) -->
 
 1. [郑州暴雨](https://www.zhihu.com/search?q=郑州暴雨)
 1. [年轻人只有 city work](https://www.zhihu.com/search?q=年轻人只有 city work)
@@ -28,6 +28,8 @@
    万亿元](https://www.zhihu.com/search?q=上半年人民币存款增加 20.1 万亿元)
 1. [朱雀二号运载火箭发射成功](https://www.zhihu.com/search?q=朱雀二号运载火箭发射成功)
 1. [无畏契约国服上线](https://www.zhihu.com/search?q=无畏契约国服上线)
+1. [鲁迅可能是 MBTI 中的哪种？](https://www.zhihu.com/search?q=鲁迅可能是 MBTI
+   中的哪种？)
 1. [航班遇严重颠簸](https://www.zhihu.com/search?q=航班遇严重颠簸)
 
 <!-- END -->
