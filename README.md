@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 12 2023 18:10:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 12 2023 19:08:04 GMT+0800 (China Standard Time) -->
 
 1. [年轻人只有 city work](https://www.zhihu.com/search?q=年轻人只有 city work)
 1. [成都过夏天](https://www.zhihu.com/search?q=成都过夏天)
