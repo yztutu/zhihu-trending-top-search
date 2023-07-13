@@ -15,21 +15,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 13 2023 23:10:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 14 2023 00:12:20 GMT+0800 (China Standard Time) -->
 
+1. [乘风 2023 复活赛](https://www.zhihu.com/search?q=乘风 2023 复活赛)
 1. [液氮温区镍氧化物超导体](https://www.zhihu.com/search?q=液氮温区镍氧化物超导体)
 1. [中国首创颠覆技术](https://www.zhihu.com/search?q=中国首创颠覆技术)
 1. [一个人可以节俭到什么程度](https://www.zhihu.com/search?q=一个人可以节俭到什么程度)
-1. [年轻人只有 city work](https://www.zhihu.com/search?q=年轻人只有 city work)
-1. [成都过夏天](https://www.zhihu.com/search?q=成都过夏天)
-1. [大理过夏天](https://www.zhihu.com/search?q=大理过夏天)
-1. [35 岁歧视](https://www.zhihu.com/search?q=35 岁歧视)
-1. [载人登月初步方案公布](https://www.zhihu.com/search?q=载人登月初步方案公布)
-1. [鲁迅可能是 MBTI 中的哪种？](https://www.zhihu.com/search?q=鲁迅可能是 MBTI
-   中的哪种？)
-1. [无畏契约国服上线](https://www.zhihu.com/search?q=无畏契约国服上线)
-1. [「35+」歧视](https://www.zhihu.com/search?q=「35+」歧视)
-1. [朱雀二号运载火箭发射成功](https://www.zhihu.com/search?q=朱雀二号运载火箭发射成功)
 
 <!-- END -->
 
