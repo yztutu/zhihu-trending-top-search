@@ -15,11 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 13 2023 15:09:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 13 2023 16:12:41 GMT+0800 (China Standard Time) -->
 
-1. [年轻人只有 city work](https://www.zhihu.com/search?q=年轻人只有 city work)
 1. [液氮温区镍氧化物超导体](https://www.zhihu.com/search?q=液氮温区镍氧化物超导体)
 1. [中国首创颠覆技术](https://www.zhihu.com/search?q=中国首创颠覆技术)
+1. [年轻人只有 city work](https://www.zhihu.com/search?q=年轻人只有 city work)
 1. [成都过夏天](https://www.zhihu.com/search?q=成都过夏天)
 1. [大理过夏天](https://www.zhihu.com/search?q=大理过夏天)
 1. [35 岁歧视](https://www.zhihu.com/search?q=35 岁歧视)
