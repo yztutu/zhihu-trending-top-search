@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 14 2023 12:11:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 14 2023 13:09:38 GMT+0800 (China Standard Time) -->
 
 1. [一个人可以节俭到什么程度](https://www.zhihu.com/search?q=一个人可以节俭到什么程度)
 1. [乘风 2023 复活赛](https://www.zhihu.com/search?q=乘风 2023 复活赛)
