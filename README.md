@@ -15,9 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 14 2023 23:09:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 15 2023 00:12:25 GMT+0800 (China Standard Time) -->
 
-1. [乘风 2023 复活赛](https://www.zhihu.com/search?q=乘风 2023 复活赛)
 1. [ChatGPT 对手 Claude2 发布新版本](https://www.zhihu.com/search?q=ChatGPT 对手
    Claude2 发布新版本)
 1. [世卫报告「阿斯巴甜可能致癌」](https://www.zhihu.com/search?q=世卫报告「阿斯巴甜可能致癌」)
@@ -25,10 +24,6 @@
    全面升级)
 1. [一人之下漫画更新 674 话](https://www.zhihu.com/search?q=一人之下漫画更新 674
    话)
-1. [人可以节俭到什么地步](https://www.zhihu.com/search?q=人可以节俭到什么地步)
-1. [一个人可以节俭到什么程度](https://www.zhihu.com/search?q=一个人可以节俭到什么程度)
-1. [液氮温区镍氧化物超导体](https://www.zhihu.com/search?q=液氮温区镍氧化物超导体)
-1. [中国首创颠覆技术](https://www.zhihu.com/search?q=中国首创颠覆技术)
 
 <!-- END -->
 
