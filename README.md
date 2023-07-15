@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 15 2023 23:09:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 16 2023 00:11:17 GMT+0800 (China Standard Time) -->
 
 1. [6 月份 70 城房价出炉](https://www.zhihu.com/search?q=6 月份 70 城房价出炉)
 1. [鄱阳湖水面面积 13
@@ -23,13 +23,6 @@
    天缩水超四分之一)
 1. [河南永城禁售凉皮](https://www.zhihu.com/search?q=河南永城禁售凉皮)
 1. [报道称阿斯麦与中方合作面临更严限制](https://www.zhihu.com/search?q=报道称阿斯麦与中方合作面临更严限制)
-1. [一人之下漫画更新 674 话](https://www.zhihu.com/search?q=一人之下漫画更新 674
-   话)
-1. [谷歌人工智能 Bard 全面升级](https://www.zhihu.com/search?q=谷歌人工智能 Bard
-   全面升级)
-1. [ChatGPT 对手 Claude2 发布新版本](https://www.zhihu.com/search?q=ChatGPT 对手
-   Claude2 发布新版本)
-1. [世卫报告「阿斯巴甜可能致癌」](https://www.zhihu.com/search?q=世卫报告「阿斯巴甜可能致癌」)
 
 <!-- END -->
 
