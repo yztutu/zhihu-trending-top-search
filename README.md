@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 16 2023 22:07:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 16 2023 23:08:46 GMT+0800 (China Standard Time) -->
 
 1. [米酵菌酸中毒病死率超
    50%](https://www.zhihu.com/search?q=米酵菌酸中毒病死率超 50%)
