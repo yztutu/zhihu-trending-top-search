@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 18 2023 13:08:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 18 2023 14:12:14 GMT+0800 (China Standard Time) -->
 
 1. [台风「泰利」](https://www.zhihu.com/search?q=台风「泰利」)
 1. [人可以节俭到什么程度](https://www.zhihu.com/search?q=人可以节俭到什么程度)
