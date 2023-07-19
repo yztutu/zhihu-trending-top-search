@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 19 2023 18:09:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 19 2023 19:07:22 GMT+0800 (China Standard Time) -->
 
 1. [人可以节俭到什么程度](https://www.zhihu.com/search?q=人可以节俭到什么程度)
 1. [结账时发现东西很贵咋办](https://www.zhihu.com/search?q=结账时发现东西很贵咋办)
