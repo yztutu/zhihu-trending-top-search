@@ -15,11 +15,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 20 2023 07:08:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 20 2023 08:52:14 GMT+0800 (China Standard Time) -->
 
 1. [人可以节俭到什么程度](https://www.zhihu.com/search?q=人可以节俭到什么程度)
 1. [结账时发现东西很贵咋办](https://www.zhihu.com/search?q=结账时发现东西很贵咋办)
 1. [唐尚珺被华中师大退档](https://www.zhihu.com/search?q=唐尚珺被华中师大退档)
+1. [苹果正研发 AI 大语言模型](https://www.zhihu.com/search?q=苹果正研发 AI
+   大语言模型)
 
 <!-- END -->
 
