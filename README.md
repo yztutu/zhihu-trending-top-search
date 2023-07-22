@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 23 2023 06:07:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 23 2023 07:08:02 GMT+0800 (China Standard Time) -->
 
 1. [结账时发现东西很贵咋办](https://www.zhihu.com/search?q=结账时发现东西很贵咋办)
 1. [西安「回流生」](https://www.zhihu.com/search?q=西安「回流生」)
