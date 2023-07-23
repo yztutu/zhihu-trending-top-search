@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 24 2023 00:10:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 24 2023 01:07:17 GMT+0800 (China Standard Time) -->
 
 1. [李昌钰被指伪造证据](https://www.zhihu.com/search?q=李昌钰被指伪造证据)
 1. [黑龙江一中学体育馆坍塌](https://www.zhihu.com/search?q=黑龙江一中学体育馆坍塌)
