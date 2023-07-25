@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 25 2023 16:11:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 25 2023 17:09:06 GMT+0800 (China Standard Time) -->
 
 1. [职场水母](https://www.zhihu.com/search?q=职场水母)
 1. [不动声色的善良](https://www.zhihu.com/search?q=不动声色的善良)
@@ -23,6 +23,8 @@
 1. [牟林翰虐待刑事案公开宣判](https://www.zhihu.com/search?q=牟林翰虐待刑事案公开宣判)
 1. [我国拟修改刑法](https://www.zhihu.com/search?q=我国拟修改刑法)
 1. [集中供冷](https://www.zhihu.com/search?q=集中供冷)
+1. [巴黎奥运会火炬设计揭晓](https://www.zhihu.com/search?q=巴黎奥运会火炬设计揭晓)
+1. [中国百强城市出炉](https://www.zhihu.com/search?q=中国百强城市出炉)
 1. [贾宝玉 MBTI](https://www.zhihu.com/search?q=贾宝玉 MBTI)
 1. [齐齐哈尔一中学体育馆坍塌](https://www.zhihu.com/search?q=齐齐哈尔一中学体育馆坍塌)
 1. [统一供凉](https://www.zhihu.com/search?q=统一供凉)
