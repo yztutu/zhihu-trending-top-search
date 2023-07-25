@@ -13,5 +13,7 @@
   {
     "query": "牟林翰虐待刑事案公开宣判",
     "display_query": "牟林翰虐待刑事案公开宣判"
-  }
+  },
+  { "query": "我国拟修改刑法", "display_query": "我国拟修改刑法" },
+  { "query": "统一供凉", "display_query": "统一供凉" }
 ]
