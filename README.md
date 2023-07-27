@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 28 2023 06:08:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 28 2023 07:08:15 GMT+0800 (China Standard Time) -->
 
 1. [向往的生活收官](https://www.zhihu.com/search?q=向往的生活收官)
 1. [雾山五行第二季播出](https://www.zhihu.com/search?q=雾山五行第二季播出)
