@@ -15,22 +15,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 27 2023 23:08:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 28 2023 00:10:49 GMT+0800 (China Standard Time) -->
 
-1. [2023 空军航空开放活动](https://www.zhihu.com/search?q=2023 空军航空开放活动)
+1. [向往的生活收官](https://www.zhihu.com/search?q=向往的生活收官)
 1. [雾山五行第二季播出](https://www.zhihu.com/search?q=雾山五行第二季播出)
 1. [北上广深 GDP](https://www.zhihu.com/search?q=北上广深 GDP)
 1. [「杜苏芮」再次升级为超强台风](https://www.zhihu.com/search?q=「杜苏芮」再次升级为超强台风)
 1. [多地电动汽车充电费用上调](https://www.zhihu.com/search?q=多地电动汽车充电费用上调)
 1. [年轻人的情绪生意](https://www.zhihu.com/search?q=年轻人的情绪生意)
-1. [答主直播复现室温超导实验](https://www.zhihu.com/search?q=答主直播复现室温超导实验)
-1. [7 月游戏版号下发](https://www.zhihu.com/search?q=7 月游戏版号下发)
-1. [抑郁症眼神](https://www.zhihu.com/search?q=抑郁症眼神)
-1. [集中供冷](https://www.zhihu.com/search?q=集中供冷)
-1. [答主重复室温超导实验](https://www.zhihu.com/search?q=答主重复室温超导实验)
-1. [武汉地震监测中心遭受网络攻击](https://www.zhihu.com/search?q=武汉地震监测中心遭受网络攻击)
-1. [十大地铁公司 4 个明确不准喝水](https://www.zhihu.com/search?q=十大地铁公司 4
-   个明确不准喝水)
 
 <!-- END -->
 
