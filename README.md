@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 27 2023 22:07:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 27 2023 23:08:55 GMT+0800 (China Standard Time) -->
 
 1. [2023 空军航空开放活动](https://www.zhihu.com/search?q=2023 空军航空开放活动)
 1. [雾山五行第二季播出](https://www.zhihu.com/search?q=雾山五行第二季播出)
