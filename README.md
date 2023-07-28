@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 28 2023 13:08:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 28 2023 14:11:50 GMT+0800 (China Standard Time) -->
 
 1. [向往的生活收官](https://www.zhihu.com/search?q=向往的生活收官)
 1. [北上广深 GDP](https://www.zhihu.com/search?q=北上广深 GDP)
@@ -24,6 +24,8 @@
 1. [年轻人的情绪生意](https://www.zhihu.com/search?q=年轻人的情绪生意)
 1. [山东一火车站多人被狂风暴雨吹倒](https://www.zhihu.com/search?q=山东一火车站多人被狂风暴雨吹倒)
 1. [台风「杜苏芮」在沿海登陆](https://www.zhihu.com/search?q=台风「杜苏芮」在沿海登陆)
+1. [今年第 6 号台风「卡努」生成](https://www.zhihu.com/search?q=今年第 6
+   号台风「卡努」生成)
 1. [雾山五行第二季播出](https://www.zhihu.com/search?q=雾山五行第二季播出)
 
 <!-- END -->
