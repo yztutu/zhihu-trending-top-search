@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 01 2023 02:10:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 01 2023 03:06:34 GMT+0800 (China Standard Time) -->
 
 1. [对抗上级后为何会主动离职？](https://www.zhihu.com/search?q=对抗上级后为何会主动离职？)
 1. [暴雨天上班受伤算不算工伤？](https://www.zhihu.com/search?q=暴雨天上班受伤算不算工伤？)
