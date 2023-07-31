@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 31 2023 16:12:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 31 2023 17:09:20 GMT+0800 (China Standard Time) -->
 
 1. [对抗上级后为何会主动离职？](https://www.zhihu.com/search?q=对抗上级后为何会主动离职？)
 1. [暴雨天上班受伤算不算工伤？](https://www.zhihu.com/search?q=暴雨天上班受伤算不算工伤？)
@@ -25,6 +25,7 @@
 1. [GDP 十强城市半年报出炉](https://www.zhihu.com/search?q=GDP
    十强城市半年报出炉)
 1. [黑神话悟空宣布线下试玩](https://www.zhihu.com/search?q=黑神话悟空宣布线下试玩)
+1. [暴雨自助手册](https://www.zhihu.com/search?q=暴雨自助手册)
 1. [「卡努」强度逐渐增强](https://www.zhihu.com/search?q=「卡努」强度逐渐增强)
 
 <!-- END -->
