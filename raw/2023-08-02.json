@@ -4,7 +4,6 @@
     "display_query": "对抗上级后为何会主动离职？"
   },
   { "query": "想让你留住的那一瞬间", "display_query": "想让你留住的那一瞬间" },
-  { "query": "京津冀暴雨", "display_query": "京津冀暴雨" },
   {
     "query": "暴雨油、电车谁更容易熄火？",
     "display_query": "暴雨油、电车谁更容易熄火？"
@@ -19,5 +18,6 @@
     "query": "答主直播复现室温超导出结果",
     "display_query": "答主直播复现室温超导出结果"
   },
-  { "query": "涿州暴雨", "display_query": "涿州暴雨" }
+  { "query": "涿州暴雨", "display_query": "涿州暴雨" },
+  { "query": "京津冀暴雨", "display_query": "京津冀暴雨" }
 ]
