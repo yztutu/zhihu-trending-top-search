@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 03 2023 16:10:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 03 2023 17:08:32 GMT+0800 (China Standard Time) -->
 
 1. [博德之门 3 正式版上线](https://www.zhihu.com/search?q=博德之门 3 正式版上线)
 1. [我被暴雨围困的 72 小时](https://www.zhihu.com/search?q=我被暴雨围困的 72
