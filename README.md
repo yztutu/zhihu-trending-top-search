@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Aug 06 2023 23:08:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 07 2023 00:10:39 GMT+0800 (China Standard Time) -->
 
 1. [山东平原县发生 5.5 级地震 ](https://www.zhihu.com/search?q=山东平原县发生
    5.5 级地震 )
@@ -24,8 +24,6 @@
    编辑器创造者 Bram Moolenaar 去世)
 1. [山东平原地震多地天空现红光](https://www.zhihu.com/search?q=山东平原地震多地天空现红光)
 1. [LNG 晋级全球总决赛](https://www.zhihu.com/search?q=LNG 晋级全球总决赛)
-1. [我被暴雨围困的 72 小时](https://www.zhihu.com/search?q=我被暴雨围困的 72
-   小时)
 
 <!-- END -->
 
