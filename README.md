@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 07 2023 09:58:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 07 2023 10:30:18 GMT+0800 (China Standard Time) -->
 
 1. [Vim 编辑器创造者 Bram Moolenaar 去世](https://www.zhihu.com/search?q=Vim
    编辑器创造者 Bram Moolenaar 去世)
