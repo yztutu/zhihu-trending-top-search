@@ -15,8 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 07 2023 21:11:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 07 2023 22:08:26 GMT+0800 (China Standard Time) -->
 
+1. [东北暴雨](https://www.zhihu.com/search?q=东北暴雨)
 1. [吉林舒兰强降雨已致 14
    人遇难](https://www.zhihu.com/search?q=吉林舒兰强降雨已致 14 人遇难)
 1. [答主续写小夭相柳同人](https://www.zhihu.com/search?q=答主续写小夭相柳同人)
