@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 07 2023 13:08:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 07 2023 14:11:55 GMT+0800 (China Standard Time) -->
 
 1. [山东平原地震多地天空现红光](https://www.zhihu.com/search?q=山东平原地震多地天空现红光)
 1. [LNG 晋级全球总决赛](https://www.zhihu.com/search?q=LNG 晋级全球总决赛)
