@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 08 2023 17:08:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 08 2023 18:08:54 GMT+0800 (China Standard Time) -->
 
 1. [东北暴雨](https://www.zhihu.com/search?q=东北暴雨)
 1. [答主续写小夭相柳同人](https://www.zhihu.com/search?q=答主续写小夭相柳同人)
@@ -24,6 +24,8 @@
 1. [孔子遇到电车难题怎么选](https://www.zhihu.com/search?q=孔子遇到电车难题怎么选)
 1. [搭子社交本质是什么](https://www.zhihu.com/search?q=搭子社交本质是什么)
 1. [星穹铁道卡芙卡角色 PV](https://www.zhihu.com/search?q=星穹铁道卡芙卡角色 PV)
+1. [碧桂园两笔美元债票息未付](https://www.zhihu.com/search?q=碧桂园两笔美元债票息未付)
+1. [自己做饭会省钱吗](https://www.zhihu.com/search?q=自己做饭会省钱吗)
 1. [河南发文及时调整存量房贷利率](https://www.zhihu.com/search?q=河南发文及时调整存量房贷利率)
 1. [高校 1.31 亿科研经费成果转化率为 0](https://www.zhihu.com/search?q=高校 1.31
    亿科研经费成果转化率为 0)
