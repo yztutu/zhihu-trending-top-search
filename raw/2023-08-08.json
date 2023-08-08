@@ -1,5 +1,4 @@
 [
-  { "query": "东北暴雨", "display_query": "东北暴雨" },
   { "query": "答主续写小夭相柳同人", "display_query": "答主续写小夭相柳同人" },
   { "query": "中国什么地方不会地震", "display_query": "中国什么地方不会地震" },
   { "query": "不负相思意全文", "display_query": "不负相思意全文" },
@@ -17,6 +16,7 @@
     "display_query": "碧桂园两笔美元债票息未付"
   },
   { "query": "自己做饭会省钱吗", "display_query": "自己做饭会省钱吗" },
+  { "query": "东北暴雨", "display_query": "东北暴雨" },
   {
     "query": "河南发文及时调整存量房贷利率",
     "display_query": "河南发文及时调整存量房贷利率"
