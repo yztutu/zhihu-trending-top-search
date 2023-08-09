@@ -7,10 +7,6 @@
     "display_query": "孔子遇到电车难题怎么选"
   },
   {
-    "query": "星穹铁道卡芙卡角色 PV",
-    "display_query": "星穹铁道卡芙卡角色 PV"
-  },
-  {
     "query": "碧桂园两笔美元债票息未付",
     "display_query": "碧桂园两笔美元债票息未付"
   },
@@ -22,6 +18,10 @@
   {
     "query": "我国 7 月 CPI 同比下降 0.3%",
     "display_query": "我国 7 月 CPI 同比下降 0.3%"
+  },
+  {
+    "query": "星穹铁道卡芙卡角色 PV",
+    "display_query": "星穹铁道卡芙卡角色 PV"
   },
   { "query": "搭子社交本质是什么", "display_query": "搭子社交本质是什么" }
 ]
