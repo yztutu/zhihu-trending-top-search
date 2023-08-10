@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 10 2023 23:09:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 11 2023 00:11:26 GMT+0800 (China Standard Time) -->
 
 1. [答主续写小夭相柳同人](https://www.zhihu.com/search?q=答主续写小夭相柳同人)
 1. [中国什么地方不会地震](https://www.zhihu.com/search?q=中国什么地方不会地震)
@@ -26,10 +26,6 @@
 1. [荒野2:社会时钟](https://www.zhihu.com/search?q=荒野2:社会时钟)
 1. [荒野会谈第二季](https://www.zhihu.com/search?q=荒野会谈第二季)
 1. [作江浙沪独生女是什么体验](https://www.zhihu.com/search?q=作江浙沪独生女是什么体验)
-1. [我国 7 月 CPI 同比下降 0.3%](https://www.zhihu.com/search?q=我国 7 月 CPI
-   同比下降 0.3%)
-1. [31 省份上半年消费成绩单出炉](https://www.zhihu.com/search?q=31
-   省份上半年消费成绩单出炉)
 
 <!-- END -->
 
