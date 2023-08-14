@@ -15,11 +15,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 14 2023 11:08:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 14 2023 12:10:11 GMT+0800 (China Standard Time) -->
 
 1. [作江浙沪独生女是什么体验](https://www.zhihu.com/search?q=作江浙沪独生女是什么体验)
 1. [「民科」答主发顶刊一作](https://www.zhihu.com/search?q=「民科」答主发顶刊一作)
 1. [西安山洪泥石流](https://www.zhihu.com/search?q=西安山洪泥石流)
+1. [美国夏威夷山火已致 93
+   人遇难](https://www.zhihu.com/search?q=美国夏威夷山火已致 93 人遇难)
 
 <!-- END -->
 
