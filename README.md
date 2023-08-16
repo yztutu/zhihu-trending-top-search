@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 17 2023 00:10:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 17 2023 01:07:16 GMT+0800 (China Standard Time) -->
 
 1. [原神 4.0 版本上线](https://www.zhihu.com/search?q=原神 4.0 版本上线)
 1. [特斯拉降价](https://www.zhihu.com/search?q=特斯拉降价)
