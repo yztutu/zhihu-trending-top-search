@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Aug 20 2023 23:07:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 21 2023 00:09:05 GMT+0800 (China Standard Time) -->
 
 1. [荒野会谈第二季](https://www.zhihu.com/search?q=荒野会谈第二季)
 1. [恒大就破产传闻发布澄清公告](https://www.zhihu.com/search?q=恒大就破产传闻发布澄清公告)
@@ -23,9 +23,6 @@
 1. [梅西征战美职联](https://www.zhihu.com/search?q=梅西征战美职联)
 1. [张伟丽卫冕金腰带](https://www.zhihu.com/search?q=张伟丽卫冕金腰带)
 1. [多所高校提供自选床位功能](https://www.zhihu.com/search?q=多所高校提供自选床位功能)
-1. [荒野2:情绪价值](https://www.zhihu.com/search?q=荒野2:情绪价值)
-1. [荒野2:精神代餐](https://www.zhihu.com/search?q=荒野2:精神代餐)
-1. [「李玟生前控诉」录音曝光](https://www.zhihu.com/search?q=「李玟生前控诉」录音曝光)
 
 <!-- END -->
 
