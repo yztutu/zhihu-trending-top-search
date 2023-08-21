@@ -15,11 +15,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 21 2023 16:11:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 21 2023 17:08:44 GMT+0800 (China Standard Time) -->
 
-1. [多所高校提供自选床位功能](https://www.zhihu.com/search?q=多所高校提供自选床位功能)
 1. [鱼刺长期卡体内怎么办？](https://www.zhihu.com/search?q=鱼刺长期卡体内怎么办？)
 1. [程浩逝世十周年](https://www.zhihu.com/search?q=程浩逝世十周年)
+1. [同学聚会尴尬](https://www.zhihu.com/search?q=同学聚会尴尬)
+1. [多所高校提供自选床位功能](https://www.zhihu.com/search?q=多所高校提供自选床位功能)
 1. [张伟丽卫冕金腰带](https://www.zhihu.com/search?q=张伟丽卫冕金腰带)
 1. [梅西征战美职联](https://www.zhihu.com/search?q=梅西征战美职联)
 1. [黑神话悟空线下试玩会](https://www.zhihu.com/search?q=黑神话悟空线下试玩会)
