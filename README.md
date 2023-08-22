@@ -15,11 +15,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 22 2023 15:07:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 22 2023 17:08:35 GMT+0800 (China Standard Time) -->
 
-1. [同学聚会尴尬](https://www.zhihu.com/search?q=同学聚会尴尬)
 1. [日本 24 日开始排核污水](https://www.zhihu.com/search?q=日本 24
    日开始排核污水)
+1. [天津一大厦发生火情](https://www.zhihu.com/search?q=天津一大厦发生火情)
+1. [同学聚会尴尬](https://www.zhihu.com/search?q=同学聚会尴尬)
 1. [鱼刺长期卡体内怎么办？](https://www.zhihu.com/search?q=鱼刺长期卡体内怎么办？)
 1. [程浩逝世十周年](https://www.zhihu.com/search?q=程浩逝世十周年)
 
