@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 22 2023 19:06:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 22 2023 20:15:41 GMT+0800 (China Standard Time) -->
 
 1. [日本 24 日开始排核污水](https://www.zhihu.com/search?q=日本 24
    日开始排核污水)
