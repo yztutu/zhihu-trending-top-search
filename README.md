@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 23 2023 23:08:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 24 2023 00:10:38 GMT+0800 (China Standard Time) -->
 
 1. [同学聚会尴尬](https://www.zhihu.com/search?q=同学聚会尴尬)
 1. [「鼠头鸭脖」涉事企业成立新公司](https://www.zhihu.com/search?q=「鼠头鸭脖」涉事企业成立新公司)
@@ -24,9 +24,6 @@
 1. [医生暗示你的话你听懂了吗](https://www.zhihu.com/search?q=医生暗示你的话你听懂了吗)
 1. [印度「月船 3 号」飞船成功登月](https://www.zhihu.com/search?q=印度「月船 3
    号」飞船成功登月)
-1. [天津一大厦发生火情](https://www.zhihu.com/search?q=天津一大厦发生火情)
-1. [日本 24 日开始排核污水](https://www.zhihu.com/search?q=日本 24
-   日开始排核污水)
 
 <!-- END -->
 
