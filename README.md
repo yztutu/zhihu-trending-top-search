@@ -15,8 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 23 2023 10:13:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 23 2023 11:09:01 GMT+0800 (China Standard Time) -->
 
+1. [同学聚会尴尬](https://www.zhihu.com/search?q=同学聚会尴尬)
 1. [天津一大厦发生火情](https://www.zhihu.com/search?q=天津一大厦发生火情)
 1. [日本 24 日开始排核污水](https://www.zhihu.com/search?q=日本 24
    日开始排核污水)
