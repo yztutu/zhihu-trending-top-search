@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 24 2023 10:13:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 24 2023 11:09:01 GMT+0800 (China Standard Time) -->
 
 1. [荒野会谈第二季](https://www.zhihu.com/search?q=荒野会谈第二季)
-1. [同学聚会尴尬](https://www.zhihu.com/search?q=同学聚会尴尬)
 1. [「鼠头鸭脖」涉事企业成立新公司](https://www.zhihu.com/search?q=「鼠头鸭脖」涉事企业成立新公司)
 1. [福建一地高中免学费](https://www.zhihu.com/search?q=福建一地高中免学费)
 1. [留学生成缅北电诈新目标](https://www.zhihu.com/search?q=留学生成缅北电诈新目标)
@@ -27,6 +26,7 @@
    号」飞船成功登月)
 1. [人一定要成熟吗](https://www.zhihu.com/search?q=人一定要成熟吗)
 1. [荒野2：反成熟规训](https://www.zhihu.com/search?q=荒野2：反成熟规训)
+1. [同学聚会尴尬](https://www.zhihu.com/search?q=同学聚会尴尬)
 
 <!-- END -->
 
