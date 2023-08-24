@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 24 2023 13:07:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 24 2023 14:11:05 GMT+0800 (China Standard Time) -->
 
 1. [荒野会谈第二季](https://www.zhihu.com/search?q=荒野会谈第二季)
 1. [福建一地高中免学费](https://www.zhihu.com/search?q=福建一地高中免学费)
@@ -25,6 +25,8 @@
    号」飞船成功登月)
 1. [人一定要成熟吗](https://www.zhihu.com/search?q=人一定要成熟吗)
 1. [荒野2：反成熟规训](https://www.zhihu.com/search?q=荒野2：反成熟规训)
+1. [日本核污染水已进入大海](https://www.zhihu.com/search?q=日本核污染水已进入大海)
+1. [海关总署宣布全面暂停进口日本水产品](https://www.zhihu.com/search?q=海关总署宣布全面暂停进口日本水产品)
 1. [「鼠头鸭脖」涉事企业成立新公司](https://www.zhihu.com/search?q=「鼠头鸭脖」涉事企业成立新公司)
 1. [同学聚会尴尬](https://www.zhihu.com/search?q=同学聚会尴尬)
 
