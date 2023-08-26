@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 26 2023 08:37:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 26 2023 09:37:48 GMT+0800 (China Standard Time) -->
 
 1. [医生暗示你的话你听懂了吗](https://www.zhihu.com/search?q=医生暗示你的话你听懂了吗)
-1. [有必要囤盐吗](https://www.zhihu.com/search?q=有必要囤盐吗)
 1. [《中国好声音》停播](https://www.zhihu.com/search?q=《中国好声音》停播)
 1. [荒野 2 生存法则](https://www.zhihu.com/search?q=荒野 2 生存法则)
 1. [你被社会催熟了吗](https://www.zhihu.com/search?q=你被社会催熟了吗)
@@ -27,6 +26,8 @@
 1. [生活中的反诈骗技巧](https://www.zhihu.com/search?q=生活中的反诈骗技巧)
 1. [浙江嘉兴全面取消限购限售](https://www.zhihu.com/search?q=浙江嘉兴全面取消限购限售)
 1. [职场中的暗示你能听懂吗](https://www.zhihu.com/search?q=职场中的暗示你能听懂吗)
+1. [	美方称「寻求延长《中美科技合作协定》」](https://www.zhihu.com/search?q=	美方称「寻求延长《中美科技合作协定》」)
+1. [有必要囤盐吗](https://www.zhihu.com/search?q=有必要囤盐吗)
 
 <!-- END -->
 
