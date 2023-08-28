@@ -1,5 +1,5 @@
 [
-  { "query": "不敢辞职的人在怕什么", "display_query": "不敢辞职的人在怕什么" },
+  { "query": "日式餐厅何去何从", "display_query": "日式餐厅何去何从" },
   {
     "query": "航班起飞前一空乘人员摔落",
     "display_query": "航班起飞前一空乘人员摔落"
@@ -27,6 +27,7 @@
   },
   { "query": "开播情景喜剧 2 下饭", "display_query": "开播情景喜剧 2 下饭" },
   { "query": "未来中国 2", "display_query": "未来中国 2" },
+  { "query": "不敢辞职的人在怕什么", "display_query": "不敢辞职的人在怕什么" },
   {
     "query": "坐 16 个小时的经济舱是什么体验",
     "display_query": "坐 16 个小时的经济舱是什么体验"
