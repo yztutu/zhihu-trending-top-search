@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 28 2023 09:42:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 28 2023 10:15:05 GMT+0800 (China Standard Time) -->
 
 1. [不敢辞职的人在怕什么](https://www.zhihu.com/search?q=不敢辞职的人在怕什么)
 1. [航班起飞前一空乘人员摔落](https://www.zhihu.com/search?q=航班起飞前一空乘人员摔落)
