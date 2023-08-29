@@ -1,11 +1,10 @@
 [
+  {
+    "query": "假如福尔摩斯来到霍格沃茨",
+    "display_query": "假如福尔摩斯来到霍格沃茨"
+  },
   { "query": "日式餐厅何去何从", "display_query": "日式餐厅何去何从" },
   { "query": "典型的东北家庭氛围", "display_query": "典型的东北家庭氛围" },
-  {
-    "query": "考霸唐尚珺宣布继续复读",
-    "display_query": "考霸唐尚珺宣布继续复读"
-  },
-  { "query": "黑格尔的科学知识水平", "display_query": "黑格尔的科学知识水平" },
   {
     "query": "大学生暑假打工「陷阱」",
     "display_query": "大学生暑假打工「陷阱」"
@@ -24,6 +23,12 @@
     "query": "大厂程序员感觉信仰崩塌",
     "display_query": "大厂程序员感觉信仰崩塌"
   },
+  { "query": "不要和最好的朋友创业", "display_query": "不要和最好的朋友创业" },
+  {
+    "query": "考霸唐尚珺宣布继续复读",
+    "display_query": "考霸唐尚珺宣布继续复读"
+  },
+  { "query": "黑格尔的科学知识水平", "display_query": "黑格尔的科学知识水平" },
   {
     "query": "典型的东北家庭是什么氛围",
     "display_query": "典型的东北家庭是什么氛围"
