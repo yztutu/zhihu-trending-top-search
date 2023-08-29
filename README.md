@@ -15,11 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 29 2023 09:41:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 29 2023 10:44:11 GMT+0800 (China Standard Time) -->
 
 1. [日式餐厅何去何从](https://www.zhihu.com/search?q=日式餐厅何去何从)
-1. [A 股三大指数集体高开](https://www.zhihu.com/search?q=A 股三大指数集体高开)
-1. [北方多地开启入秋进程](https://www.zhihu.com/search?q=北方多地开启入秋进程)
 1. [典型的东北家庭是什么氛围](https://www.zhihu.com/search?q=典型的东北家庭是什么氛围)
 1. [考霸唐尚珺宣布继续复读](https://www.zhihu.com/search?q=考霸唐尚珺宣布继续复读)
 1. [黑格尔的科学知识水平](https://www.zhihu.com/search?q=黑格尔的科学知识水平)
@@ -28,6 +26,10 @@
    10.79 亿人)
 1. [马斯克直播自动驾驶](https://www.zhihu.com/search?q=马斯克直播自动驾驶)
 1. [老板暗示你下班走的太早了](https://www.zhihu.com/search?q=老板暗示你下班走的太早了)
+1. [不扫兴型人格](https://www.zhihu.com/search?q=不扫兴型人格)
+1. [大厂程序员感觉信仰崩塌](https://www.zhihu.com/search?q=大厂程序员感觉信仰崩塌)
+1. [A 股三大指数集体高开](https://www.zhihu.com/search?q=A 股三大指数集体高开)
+1. [北方多地开启入秋进程](https://www.zhihu.com/search?q=北方多地开启入秋进程)
 
 <!-- END -->
 
