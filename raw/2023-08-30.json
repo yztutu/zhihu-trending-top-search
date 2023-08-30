@@ -6,10 +6,6 @@
   { "query": "典型的东北家庭氛围", "display_query": "典型的东北家庭氛围" },
   { "query": "不扫兴型人格", "display_query": "不扫兴型人格" },
   {
-    "query": "罕见「超级蓝月」将在 8 月末现身",
-    "display_query": "罕见「超级蓝月」将在 8 月末现身"
-  },
-  {
     "query": "华为 Mate 60 Pro 开售",
     "display_query": "华为 Mate 60 Pro 开售"
   },
@@ -23,6 +19,11 @@
   {
     "query": "四川金阳洪灾致4人遇难48人失联",
     "display_query": "四川金阳洪灾致4人遇难48人失联"
+  },
+  { "query": "华为mate60", "display_query": "华为mate60" },
+  {
+    "query": "罕见「超级蓝月」将在 8 月末现身",
+    "display_query": "罕见「超级蓝月」将在 8 月末现身"
   },
   { "query": "日式餐厅何去何从", "display_query": "日式餐厅何去何从" },
   {
