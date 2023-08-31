@@ -1,4 +1,5 @@
 [
+  { "query": "椰子水有什么功效", "display_query": "椰子水有什么功效" },
   { "query": "荒野会谈第二季", "display_query": "荒野会谈第二季" },
   {
     "query": "医生暗示你的话你听懂了吗",
@@ -6,12 +7,6 @@
   },
   { "query": "典型的东北家庭氛围", "display_query": "典型的东北家庭氛围" },
   { "query": "不扫兴型人格", "display_query": "不扫兴型人格" },
-  { "query": "易建联宣布退役", "display_query": "易建联宣布退役" },
-  { "query": "假如宠物可以说人话", "display_query": "假如宠物可以说人话" },
-  {
-    "query": "画大饼为何对年轻人失效",
-    "display_query": "画大饼为何对年轻人失效"
-  },
   { "query": "广州执行认房不认贷", "display_query": "广州执行认房不认贷" },
   {
     "query": "四川金阳洪灾致4人遇难48人失联",
@@ -21,5 +16,12 @@
   {
     "query": "高中招生规模将有序扩大",
     "display_query": "高中招生规模将有序扩大"
+  },
+  { "query": "机票燃油附加费将上涨", "display_query": "机票燃油附加费将上涨" },
+  { "query": "易建联宣布退役", "display_query": "易建联宣布退役" },
+  { "query": "假如宠物可以说人话", "display_query": "假如宠物可以说人话" },
+  {
+    "query": "画大饼为何对年轻人失效",
+    "display_query": "画大饼为何对年轻人失效"
   }
 ]
