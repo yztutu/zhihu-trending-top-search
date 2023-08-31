@@ -9,6 +9,16 @@
   { "query": "不扫兴型人格", "display_query": "不扫兴型人格" },
   { "query": "我的扫兴父母", "display_query": "我的扫兴父母" },
   {
+    "query": "人们不愿花钱时如何赚钱",
+    "display_query": "人们不愿花钱时如何赚钱"
+  },
+  {
+    "query": "旅行中最难忘的文化冲突",
+    "display_query": "旅行中最难忘的文化冲突"
+  },
+  { "query": "荒野 2 科技焦虑", "display_query": "荒野 2 科技焦虑" },
+  { "query": "荒野 2 算法围城", "display_query": "荒野 2 算法围城" },
+  {
     "query": "浙江查获日本核辐射地区进口食品",
     "display_query": "浙江查获日本核辐射地区进口食品"
   },
