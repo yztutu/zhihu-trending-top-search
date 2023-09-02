@@ -1,7 +1,5 @@
 [
   { "query": "命运的齿轮开始倒转", "display_query": "命运的齿轮开始倒转" },
-  { "query": "上海执行认房不用认贷", "display_query": "上海执行认房不用认贷" },
-  { "query": "北京官宣认房不认贷", "display_query": "北京官宣认房不认贷" },
   {
     "query": "特斯拉 Model S/ X车主要求补偿",
     "display_query": "特斯拉 Model S/ X车主要求补偿"
@@ -21,6 +19,13 @@
     "query": "动物吃鱼时如何解决鱼刺",
     "display_query": "动物吃鱼时如何解决鱼刺"
   },
+  { "query": "台风苏拉登陆广东", "display_query": "台风苏拉登陆广东" },
+  {
+    "query": "煤真是远古森林形成的吗",
+    "display_query": "煤真是远古森林形成的吗"
+  },
+  { "query": "上海执行认房不用认贷", "display_query": "上海执行认房不用认贷" },
+  { "query": "北京官宣认房不认贷", "display_query": "北京官宣认房不认贷" },
   { "query": "六大行半年报出炉", "display_query": "六大行半年报出炉" },
   {
     "query": "使用预制菜该提前告知吗",
