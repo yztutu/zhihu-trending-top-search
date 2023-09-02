@@ -1,6 +1,5 @@
 [
   { "query": "命运的齿轮开始倒转", "display_query": "命运的齿轮开始倒转" },
-  { "query": "深不可测的人", "display_query": "深不可测的人" },
   {
     "query": "暑期档电影总票房 206.19 亿元",
     "display_query": "暑期档电影总票房 206.19 亿元"
@@ -18,6 +17,11 @@
   },
   { "query": "遇到的深不可测的人", "display_query": "遇到的深不可测的人" },
   { "query": "如何称呼女导师的丈夫", "display_query": "如何称呼女导师的丈夫" },
+  {
+    "query": "认房不认贷后北京开发商深夜涨价",
+    "display_query": "认房不认贷后北京开发商深夜涨价"
+  },
+  { "query": "深不可测的人", "display_query": "深不可测的人" },
   { "query": "浙江大学2023开学典礼", "display_query": "浙江大学2023开学典礼" },
   { "query": "星空媒体评分出炉", "display_query": "星空媒体评分出炉" },
   {
