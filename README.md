@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 04 2023 05:06:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 04 2023 06:07:27 GMT+0800 (China Standard Time) -->
 
 1. [命运的齿轮开始倒转](https://www.zhihu.com/search?q=命运的齿轮开始倒转)
 1. [千万粉主播「秀才」账号被封](https://www.zhihu.com/search?q=千万粉主播「秀才」账号被封)
