@@ -15,11 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 03 2023 18:08:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 03 2023 19:06:29 GMT+0800 (China Standard Time) -->
 
 1. [命运的齿轮开始倒转](https://www.zhihu.com/search?q=命运的齿轮开始倒转)
-1. [天津大爷跳水](https://www.zhihu.com/search?q=天津大爷跳水)
-1. [印度太阳探测器](https://www.zhihu.com/search?q=印度太阳探测器)
 1. [中国男篮 75:96 菲律宾男篮](https://www.zhihu.com/search?q=中国男篮 75:96
    菲律宾男篮)
 1. [千万粉主播「秀才」账号被封](https://www.zhihu.com/search?q=千万粉主播「秀才」账号被封)
@@ -28,6 +26,10 @@
 1. [印度发射太阳探测器](https://www.zhihu.com/search?q=印度发射太阳探测器)
 1. [为什么绵羊剃毛时不动](https://www.zhihu.com/search?q=为什么绵羊剃毛时不动)
 1. [如果把汉堡给贾宝玉吃](https://www.zhihu.com/search?q=如果把汉堡给贾宝玉吃)
+1. [新学期生活费](https://www.zhihu.com/search?q=新学期生活费)
+1. [国美上半年营收塌方](https://www.zhihu.com/search?q=国美上半年营收塌方)
+1. [天津大爷跳水](https://www.zhihu.com/search?q=天津大爷跳水)
+1. [印度太阳探测器](https://www.zhihu.com/search?q=印度太阳探测器)
 1. [煤真是远古森林形成的吗](https://www.zhihu.com/search?q=煤真是远古森林形成的吗)
 1. [尖子生班谁都能去吗](https://www.zhihu.com/search?q=尖子生班谁都能去吗)
 1. [《匹诺曹的谎言》](https://www.zhihu.com/search?q=《匹诺曹的谎言》)
