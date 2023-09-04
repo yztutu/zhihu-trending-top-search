@@ -15,11 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 04 2023 07:08:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 04 2023 08:40:02 GMT+0800 (China Standard Time) -->
 
 1. [命运的齿轮开始倒转](https://www.zhihu.com/search?q=命运的齿轮开始倒转)
-1. [千万粉主播「秀才」账号被封](https://www.zhihu.com/search?q=千万粉主播「秀才」账号被封)
-1. [有企业冒充中国兵器工业集团子公司](https://www.zhihu.com/search?q=有企业冒充中国兵器工业集团子公司)
 1. [多地高校涨学费](https://www.zhihu.com/search?q=多地高校涨学费)
 1. [印度发射太阳探测器](https://www.zhihu.com/search?q=印度发射太阳探测器)
 1. [为什么绵羊剃毛时不动](https://www.zhihu.com/search?q=为什么绵羊剃毛时不动)
@@ -27,6 +25,10 @@
 1. [新学期生活费](https://www.zhihu.com/search?q=新学期生活费)
 1. [国美上半年营收塌方](https://www.zhihu.com/search?q=国美上半年营收塌方)
 1. [同事相处最忌讳什么](https://www.zhihu.com/search?q=同事相处最忌讳什么)
+1. [在作文里撒过哪些谎](https://www.zhihu.com/search?q=在作文里撒过哪些谎)
+1. [中药材价格「狂飙」](https://www.zhihu.com/search?q=中药材价格「狂飙」)
+1. [千万粉主播「秀才」账号被封](https://www.zhihu.com/search?q=千万粉主播「秀才」账号被封)
+1. [有企业冒充中国兵器工业集团子公司](https://www.zhihu.com/search?q=有企业冒充中国兵器工业集团子公司)
 
 <!-- END -->
 
