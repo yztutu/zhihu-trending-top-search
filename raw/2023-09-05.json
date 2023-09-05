@@ -11,11 +11,6 @@
     "query": "老师怎么看出来作文是抄的",
     "display_query": "老师怎么看出来作文是抄的"
   },
-  { "query": "零工经济", "display_query": "零工经济" },
-  {
-    "query": "暑期全国演出票房收入增长",
-    "display_query": "暑期全国演出票房收入增长"
-  },
   {
     "query": "光大银行 固定利率房贷",
     "display_query": "光大银行 固定利率房贷"
@@ -25,6 +20,11 @@
   {
     "query": "急诊夜班见过最离谱的事",
     "display_query": "急诊夜班见过最离谱的事"
+  },
+  { "query": "零工经济", "display_query": "零工经济" },
+  {
+    "query": "暑期全国演出票房收入增长",
+    "display_query": "暑期全国演出票房收入增长"
   },
   { "query": "华为 Mate 60 Pro", "display_query": "华为 Mate 60 Pro" },
   { "query": "易建联回忆奥运会", "display_query": "易建联回忆奥运会" },
