@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 05 2023 08:38:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 05 2023 09:39:56 GMT+0800 (China Standard Time) -->
 
 1. [华为 Mate 60 Pro](https://www.zhihu.com/search?q=华为 Mate 60 Pro)
 1. [命运的齿轮开始倒转](https://www.zhihu.com/search?q=命运的齿轮开始倒转)
