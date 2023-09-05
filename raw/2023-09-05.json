@@ -6,6 +6,7 @@
     "query": "贾宝玉会觉得炸鸡汉堡好吃吗",
     "display_query": "贾宝玉会觉得炸鸡汉堡好吃吗"
   },
+  { "query": "奥本海默", "display_query": "奥本海默" },
   {
     "query": "老师怎么看出来作文是抄的",
     "display_query": "老师怎么看出来作文是抄的"
@@ -34,7 +35,6 @@
     "display_query": "如何评价瑞幸「酱香拿铁」"
   },
   { "query": "科学的可证伪性", "display_query": "科学的可证伪性" },
-  { "query": "奥本海默", "display_query": "奥本海默" },
   { "query": "茅台瑞幸酱香拿铁", "display_query": "茅台瑞幸酱香拿铁" },
   {
     "query": "上海出现不明飞行物高速坠落",
