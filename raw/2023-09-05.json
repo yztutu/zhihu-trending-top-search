@@ -6,7 +6,6 @@
     "query": "贾宝玉会觉得炸鸡汉堡好吃吗",
     "display_query": "贾宝玉会觉得炸鸡汉堡好吃吗"
   },
-  { "query": "科学的可证伪性", "display_query": "科学的可证伪性" },
   { "query": "易建联回忆奥运会", "display_query": "易建联回忆奥运会" },
   { "query": "酱香拿铁 酒驾", "display_query": "酱香拿铁 酒驾" },
   { "query": "咖啡可以和酒兑着喝吗", "display_query": "咖啡可以和酒兑着喝吗" },
@@ -18,6 +17,8 @@
     "query": "老师怎么看出来作文是抄的",
     "display_query": "老师怎么看出来作文是抄的"
   },
+  { "query": "零工经济", "display_query": "零工经济" },
+  { "query": "科学的可证伪性", "display_query": "科学的可证伪性" },
   { "query": "奥本海默", "display_query": "奥本海默" },
   { "query": "茅台瑞幸酱香拿铁", "display_query": "茅台瑞幸酱香拿铁" },
   {
