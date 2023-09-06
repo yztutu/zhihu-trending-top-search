@@ -1,9 +1,5 @@
 [
   { "query": "在作文里撒过哪些谎", "display_query": "在作文里撒过哪些谎" },
-  {
-    "query": "贾宝玉会觉得炸鸡汉堡好吃吗",
-    "display_query": "贾宝玉会觉得炸鸡汉堡好吃吗"
-  },
   { "query": "奥本海默", "display_query": "奥本海默" },
   {
     "query": "老师怎么看出来作文是抄的",
@@ -21,6 +17,14 @@
   { "query": "印度将改国名？", "display_query": "印度将改国名？" },
   { "query": "围棋千古无同局？", "display_query": "围棋千古无同局？" },
   { "query": "电诈盯上企事业单位", "display_query": "电诈盯上企事业单位" },
+  {
+    "query": "哪些改编动画堪称毁原作",
+    "display_query": "哪些改编动画堪称毁原作"
+  },
+  {
+    "query": "贾宝玉会觉得炸鸡汉堡好吃吗",
+    "display_query": "贾宝玉会觉得炸鸡汉堡好吃吗"
+  },
   {
     "query": "哪些免费东西突然开始收费了",
     "display_query": "哪些免费东西突然开始收费了"
