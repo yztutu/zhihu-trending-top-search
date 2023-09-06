@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 06 2023 13:08:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 06 2023 14:11:24 GMT+0800 (China Standard Time) -->
 
 1. [逃出大英博物馆](https://www.zhihu.com/search?q=逃出大英博物馆)
-1. [命运的齿轮开始倒转](https://www.zhihu.com/search?q=命运的齿轮开始倒转)
 1. [在作文里撒过哪些谎](https://www.zhihu.com/search?q=在作文里撒过哪些谎)
 1. [贾宝玉会觉得炸鸡汉堡好吃吗](https://www.zhihu.com/search?q=贾宝玉会觉得炸鸡汉堡好吃吗)
 1. [奥本海默](https://www.zhihu.com/search?q=奥本海默)
@@ -27,6 +26,8 @@
 1. [为什么年轻人不去菜市场买菜了](https://www.zhihu.com/search?q=为什么年轻人不去菜市场买菜了)
 1. [多少酱香拿铁能提出一瓶茅台](https://www.zhihu.com/search?q=多少酱香拿铁能提出一瓶茅台)
 1. [新车选号摇到 X99999](https://www.zhihu.com/search?q=新车选号摇到 X99999)
+1. [互联网人均工资连降三年](https://www.zhihu.com/search?q=互联网人均工资连降三年)
+1. [命运的齿轮开始倒转](https://www.zhihu.com/search?q=命运的齿轮开始倒转)
 1. [WPS AI 正式面向社会开放](https://www.zhihu.com/search?q=WPS AI
    正式面向社会开放)
 1. [	日本核污染水排海量已超 4200
