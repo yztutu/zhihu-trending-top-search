@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 07 2023 19:07:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 07 2023 20:16:00 GMT+0800 (China Standard Time) -->
 
 1. [荒野会谈第二季](https://www.zhihu.com/search?q=荒野会谈第二季)
 1. [急诊夜班见过最离谱的事](https://www.zhihu.com/search?q=急诊夜班见过最离谱的事)
