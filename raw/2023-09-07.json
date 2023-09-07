@@ -1,4 +1,5 @@
 [
+  { "query": "荒野会谈第二季", "display_query": "荒野会谈第二季" },
   { "query": "在作文里撒过哪些谎", "display_query": "在作文里撒过哪些谎" },
   { "query": "奥本海默", "display_query": "奥本海默" },
   {
@@ -14,7 +15,6 @@
     "query": "多少酱香拿铁能提出一瓶茅台",
     "display_query": "多少酱香拿铁能提出一瓶茅台"
   },
-  { "query": "电诈盯上企事业单位", "display_query": "电诈盯上企事业单位" },
   {
     "query": "哪些改编动画堪称毁原作",
     "display_query": "哪些改编动画堪称毁原作"
@@ -23,5 +23,6 @@
     "query": "9 月 6 日三大指数集体低开",
     "display_query": "9 月 6 日三大指数集体低开"
   },
-  { "query": "天津大爷跳水走红", "display_query": "天津大爷跳水走红" }
+  { "query": "天津大爷跳水走红", "display_query": "天津大爷跳水走红" },
+  { "query": "电诈盯上企事业单位", "display_query": "电诈盯上企事业单位" }
 ]
