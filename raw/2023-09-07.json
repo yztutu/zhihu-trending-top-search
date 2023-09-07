@@ -8,10 +8,6 @@
   },
   { "query": "咖啡高端局", "display_query": "咖啡高端局" },
   {
-    "query": "为什么年轻人不去菜市场买菜了",
-    "display_query": "为什么年轻人不去菜市场买菜了"
-  },
-  {
     "query": "多少酱香拿铁能提出一瓶茅台",
     "display_query": "多少酱香拿铁能提出一瓶茅台"
   },
@@ -21,6 +17,14 @@
   },
   { "query": "地铁判官已赔礼道歉", "display_query": "地铁判官已赔礼道歉" },
   { "query": "华为mate60pro供应链", "display_query": "华为mate60pro供应链" },
+  {
+    "query": "中科院：禁止院士参加应酬",
+    "display_query": "中科院：禁止院士参加应酬"
+  },
+  {
+    "query": "为什么年轻人不去菜市场买菜了",
+    "display_query": "为什么年轻人不去菜市场买菜了"
+  },
   {
     "query": "广东拟全省全域实施个人养老金制度",
     "display_query": "广东拟全省全域实施个人养老金制度"
