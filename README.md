@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Sep 09 2023 03:06:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 09 2023 04:08:46 GMT+0800 (China Standard Time) -->
 
 1. [荒野会谈第二季](https://www.zhihu.com/search?q=荒野会谈第二季)
 1. [华为Mate 60 Pro出货量](https://www.zhihu.com/search?q=华为Mate 60 Pro出货量)
