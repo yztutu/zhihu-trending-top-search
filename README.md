@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Sep 09 2023 09:38:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 09 2023 10:12:15 GMT+0800 (China Standard Time) -->
 
 1. [华为Mate 60 Pro出货量](https://www.zhihu.com/search?q=华为Mate 60 Pro出货量)
 1. [职场讨坏型人格](https://www.zhihu.com/search?q=职场讨坏型人格)
