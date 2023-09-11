@@ -15,12 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 11 2023 22:08:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 11 2023 23:08:57 GMT+0800 (China Standard Time) -->
 
 1. [一个租房小建议](https://www.zhihu.com/search?q=一个租房小建议)
 1. [第八个嫌疑人](https://www.zhihu.com/search?q=第八个嫌疑人)
 1. [恰到好处的母爱](https://www.zhihu.com/search?q=恰到好处的母爱)
-1. [北京认房不认贷后](https://www.zhihu.com/search?q=北京认房不认贷后)
 1. [C919 订单已达 1061 架](https://www.zhihu.com/search?q=C919 订单已达 1061 架)
 1. [国航通报 CA403 航班起火事件](https://www.zhihu.com/search?q=国航通报 CA403
    航班起火事件)
@@ -28,6 +27,8 @@
 1. [猫的反应快还是人的反应快](https://www.zhihu.com/search?q=猫的反应快还是人的反应快)
 1. [冲击你认知的《地方志》记载](https://www.zhihu.com/search?q=冲击你认知的《地方志》记载)
 1. [余额宝基金经理王登峰离任](https://www.zhihu.com/search?q=余额宝基金经理王登峰离任)
+1. [日本核污染水首次排海11日结束](https://www.zhihu.com/search?q=日本核污染水首次排海11日结束)
+1. [北京认房不认贷后](https://www.zhihu.com/search?q=北京认房不认贷后)
 1. [国航航班挂紧急代码
    7700](https://www.zhihu.com/search?q=国航航班挂紧急代码 7700)
 1. [华为计划回归全球手机市场](https://www.zhihu.com/search?q=华为计划回归全球手机市场)
