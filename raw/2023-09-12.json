@@ -3,10 +3,6 @@
   { "query": "第八个嫌疑人", "display_query": "第八个嫌疑人" },
   { "query": "恰到好处的母爱", "display_query": "恰到好处的母爱" },
   {
-    "query": "C919 订单已达 1061 架",
-    "display_query": "C919 订单已达 1061 架"
-  },
-  {
     "query": "国航通报 CA403 航班起火事件",
     "display_query": "国航通报 CA403 航班起火事件"
   },
@@ -26,5 +22,7 @@
   {
     "query": "日本核污染水首次排海11日结束",
     "display_query": "日本核污染水首次排海11日结束"
-  }
+  },
+  { "query": "独孤九剑是不是bug", "display_query": "独孤九剑是不是bug" },
+  { "query": "C919 订单已达 1061 架", "display_query": "C919 订单已达 1061 架" }
 ]
