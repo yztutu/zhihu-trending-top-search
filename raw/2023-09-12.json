@@ -2,7 +2,6 @@
   { "query": "一个租房小建议", "display_query": "一个租房小建议" },
   { "query": "第八个嫌疑人", "display_query": "第八个嫌疑人" },
   { "query": "恰到好处的母爱", "display_query": "恰到好处的母爱" },
-  { "query": "独孤九剑是不是bug", "display_query": "独孤九剑是不是bug" },
   {
     "query": "哈尔滨开展商品房省外推介",
     "display_query": "哈尔滨开展商品房省外推介"
@@ -18,6 +17,11 @@
     "query": "专家称中国 3000 万男性难结婚",
     "display_query": "专家称中国 3000 万男性难结婚"
   },
+  {
+    "query": "看起来便宜其实很贵的化妆品",
+    "display_query": "看起来便宜其实很贵的化妆品"
+  },
+  { "query": "独孤九剑是不是bug", "display_query": "独孤九剑是不是bug" },
   {
     "query": "日本核污染水首次排海11日结束",
     "display_query": "日本核污染水首次排海11日结束"
