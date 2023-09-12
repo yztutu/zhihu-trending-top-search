@@ -2,15 +2,6 @@
   { "query": "一个租房小建议", "display_query": "一个租房小建议" },
   { "query": "第八个嫌疑人", "display_query": "第八个嫌疑人" },
   { "query": "恰到好处的母爱", "display_query": "恰到好处的母爱" },
-  { "query": "德国队官宣弗里克下课", "display_query": "德国队官宣弗里克下课" },
-  {
-    "query": "猫的反应快还是人的反应快",
-    "display_query": "猫的反应快还是人的反应快"
-  },
-  {
-    "query": "冲击你认知的《地方志》记载",
-    "display_query": "冲击你认知的《地方志》记载"
-  },
   {
     "query": "余额宝基金经理王登峰离任",
     "display_query": "余额宝基金经理王登峰离任"
@@ -23,6 +14,21 @@
   {
     "query": "哈尔滨开展商品房省外推介",
     "display_query": "哈尔滨开展商品房省外推介"
+  },
+  { "query": "为什么双机党多", "display_query": "为什么双机党多" },
+  { "query": "花西子价格", "display_query": "花西子价格" },
+  {
+    "query": "辞职后老板叫我回去帮忙",
+    "display_query": "辞职后老板叫我回去帮忙"
+  },
+  { "query": "德国队官宣弗里克下课", "display_query": "德国队官宣弗里克下课" },
+  {
+    "query": "猫的反应快还是人的反应快",
+    "display_query": "猫的反应快还是人的反应快"
+  },
+  {
+    "query": "冲击你认知的《地方志》记载",
+    "display_query": "冲击你认知的《地方志》记载"
   },
   {
     "query": "国航通报 CA403 航班起火事件",
