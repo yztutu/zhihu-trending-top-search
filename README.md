@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 13 2023 23:09:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 14 2023 00:10:55 GMT+0800 (China Standard Time) -->
 
 1. [一个租房小建议](https://www.zhihu.com/search?q=一个租房小建议)
 1. [为什么双机党多](https://www.zhihu.com/search?q=为什么双机党多)
@@ -27,11 +27,6 @@
 1. [新手相机有什么推荐](https://www.zhihu.com/search?q=新手相机有什么推荐)
 1. [要不要买苹果15](https://www.zhihu.com/search?q=要不要买苹果15)
 1. [华为Mate 60值吗](https://www.zhihu.com/search?q=华为Mate 60值吗)
-1. [辞职后老板叫我回去帮忙](https://www.zhihu.com/search?q=辞职后老板叫我回去帮忙)
-1. [不被哲学打扰的人生](https://www.zhihu.com/search?q=不被哲学打扰的人生)
-1. [恰到好处的爱](https://www.zhihu.com/search?q=恰到好处的爱)
-1. [恰到好处的母爱](https://www.zhihu.com/search?q=恰到好处的母爱)
-1. [一个工位的演讲](https://www.zhihu.com/search?q=一个工位的演讲)
 
 <!-- END -->
 
