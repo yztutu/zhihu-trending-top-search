@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 14 2023 23:09:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 15 2023 00:11:06 GMT+0800 (China Standard Time) -->
 
 1. [荒野会谈第二季](https://www.zhihu.com/search?q=荒野会谈第二季)
 1. [一个租房小建议](https://www.zhihu.com/search?q=一个租房小建议)
@@ -27,7 +27,6 @@
 1. [新手相机有什么推荐](https://www.zhihu.com/search?q=新手相机有什么推荐)
 1. [要不要买苹果15](https://www.zhihu.com/search?q=要不要买苹果15)
 1. [华为Mate 60值吗](https://www.zhihu.com/search?q=华为Mate 60值吗)
-1. [为什么双机党多](https://www.zhihu.com/search?q=为什么双机党多)
 
 <!-- END -->
 
