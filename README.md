@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Sep 16 2023 23:07:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 17 2023 00:09:46 GMT+0800 (China Standard Time) -->
 
 1. [REST 型人格](https://www.zhihu.com/search?q=REST 型人格)
 1. [空气净化器怎么选](https://www.zhihu.com/search?q=空气净化器怎么选)
@@ -27,22 +27,6 @@
 1. [设计师的生存指南](https://www.zhihu.com/search?q=设计师的生存指南)
 1. [空气净化器除甲醛](https://www.zhihu.com/search?q=空气净化器除甲醛)
 1. [空气净化器吸猫毛](https://www.zhihu.com/search?q=空气净化器吸猫毛)
-1. [二手苹果值吗](https://www.zhihu.com/search?q=二手苹果值吗)
-1. [新手相机有什么推荐](https://www.zhihu.com/search?q=新手相机有什么推荐)
-1. [华为Mate 60值吗](https://www.zhihu.com/search?q=华为Mate 60值吗)
-1. [Apple Watch Series 9](https://www.zhihu.com/search?q=Apple Watch Series 9)
-1. [Action Button](https://www.zhihu.com/search?q=Action Button)
-1. [苹果 王者荣耀](https://www.zhihu.com/search?q=苹果 王者荣耀)
-1. [Mate60热销会影响你买iPhone吗](https://www.zhihu.com/search?q=Mate60热销会影响你买iPhone吗)
-1. [粉色 AppleWatch](https://www.zhihu.com/search?q=粉色 AppleWatch)
-1. [苹果市值一夜蒸发超3400亿](https://www.zhihu.com/search?q=苹果市值一夜蒸发超3400亿)
-1. [聊聊2023苹果新品](https://www.zhihu.com/search?q=聊聊2023苹果新品)
-1. [荒野会谈第二季](https://www.zhihu.com/search?q=荒野会谈第二季)
-1. [要不要买苹果15](https://www.zhihu.com/search?q=要不要买苹果15)
-1. [iPhone15配色](https://www.zhihu.com/search?q=iPhone15配色)
-1. [iPhone15全系灵动岛](https://www.zhihu.com/search?q=iPhone15全系灵动岛)
-1. [iPhone15系列没涨价](https://www.zhihu.com/search?q=iPhone15系列没涨价)
-1. [iPhone换C口了](https://www.zhihu.com/search?q=iPhone换C口了)
 
 <!-- END -->
 
