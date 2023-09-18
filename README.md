@@ -15,8 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 18 2023 14:11:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 18 2023 15:08:38 GMT+0800 (China Standard Time) -->
 
+1. [苹果官网崩了](https://www.zhihu.com/search?q=苹果官网崩了)
 1. [空气净化器怎么选](https://www.zhihu.com/search?q=空气净化器怎么选)
 1. [电动牙刷你选对了吗](https://www.zhihu.com/search?q=电动牙刷你选对了吗)
 1. [要不要买净水器](https://www.zhihu.com/search?q=要不要买净水器)
