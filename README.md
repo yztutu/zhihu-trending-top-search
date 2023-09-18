@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 18 2023 23:09:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 19 2023 00:11:11 GMT+0800 (China Standard Time) -->
 
 1. [苹果官网崩了](https://www.zhihu.com/search?q=苹果官网崩了)
 1. [为什么双机党多](https://www.zhihu.com/search?q=为什么双机党多)
@@ -27,12 +27,6 @@
 1. [设计师的生存指南](https://www.zhihu.com/search?q=设计师的生存指南)
 1. [扫地机器人测评](https://www.zhihu.com/search?q=扫地机器人测评)
 1. [空调能耗怎么看](https://www.zhihu.com/search?q=空调能耗怎么看)
-1. [净水器值得买吗](https://www.zhihu.com/search?q=净水器值得买吗)
-1. [选洗地机还是吸尘器](https://www.zhihu.com/search?q=选洗地机还是吸尘器)
-1. [扫地机器人推荐](https://www.zhihu.com/search?q=扫地机器人推荐)
-1. [空气净化器除甲醛](https://www.zhihu.com/search?q=空气净化器除甲醛)
-1. [空气净化器吸猫毛](https://www.zhihu.com/search?q=空气净化器吸猫毛)
-1. [敏感牙电动牙刷推荐](https://www.zhihu.com/search?q=敏感牙电动牙刷推荐)
 
 <!-- END -->
 
