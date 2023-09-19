@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 19 2023 23:08:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 20 2023 00:11:17 GMT+0800 (China Standard Time) -->
 
 1. [华为 MatePad Pro](https://www.zhihu.com/search?q=华为 MatePad Pro)
 1. [苹果官网崩了](https://www.zhihu.com/search?q=苹果官网崩了)
@@ -27,11 +27,6 @@
 1. [空气净化器怎么选](https://www.zhihu.com/search?q=空气净化器怎么选)
 1. [电动牙刷你选对了吗](https://www.zhihu.com/search?q=电动牙刷你选对了吗)
 1. [空调什么时候买便宜](https://www.zhihu.com/search?q=空调什么时候买便宜)
-1. [要不要买净水器](https://www.zhihu.com/search?q=要不要买净水器)
-1. [内行人眼中的全屋定制](https://www.zhihu.com/search?q=内行人眼中的全屋定制)
-1. [设计师的生存指南](https://www.zhihu.com/search?q=设计师的生存指南)
-1. [扫地机器人测评](https://www.zhihu.com/search?q=扫地机器人测评)
-1. [空调能耗怎么看](https://www.zhihu.com/search?q=空调能耗怎么看)
 
 <!-- END -->
 
