@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 20 2023 13:08:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 20 2023 14:12:09 GMT+0800 (China Standard Time) -->
 
 1. [苹果官网崩了](https://www.zhihu.com/search?q=苹果官网崩了)
 1. [为什么双机党多](https://www.zhihu.com/search?q=为什么双机党多)
