@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 21 2023 23:07:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 22 2023 00:10:11 GMT+0800 (China Standard Time) -->
 
 1. [王者荣耀新赛季](https://www.zhihu.com/search?q=王者荣耀新赛季)
 1. [荒野会谈第二季](https://www.zhihu.com/search?q=荒野会谈第二季)
@@ -27,12 +27,6 @@
 1. [车库为什么要建在地下](https://www.zhihu.com/search?q=车库为什么要建在地下)
 1. [苹果官网辫子客服形象](https://www.zhihu.com/search?q=苹果官网辫子客服形象)
 1. [男子被压死健身房老板发声](https://www.zhihu.com/search?q=男子被压死健身房老板发声)
-1. [重庆前首富住进养老院](https://www.zhihu.com/search?q=重庆前首富住进养老院)
-1. [电动牙刷你选对了吗](https://www.zhihu.com/search?q=电动牙刷你选对了吗)
-1. [扫地机器人测评](https://www.zhihu.com/search?q=扫地机器人测评)
-1. [小户型冰箱选购](https://www.zhihu.com/search?q=小户型冰箱选购)
-1. [空气净化器怎么选](https://www.zhihu.com/search?q=空气净化器怎么选)
-1. [空调什么时候买便宜](https://www.zhihu.com/search?q=空调什么时候买便宜)
 
 <!-- END -->
 
