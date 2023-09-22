@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 22 2023 09:42:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 22 2023 10:15:46 GMT+0800 (China Standard Time) -->
 
 1. [王者荣耀新赛季](https://www.zhihu.com/search?q=王者荣耀新赛季)
 1. [为什么双机党多](https://www.zhihu.com/search?q=为什么双机党多)
