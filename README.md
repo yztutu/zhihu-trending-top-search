@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Sep 23 2023 04:08:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 23 2023 05:07:23 GMT+0800 (China Standard Time) -->
 
 1. [荒野会谈第二季](https://www.zhihu.com/search?q=荒野会谈第二季)
 1. [选安卓还是苹果](https://www.zhihu.com/search?q=选安卓还是苹果)
