@@ -15,9 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Sep 23 2023 10:12:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 23 2023 11:08:44 GMT+0800 (China Standard Time) -->
 
-1. [荒野会谈第二季](https://www.zhihu.com/search?q=荒野会谈第二季)
 1. [选安卓还是苹果](https://www.zhihu.com/search?q=选安卓还是苹果)
 1. [折叠屏手机推荐](https://www.zhihu.com/search?q=折叠屏手机推荐)
 1. [二手苹果值吗](https://www.zhihu.com/search?q=二手苹果值吗)
@@ -28,6 +27,7 @@
 1. [体制脑](https://www.zhihu.com/search?q=体制脑)
 1. [ios17](https://www.zhihu.com/search?q=ios17)
 1. [全球钻石价格暴跌](https://www.zhihu.com/search?q=全球钻石价格暴跌)
+1. [荒野会谈第二季](https://www.zhihu.com/search?q=荒野会谈第二季)
 
 <!-- END -->
 
