@@ -4,7 +4,6 @@
     "display_query": "韩国检方申请拘捕李在明"
   },
   { "query": "预制菜进校园", "display_query": "预制菜进校园" },
-  { "query": "体制脑", "display_query": "体制脑" },
   { "query": "ios17", "display_query": "ios17" },
   { "query": "千兆宽带有必要吗", "display_query": "千兆宽带有必要吗" },
   {
@@ -17,5 +16,7 @@
   {
     "query": "总台杭州亚运会转播报道启动",
     "display_query": "总台杭州亚运会转播报道启动"
-  }
+  },
+  { "query": "闫妮李晨辟谣恋情传闻", "display_query": "闫妮李晨辟谣恋情传闻" },
+  { "query": "体制脑", "display_query": "体制脑" }
 ]
