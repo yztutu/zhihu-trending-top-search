@@ -15,28 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 24 2023 23:07:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 25 2023 00:09:48 GMT+0800 (China Standard Time) -->
 
 1. [千兆宽带有必要吗](https://www.zhihu.com/search?q=千兆宽带有必要吗)
-1. [养宠必备吸尘器](https://www.zhihu.com/search?q=养宠必备吸尘器)
-1. [送长辈的按摩椅](https://www.zhihu.com/search?q=送长辈的按摩椅)
-1. [拥有洗碗机的快乐](https://www.zhihu.com/search?q=拥有洗碗机的快乐)
-1. [厨房神器集成灶](https://www.zhihu.com/search?q=厨房神器集成灶)
-1. [熬夜党必入的美容仪](https://www.zhihu.com/search?q=熬夜党必入的美容仪)
 1. [初秋破壁机早餐](https://www.zhihu.com/search?q=初秋破壁机早餐)
-1. [Mate60和pro有什么区别](https://www.zhihu.com/search?q=Mate60和pro有什么区别)
-1. [无线耳机](https://www.zhihu.com/search?q=无线耳机)
-1. [智能手表推荐](https://www.zhihu.com/search?q=智能手表推荐)
-1. [亚运会](https://www.zhihu.com/search?q=亚运会)
-1. [韩国检方申请拘捕李在明](https://www.zhihu.com/search?q=韩国检方申请拘捕李在明)
-1. [预制菜进校园](https://www.zhihu.com/search?q=预制菜进校园)
-1. [ios17](https://www.zhihu.com/search?q=ios17)
-1. [好声音起诉李玟经纪公司](https://www.zhihu.com/search?q=好声音起诉李玟经纪公司)
-1. [徐娇回归周星驰公司](https://www.zhihu.com/search?q=徐娇回归周星驰公司)
-1. [曼城3比1红星](https://www.zhihu.com/search?q=曼城3比1红星)
-1. [总台杭州亚运会转播报道启动](https://www.zhihu.com/search?q=总台杭州亚运会转播报道启动)
-1. [闫妮李晨辟谣恋情传闻](https://www.zhihu.com/search?q=闫妮李晨辟谣恋情传闻)
-1. [体制脑](https://www.zhihu.com/search?q=体制脑)
+1. [蓝牙耳机](https://www.zhihu.com/search?q=蓝牙耳机)
+1. [蓝牙耳机推荐2023](https://www.zhihu.com/search?q=蓝牙耳机推荐2023)
+1. [关于破壁机的大实话](https://www.zhihu.com/search?q=关于破壁机的大实话)
+1. [家用美容仪真的靠谱吗](https://www.zhihu.com/search?q=家用美容仪真的靠谱吗)
+1. [怎么选无线耳机](https://www.zhihu.com/search?q=怎么选无线耳机)
+1. [iOS17值得更新吗](https://www.zhihu.com/search?q=iOS17值得更新吗)
+1. [送男友什么耳机](https://www.zhihu.com/search?q=送男友什么耳机)
+1. [华强北蓝牙耳机](https://www.zhihu.com/search?q=华强北蓝牙耳机)
 
 <!-- END -->
 
