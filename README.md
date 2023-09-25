@@ -15,10 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 25 2023 15:08:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 25 2023 16:12:12 GMT+0800 (China Standard Time) -->
 
 1. [华为 MatePad Pro](https://www.zhihu.com/search?q=华为 MatePad Pro)
 1. [千兆宽带有必要吗](https://www.zhihu.com/search?q=千兆宽带有必要吗)
+1. [亚运会](https://www.zhihu.com/search?q=亚运会)
 1. [初秋破壁机早餐](https://www.zhihu.com/search?q=初秋破壁机早餐)
 1. [蓝牙耳机](https://www.zhihu.com/search?q=蓝牙耳机)
 1. [蓝牙耳机推荐2023](https://www.zhihu.com/search?q=蓝牙耳机推荐2023)
