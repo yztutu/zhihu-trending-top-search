@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 25 2023 10:16:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 25 2023 11:09:02 GMT+0800 (China Standard Time) -->
 
 1. [千兆宽带有必要吗](https://www.zhihu.com/search?q=千兆宽带有必要吗)
 1. [初秋破壁机早餐](https://www.zhihu.com/search?q=初秋破壁机早餐)
