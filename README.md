@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 25 2023 16:12:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 25 2023 17:09:27 GMT+0800 (China Standard Time) -->
 
 1. [华为 MatePad Pro](https://www.zhihu.com/search?q=华为 MatePad Pro)
 1. [千兆宽带有必要吗](https://www.zhihu.com/search?q=千兆宽带有必要吗)
