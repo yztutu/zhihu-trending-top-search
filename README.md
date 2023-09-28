@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 28 2023 23:09:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 29 2023 00:11:17 GMT+0800 (China Standard Time) -->
 
 1. [连坐式孝顺](https://www.zhihu.com/search?q=连坐式孝顺)
 1. [华为 MatePad Pro](https://www.zhihu.com/search?q=华为 MatePad Pro)
@@ -27,7 +27,6 @@
 1. [如何拒绝男朋友给的面包](https://www.zhihu.com/search?q=如何拒绝男朋友给的面包)
 1. [蓝牙耳机](https://www.zhihu.com/search?q=蓝牙耳机)
 1. [五条悟被腰斩](https://www.zhihu.com/search?q=五条悟被腰斩)
-1. [日本对华食品出口暴跌](https://www.zhihu.com/search?q=日本对华食品出口暴跌)
 
 <!-- END -->
 
