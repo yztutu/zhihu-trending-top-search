@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 01 2023 23:07:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 02 2023 00:09:44 GMT+0800 (China Standard Time) -->
 
 1. [国庆节](https://www.zhihu.com/search?q=国庆节)
 1. [mate60pro值得买吗](https://www.zhihu.com/search?q=mate60pro值得买吗)
@@ -28,7 +28,6 @@
 1. [柯洁亚运会两连胜](https://www.zhihu.com/search?q=柯洁亚运会两连胜)
 1. [陕西信达被罚](https://www.zhihu.com/search?q=陕西信达被罚)
 1. [法国年底前从尼日尔撤军](https://www.zhihu.com/search?q=法国年底前从尼日尔撤军)
-1. [mate60pro性价比](https://www.zhihu.com/search?q=mate60pro性价比)
 
 <!-- END -->
 
