@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 01 2023 08:46:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 01 2023 09:54:09 GMT+0800 (China Standard Time) -->
 
 1. [国庆节](https://www.zhihu.com/search?q=国庆节)
 1. [mate60pro值得买吗](https://www.zhihu.com/search?q=mate60pro值得买吗)
