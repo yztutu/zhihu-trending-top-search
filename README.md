@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 06 2023 00:11:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 06 2023 01:08:11 GMT+0800 (China Standard Time) -->
 
 1. [mate60pro值得买吗](https://www.zhihu.com/search?q=mate60pro值得买吗)
+1. [无线耳机](https://www.zhihu.com/search?q=无线耳机)
 1. [五条悟被腰斩](https://www.zhihu.com/search?q=五条悟被腰斩)
 1. [微软推出 Copilot AI 助手](https://www.zhihu.com/search?q=微软推出 Copilot AI
    助手)
