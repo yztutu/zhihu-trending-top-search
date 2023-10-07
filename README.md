@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 07 2023 21:08:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 07 2023 22:06:49 GMT+0800 (China Standard Time) -->
 
 1. [原神新角色](https://www.zhihu.com/search?q=原神新角色)
 1. [无线耳机](https://www.zhihu.com/search?q=无线耳机)
