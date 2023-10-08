@@ -15,8 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 08 2023 20:14:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 08 2023 21:08:26 GMT+0800 (China Standard Time) -->
 
+1. [以色列正式向哈马斯宣战](https://www.zhihu.com/search?q=以色列正式向哈马斯宣战)
 1. [原神新角色](https://www.zhihu.com/search?q=原神新角色)
 1. [Mate60Pro值得买吗](https://www.zhihu.com/search?q=Mate60Pro值得买吗)
 1. [蓝牙耳机](https://www.zhihu.com/search?q=蓝牙耳机)
