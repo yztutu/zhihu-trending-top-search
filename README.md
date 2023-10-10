@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 10 2023 23:09:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 11 2023 00:12:14 GMT+0800 (China Standard Time) -->
 
 1. [世界精神卫生日](https://www.zhihu.com/search?q=世界精神卫生日)
 1. [要不要买苹果15](https://www.zhihu.com/search?q=要不要买苹果15)
@@ -27,8 +27,6 @@
 1. [媒体评北极鲶鱼事件](https://www.zhihu.com/search?q=媒体评北极鲶鱼事件)
 1. [ios17](https://www.zhihu.com/search?q=ios17)
 1. [Mate60Pro值得买吗](https://www.zhihu.com/search?q=Mate60Pro值得买吗)
-1. [千兆宽带有必要吗](https://www.zhihu.com/search?q=千兆宽带有必要吗)
-1. [原神新角色](https://www.zhihu.com/search?q=原神新角色)
 
 <!-- END -->
 
