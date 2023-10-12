@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 12 2023 11:09:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 12 2023 12:10:26 GMT+0800 (China Standard Time) -->
 
 1. [世界精神卫生日](https://www.zhihu.com/search?q=世界精神卫生日)
 1. [选安卓还是苹果](https://www.zhihu.com/search?q=选安卓还是苹果)
