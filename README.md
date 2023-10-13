@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 13 2023 14:12:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 13 2023 15:08:30 GMT+0800 (China Standard Time) -->
 
 1. [法考备考攻略](https://www.zhihu.com/search?q=法考备考攻略)
-1. [世界精神卫生日](https://www.zhihu.com/search?q=世界精神卫生日)
 1. [选安卓还是苹果](https://www.zhihu.com/search?q=选安卓还是苹果)
 1. [为什么选安卓](https://www.zhihu.com/search?q=为什么选安卓)
 1. [运动手环和手表哪个好用](https://www.zhihu.com/search?q=运动手环和手表哪个好用)
@@ -27,6 +26,8 @@
 1. [iphone15全系灵动岛](https://www.zhihu.com/search?q=iphone15全系灵动岛)
 1. [a17 pro芯片](https://www.zhihu.com/search?q=a17 pro芯片)
 1. [iphone15](https://www.zhihu.com/search?q=iphone15)
+1. [碳中和](https://www.zhihu.com/search?q=碳中和)
+1. [世界精神卫生日](https://www.zhihu.com/search?q=世界精神卫生日)
 
 <!-- END -->
 
