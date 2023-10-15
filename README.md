@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 15 2023 07:08:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 15 2023 08:43:25 GMT+0800 (China Standard Time) -->
 
 1. [法考备考攻略](https://www.zhihu.com/search?q=法考备考攻略)
 1. [选安卓还是苹果](https://www.zhihu.com/search?q=选安卓还是苹果)
