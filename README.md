@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 16 2023 23:09:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 17 2023 00:11:29 GMT+0800 (China Standard Time) -->
 
 1. [法考备考攻略](https://www.zhihu.com/search?q=法考备考攻略)
 1. [双十一手机推荐](https://www.zhihu.com/search?q=双十一手机推荐)
@@ -27,9 +27,6 @@
 1. [二手苹果值吗](https://www.zhihu.com/search?q=二手苹果值吗)
 1. [碳中和](https://www.zhihu.com/search?q=碳中和)
 1. [显示器2k还是4k](https://www.zhihu.com/search?q=显示器2k还是4k)
-1. [华为matepad](https://www.zhihu.com/search?q=华为matepad)
-1. [为什么苹果信号差](https://www.zhihu.com/search?q=为什么苹果信号差)
-1. [考研需要买平板吗](https://www.zhihu.com/search?q=考研需要买平板吗)
 
 <!-- END -->
 
