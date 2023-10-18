@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 19 2023 05:07:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 19 2023 06:08:03 GMT+0800 (China Standard Time) -->
 
 1. [Red Velvet](https://www.zhihu.com/search?q=Red Velvet)
 1. [双十一手机推荐](https://www.zhihu.com/search?q=双十一手机推荐)
