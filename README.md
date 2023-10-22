@@ -15,20 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 22 2023 23:07:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 23 2023 00:10:13 GMT+0800 (China Standard Time) -->
 
-1. [双十一手机推荐](https://www.zhihu.com/search?q=双十一手机推荐)
 1. [考研政治](https://www.zhihu.com/search?q=考研政治)
 1. [考研数学](https://www.zhihu.com/search?q=考研数学)
 1. [考研英语](https://www.zhihu.com/search?q=考研英语)
-1. [鼠标差别真的大吗](https://www.zhihu.com/search?q=鼠标差别真的大吗)
-1. [用千元手机丢人吗](https://www.zhihu.com/search?q=用千元手机丢人吗)
-1. [大学电脑是刚需吗](https://www.zhihu.com/search?q=大学电脑是刚需吗)
-1. [什么输入法打字快](https://www.zhihu.com/search?q=什么输入法打字快)
+1. [智能手表推荐](https://www.zhihu.com/search?q=智能手表推荐)
 1. [平板电脑推荐](https://www.zhihu.com/search?q=平板电脑推荐)
 1. [在职考研时间规划](https://www.zhihu.com/search?q=在职考研时间规划)
-1. [A股](https://www.zhihu.com/search?q=A股)
-1. [俄乌局势进展](https://www.zhihu.com/search?q=俄乌局势进展)
+1. [2024国考报名教程](https://www.zhihu.com/search?q=2024国考报名教程)
+1. [电脑壁纸4K](https://www.zhihu.com/search?q=电脑壁纸4K)
+1. [电脑内存怎么选](https://www.zhihu.com/search?q=电脑内存怎么选)
+1. [笔记本2023推荐](https://www.zhihu.com/search?q=笔记本2023推荐)
 
 <!-- END -->
 
