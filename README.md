@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 23 2023 06:07:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 23 2023 07:07:51 GMT+0800 (China Standard Time) -->
 
 1. [考研政治](https://www.zhihu.com/search?q=考研政治)
 1. [考研数学](https://www.zhihu.com/search?q=考研数学)
