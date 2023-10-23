@@ -15,24 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 23 2023 23:09:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 24 2023 00:11:13 GMT+0800 (China Standard Time) -->
 
 1. [双十一手机推荐](https://www.zhihu.com/search?q=双十一手机推荐)
 1. [考研政治](https://www.zhihu.com/search?q=考研政治)
 1. [考研数学](https://www.zhihu.com/search?q=考研数学)
-1. [重阳节](https://www.zhihu.com/search?q=重阳节)
 1. [考研英语](https://www.zhihu.com/search?q=考研英语)
 1. [智能手表推荐](https://www.zhihu.com/search?q=智能手表推荐)
 1. [A股](https://www.zhihu.com/search?q=A股)
 1. [内蒙古打响化债第一枪](https://www.zhihu.com/search?q=内蒙古打响化债第一枪)
 1. [平板电脑推荐](https://www.zhihu.com/search?q=平板电脑推荐)
 1. [以色列正式向哈马斯宣战](https://www.zhihu.com/search?q=以色列正式向哈马斯宣战)
-1. [在职考研时间规划](https://www.zhihu.com/search?q=在职考研时间规划)
-1. [2024国考报名教程](https://www.zhihu.com/search?q=2024国考报名教程)
-1. [陈牧驰吴楚一](https://www.zhihu.com/search?q=陈牧驰吴楚一)
-1. [电脑壁纸4K](https://www.zhihu.com/search?q=电脑壁纸4K)
-1. [电脑内存怎么选](https://www.zhihu.com/search?q=电脑内存怎么选)
-1. [笔记本2023推荐](https://www.zhihu.com/search?q=笔记本2023推荐)
+1. [化妆包必备好物](https://www.zhihu.com/search?q=化妆包必备好物)
 
 <!-- END -->
 
