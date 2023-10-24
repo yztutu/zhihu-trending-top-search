@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 24 2023 10:16:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 24 2023 11:10:06 GMT+0800 (China Standard Time) -->
 
 1. [双十一手机推荐](https://www.zhihu.com/search?q=双十一手机推荐)
 1. [考研政治](https://www.zhihu.com/search?q=考研政治)
@@ -25,6 +25,7 @@
 1. [A股](https://www.zhihu.com/search?q=A股)
 1. [内蒙古打响化债第一枪](https://www.zhihu.com/search?q=内蒙古打响化债第一枪)
 1. [平板电脑推荐](https://www.zhihu.com/search?q=平板电脑推荐)
+1. [51 部新片定档待映](https://www.zhihu.com/search?q=51 部新片定档待映)
 1. [以色列正式向哈马斯宣战](https://www.zhihu.com/search?q=以色列正式向哈马斯宣战)
 1. [化妆包必备好物](https://www.zhihu.com/search?q=化妆包必备好物)
 
