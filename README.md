@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 27 2023 13:08:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 27 2023 14:11:37 GMT+0800 (China Standard Time) -->
 
 1. [双十一手机推荐](https://www.zhihu.com/search?q=双十一手机推荐)
 1. [再见爱人](https://www.zhihu.com/search?q=再见爱人)
@@ -26,6 +26,7 @@
 1. [钻石价格下跌](https://www.zhihu.com/search?q=钻石价格下跌)
 1. [耳机推荐](https://www.zhihu.com/search?q=耳机推荐)
 1. [以色列正式向哈马斯宣战](https://www.zhihu.com/search?q=以色列正式向哈马斯宣战)
+1. [国考备考经验](https://www.zhihu.com/search?q=国考备考经验)
 1. [油价下调](https://www.zhihu.com/search?q=油价下调)
 
 <!-- END -->
