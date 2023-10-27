@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 27 2023 23:08:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 28 2023 00:10:41 GMT+0800 (China Standard Time) -->
 
 1. [双十一手机推荐](https://www.zhihu.com/search?q=双十一手机推荐)
 1. [拜登下令美军空袭叙利亚](https://www.zhihu.com/search?q=拜登下令美军空袭叙利亚)
@@ -27,14 +27,6 @@
 1. [秋招环境更差](https://www.zhihu.com/search?q=秋招环境更差)
 1. [油价下调](https://www.zhihu.com/search?q=油价下调)
 1. [国考备考经验](https://www.zhihu.com/search?q=国考备考经验)
-1. [买高铁票时可以选静音车厢](https://www.zhihu.com/search?q=买高铁票时可以选静音车厢)
-1. [以色列战争成本68亿美元](https://www.zhihu.com/search?q=以色列战争成本68亿美元)
-1. [2023洗地机推荐](https://www.zhihu.com/search?q=2023洗地机推荐)
-1. [再见爱人](https://www.zhihu.com/search?q=再见爱人)
-1. [A股](https://www.zhihu.com/search?q=A股)
-1. [今日股市](https://www.zhihu.com/search?q=今日股市)
-1. [钻石价格下跌](https://www.zhihu.com/search?q=钻石价格下跌)
-1. [耳机推荐](https://www.zhihu.com/search?q=耳机推荐)
 
 <!-- END -->
 
