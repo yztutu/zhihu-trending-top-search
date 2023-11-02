@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 02 2023 17:08:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 02 2023 18:09:18 GMT+0800 (China Standard Time) -->
 
 1. [万圣节](https://www.zhihu.com/search?q=万圣节)
 1. [双十一手机推荐](https://www.zhihu.com/search?q=双十一手机推荐)
@@ -23,6 +23,7 @@
 1. [A股](https://www.zhihu.com/search?q=A股)
 1. [优衣库涨薪](https://www.zhihu.com/search?q=优衣库涨薪)
 1. [金鸡奖](https://www.zhihu.com/search?q=金鸡奖)
+1. [非全日制计算机研究生](https://www.zhihu.com/search?q=非全日制计算机研究生)
 1. [考研流程详解](https://www.zhihu.com/search?q=考研流程详解)
 1. [国考备考经验](https://www.zhihu.com/search?q=国考备考经验)
 1. [city work](https://www.zhihu.com/search?q=city work)
