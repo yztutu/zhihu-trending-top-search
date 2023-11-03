@@ -15,26 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 03 2023 23:09:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 04 2023 00:11:36 GMT+0800 (China Standard Time) -->
 
 1. [万圣节](https://www.zhihu.com/search?q=万圣节)
 1. [双十一手机推荐](https://www.zhihu.com/search?q=双十一手机推荐)
+1. [华为mate60](https://www.zhihu.com/search?q=华为mate60)
+1. [iphone15](https://www.zhihu.com/search?q=iphone15)
 1. [三大指数集体低开](https://www.zhihu.com/search?q=三大指数集体低开)
+1. [华为mate60pro](https://www.zhihu.com/search?q=华为mate60pro)
 1. [智能手表推荐](https://www.zhihu.com/search?q=智能手表推荐)
+1. [显示器](https://www.zhihu.com/search?q=显示器)
 1. [游戏显示器推荐](https://www.zhihu.com/search?q=游戏显示器推荐)
 1. [A股](https://www.zhihu.com/search?q=A股)
-1. [平板电脑推荐](https://www.zhihu.com/search?q=平板电脑推荐)
-1. [S13](https://www.zhihu.com/search?q=S13)
-1. [笔记本推荐](https://www.zhihu.com/search?q=笔记本推荐)
-1. [非全日制计算机研究生](https://www.zhihu.com/search?q=非全日制计算机研究生)
-1. [考研流程详解](https://www.zhihu.com/search?q=考研流程详解)
-1. [国考备考经验](https://www.zhihu.com/search?q=国考备考经验)
-1. [评价崩坏星穹铁道](https://www.zhihu.com/search?q=评价崩坏星穹铁道)
-1. [国考报名](https://www.zhihu.com/search?q=国考报名)
-1. [台式机装机配置](https://www.zhihu.com/search?q=台式机装机配置)
-1. [台式机推荐](https://www.zhihu.com/search?q=台式机推荐)
-1. [优衣库涨薪](https://www.zhihu.com/search?q=优衣库涨薪)
-1. [金鸡奖](https://www.zhihu.com/search?q=金鸡奖)
 
 <!-- END -->
 
