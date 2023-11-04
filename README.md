@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 04 2023 23:07:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 05 2023 00:09:47 GMT+0800 (China Standard Time) -->
 
 1. [万圣节](https://www.zhihu.com/search?q=万圣节)
 1. [双十一手机推荐](https://www.zhihu.com/search?q=双十一手机推荐)
