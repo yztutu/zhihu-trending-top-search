@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 05 2023 23:07:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 06 2023 00:09:54 GMT+0800 (China Standard Time) -->
 
 1. [双十一手机推荐](https://www.zhihu.com/search?q=双十一手机推荐)
 1. [华为mate60](https://www.zhihu.com/search?q=华为mate60)
@@ -27,9 +27,6 @@
 1. [流量卡](https://www.zhihu.com/search?q=流量卡)
 1. [降噪耳机](https://www.zhihu.com/search?q=降噪耳机)
 1. [平板电脑推荐](https://www.zhihu.com/search?q=平板电脑推荐)
-1. [三大指数集体低开](https://www.zhihu.com/search?q=三大指数集体低开)
-1. [A股](https://www.zhihu.com/search?q=A股)
-1. [万圣节](https://www.zhihu.com/search?q=万圣节)
 
 <!-- END -->
 
