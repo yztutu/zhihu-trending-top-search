@@ -1,4 +1,14 @@
 [
+  { "query": "双十一手机推荐", "display_query": "双十一手机推荐" },
+  { "query": "华为mate60", "display_query": "华为mate60" },
+  { "query": "iphone15", "display_query": "iphone15" },
+  { "query": "内行人眼中的全屋定制", "display_query": "内行人眼中的全屋定制" },
+  { "query": "华为mate60pro", "display_query": "华为mate60pro" },
+  { "query": "智能手表推荐", "display_query": "智能手表推荐" },
+  { "query": "蓝牙耳机", "display_query": "蓝牙耳机" },
+  { "query": "显示器", "display_query": "显示器" },
+  { "query": "游戏显示器推荐", "display_query": "游戏显示器推荐" },
+  { "query": "流量卡", "display_query": "流量卡" },
   {
     "query": "中山二院回应乳腺外科多人患癌",
     "display_query": "中山二院回应乳腺外科多人患癌"
@@ -8,7 +18,6 @@
     "display_query": "新疆凌晨连发 6 次地震"
   },
   { "query": "今日立冬", "display_query": "今日立冬" },
-  { "query": "内行人眼中的全屋定制", "display_query": "内行人眼中的全屋定制" },
   {
     "query": "董明珠首次回应孟羽童离职",
     "display_query": "董明珠首次回应孟羽童离职"
@@ -22,15 +31,6 @@
   { "query": "原神芙宁娜", "display_query": "原神芙宁娜" },
   { "query": "许凯麦粒肿了", "display_query": "许凯麦粒肿了" },
   { "query": "黎明前总是最冷的时候", "display_query": "黎明前总是最冷的时候" },
-  { "query": "双十一手机推荐", "display_query": "双十一手机推荐" },
-  { "query": "华为mate60", "display_query": "华为mate60" },
-  { "query": "iphone15", "display_query": "iphone15" },
-  { "query": "华为mate60pro", "display_query": "华为mate60pro" },
-  { "query": "智能手表推荐", "display_query": "智能手表推荐" },
-  { "query": "蓝牙耳机", "display_query": "蓝牙耳机" },
-  { "query": "显示器", "display_query": "显示器" },
-  { "query": "游戏显示器推荐", "display_query": "游戏显示器推荐" },
-  { "query": "流量卡", "display_query": "流量卡" },
   {
     "query": "以历年最大规模亮相进博",
     "display_query": "以历年最大规模亮相进博"
