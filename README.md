@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 11 2023 14:10:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 11 2023 15:07:21 GMT+0800 (China Standard Time) -->
 
 1. [16 个城市取消土地限价](https://www.zhihu.com/search?q=16 个城市取消土地限价)
 1. [全球资管巨头先锋领航退出中国](https://www.zhihu.com/search?q=全球资管巨头先锋领航退出中国)
