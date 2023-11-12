@@ -1,18 +1,24 @@
 [
+  { "query": "内行人眼中的全屋定制", "display_query": "内行人眼中的全屋定制" },
   { "query": "三大指数集体低开", "display_query": "三大指数集体低开" },
+  { "query": "蓝牙耳机", "display_query": "蓝牙耳机" },
+  { "query": "降噪耳机", "display_query": "降噪耳机" },
+  { "query": "原神芙宁娜", "display_query": "原神芙宁娜" },
+  { "query": "手机壁纸", "display_query": "手机壁纸" },
+  { "query": "笔记本推荐", "display_query": "笔记本推荐" },
+  { "query": "国考备考经验", "display_query": "国考备考经验" },
+  { "query": "A股市场表现", "display_query": "A股市场表现" },
+  { "query": "A股市场情况", "display_query": "A股市场情况" },
   {
     "query": "欧洲、韩国等多地爆发床虱危机",
     "display_query": "欧洲、韩国等多地爆发床虱危机"
   },
-  { "query": "原神芙宁娜", "display_query": "原神芙宁娜" },
   {
     "query": "国家一级导演车径行去世",
     "display_query": "国家一级导演车径行去世"
   },
   { "query": "温州民房坍塌致3死", "display_query": "温州民房坍塌致3死" },
   { "query": "WBG对战BLG", "display_query": "WBG对战BLG" },
-  { "query": "A股市场表现", "display_query": "A股市场表现" },
-  { "query": "A股市场情况", "display_query": "A股市场情况" },
   { "query": "反诈老陈」成吃播博主", "display_query": "反诈老陈」成吃播博主" },
   {
     "query": "网红于文亮直播喊话一起圈钱",
@@ -30,11 +36,5 @@
   {
     "query": "苏州百亿毒地几乎成空城",
     "display_query": "苏州百亿毒地几乎成空城"
-  },
-  { "query": "内行人眼中的全屋定制", "display_query": "内行人眼中的全屋定制" },
-  { "query": "蓝牙耳机", "display_query": "蓝牙耳机" },
-  { "query": "降噪耳机", "display_query": "降噪耳机" },
-  { "query": "手机壁纸", "display_query": "手机壁纸" },
-  { "query": "笔记本推荐", "display_query": "笔记本推荐" },
-  { "query": "国考备考经验", "display_query": "国考备考经验" }
+  }
 ]
