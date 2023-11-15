@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 15 2023 23:10:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 16 2023 00:11:39 GMT+0800 (China Standard Time) -->
 
 1. [多家银行下调存款利率](https://www.zhihu.com/search?q=多家银行下调存款利率)
 1. [内行人眼中的全屋定制](https://www.zhihu.com/search?q=内行人眼中的全屋定制)
@@ -27,11 +27,6 @@
 1. [跨专业考研](https://www.zhihu.com/search?q=跨专业考研)
 1. [考研数学推荐书籍](https://www.zhihu.com/search?q=考研数学推荐书籍)
 1. [考研需要报班吗](https://www.zhihu.com/search?q=考研需要报班吗)
-1. [再见爱人](https://www.zhihu.com/search?q=再见爱人)
-1. [考研还是考公考编](https://www.zhihu.com/search?q=考研还是考公考编)
-1. [国考备考经验](https://www.zhihu.com/search?q=国考备考经验)
-1. [国考报考人数最多的岗位](https://www.zhihu.com/search?q=国考报考人数最多的岗位)
-1. [长大的瞬间](https://www.zhihu.com/search?q=长大的瞬间)
 
 <!-- END -->
 
