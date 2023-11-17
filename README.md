@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 17 2023 23:09:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 18 2023 00:12:36 GMT+0800 (China Standard Time) -->
 
 1. [法考备考攻略](https://www.zhihu.com/search?q=法考备考攻略)
 1. [考研政治](https://www.zhihu.com/search?q=考研政治)
@@ -27,8 +27,6 @@
 1. [法考主观题如何答题](https://www.zhihu.com/search?q=法考主观题如何答题)
 1. [法考主观题答题技巧](https://www.zhihu.com/search?q=法考主观题答题技巧)
 1. [以色列](https://www.zhihu.com/search?q=以色列)
-1. [多家银行下调存款利率](https://www.zhihu.com/search?q=多家银行下调存款利率)
-1. [再见爱人](https://www.zhihu.com/search?q=再见爱人)
 
 <!-- END -->
 
