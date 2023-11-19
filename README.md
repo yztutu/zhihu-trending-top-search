@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 19 2023 23:08:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 20 2023 00:10:07 GMT+0800 (China Standard Time) -->
 
 1. [法考备考攻略](https://www.zhihu.com/search?q=法考备考攻略)
 1. [考研政治](https://www.zhihu.com/search?q=考研政治)
@@ -27,7 +27,6 @@
 1. [法考主观题如何答题](https://www.zhihu.com/search?q=法考主观题如何答题)
 1. [法考主观题答题技巧](https://www.zhihu.com/search?q=法考主观题答题技巧)
 1. [法考主观题冲刺](https://www.zhihu.com/search?q=法考主观题冲刺)
-1. [SpaceX 星舰发射失败](https://www.zhihu.com/search?q=SpaceX 星舰发射失败)
 
 <!-- END -->
 
