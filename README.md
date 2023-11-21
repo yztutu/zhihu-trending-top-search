@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 21 2023 18:15:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 21 2023 19:07:55 GMT+0800 (China Standard Time) -->
 
 1. [法考备考攻略](https://www.zhihu.com/search?q=法考备考攻略)
 1. [考研政治](https://www.zhihu.com/search?q=考研政治)
@@ -24,6 +24,7 @@
 1. [内行人眼中的全屋定制](https://www.zhihu.com/search?q=内行人眼中的全屋定制)
 1. [A股市场](https://www.zhihu.com/search?q=A股市场)
 1. [考研需要买平板吗](https://www.zhihu.com/search?q=考研需要买平板吗)
+1. [再见爱人](https://www.zhihu.com/search?q=再见爱人)
 1. [30岁考公来得及吗](https://www.zhihu.com/search?q=30岁考公来得及吗)
 1. [今日股市](https://www.zhihu.com/search?q=今日股市)
 1. [法考主观题如何答题](https://www.zhihu.com/search?q=法考主观题如何答题)
