@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 22 2023 23:09:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 23 2023 00:12:00 GMT+0800 (China Standard Time) -->
 
 1. [今日小雪](https://www.zhihu.com/search?q=今日小雪)
 1. [法考备考攻略](https://www.zhihu.com/search?q=法考备考攻略)
@@ -27,10 +27,6 @@
 1. [A股](https://www.zhihu.com/search?q=A股)
 1. [30岁考公来得及吗](https://www.zhihu.com/search?q=30岁考公来得及吗)
 1. [法考主观题如何答题](https://www.zhihu.com/search?q=法考主观题如何答题)
-1. [再见爱人](https://www.zhihu.com/search?q=再见爱人)
-1. [为什么要合群](https://www.zhihu.com/search?q=为什么要合群)
-1. [A股市场](https://www.zhihu.com/search?q=A股市场)
-1. [今日股市](https://www.zhihu.com/search?q=今日股市)
 
 <!-- END -->
 
