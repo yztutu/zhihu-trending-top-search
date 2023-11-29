@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 29 2023 23:09:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 30 2023 00:12:07 GMT+0800 (China Standard Time) -->
 
 1. [内行人眼中的全屋定制](https://www.zhihu.com/search?q=内行人眼中的全屋定制)
 1. [欧冠](https://www.zhihu.com/search?q=欧冠)
@@ -27,11 +27,6 @@
 1. [开题报告](https://www.zhihu.com/search?q=开题报告)
 1. [第一学历真的很重要吗](https://www.zhihu.com/search?q=第一学历真的很重要吗)
 1. [非全日制研究生应届生身份](https://www.zhihu.com/search?q=非全日制研究生应届生身份)
-1. [再见爱人](https://www.zhihu.com/search?q=再见爱人)
-1. [雅思词汇](https://www.zhihu.com/search?q=雅思词汇)
-1. [热水器推荐](https://www.zhihu.com/search?q=热水器推荐)
-1. [支原体肺炎](https://www.zhihu.com/search?q=支原体肺炎)
-1. [考研英语二](https://www.zhihu.com/search?q=考研英语二)
 
 <!-- END -->
 
