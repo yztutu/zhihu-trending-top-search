@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 01 2023 23:09:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 02 2023 00:11:22 GMT+0800 (China Standard Time) -->
 
 1. [A股](https://www.zhihu.com/search?q=A股)
 1. [周信静](https://www.zhihu.com/search?q=周信静)
@@ -27,9 +27,6 @@
 1. [留学生开放定向选调](https://www.zhihu.com/search?q=留学生开放定向选调)
 1. [助学金申请理由200](https://www.zhihu.com/search?q=助学金申请理由200)
 1. [运动会加油稿小众惊艳150字](https://www.zhihu.com/search?q=运动会加油稿小众惊艳150字)
-1. [普通话自由说话30篇万能模板](https://www.zhihu.com/search?q=普通话自由说话30篇万能模板)
-1. [武汉大学](https://www.zhihu.com/search?q=武汉大学)
-1. [今日股市行情](https://www.zhihu.com/search?q=今日股市行情)
 
 <!-- END -->
 
