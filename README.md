@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 04 2023 23:09:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 05 2023 00:12:17 GMT+0800 (China Standard Time) -->
 
 1. [A股](https://www.zhihu.com/search?q=A股)
 1. [张艺兴新歌](https://www.zhihu.com/search?q=张艺兴新歌)
@@ -27,10 +27,6 @@
 1. [开题报告](https://www.zhihu.com/search?q=开题报告)
 1. [第一学历真的很重要吗](https://www.zhihu.com/search?q=第一学历真的很重要吗)
 1. [剪辑教程](https://www.zhihu.com/search?q=剪辑教程)
-1. [考研经验分享](https://www.zhihu.com/search?q=考研经验分享)
-1. [留学生开放定向选调](https://www.zhihu.com/search?q=留学生开放定向选调)
-1. [运动会加油稿小众惊艳150字](https://www.zhihu.com/search?q=运动会加油稿小众惊艳150字)
-1. [助学金申请理由200](https://www.zhihu.com/search?q=助学金申请理由200)
 
 <!-- END -->
 
