@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 07 2023 07:09:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 07 2023 08:43:08 GMT+0800 (China Standard Time) -->
 
 1. [考研调剂](https://www.zhihu.com/search?q=考研调剂)
 1. [张艺兴新歌](https://www.zhihu.com/search?q=张艺兴新歌)
