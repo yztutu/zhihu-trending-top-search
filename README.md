@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 08 2023 23:09:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 09 2023 00:12:05 GMT+0800 (China Standard Time) -->
 
 1. [考研调剂](https://www.zhihu.com/search?q=考研调剂)
 1. [国考申论怎么复习](https://www.zhihu.com/search?q=国考申论怎么复习)
@@ -27,7 +27,6 @@
 1. [考公资料](https://www.zhihu.com/search?q=考公资料)
 1. [公考常识](https://www.zhihu.com/search?q=公考常识)
 1. [剪辑教程](https://www.zhihu.com/search?q=剪辑教程)
-1. [国考报名人数](https://www.zhihu.com/search?q=国考报名人数)
 
 <!-- END -->
 
