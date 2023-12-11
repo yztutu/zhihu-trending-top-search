@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 11 2023 18:10:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 11 2023 19:08:17 GMT+0800 (China Standard Time) -->
 
 1. [考研心态崩了怎么办](https://www.zhihu.com/search?q=考研心态崩了怎么办)
 1. [考研调剂](https://www.zhihu.com/search?q=考研调剂)
