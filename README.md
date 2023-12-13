@@ -15,11 +15,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 13 2023 16:12:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 13 2023 17:09:21 GMT+0800 (China Standard Time) -->
 
 1. [考研心态崩了怎么办](https://www.zhihu.com/search?q=考研心态崩了怎么办)
 1. [考研调剂](https://www.zhihu.com/search?q=考研调剂)
 1. [欧冠](https://www.zhihu.com/search?q=欧冠)
+1. [特斯拉人形机器人Optimus第二代](https://www.zhihu.com/search?q=特斯拉人形机器人Optimus第二代)
 1. [税务局值得考吗](https://www.zhihu.com/search?q=税务局值得考吗)
 1. [边检待遇怎么样](https://www.zhihu.com/search?q=边检待遇怎么样)
 1. [统计局调查队待遇](https://www.zhihu.com/search?q=统计局调查队待遇)
