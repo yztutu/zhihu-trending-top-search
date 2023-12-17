@@ -1,6 +1,5 @@
 [
   { "query": "考研心态崩了怎么办", "display_query": "考研心态崩了怎么办" },
-  { "query": "英语四六级考试", "display_query": "英语四六级考试" },
   {
     "query": "我国成功发射可重复使用试验航天器",
     "display_query": "我国成功发射可重复使用试验航天器"
@@ -14,5 +13,7 @@
     "display_query": "国家统计局调查总队待遇"
   },
   { "query": "气象局的真实待遇咋样", "display_query": "气象局的真实待遇咋样" },
-  { "query": "气象局工作怎么样", "display_query": "气象局工作怎么样" }
+  { "query": "气象局工作怎么样", "display_query": "气象局工作怎么样" },
+  { "query": "民航局待遇", "display_query": "民航局待遇" },
+  { "query": "英语四六级考试", "display_query": "英语四六级考试" }
 ]
