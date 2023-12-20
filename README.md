@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 20 2023 17:07:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 20 2023 18:08:11 GMT+0800 (China Standard Time) -->
 
 1. [法考客观题的难度](https://www.zhihu.com/search?q=法考客观题的难度)
 1. [AI智能写作哪个好](https://www.zhihu.com/search?q=AI智能写作哪个好)
