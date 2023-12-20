@@ -15,9 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 20 2023 15:07:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 20 2023 16:09:52 GMT+0800 (China Standard Time) -->
 
-1. [考研心态崩了怎么办](https://www.zhihu.com/search?q=考研心态崩了怎么办)
 1. [法考客观题的难度](https://www.zhihu.com/search?q=法考客观题的难度)
 1. [AI智能写作哪个好](https://www.zhihu.com/search?q=AI智能写作哪个好)
 1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
@@ -27,6 +26,8 @@
 1. [英语口语应该如何练](https://www.zhihu.com/search?q=英语口语应该如何练)
 1. [计算机考研择校怎么选](https://www.zhihu.com/search?q=计算机考研择校怎么选)
 1. [心理学考研](https://www.zhihu.com/search?q=心理学考研)
+1. [留学生定向选调](https://www.zhihu.com/search?q=留学生定向选调)
+1. [考研心态崩了怎么办](https://www.zhihu.com/search?q=考研心态崩了怎么办)
 1. [如何看待A股市场](https://www.zhihu.com/search?q=如何看待A股市场)
 
 <!-- END -->
