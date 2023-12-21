@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 21 2023 23:09:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 22 2023 00:11:23 GMT+0800 (China Standard Time) -->
 
 1. [周杰伦新歌](https://www.zhihu.com/search?q=周杰伦新歌)
 1. [考研国家线公布](https://www.zhihu.com/search?q=考研国家线公布)
@@ -27,11 +27,6 @@
 1. [英语口语应该如何练](https://www.zhihu.com/search?q=英语口语应该如何练)
 1. [计算机考研择校怎么选](https://www.zhihu.com/search?q=计算机考研择校怎么选)
 1. [心理学考研](https://www.zhihu.com/search?q=心理学考研)
-1. [留学生定向选调](https://www.zhihu.com/search?q=留学生定向选调)
-1. [留学生回国选调](https://www.zhihu.com/search?q=留学生回国选调)
-1. [华东师范大学计算机考研](https://www.zhihu.com/search?q=华东师范大学计算机考研)
-1. [法考客观题的难度](https://www.zhihu.com/search?q=法考客观题的难度)
-1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
 
 <!-- END -->
 
