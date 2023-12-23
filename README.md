@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 23 2023 08:40:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 23 2023 09:42:42 GMT+0800 (China Standard Time) -->
 
 1. [考研国家线公布](https://www.zhihu.com/search?q=考研国家线公布)
 1. [2023 考研国家线公布](https://www.zhihu.com/search?q=2023 考研国家线公布)
