@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 24 2023 23:07:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 25 2023 00:10:14 GMT+0800 (China Standard Time) -->
 
 1. [考研国家线公布](https://www.zhihu.com/search?q=考研国家线公布)
 1. [2023 考研国家线公布](https://www.zhihu.com/search?q=2023 考研国家线公布)
@@ -27,7 +27,6 @@
 1. [留学生定向选调](https://www.zhihu.com/search?q=留学生定向选调)
 1. [留学生回国选调](https://www.zhihu.com/search?q=留学生回国选调)
 1. [在职研究生](https://www.zhihu.com/search?q=在职研究生)
-1. [英语口语应该如何练](https://www.zhihu.com/search?q=英语口语应该如何练)
 
 <!-- END -->
 
