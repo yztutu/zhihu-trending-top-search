@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 28 2023 23:08:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 29 2023 00:11:16 GMT+0800 (China Standard Time) -->
 
 1. [考研结束](https://www.zhihu.com/search?q=考研结束)
 1. [考研国家线公布](https://www.zhihu.com/search?q=考研国家线公布)
@@ -27,11 +27,6 @@
 1. [英语口语应该如何练](https://www.zhihu.com/search?q=英语口语应该如何练)
 1. [留学生定向选调](https://www.zhihu.com/search?q=留学生定向选调)
 1. [留学生回国选调](https://www.zhihu.com/search?q=留学生回国选调)
-1. [在职研究生](https://www.zhihu.com/search?q=在职研究生)
-1. [剪辑软件](https://www.zhihu.com/search?q=剪辑软件)
-1. [剪辑视频软件推荐](https://www.zhihu.com/search?q=剪辑视频软件推荐)
-1. [剪辑自学](https://www.zhihu.com/search?q=剪辑自学)
-1. [李善均](https://www.zhihu.com/search?q=李善均)
 
 <!-- END -->
 
