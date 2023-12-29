@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 30 2023 03:07:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 30 2023 04:09:18 GMT+0800 (China Standard Time) -->
 
 1. [考研结束](https://www.zhihu.com/search?q=考研结束)
 1. [考研国家线公布](https://www.zhihu.com/search?q=考研国家线公布)
