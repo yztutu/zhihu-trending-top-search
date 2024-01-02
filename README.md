@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 02 2024 23:09:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 03 2024 00:10:26 GMT+0800 (China Standard Time) -->
 
 1. [老师怎么看出来作文是抄的](https://www.zhihu.com/search?q=老师怎么看出来作文是抄的)
 1. [AI智能写作哪个好](https://www.zhihu.com/search?q=AI智能写作哪个好)
@@ -27,8 +27,6 @@
 1. [在职研究生](https://www.zhihu.com/search?q=在职研究生)
 1. [考公资料](https://www.zhihu.com/search?q=考公资料)
 1. [剪辑软件](https://www.zhihu.com/search?q=剪辑软件)
-1. [剪辑视频软件推荐](https://www.zhihu.com/search?q=剪辑视频软件推荐)
-1. [如何看待今日股市](https://www.zhihu.com/search?q=如何看待今日股市)
 
 <!-- END -->
 
