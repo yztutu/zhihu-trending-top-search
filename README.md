@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 04 2024 23:10:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 05 2024 00:11:11 GMT+0800 (China Standard Time) -->
 
 1. [老师怎么看出来作文是抄的](https://www.zhihu.com/search?q=老师怎么看出来作文是抄的)
 1. [如何看待A股市场](https://www.zhihu.com/search?q=如何看待A股市场)
@@ -27,7 +27,6 @@
 1. [在职研究生](https://www.zhihu.com/search?q=在职研究生)
 1. [考公资料](https://www.zhihu.com/search?q=考公资料)
 1. [剪辑软件](https://www.zhihu.com/search?q=剪辑软件)
-1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
 
 <!-- END -->
 
