@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 08 2024 15:09:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 08 2024 16:13:06 GMT+0800 (China Standard Time) -->
 
-1. [公考时政汇总](https://www.zhihu.com/search?q=公考时政汇总)
+1. [金球奖](https://www.zhihu.com/search?q=金球奖)
 1. [老师怎么看出来作文是抄的](https://www.zhihu.com/search?q=老师怎么看出来作文是抄的)
 1. [AI智能写作哪个好](https://www.zhihu.com/search?q=AI智能写作哪个好)
 1. [大学老师逆天发言](https://www.zhihu.com/search?q=大学老师逆天发言)
@@ -27,6 +27,7 @@
 1. [剪辑视频的软件](https://www.zhihu.com/search?q=剪辑视频的软件)
 1. [电脑剪辑软件](https://www.zhihu.com/search?q=电脑剪辑软件)
 1. [写作赚钱平台](https://www.zhihu.com/search?q=写作赚钱平台)
+1. [公考时政汇总](https://www.zhihu.com/search?q=公考时政汇总)
 1. [写作真的能赚钱吗](https://www.zhihu.com/search?q=写作真的能赚钱吗)
 1. [写作的本质](https://www.zhihu.com/search?q=写作的本质)
 1. [如何评价「明日方舟」](https://www.zhihu.com/search?q=如何评价「明日方舟」)
