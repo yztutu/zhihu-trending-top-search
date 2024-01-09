@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 09 2024 14:12:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 09 2024 15:10:52 GMT+0800 (China Standard Time) -->
 
 1. [金球奖](https://www.zhihu.com/search?q=金球奖)
 1. [老师怎么看出来作文是抄的](https://www.zhihu.com/search?q=老师怎么看出来作文是抄的)
@@ -23,6 +23,7 @@
 1. [AI智能写作哪个好](https://www.zhihu.com/search?q=AI智能写作哪个好)
 1. [大学老师逆天发言](https://www.zhihu.com/search?q=大学老师逆天发言)
 1. [周信静](https://www.zhihu.com/search?q=周信静)
+1. [今日股市行情](https://www.zhihu.com/search?q=今日股市行情)
 1. [申论课程哪个老师好](https://www.zhihu.com/search?q=申论课程哪个老师好)
 1. [在职研究生](https://www.zhihu.com/search?q=在职研究生)
 1. [剪辑教程](https://www.zhihu.com/search?q=剪辑教程)
