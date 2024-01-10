@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 10 2024 18:09:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 10 2024 19:07:55 GMT+0800 (China Standard Time) -->
 
 1. [教资面试成绩](https://www.zhihu.com/search?q=教资面试成绩)
+1. [中国人民警察节](https://www.zhihu.com/search?q=中国人民警察节)
 1. [金球奖](https://www.zhihu.com/search?q=金球奖)
 1. [老师怎么看出来作文是抄的](https://www.zhihu.com/search?q=老师怎么看出来作文是抄的)
 1. [AI智能写作哪个好](https://www.zhihu.com/search?q=AI智能写作哪个好)
