@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 11 2024 23:09:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 12 2024 00:12:13 GMT+0800 (China Standard Time) -->
 
 1. [教资面试成绩](https://www.zhihu.com/search?q=教资面试成绩)
 1. [中国人民警察节](https://www.zhihu.com/search?q=中国人民警察节)
@@ -27,10 +27,6 @@
 1. [剪辑音乐](https://www.zhihu.com/search?q=剪辑音乐)
 1. [剪辑思维](https://www.zhihu.com/search?q=剪辑思维)
 1. [写作赚钱平台](https://www.zhihu.com/search?q=写作赚钱平台)
-1. [老师怎么看出来作文是抄的](https://www.zhihu.com/search?q=老师怎么看出来作文是抄的)
-1. [大学老师逆天发言](https://www.zhihu.com/search?q=大学老师逆天发言)
-1. [金球奖](https://www.zhihu.com/search?q=金球奖)
-1. [剪辑教程](https://www.zhihu.com/search?q=剪辑教程)
 
 <!-- END -->
 
