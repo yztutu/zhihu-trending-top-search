@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jan 20 2024 23:08:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 21 2024 00:10:27 GMT+0800 (China Standard Time) -->
 
 1. [a股](https://www.zhihu.com/search?q=a股)
 1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
@@ -27,13 +27,6 @@
 1. [轻松「搞定」年底大扫除](https://www.zhihu.com/search?q=轻松「搞定」年底大扫除)
 1. [新年送父母的手机推荐](https://www.zhihu.com/search?q=新年送父母的手机推荐)
 1. [平平无奇却意外好吃的零食](https://www.zhihu.com/search?q=平平无奇却意外好吃的零食)
-1. [在职研究生](https://www.zhihu.com/search?q=在职研究生)
-1. [考研英语二](https://www.zhihu.com/search?q=考研英语二)
-1. [自考英语二](https://www.zhihu.com/search?q=自考英语二)
-1. [学历提升](https://www.zhihu.com/search?q=学历提升)
-1. [法硕非法学](https://www.zhihu.com/search?q=法硕非法学)
-1. [在职研究生备考攻略](https://www.zhihu.com/search?q=在职研究生备考攻略)
-1. [非全日制研究生](https://www.zhihu.com/search?q=非全日制研究生)
 
 <!-- END -->
 
