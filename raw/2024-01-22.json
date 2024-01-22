@@ -1,4 +1,8 @@
 [
+  {
+    "query": "猫的反应快还是人的反应快",
+    "display_query": "猫的反应快还是人的反应快"
+  },
   { "query": "a股", "display_query": "a股" },
   { "query": "今日A股市场", "display_query": "今日A股市场" },
   { "query": "国足", "display_query": "国足" },
@@ -7,10 +11,14 @@
     "display_query": "儿童呼吸道疾病防治手册"
   },
   { "query": "下雪", "display_query": "下雪" },
-  { "query": "约旦2:2韩国", "display_query": "约旦2:2韩国" },
+  {
+    "query": "如何评价「年会不能停」",
+    "display_query": "如何评价「年会不能停」"
+  },
   { "query": "在作文里撒过的谎", "display_query": "在作文里撒过的谎" },
   { "query": "2024 必囤的年货好物", "display_query": "2024 必囤的年货好物" },
   { "query": "适合送礼的键盘推荐", "display_query": "适合送礼的键盘推荐" },
+  { "query": "约旦2:2韩国", "display_query": "约旦2:2韩国" },
   {
     "query": "轻松「搞定」年底大扫除",
     "display_query": "轻松「搞定」年底大扫除"
