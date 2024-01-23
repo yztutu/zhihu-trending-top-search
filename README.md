@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 23 2024 23:09:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 24 2024 00:12:13 GMT+0800 (China Standard Time) -->
 
 1. [猫的反应快还是人的反应快](https://www.zhihu.com/search?q=猫的反应快还是人的反应快)
 1. [A股](https://www.zhihu.com/search?q=A股)
@@ -27,12 +27,6 @@
 1. [一个月备考省考来得及吗](https://www.zhihu.com/search?q=一个月备考省考来得及吗)
 1. [考公网盘资料免费](https://www.zhihu.com/search?q=考公网盘资料免费)
 1. [四川省考行测](https://www.zhihu.com/search?q=四川省考行测)
-1. [公考优师领学计划](https://www.zhihu.com/search?q=公考优师领学计划)
-1. [选调生是什么意思啊](https://www.zhihu.com/search?q=选调生是什么意思啊)
-1. [美国会禁止五角大楼从 6
-   家中企采购电池](https://www.zhihu.com/search?q=美国会禁止五角大楼从 6
-   家中企采购电池)
-1. [下雪](https://www.zhihu.com/search?q=下雪)
 
 <!-- END -->
 
