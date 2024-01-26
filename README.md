@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 26 2024 23:09:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jan 27 2024 00:11:02 GMT+0800 (China Standard Time) -->
 
 1. [吴京](https://www.zhihu.com/search?q=吴京)
 1. [马斯克称中国车企最具竞争力](https://www.zhihu.com/search?q=马斯克称中国车企最具竞争力)
@@ -27,9 +27,6 @@
 1. [一个月备考省考来得及吗](https://www.zhihu.com/search?q=一个月备考省考来得及吗)
 1. [为什么NBA必须叫美职篮](https://www.zhihu.com/search?q=为什么NBA必须叫美职篮)
 1. [东方甄选跌超10%](https://www.zhihu.com/search?q=东方甄选跌超10%)
-1. [四川省考行测](https://www.zhihu.com/search?q=四川省考行测)
-1. [选调生是什么意思啊](https://www.zhihu.com/search?q=选调生是什么意思啊)
-1. [考研英语app](https://www.zhihu.com/search?q=考研英语app)
 
 <!-- END -->
 
