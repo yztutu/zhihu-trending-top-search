@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 01 2024 06:08:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 01 2024 07:09:16 GMT+0800 (China Standard Time) -->
 
 1. [暴雪蓝色预警](https://www.zhihu.com/search?q=暴雪蓝色预警)
 1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
