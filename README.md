@@ -15,8 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 31 2024 19:07:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 31 2024 20:15:18 GMT+0800 (China Standard Time) -->
 
+1. [暴雪蓝色预警](https://www.zhihu.com/search?q=暴雪蓝色预警)
 1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
 1. [存款利率一降再降](https://www.zhihu.com/search?q=存款利率一降再降)
 1. [申论课程哪个老师好](https://www.zhihu.com/search?q=申论课程哪个老师好)
