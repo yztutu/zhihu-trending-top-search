@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 31 2024 23:08:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 01 2024 00:10:36 GMT+0800 (China Standard Time) -->
 
 1. [暴雪蓝色预警](https://www.zhihu.com/search?q=暴雪蓝色预警)
 1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
@@ -27,9 +27,6 @@
 1. [考公流程](https://www.zhihu.com/search?q=考公流程)
 1. [省考时间汇总](https://www.zhihu.com/search?q=省考时间汇总)
 1. [法硕非法学](https://www.zhihu.com/search?q=法硕非法学)
-1. [选调生报名基本条件](https://www.zhihu.com/search?q=选调生报名基本条件)
-1. [公考常识](https://www.zhihu.com/search?q=公考常识)
-1. [非全日制](https://www.zhihu.com/search?q=非全日制)
 
 <!-- END -->
 
