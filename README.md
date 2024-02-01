@@ -15,11 +15,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 01 2024 15:09:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 01 2024 16:11:20 GMT+0800 (China Standard Time) -->
 
 1. [暴雪蓝色预警](https://www.zhihu.com/search?q=暴雪蓝色预警)
 1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
 1. [存款利率一降再降](https://www.zhihu.com/search?q=存款利率一降再降)
+1. [美联储维持利率不变](https://www.zhihu.com/search?q=美联储维持利率不变)
 1. [申论课程哪个老师好](https://www.zhihu.com/search?q=申论课程哪个老师好)
 1. [国考怎么准备](https://www.zhihu.com/search?q=国考怎么准备)
 1. [定向选调生](https://www.zhihu.com/search?q=定向选调生)
