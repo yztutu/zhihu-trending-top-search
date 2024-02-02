@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 02 2024 23:09:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 03 2024 00:09:35 GMT+0800 (China Standard Time) -->
 
 1. [美联储维持联邦基金利率不变](https://www.zhihu.com/search?q=美联储维持联邦基金利率不变)
 1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
@@ -27,7 +27,6 @@
 1. [考公流程](https://www.zhihu.com/search?q=考公流程)
 1. [省考时间汇总](https://www.zhihu.com/search?q=省考时间汇总)
 1. [法硕非法学](https://www.zhihu.com/search?q=法硕非法学)
-1. [选调生报名基本条件](https://www.zhihu.com/search?q=选调生报名基本条件)
 
 <!-- END -->
 
