@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Feb 04 2024 18:09:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Feb 04 2024 19:06:48 GMT+0800 (China Standard Time) -->
 
 1. [立春](https://www.zhihu.com/search?q=立春)
+1. [世界癌症日](https://www.zhihu.com/search?q=世界癌症日)
 1. [申论课程哪个老师好](https://www.zhihu.com/search?q=申论课程哪个老师好)
 1. [国考怎么准备](https://www.zhihu.com/search?q=国考怎么准备)
 1. [定向选调生](https://www.zhihu.com/search?q=定向选调生)
