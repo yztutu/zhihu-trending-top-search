@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 05 2024 06:07:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 05 2024 07:08:15 GMT+0800 (China Standard Time) -->
 
 1. [立春](https://www.zhihu.com/search?q=立春)
 1. [世界癌症日](https://www.zhihu.com/search?q=世界癌症日)
