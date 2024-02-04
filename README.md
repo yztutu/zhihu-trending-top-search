@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Feb 04 2024 23:07:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 05 2024 00:09:47 GMT+0800 (China Standard Time) -->
 
 1. [立春](https://www.zhihu.com/search?q=立春)
 1. [世界癌症日](https://www.zhihu.com/search?q=世界癌症日)
@@ -27,11 +27,6 @@
 1. [法硕非法学](https://www.zhihu.com/search?q=法硕非法学)
 1. [选调生报名基本条件](https://www.zhihu.com/search?q=选调生报名基本条件)
 1. [非全日制](https://www.zhihu.com/search?q=非全日制)
-1. [声生不息](https://www.zhihu.com/search?q=声生不息)
-1. [非全日制研究生](https://www.zhihu.com/search?q=非全日制研究生)
-1. [美联储维持联邦基金利率不变](https://www.zhihu.com/search?q=美联储维持联邦基金利率不变)
-1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
-1. [美联储维持利率不变](https://www.zhihu.com/search?q=美联储维持利率不变)
 
 <!-- END -->
 
