@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 05 2024 23:08:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Feb 06 2024 00:10:24 GMT+0800 (China Standard Time) -->
 
 1. [申论课程哪个老师好](https://www.zhihu.com/search?q=申论课程哪个老师好)
 1. [国考怎么准备](https://www.zhihu.com/search?q=国考怎么准备)
@@ -27,11 +27,6 @@
 1. [非全日制](https://www.zhihu.com/search?q=非全日制)
 1. [蔡徐坤新歌](https://www.zhihu.com/search?q=蔡徐坤新歌)
 1. [非全日制研究生](https://www.zhihu.com/search?q=非全日制研究生)
-1. [世界癌症日](https://www.zhihu.com/search?q=世界癌症日)
-1. [哪部小说里的大女主让你触动很大](https://www.zhihu.com/search?q=哪部小说里的大女主让你触动很大)
-1. [省考时间汇总](https://www.zhihu.com/search?q=省考时间汇总)
-1. [声生不息](https://www.zhihu.com/search?q=声生不息)
-1. [立春](https://www.zhihu.com/search?q=立春)
 
 <!-- END -->
 
