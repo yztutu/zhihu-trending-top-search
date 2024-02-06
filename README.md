@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Feb 06 2024 23:08:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 07 2024 00:10:39 GMT+0800 (China Standard Time) -->
 
 1. [A股市场](https://www.zhihu.com/search?q=A股市场)
 1. [申论课程哪个老师好](https://www.zhihu.com/search?q=申论课程哪个老师好)
@@ -27,8 +27,6 @@
 1. [法硕非法学](https://www.zhihu.com/search?q=法硕非法学)
 1. [选调生报名基本条件](https://www.zhihu.com/search?q=选调生报名基本条件)
 1. [非全日制](https://www.zhihu.com/search?q=非全日制)
-1. [蔡徐坤新歌](https://www.zhihu.com/search?q=蔡徐坤新歌)
-1. [非全日制研究生](https://www.zhihu.com/search?q=非全日制研究生)
 
 <!-- END -->
 
