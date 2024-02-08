@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 08 2024 23:09:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 09 2024 00:11:00 GMT+0800 (China Standard Time) -->
 
 1. [A股市场](https://www.zhihu.com/search?q=A股市场)
 1. [短视频](https://www.zhihu.com/search?q=短视频)
@@ -27,8 +27,6 @@
 1. [轻松「搞定」年底大扫除](https://www.zhihu.com/search?q=轻松「搞定」年底大扫除)
 1. [新年送父母的手机推荐](https://www.zhihu.com/search?q=新年送父母的手机推荐)
 1. [平平无奇却意外好吃的零食](https://www.zhihu.com/search?q=平平无奇却意外好吃的零食)
-1. [2024 必囤的年货好物](https://www.zhihu.com/search?q=2024 必囤的年货好物)
-1. [南航](https://www.zhihu.com/search?q=南航)
 
 <!-- END -->
 
