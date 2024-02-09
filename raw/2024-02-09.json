@@ -1,5 +1,4 @@
 [
-  { "query": "A股市场", "display_query": "A股市场" },
   { "query": "短视频", "display_query": "短视频" },
   { "query": "赚钱", "display_query": "赚钱" },
   { "query": "梅西", "display_query": "梅西" },
@@ -15,5 +14,6 @@
   {
     "query": "平平无奇却意外好吃的零食",
     "display_query": "平平无奇却意外好吃的零食"
-  }
+  },
+  { "query": "A股市场", "display_query": "A股市场" }
 ]
