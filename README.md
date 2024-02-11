@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 12 2024 03:07:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 12 2024 04:09:20 GMT+0800 (China Standard Time) -->
 
 1. [短视频](https://www.zhihu.com/search?q=短视频)
 1. [赚钱](https://www.zhihu.com/search?q=赚钱)
