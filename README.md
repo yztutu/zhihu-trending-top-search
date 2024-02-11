@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Feb 11 2024 23:08:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 12 2024 00:10:41 GMT+0800 (China Standard Time) -->
 
 1. [短视频](https://www.zhihu.com/search?q=短视频)
 1. [赚钱](https://www.zhihu.com/search?q=赚钱)
@@ -27,11 +27,6 @@
 1. [贾玲](https://www.zhihu.com/search?q=贾玲)
 1. [热辣滚烫](https://www.zhihu.com/search?q=热辣滚烫)
 1. [第二十条](https://www.zhihu.com/search?q=第二十条)
-1. [卡塔尔亚洲杯](https://www.zhihu.com/search?q=卡塔尔亚洲杯)
-1. [过年送爸妈什么家居好物](https://www.zhihu.com/search?q=过年送爸妈什么家居好物)
-1. [纳入「年货清单」的健康好物](https://www.zhihu.com/search?q=纳入「年货清单」的健康好物)
-1. [](https://www.zhihu.com/search?q=)
-1. [梅西](https://www.zhihu.com/search?q=梅西)
 
 <!-- END -->
 
