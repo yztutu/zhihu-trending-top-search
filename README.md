@@ -15,10 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 12 2024 00:10:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 12 2024 01:08:11 GMT+0800 (China Standard Time) -->
 
 1. [短视频](https://www.zhihu.com/search?q=短视频)
 1. [赚钱](https://www.zhihu.com/search?q=赚钱)
+1. [梅西](https://www.zhihu.com/search?q=梅西)
 1. [大学生赚钱的副业](https://www.zhihu.com/search?q=大学生赚钱的副业)
 1. [适合中式烹饪的油烟机](https://www.zhihu.com/search?q=适合中式烹饪的油烟机)
 1. [轻松「搞定」的年菜](https://www.zhihu.com/search?q=轻松「搞定」的年菜)
