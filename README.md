@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 12 2024 21:09:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 12 2024 22:08:14 GMT+0800 (China Standard Time) -->
 
 1. [白敬亭](https://www.zhihu.com/search?q=白敬亭)
 1. [短视频](https://www.zhihu.com/search?q=短视频)
