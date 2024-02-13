@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Feb 13 2024 23:07:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 14 2024 00:11:52 GMT+0800 (China Standard Time) -->
 
 1. [白敬亭](https://www.zhihu.com/search?q=白敬亭)
 1. [适合中式烹饪的油烟机](https://www.zhihu.com/search?q=适合中式烹饪的油烟机)
@@ -27,12 +27,6 @@
 1. [什么叫裁员裁到大动脉](https://www.zhihu.com/search?q=什么叫裁员裁到大动脉)
 1. [过年送爸妈什么家居好物](https://www.zhihu.com/search?q=过年送爸妈什么家居好物)
 1. [回老家过年](https://www.zhihu.com/search?q=回老家过年)
-1. [甘肃积石山县发生3.1级地震](https://www.zhihu.com/search?q=甘肃积石山县发生3.1级地震)
-1. [短视频](https://www.zhihu.com/search?q=短视频)
-1. [赚钱](https://www.zhihu.com/search?q=赚钱)
-1. [大学生赚钱的副业](https://www.zhihu.com/search?q=大学生赚钱的副业)
-1. [热辣滚烫](https://www.zhihu.com/search?q=热辣滚烫)
-1. [梅西](https://www.zhihu.com/search?q=梅西)
 
 <!-- END -->
 
