@@ -5,7 +5,6 @@
   },
   { "query": "适合中式烹饪的油烟机", "display_query": "适合中式烹饪的油烟机" },
   { "query": "轻松「搞定」的年菜", "display_query": "轻松「搞定」的年菜" },
-  { "query": "什么叫裁员裁到大动脉", "display_query": "什么叫裁员裁到大动脉" },
   {
     "query": "过年送爸妈什么家居好物",
     "display_query": "过年送爸妈什么家居好物"
@@ -24,6 +23,8 @@
     "query": "以色列称已消灭半数哈马斯",
     "display_query": "以色列称已消灭半数哈马斯"
   },
+  { "query": "你因为什么事情报过警", "display_query": "你因为什么事情报过警" },
+  { "query": "什么叫裁员裁到大动脉", "display_query": "什么叫裁员裁到大动脉" },
   { "query": "白敬亭", "display_query": "白敬亭" },
   {
     "query": "上海金店1日卖出上千根金条",
