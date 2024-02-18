@@ -7,7 +7,6 @@
     "query": "如何评价「飞驰人生2」",
     "display_query": "如何评价「飞驰人生2」"
   },
-  { "query": "热辣滚烫票房", "display_query": "热辣滚烫票房" },
   {
     "query": "贾玲主演电影票房破80亿",
     "display_query": "贾玲主演电影票房破80亿"
@@ -19,6 +18,7 @@
     "query": "「我们一起摇太阳」撤档",
     "display_query": "「我们一起摇太阳」撤档"
   },
+  { "query": "热辣滚烫票房", "display_query": "热辣滚烫票房" },
   { "query": "今年过年几个现象", "display_query": "今年过年几个现象" },
   {
     "query": "作为老板过年发全额工资心疼吗",
