@@ -1,5 +1,5 @@
 [
-  { "query": "创造营亚洲", "display_query": "创造营亚洲" },
+  { "query": "A股三大指数集体高开", "display_query": "A股三大指数集体高开" },
   { "query": "南来北往", "display_query": "南来北往" },
   { "query": "「飞驰人生2」细节", "display_query": "「飞驰人生2」细节" },
   {
@@ -15,10 +15,6 @@
     "display_query": "新能源车主海南离岛困境"
   },
   {
-    "query": "openai首个视频生成模型发布",
-    "display_query": "openai首个视频生成模型发布"
-  },
-  {
     "query": "胖东来员工被曝悄悄尝面",
     "display_query": "胖东来员工被曝悄悄尝面"
   },
@@ -26,6 +22,15 @@
   {
     "query": "有不含有水分子且无害的饮料吗",
     "display_query": "有不含有水分子且无害的饮料吗"
+  },
+  {
+    "query": "黄仁勋称「人类生物学才是未来」",
+    "display_query": "黄仁勋称「人类生物学才是未来」"
+  },
+  { "query": "创造营亚洲", "display_query": "创造营亚洲" },
+  {
+    "query": "openai首个视频生成模型发布",
+    "display_query": "openai首个视频生成模型发布"
   },
   { "query": "要久久爱", "display_query": "要久久爱" },
   {
