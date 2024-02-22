@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 22 2024 23:08:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 23 2024 00:11:04 GMT+0800 (China Standard Time) -->
 
 1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
 1. [软件工程](https://www.zhihu.com/search?q=软件工程)
@@ -27,9 +27,6 @@
 1. [软考高项](https://www.zhihu.com/search?q=软考高项)
 1. [软件工程师](https://www.zhihu.com/search?q=软件工程师)
 1. [软考证书](https://www.zhihu.com/search?q=软考证书)
-1. [新疆地震](https://www.zhihu.com/search?q=新疆地震)
-1. [A股三大指数集体低开](https://www.zhihu.com/search?q=A股三大指数集体低开)
-1. [三大指数低开](https://www.zhihu.com/search?q=三大指数低开)
 
 <!-- END -->
 
