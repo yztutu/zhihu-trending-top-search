@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 24 2024 23:07:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Feb 25 2024 00:09:41 GMT+0800 (China Standard Time) -->
 
 1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
 1. [软件工程](https://www.zhihu.com/search?q=软件工程)
@@ -27,8 +27,6 @@
 1. [第二十条](https://www.zhihu.com/search?q=第二十条)
 1. [有哪些瞬间你秒懂了别人的暗示](https://www.zhihu.com/search?q=有哪些瞬间你秒懂了别人的暗示)
 1. [甘肃省为什么发展不起来](https://www.zhihu.com/search?q=甘肃省为什么发展不起来)
-1. [计算机一级证要考吗](https://www.zhihu.com/search?q=计算机一级证要考吗)
-1. [软考报名时间2024上半年](https://www.zhihu.com/search?q=软考报名时间2024上半年)
 
 <!-- END -->
 
