@@ -10,9 +10,7 @@
     "query": "计算机二级哪个比较好考",
     "display_query": "计算机二级哪个比较好考"
   },
-  { "query": "项目管理", "display_query": "项目管理" },
   { "query": "信息系统项目管理师", "display_query": "信息系统项目管理师" },
-  { "query": "网络工程师", "display_query": "网络工程师" },
   { "query": "第二十条", "display_query": "第二十条" },
   {
     "query": "有哪些瞬间你秒懂了别人的暗示",
@@ -20,6 +18,8 @@
   },
   { "query": "低谷医生", "display_query": "低谷医生" },
   { "query": "致命游戏", "display_query": "致命游戏" },
+  { "query": "项目管理", "display_query": "项目管理" },
+  { "query": "网络工程师", "display_query": "网络工程师" },
   {
     "query": "10大高含金量证书排行榜",
     "display_query": "10大高含金量证书排行榜"
