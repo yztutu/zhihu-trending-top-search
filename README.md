@@ -15,8 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Feb 27 2024 07:09:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Feb 27 2024 08:40:04 GMT+0800 (China Standard Time) -->
 
+1. [四六级成绩公布](https://www.zhihu.com/search?q=四六级成绩公布)
 1. [考研成绩公布](https://www.zhihu.com/search?q=考研成绩公布)
 1. [软件工程](https://www.zhihu.com/search?q=软件工程)
 1. [一个男人最大的底气是什么](https://www.zhihu.com/search?q=一个男人最大的底气是什么)
