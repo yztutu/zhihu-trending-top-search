@@ -15,9 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 28 2024 07:08:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 28 2024 08:39:46 GMT+0800 (China Standard Time) -->
 
-1. [四六级成绩公布](https://www.zhihu.com/search?q=四六级成绩公布)
 1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
 1. [软件工程](https://www.zhihu.com/search?q=软件工程)
 1. [今日辟谣](https://www.zhihu.com/search?q=今日辟谣)
@@ -27,6 +26,8 @@
 1. [央视为什么突然不报道阿富汗了](https://www.zhihu.com/search?q=央视为什么突然不报道阿富汗了)
 1. [10大高含金量证书排行榜](https://www.zhihu.com/search?q=10大高含金量证书排行榜)
 1. [pmp和软考哪个含金量高](https://www.zhihu.com/search?q=pmp和软考哪个含金量高)
+1. [pmp换证有必要吗](https://www.zhihu.com/search?q=pmp换证有必要吗)
+1. [四六级成绩公布](https://www.zhihu.com/search?q=四六级成绩公布)
 
 <!-- END -->
 
