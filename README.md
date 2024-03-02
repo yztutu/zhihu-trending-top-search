@@ -15,12 +15,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Mar 02 2024 10:12:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Mar 02 2024 11:08:55 GMT+0800 (China Standard Time) -->
 
 1. [四六级成绩](https://www.zhihu.com/search?q=四六级成绩)
 1. [英语四六级](https://www.zhihu.com/search?q=英语四六级)
 1. [英语六级](https://www.zhihu.com/search?q=英语六级)
 1. [英语四级](https://www.zhihu.com/search?q=英语四级)
+1. [韩国医生拒绝复工要求](https://www.zhihu.com/search?q=韩国医生拒绝复工要求)
 1. [第一眼就感到震撼的图片](https://www.zhihu.com/search?q=第一眼就感到震撼的图片)
 1. [虾为啥要长得这么适合被吃](https://www.zhihu.com/search?q=虾为啥要长得这么适合被吃)
 1. [烟火人家](https://www.zhihu.com/search?q=烟火人家)
