@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Mar 02 2024 23:08:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 03 2024 00:10:31 GMT+0800 (China Standard Time) -->
 
 1. [四六级成绩](https://www.zhihu.com/search?q=四六级成绩)
 1. [英语四六级](https://www.zhihu.com/search?q=英语四六级)
@@ -27,9 +27,6 @@
 1. [因为不想回国被妈妈拉黑了](https://www.zhihu.com/search?q=因为不想回国被妈妈拉黑了)
 1. [大陆电影译名最烂的是哪一部](https://www.zhihu.com/search?q=大陆电影译名最烂的是哪一部)
 1. [中国男篮88年首败日本](https://www.zhihu.com/search?q=中国男篮88年首败日本)
-1. [虾为啥要长得这么适合被吃](https://www.zhihu.com/search?q=虾为啥要长得这么适合被吃)
-1. [韩国医生拒绝复工要求](https://www.zhihu.com/search?q=韩国医生拒绝复工要求)
-1. [为什么很多人对「女司机」有看法](https://www.zhihu.com/search?q=为什么很多人对「女司机」有看法)
 
 <!-- END -->
 
