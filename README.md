@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 03 2024 23:07:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 04 2024 00:09:27 GMT+0800 (China Standard Time) -->
 
 1. [烟火人家](https://www.zhihu.com/search?q=烟火人家)
 1. [因为不想回国被妈妈拉黑了](https://www.zhihu.com/search?q=因为不想回国被妈妈拉黑了)
@@ -27,13 +27,6 @@
 1. [mwc2024](https://www.zhihu.com/search?q=mwc2024)
 1. [董宇辉微博清空](https://www.zhihu.com/search?q=董宇辉微博清空)
 1. [快递新规下月起实施](https://www.zhihu.com/search?q=快递新规下月起实施)
-1. [第一眼就感到震撼的图片](https://www.zhihu.com/search?q=第一眼就感到震撼的图片)
-1. [大陆电影译名最烂的是哪一部](https://www.zhihu.com/search?q=大陆电影译名最烂的是哪一部)
-1. [四六级成绩](https://www.zhihu.com/search?q=四六级成绩)
-1. [英语四六级](https://www.zhihu.com/search?q=英语四六级)
-1. [英语六级](https://www.zhihu.com/search?q=英语六级)
-1. [英语四级](https://www.zhihu.com/search?q=英语四级)
-1. [吴谢宇](https://www.zhihu.com/search?q=吴谢宇)
 
 <!-- END -->
 
