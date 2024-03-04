@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 04 2024 07:08:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 04 2024 08:41:15 GMT+0800 (China Standard Time) -->
 
 1. [烟火人家](https://www.zhihu.com/search?q=烟火人家)
 1. [因为不想回国被妈妈拉黑了](https://www.zhihu.com/search?q=因为不想回国被妈妈拉黑了)
