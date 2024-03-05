@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 05 2024 23:08:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 06 2024 00:10:35 GMT+0800 (China Standard Time) -->
 
 1. [惊蛰](https://www.zhihu.com/search?q=惊蛰)
 1. [多家银行下调存款利率](https://www.zhihu.com/search?q=多家银行下调存款利率)
@@ -27,11 +27,6 @@
 1. [信息系统项目管理师](https://www.zhihu.com/search?q=信息系统项目管理师)
 1. [软考成绩查询时间](https://www.zhihu.com/search?q=软考成绩查询时间)
 1. [注册会计师](https://www.zhihu.com/search?q=注册会计师)
-1. [「红毯先生」定档](https://www.zhihu.com/search?q=「红毯先生」定档)
-1. [一个男人最大的底气是什么](https://www.zhihu.com/search?q=一个男人最大的底气是什么)
-1. [湖人vs掘金](https://www.zhihu.com/search?q=湖人vs掘金)
-1. [维斯塔潘夺冠](https://www.zhihu.com/search?q=维斯塔潘夺冠)
-1. [软考高项](https://www.zhihu.com/search?q=软考高项)
 
 <!-- END -->
 
