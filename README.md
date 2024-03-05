@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 05 2024 15:08:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 05 2024 16:12:09 GMT+0800 (China Standard Time) -->
 
 1. [惊蛰](https://www.zhihu.com/search?q=惊蛰)
+1. [多家银行下调存款利率](https://www.zhihu.com/search?q=多家银行下调存款利率)
 1. [三大指数开盘涨跌不一](https://www.zhihu.com/search?q=三大指数开盘涨跌不一)
 1. [今日股市行情](https://www.zhihu.com/search?q=今日股市行情)
 1. [「红毯先生」定档](https://www.zhihu.com/search?q=「红毯先生」定档)
