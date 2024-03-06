@@ -15,11 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 06 2024 11:09:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 06 2024 12:10:37 GMT+0800 (China Standard Time) -->
 
 1. [多家银行下调存款利率](https://www.zhihu.com/search?q=多家银行下调存款利率)
-1. [三大指数开盘涨跌不一](https://www.zhihu.com/search?q=三大指数开盘涨跌不一)
-1. [今日股市行情](https://www.zhihu.com/search?q=今日股市行情)
 1. [cpa如何规划备考](https://www.zhihu.com/search?q=cpa如何规划备考)
 1. [cpa证书的含金量到底有多少](https://www.zhihu.com/search?q=cpa证书的含金量到底有多少)
 1. [软考](https://www.zhihu.com/search?q=软考)
@@ -27,6 +25,10 @@
 1. [软考成绩查询时间](https://www.zhihu.com/search?q=软考成绩查询时间)
 1. [注册会计师](https://www.zhihu.com/search?q=注册会计师)
 1. [注会备考攻略](https://www.zhihu.com/search?q=注会备考攻略)
+1. [cpa是什么](https://www.zhihu.com/search?q=cpa是什么)
+1. [cpa自学过的概率大吗](https://www.zhihu.com/search?q=cpa自学过的概率大吗)
+1. [三大指数开盘涨跌不一](https://www.zhihu.com/search?q=三大指数开盘涨跌不一)
+1. [今日股市行情](https://www.zhihu.com/search?q=今日股市行情)
 1. [惊蛰](https://www.zhihu.com/search?q=惊蛰)
 
 <!-- END -->
