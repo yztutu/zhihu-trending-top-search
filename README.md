@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 07 2024 23:08:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 08 2024 00:10:41 GMT+0800 (China Standard Time) -->
 
 1. [cpa如何规划备考](https://www.zhihu.com/search?q=cpa如何规划备考)
 1. [cpa证书的含金量到底有多少](https://www.zhihu.com/search?q=cpa证书的含金量到底有多少)
@@ -27,9 +27,6 @@
 1. [cpa是什么](https://www.zhihu.com/search?q=cpa是什么)
 1. [日本人是怎么看待中国人的](https://www.zhihu.com/search?q=日本人是怎么看待中国人的)
 1. [pmp证书](https://www.zhihu.com/search?q=pmp证书)
-1. [软考成绩查询时间](https://www.zhihu.com/search?q=软考成绩查询时间)
-1. [cpa自学过的概率大吗](https://www.zhihu.com/search?q=cpa自学过的概率大吗)
-1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
 
 <!-- END -->
 
