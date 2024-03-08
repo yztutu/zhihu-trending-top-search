@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 08 2024 23:09:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Mar 09 2024 00:10:06 GMT+0800 (China Standard Time) -->
 
 1. [软考](https://www.zhihu.com/search?q=软考)
 1. [信息系统项目管理师](https://www.zhihu.com/search?q=信息系统项目管理师)
@@ -27,9 +27,6 @@
 1. [pmp证书有意义吗](https://www.zhihu.com/search?q=pmp证书有意义吗)
 1. [高级信息系统项目管理师](https://www.zhihu.com/search?q=高级信息系统项目管理师)
 1. [计算机证书都有哪些](https://www.zhihu.com/search?q=计算机证书都有哪些)
-1. [cpa如何规划备考](https://www.zhihu.com/search?q=cpa如何规划备考)
-1. [cpa证书的含金量到底有多少](https://www.zhihu.com/search?q=cpa证书的含金量到底有多少)
-1. [cpa是什么](https://www.zhihu.com/search?q=cpa是什么)
 
 <!-- END -->
 
