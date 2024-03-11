@@ -1,6 +1,10 @@
 [
   { "query": "软考", "display_query": "软考" },
   { "query": "信息系统项目管理师", "display_query": "信息系统项目管理师" },
+  {
+    "query": "A股三大指数开盘涨跌不一",
+    "display_query": "A股三大指数开盘涨跌不一"
+  },
   { "query": "第二十条", "display_query": "第二十条" },
   {
     "query": "为什么说男人至死都是少年",
