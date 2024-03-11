@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 11 2024 23:09:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 12 2024 00:10:57 GMT+0800 (China Standard Time) -->
 
 1. [软考](https://www.zhihu.com/search?q=软考)
 1. [信息系统项目管理师](https://www.zhihu.com/search?q=信息系统项目管理师)
@@ -27,10 +27,6 @@
 1. [思念到极致是什么感觉](https://www.zhihu.com/search?q=思念到极致是什么感觉)
 1. [pmp证书](https://www.zhihu.com/search?q=pmp证书)
 1. [pmp证书有意义吗](https://www.zhihu.com/search?q=pmp证书有意义吗)
-1. [高级信息系统项目管理师](https://www.zhihu.com/search?q=高级信息系统项目管理师)
-1. [计算机证书都有哪些](https://www.zhihu.com/search?q=计算机证书都有哪些)
-1. [软件测试](https://www.zhihu.com/search?q=软件测试)
-1. [软考高级](https://www.zhihu.com/search?q=软考高级)
 
 <!-- END -->
 
