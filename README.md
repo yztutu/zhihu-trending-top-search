@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 12 2024 23:08:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 13 2024 00:11:46 GMT+0800 (China Standard Time) -->
 
 1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
 1. [openai](https://www.zhihu.com/search?q=openai)
@@ -27,14 +27,6 @@
 1. [赵丽颖亚洲电影大奖获奖](https://www.zhihu.com/search?q=赵丽颖亚洲电影大奖获奖)
 1. [周处除三害](https://www.zhihu.com/search?q=周处除三害)
 1. [2024年保研推免名场面](https://www.zhihu.com/search?q=2024年保研推免名场面)
-1. [软考](https://www.zhihu.com/search?q=软考)
-1. [信息系统项目管理师](https://www.zhihu.com/search?q=信息系统项目管理师)
-1. [注册会计师](https://www.zhihu.com/search?q=注册会计师)
-1. [注会备考攻略](https://www.zhihu.com/search?q=注会备考攻略)
-1. [A股三大指数开盘涨跌不一](https://www.zhihu.com/search?q=A股三大指数开盘涨跌不一)
-1. [第二十条](https://www.zhihu.com/search?q=第二十条)
-1. [pmp证书](https://www.zhihu.com/search?q=pmp证书)
-1. [pmp证书有意义吗](https://www.zhihu.com/search?q=pmp证书有意义吗)
 
 <!-- END -->
 
