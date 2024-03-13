@@ -1,4 +1,5 @@
 [
+  { "query": "今日A股市场", "display_query": "今日A股市场" },
   { "query": "软件工程", "display_query": "软件工程" },
   { "query": "openai", "display_query": "openai" },
   { "query": "项目管理", "display_query": "项目管理" },
@@ -20,7 +21,6 @@
     "query": "cpa证书的含金量到底有多少",
     "display_query": "cpa证书的含金量到底有多少"
   },
-  { "query": "今日A股市场", "display_query": "今日A股市场" },
   { "query": "金价狂飙", "display_query": "金价狂飙" },
   { "query": "思念到极致是什么感觉", "display_query": "思念到极致是什么感觉" },
   {
