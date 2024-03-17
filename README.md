@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 17 2024 23:09:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 18 2024 00:09:55 GMT+0800 (China Standard Time) -->
 
 1. [欧冠八强出炉](https://www.zhihu.com/search?q=欧冠八强出炉)
 1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
@@ -27,7 +27,6 @@
 1. [软件工程](https://www.zhihu.com/search?q=软件工程)
 1. [兼职副业干什么好](https://www.zhihu.com/search?q=兼职副业干什么好)
 1. [ps教程](https://www.zhihu.com/search?q=ps教程)
-1. [省考](https://www.zhihu.com/search?q=省考)
 
 <!-- END -->
 
