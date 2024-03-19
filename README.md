@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 19 2024 14:11:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 19 2024 15:09:27 GMT+0800 (China Standard Time) -->
 
-1. [英伟达](https://www.zhihu.com/search?q=英伟达)
+1. [碳中和](https://www.zhihu.com/search?q=碳中和)
 1. [申论课程哪个老师好](https://www.zhihu.com/search?q=申论课程哪个老师好)
 1. [在职研究生](https://www.zhihu.com/search?q=在职研究生)
 1. [考公资料](https://www.zhihu.com/search?q=考公资料)
@@ -27,7 +27,7 @@
 1. [雅思听力](https://www.zhihu.com/search?q=雅思听力)
 1. [雅思6.5](https://www.zhihu.com/search?q=雅思6.5)
 1. [雅思备考大概需要多长时间](https://www.zhihu.com/search?q=雅思备考大概需要多长时间)
-1. [碳中和](https://www.zhihu.com/search?q=碳中和)
+1. [英伟达](https://www.zhihu.com/search?q=英伟达)
 
 <!-- END -->
 
