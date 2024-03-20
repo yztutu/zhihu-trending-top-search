@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 20 2024 10:14:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 20 2024 11:10:33 GMT+0800 (China Standard Time) -->
 
 1. [春分](https://www.zhihu.com/search?q=春分)
 1. [碳中和](https://www.zhihu.com/search?q=碳中和)
