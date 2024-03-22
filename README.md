@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 22 2024 23:08:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Mar 23 2024 00:12:02 GMT+0800 (China Standard Time) -->
 
 1. [世界水日](https://www.zhihu.com/search?q=世界水日)
 1. [特斯拉涨价](https://www.zhihu.com/search?q=特斯拉涨价)
@@ -27,8 +27,6 @@
 1. [雅思口语](https://www.zhihu.com/search?q=雅思口语)
 1. [雅思听力](https://www.zhihu.com/search?q=雅思听力)
 1. [雅思6.5](https://www.zhihu.com/search?q=雅思6.5)
-1. [美联储维持利率不变](https://www.zhihu.com/search?q=美联储维持利率不变)
-1. [世界睡眠日](https://www.zhihu.com/search?q=世界睡眠日)
 
 <!-- END -->
 
