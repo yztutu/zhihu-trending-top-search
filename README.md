@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Mar 23 2024 22:07:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Mar 23 2024 23:10:51 GMT+0800 (China Standard Time) -->
 
 1. [特斯拉涨价](https://www.zhihu.com/search?q=特斯拉涨价)
 1. [碳中和](https://www.zhihu.com/search?q=碳中和)
