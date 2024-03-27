@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 27 2024 23:09:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 28 2024 00:12:30 GMT+0800 (China Standard Time) -->
 
 1. [碳中和](https://www.zhihu.com/search?q=碳中和)
 1. [在职研究生](https://www.zhihu.com/search?q=在职研究生)
@@ -27,11 +27,6 @@
 1. [软件工程](https://www.zhihu.com/search?q=软件工程)
 1. [openai](https://www.zhihu.com/search?q=openai)
 1. [考公最吃香的十大专业](https://www.zhihu.com/search?q=考公最吃香的十大专业)
-1. [上海时装周女明星新中式造型](https://www.zhihu.com/search?q=上海时装周女明星新中式造型)
-1. [赵鼎新教授谈「文科无用论」](https://www.zhihu.com/search?q=赵鼎新教授谈「文科无用论」)
-1. [非全日制计算机研究生](https://www.zhihu.com/search?q=非全日制计算机研究生)
-1. [选调生报名基本条件](https://www.zhihu.com/search?q=选调生报名基本条件)
-1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
 
 <!-- END -->
 
