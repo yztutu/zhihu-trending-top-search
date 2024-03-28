@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 28 2024 23:09:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 29 2024 00:10:55 GMT+0800 (China Standard Time) -->
 
 1. [碳中和](https://www.zhihu.com/search?q=碳中和)
 1. [在职研究生](https://www.zhihu.com/search?q=在职研究生)
@@ -27,9 +27,6 @@
 1. [非全日制计算机研究生](https://www.zhihu.com/search?q=非全日制计算机研究生)
 1. [在职考研](https://www.zhihu.com/search?q=在职考研)
 1. [考公备考全流程](https://www.zhihu.com/search?q=考公备考全流程)
-1. [雅思机考](https://www.zhihu.com/search?q=雅思机考)
-1. [雅思报名](https://www.zhihu.com/search?q=雅思报名)
-1. [碳中和怎么挣钱](https://www.zhihu.com/search?q=碳中和怎么挣钱)
 
 <!-- END -->
 
