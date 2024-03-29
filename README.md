@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 29 2024 23:08:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Mar 30 2024 00:10:20 GMT+0800 (China Standard Time) -->
 
 1. [碳中和](https://www.zhihu.com/search?q=碳中和)
 1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
@@ -27,10 +27,6 @@
 1. [mba有必要读吗](https://www.zhihu.com/search?q=mba有必要读吗)
 1. [cpa如何规划备考](https://www.zhihu.com/search?q=cpa如何规划备考)
 1. [在职研究生有必要读嘛](https://www.zhihu.com/search?q=在职研究生有必要读嘛)
-1. [考公资料](https://www.zhihu.com/search?q=考公资料)
-1. [资料分析](https://www.zhihu.com/search?q=资料分析)
-1. [考公最吃香的十大专业](https://www.zhihu.com/search?q=考公最吃香的十大专业)
-1. [考公备考全流程](https://www.zhihu.com/search?q=考公备考全流程)
 
 <!-- END -->
 
