@@ -15,18 +15,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 31 2024 18:09:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 31 2024 19:07:45 GMT+0800 (China Standard Time) -->
 
 1. [碳中和](https://www.zhihu.com/search?q=碳中和)
 1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
-1. [雨果奖](https://www.zhihu.com/search?q=雨果奖)
 1. [在职研究生](https://www.zhihu.com/search?q=在职研究生)
 1. [软件工程](https://www.zhihu.com/search?q=软件工程)
+1. [梁靖崑男单冠军](https://www.zhihu.com/search?q=梁靖崑男单冠军)
 1. [openai](https://www.zhihu.com/search?q=openai)
 1. [非全日制计算机研究生](https://www.zhihu.com/search?q=非全日制计算机研究生)
 1. [在职考研](https://www.zhihu.com/search?q=在职考研)
 1. [mba有必要读吗](https://www.zhihu.com/search?q=mba有必要读吗)
 1. [cpa如何规划备考](https://www.zhihu.com/search?q=cpa如何规划备考)
+1. [雨果奖](https://www.zhihu.com/search?q=雨果奖)
 
 <!-- END -->
 
