@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 01 2024 13:09:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 01 2024 14:12:27 GMT+0800 (China Standard Time) -->
 
 1. [碳中和](https://www.zhihu.com/search?q=碳中和)
 1. [在职研究生](https://www.zhihu.com/search?q=在职研究生)
