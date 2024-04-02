@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 02 2024 23:08:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 03 2024 00:10:46 GMT+0800 (China Standard Time) -->
 
 1. [油价上涨](https://www.zhihu.com/search?q=油价上涨)
 1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
@@ -27,9 +27,6 @@
 1. [月入1万的10个冷门副业](https://www.zhihu.com/search?q=月入1万的10个冷门副业)
 1. [cpa如何规划备考](https://www.zhihu.com/search?q=cpa如何规划备考)
 1. [视频剪辑如何自学](https://www.zhihu.com/search?q=视频剪辑如何自学)
-1. [软件工程](https://www.zhihu.com/search?q=软件工程)
-1. [openai](https://www.zhihu.com/search?q=openai)
-1. [下一个风口最可能是什么](https://www.zhihu.com/search?q=下一个风口最可能是什么)
 
 <!-- END -->
 
