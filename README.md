@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 04 2024 23:09:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 05 2024 00:11:16 GMT+0800 (China Standard Time) -->
 
 1. [十大冷门暴利生意](https://www.zhihu.com/search?q=十大冷门暴利生意)
 1. [视频剪辑如何自学](https://www.zhihu.com/search?q=视频剪辑如何自学)
@@ -27,9 +27,6 @@
 1. [大学生兼职](https://www.zhihu.com/search?q=大学生兼职)
 1. [赚钱方法学生](https://www.zhihu.com/search?q=赚钱方法学生)
 1. [大学生十大良心赚钱软件](https://www.zhihu.com/search?q=大学生十大良心赚钱软件)
-1. [日本发布海啸警报](https://www.zhihu.com/search?q=日本发布海啸警报)
-1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
-1. [张一山为什么无戏可拍了](https://www.zhihu.com/search?q=张一山为什么无戏可拍了)
 
 <!-- END -->
 
