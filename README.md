@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Apr 07 2024 23:09:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 08 2024 00:09:43 GMT+0800 (China Standard Time) -->
 
 1. [独行侠险胜勇士](https://www.zhihu.com/search?q=独行侠险胜勇士)
 1. [多家银行下调存款利率](https://www.zhihu.com/search?q=多家银行下调存款利率)
@@ -27,9 +27,6 @@
 1. [没人愿意干却很暴利4大副业](https://www.zhihu.com/search?q=没人愿意干却很暴利4大副业)
 1. [副业推荐靠谱的10个](https://www.zhihu.com/search?q=副业推荐靠谱的10个)
 1. [大学生兼职](https://www.zhihu.com/search?q=大学生兼职)
-1. [王自为何能进格力做高管](https://www.zhihu.com/search?q=王自为何能进格力做高管)
-1. [赚钱方法学生](https://www.zhihu.com/search?q=赚钱方法学生)
-1. [大学生十大良心赚钱软件](https://www.zhihu.com/search?q=大学生十大良心赚钱软件)
 
 <!-- END -->
 
