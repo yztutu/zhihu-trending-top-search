@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 11 2024 23:09:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 12 2024 00:09:45 GMT+0800 (China Standard Time) -->
 
 1. [世界帕金森病日](https://www.zhihu.com/search?q=世界帕金森病日)
 1. [多家银行下调存款利率](https://www.zhihu.com/search?q=多家银行下调存款利率)
@@ -27,9 +27,6 @@
 1. [十大良心赚钱软件](https://www.zhihu.com/search?q=十大良心赚钱软件)
 1. [月入1万的10个冷门副业](https://www.zhihu.com/search?q=月入1万的10个冷门副业)
 1. [openai](https://www.zhihu.com/search?q=openai)
-1. [马斯克称中国车企最具竞争力](https://www.zhihu.com/search?q=马斯克称中国车企最具竞争力)
-1. [视频剪辑如何自学](https://www.zhihu.com/search?q=视频剪辑如何自学)
-1. [下一个风口最可能是什么](https://www.zhihu.com/search?q=下一个风口最可能是什么)
 
 <!-- END -->
 
