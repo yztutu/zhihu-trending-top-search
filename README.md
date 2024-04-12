@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Apr 12 2024 23:09:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Apr 13 2024 00:10:46 GMT+0800 (China Standard Time) -->
 
 1. [如何看待今日A股市场](https://www.zhihu.com/search?q=如何看待今日A股市场)
 1. [行测](https://www.zhihu.com/search?q=行测)
@@ -27,14 +27,6 @@
 1. [openai](https://www.zhihu.com/search?q=openai)
 1. [考公备考全流程](https://www.zhihu.com/search?q=考公备考全流程)
 1. [视频剪辑如何自学](https://www.zhihu.com/search?q=视频剪辑如何自学)
-1. [下一个风口最可能是什么](https://www.zhihu.com/search?q=下一个风口最可能是什么)
-1. [视频剪辑](https://www.zhihu.com/search?q=视频剪辑)
-1. [视频剪辑真的能赚钱吗](https://www.zhihu.com/search?q=视频剪辑真的能赚钱吗)
-1. [电商运营](https://www.zhihu.com/search?q=电商运营)
-1. [多家银行下调存款利率](https://www.zhihu.com/search?q=多家银行下调存款利率)
-1. [承欢记](https://www.zhihu.com/search?q=承欢记)
-1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
-1. [世界帕金森病日](https://www.zhihu.com/search?q=世界帕金森病日)
 
 <!-- END -->
 
