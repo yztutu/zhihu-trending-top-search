@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 16 2024 16:12:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 16 2024 17:09:29 GMT+0800 (China Standard Time) -->
 
 1. [碳中和](https://www.zhihu.com/search?q=碳中和)
 1. [行测](https://www.zhihu.com/search?q=行测)
