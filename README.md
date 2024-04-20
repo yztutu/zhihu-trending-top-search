@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Apr 20 2024 23:08:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Apr 21 2024 00:11:15 GMT+0800 (China Standard Time) -->
 
 1. [碳中和](https://www.zhihu.com/search?q=碳中和)
 1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
@@ -27,7 +27,6 @@
 1. [考研英语二](https://www.zhihu.com/search?q=考研英语二)
 1. [定向选调生](https://www.zhihu.com/search?q=定向选调生)
 1. [资料分析](https://www.zhihu.com/search?q=资料分析)
-1. [会计考研考学硕还是专硕](https://www.zhihu.com/search?q=会计考研考学硕还是专硕)
 
 <!-- END -->
 
