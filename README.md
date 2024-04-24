@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 24 2024 23:10:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 25 2024 00:11:01 GMT+0800 (China Standard Time) -->
 
 1. [如何看待A股市场](https://www.zhihu.com/search?q=如何看待A股市场)
 1. [孙颖莎夺冠](https://www.zhihu.com/search?q=孙颖莎夺冠)
@@ -27,14 +27,6 @@
 1. [考研英语二](https://www.zhihu.com/search?q=考研英语二)
 1. [定向选调生](https://www.zhihu.com/search?q=定向选调生)
 1. [软件工程](https://www.zhihu.com/search?q=软件工程)
-1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
-1. [学历提升](https://www.zhihu.com/search?q=学历提升)
-1. [自考英语二](https://www.zhihu.com/search?q=自考英语二)
-1. [兼职副业干什么好](https://www.zhihu.com/search?q=兼职副业干什么好)
-1. [十大冷门暴利生意](https://www.zhihu.com/search?q=十大冷门暴利生意)
-1. [十大良心赚钱软件](https://www.zhihu.com/search?q=十大良心赚钱软件)
-1. [月入1万的10个冷门副业](https://www.zhihu.com/search?q=月入1万的10个冷门副业)
-1. [法硕非法学](https://www.zhihu.com/search?q=法硕非法学)
 
 <!-- END -->
 
