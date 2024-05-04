@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 05 2024 06:08:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 05 2024 07:09:17 GMT+0800 (China Standard Time) -->
 
 1. [五四青年节](https://www.zhihu.com/search?q=五四青年节)
 1. [为什么蹭课会被老师赶出来](https://www.zhihu.com/search?q=为什么蹭课会被老师赶出来)
