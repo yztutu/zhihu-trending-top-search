@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon May 06 2024 23:10:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 07 2024 00:12:08 GMT+0800 (China Standard Time) -->
 
 1. [五四青年节](https://www.zhihu.com/search?q=五四青年节)
 1. [A股](https://www.zhihu.com/search?q=A股)
@@ -27,11 +27,6 @@
 1. [逃离人从众的旅行计划](https://www.zhihu.com/search?q=逃离人从众的旅行计划)
 1. [胖猫 谭竹](https://www.zhihu.com/search?q=胖猫 谭竹)
 1. [茶百道以胖猫之名捐款100万](https://www.zhihu.com/search?q=茶百道以胖猫之名捐款100万)
-1. [嫦娥六号任务点火发射](https://www.zhihu.com/search?q=嫦娥六号任务点火发射)
-1. [太阳爆发强耀斑对我国产生影响](https://www.zhihu.com/search?q=太阳爆发强耀斑对我国产生影响)
-1. [立夏](https://www.zhihu.com/search?q=立夏)
-1. [五一档电影票房超15亿](https://www.zhihu.com/search?q=五一档电影票房超15亿)
-1. [王一博演唱跃动上海](https://www.zhihu.com/search?q=王一博演唱跃动上海)
 
 <!-- END -->
 
