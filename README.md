@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu May 09 2024 15:11:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu May 09 2024 16:12:39 GMT+0800 (China Standard Time) -->
 
 1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
 1. [法庭上有什么有趣的事](https://www.zhihu.com/search?q=法庭上有什么有趣的事)
@@ -25,6 +25,7 @@
 1. [马龙无缘巴黎奥运会单打](https://www.zhihu.com/search?q=马龙无缘巴黎奥运会单打)
 1. [哈马斯回应对斡旋方停火提议](https://www.zhihu.com/search?q=哈马斯回应对斡旋方停火提议)
 1. [特斯拉回应金华事故](https://www.zhihu.com/search?q=特斯拉回应金华事故)
+1. [水晶宫4:0曼联](https://www.zhihu.com/search?q=水晶宫4:0曼联)
 1. [哈马斯宣布同意停火提议](https://www.zhihu.com/search?q=哈马斯宣布同意停火提议)
 1. [百度副总裁隐藏争议视频](https://www.zhihu.com/search?q=百度副总裁隐藏争议视频)
 1. [日本儿童人口再创新低](https://www.zhihu.com/search?q=日本儿童人口再创新低)
