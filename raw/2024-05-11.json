@@ -1,5 +1,4 @@
 [
-  { "query": "今日A股市场", "display_query": "今日A股市场" },
   { "query": "掘金vs森林狼", "display_query": "掘金vs森林狼" },
   { "query": "如何评价A股市场", "display_query": "如何评价A股市场" },
   { "query": "法庭上有什么有趣的事", "display_query": "法庭上有什么有趣的事" },
@@ -25,6 +24,7 @@
     "query": "动物能尝出人类食物的美味吗",
     "display_query": "动物能尝出人类食物的美味吗"
   },
+  { "query": "今日A股市场", "display_query": "今日A股市场" },
   {
     "query": "中国或支持特斯拉测试「无人驾驶出租」",
     "display_query": "中国或支持特斯拉测试「无人驾驶出租」"
