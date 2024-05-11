@@ -1,6 +1,30 @@
 [
-  { "query": "今日A股市场", "display_query": "今日A股市场" },
+  { "query": "小米汽车su7锁单破", "display_query": "小米汽车su7锁单破" },
+  {
+    "query": "江苏载学生大巴与渣土车相撞",
+    "display_query": "江苏载学生大巴与渣土车相撞"
+  },
+  {
+    "query": "多城取消住房限购 媒体解读",
+    "display_query": "多城取消住房限购 媒体解读"
+  },
   { "query": "法庭上有什么有趣的事", "display_query": "法庭上有什么有趣的事" },
+  { "query": "警方通报水泥封尸案", "display_query": "警方通报水泥封尸案" },
+  {
+    "query": "拜登：美国容不下反犹太主义",
+    "display_query": "拜登：美国容不下反犹太主义"
+  },
+  { "query": "世界微笑日", "display_query": "世界微笑日" },
+  {
+    "query": "知情人称水泥封尸案嫌犯已被抓",
+    "display_query": "知情人称水泥封尸案嫌犯已被抓"
+  },
+  {
+    "query": "官方回应果农踩碎滞销枇杷",
+    "display_query": "官方回应果农踩碎滞销枇杷"
+  },
+  { "query": "2-3天后或发生地磁暴", "display_query": "2-3天后或发生地磁暴" },
+  { "query": "今日A股市场", "display_query": "今日A股市场" },
   {
     "query": "国羽男队第11次夺得汤姆斯杯冠军",
     "display_query": "国羽男队第11次夺得汤姆斯杯冠军"
