@@ -1,4 +1,5 @@
 [
+  { "query": "南京林业大学", "display_query": "南京林业大学" },
   { "query": "掘金vs森林狼", "display_query": "掘金vs森林狼" },
   { "query": "森林狼打爆掘金", "display_query": "森林狼打爆掘金" },
   {
@@ -12,12 +13,12 @@
     "query": "椰树强势回应「擦边」被罚",
     "display_query": "椰树强势回应「擦边」被罚"
   },
+  { "query": "南京史诗级晚霞", "display_query": "南京史诗级晚霞" },
+  { "query": "wps被指套娃式收费", "display_query": "wps被指套娃式收费" },
   {
     "query": "乌军前总司令被解除现役",
     "display_query": "乌军前总司令被解除现役"
   },
-  { "query": "南京史诗级晚霞", "display_query": "南京史诗级晚霞" },
-  { "query": "wps被指套娃式收费", "display_query": "wps被指套娃式收费" },
   {
     "query": "吴艳妮12秒86追平赛会纪录",
     "display_query": "吴艳妮12秒86追平赛会纪录"
