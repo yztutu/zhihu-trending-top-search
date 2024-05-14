@@ -1,5 +1,4 @@
 [
-  { "query": "南京林业大学", "display_query": "南京林业大学" },
   { "query": "张之臻晋级16强", "display_query": "张之臻晋级16强" },
   { "query": "今日A股市场", "display_query": "今日A股市场" },
   { "query": "歌手2024", "display_query": "歌手2024" },
@@ -14,6 +13,15 @@
     "query": "我的阿勒泰豆瓣开分8.5",
     "display_query": "我的阿勒泰豆瓣开分8.5"
   },
+  {
+    "query": "塔克拉玛干沙漠西部山脉怎么形成的",
+    "display_query": "塔克拉玛干沙漠西部山脉怎么形成的"
+  },
+  {
+    "query": "「歌手」直播你喜欢这种模式吗",
+    "display_query": "「歌手」直播你喜欢这种模式吗"
+  },
+  { "query": "南京林业大学", "display_query": "南京林业大学" },
   {
     "query": "大脑能一直分泌多巴胺吗",
     "display_query": "大脑能一直分泌多巴胺吗"
