@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 14 2024 15:10:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 14 2024 16:13:46 GMT+0800 (China Standard Time) -->
 
 1. [张之臻晋级16强](https://www.zhihu.com/search?q=张之臻晋级16强)
 1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
@@ -23,10 +23,11 @@
 1. [江苏载学生大巴与渣土车相撞](https://www.zhihu.com/search?q=江苏载学生大巴与渣土车相撞)
 1. [陈梦王曼昱女双决赛](https://www.zhihu.com/search?q=陈梦王曼昱女双决赛)
 1. [陈梦王曼昱大满贯夺冠](https://www.zhihu.com/search?q=陈梦王曼昱大满贯夺冠)
-1. [律师谈阜阳水泥封尸案](https://www.zhihu.com/search?q=律师谈阜阳水泥封尸案)
 1. [我的阿勒泰豆瓣开分8.5](https://www.zhihu.com/search?q=我的阿勒泰豆瓣开分8.5)
 1. [塔克拉玛干沙漠西部山脉怎么形成的](https://www.zhihu.com/search?q=塔克拉玛干沙漠西部山脉怎么形成的)
 1. [「歌手」直播你喜欢这种模式吗](https://www.zhihu.com/search?q=「歌手」直播你喜欢这种模式吗)
+1. [西安科技大学成绩按「闹」修改](https://www.zhihu.com/search?q=西安科技大学成绩按「闹」修改)
+1. [律师谈阜阳水泥封尸案](https://www.zhihu.com/search?q=律师谈阜阳水泥封尸案)
 1. [南京林业大学](https://www.zhihu.com/search?q=南京林业大学)
 1. [大脑能一直分泌多巴胺吗](https://www.zhihu.com/search?q=大脑能一直分泌多巴胺吗)
 1. [百度副总裁璩静深夜致歉](https://www.zhihu.com/search?q=百度副总裁璩静深夜致歉)
