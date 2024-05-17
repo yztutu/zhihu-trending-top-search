@@ -1,6 +1,5 @@
 [
   { "query": "今日A股市场", "display_query": "今日A股市场" },
-  { "query": "庆余年2", "display_query": "庆余年2" },
   {
     "query": "副镇长叫他人妻子陪唱被停职",
     "display_query": "副镇长叫他人妻子陪唱被停职"
@@ -27,6 +26,11 @@
     "query": "哪些职业可以从35岁开始",
     "display_query": "哪些职业可以从35岁开始"
   },
+  {
+    "query": "哪些画面安抚了你的焦虑感",
+    "display_query": "哪些画面安抚了你的焦虑感"
+  },
+  { "query": "庆余年2", "display_query": "庆余年2" },
   { "query": "雷霆2比2独行侠", "display_query": "雷霆2比2独行侠" },
   {
     "query": "特斯拉上海储能超级工厂获施工许可",
@@ -47,10 +51,6 @@
   {
     "query": "大小S范晓萱具俊晔药检报告出炉",
     "display_query": "大小S范晓萱具俊晔药检报告出炉"
-  },
-  {
-    "query": "哪些画面安抚了你的焦虑感",
-    "display_query": "哪些画面安抚了你的焦虑感"
   },
   { "query": "T1对战TL", "display_query": "T1对战TL" },
   {
