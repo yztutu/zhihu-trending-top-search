@@ -9,7 +9,6 @@
     "display_query": "广西特大暴雨雨强破纪录"
   },
   { "query": "黄家驹墓碑遭涂污破坏", "display_query": "黄家驹墓碑遭涂污破坏" },
-  { "query": "官员「指豚为鱼」", "display_query": "官员「指豚为鱼」" },
   {
     "query": "今年全国荔枝或减产45％",
     "display_query": "今年全国荔枝或减产45％"
@@ -24,6 +23,11 @@
     "query": "经典力学中有哪些违反直觉的现象",
     "display_query": "经典力学中有哪些违反直觉的现象"
   },
+  {
+    "query": "「胖猫事件」女方不构成诈骗",
+    "display_query": "「胖猫事件」女方不构成诈骗"
+  },
+  { "query": "官员「指豚为鱼」", "display_query": "官员「指豚为鱼」" },
   { "query": "河南大风致小麦倒伏", "display_query": "河南大风致小麦倒伏" },
   { "query": "乌克兰退出独联体国家", "display_query": "乌克兰退出独联体国家" },
   {
