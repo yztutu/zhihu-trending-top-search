@@ -1,11 +1,11 @@
 [
-  { "query": "中国旅游日", "display_query": "中国旅游日" },
   { "query": "三大指数集体低开", "display_query": "三大指数集体低开" },
   { "query": "比特币突破7万美元", "display_query": "比特币突破7万美元" },
   {
     "query": "30层高的楼有多少年寿命",
     "display_query": "30层高的楼有多少年寿命"
   },
+  { "query": "朱婷回归中国女排", "display_query": "朱婷回归中国女排" },
   {
     "query": "「黑神话：悟空」定价268",
     "display_query": "「黑神话：悟空」定价268"
@@ -21,6 +21,7 @@
     "display_query": "「胖猫事件」女方不构成诈骗"
   },
   { "query": "OpenAI又迎人事动荡", "display_query": "OpenAI又迎人事动荡" },
+  { "query": "中国旅游日", "display_query": "中国旅游日" },
   { "query": "金价达740元/克", "display_query": "金价达740元/克" },
   {
     "query": "做更好的自己不如更好地做自己",
