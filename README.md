@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon May 27 2024 15:10:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon May 27 2024 16:13:14 GMT+0800 (China Standard Time) -->
 
 1. [如何看待A股市场](https://www.zhihu.com/search?q=如何看待A股市场)
 1. [梁靖崑男单冠军](https://www.zhihu.com/search?q=梁靖崑男单冠军)
@@ -26,6 +26,7 @@
 1. [台湾当归](https://www.zhihu.com/search?q=台湾当归)
 1. [台湾必将回归祖国怀抱](https://www.zhihu.com/search?q=台湾必将回归祖国怀抱)
 1. [卫龙回应魔芋爽克重不足](https://www.zhihu.com/search?q=卫龙回应魔芋爽克重不足)
+1. [湖北精神病患者砍人致8死](https://www.zhihu.com/search?q=湖北精神病患者砍人致8死)
 1. [英伟达宣布拆股计划](https://www.zhihu.com/search?q=英伟达宣布拆股计划)
 1. [美国确认第二例人感染禽流感病例](https://www.zhihu.com/search?q=美国确认第二例人感染禽流感病例)
 1. [讯飞星火api能力正式免费开放](https://www.zhihu.com/search?q=讯飞星火api能力正式免费开放)
