@@ -1,11 +1,8 @@
 [
   { "query": "今日A股市场", "display_query": "今日A股市场" },
-  {
-    "query": "马龙林高远夺得男双冠军",
-    "display_query": "马龙林高远夺得男双冠军"
-  },
+  { "query": "美国多地发生枪击事件", "display_query": "美国多地发生枪击事件" },
+  { "query": "种地吧", "display_query": "种地吧" },
   { "query": "全民皆兵有多可怕", "display_query": "全民皆兵有多可怕" },
-  { "query": "台湾当归", "display_query": "台湾当归" },
   { "query": "京东采销年薪涨至20薪", "display_query": "京东采销年薪涨至20薪" },
   { "query": "四川凉山5级地震", "display_query": "四川凉山5级地震" },
   { "query": "双缝干涉实验恐怖在哪", "display_query": "双缝干涉实验恐怖在哪" },
@@ -21,6 +18,11 @@
     "query": "「名侦探柯南」死了多少人",
     "display_query": "「名侦探柯南」死了多少人"
   },
+  {
+    "query": "马龙林高远夺得男双冠军",
+    "display_query": "马龙林高远夺得男双冠军"
+  },
+  { "query": "台湾当归", "display_query": "台湾当归" },
   {
     "query": "保时捷官方回应经销商抵制",
     "display_query": "保时捷官方回应经销商抵制"
