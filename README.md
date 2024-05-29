@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed May 29 2024 08:49:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed May 29 2024 09:56:16 GMT+0800 (China Standard Time) -->
 
 1. [高考倒计时 10 天](https://www.zhihu.com/search?q=高考倒计时 10 天)
 1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
