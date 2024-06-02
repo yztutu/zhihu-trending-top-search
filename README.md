@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 02 2024 19:08:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 02 2024 20:16:34 GMT+0800 (China Standard Time) -->
 
 1. [胡塞武装击落美军无人机](https://www.zhihu.com/search?q=胡塞武装击落美军无人机)
 1. [陈奕迅主办方补偿方案](https://www.zhihu.com/search?q=陈奕迅主办方补偿方案)
