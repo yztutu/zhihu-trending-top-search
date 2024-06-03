@@ -7,8 +7,6 @@
     "query": "北斗卫星为高考试卷护航",
     "display_query": "北斗卫星为高考试卷护航"
   },
-  { "query": "腾讯控股回购公司股份", "display_query": "腾讯控股回购公司股份" },
-  { "query": "印度上万人因高温死亡", "display_query": "印度上万人因高温死亡" },
   {
     "query": "所有的大人曾经都是小孩",
     "display_query": "所有的大人曾经都是小孩"
@@ -18,6 +16,16 @@
     "display_query": "黑土地被征占建高档别墅"
   },
   { "query": "马斯克被告", "display_query": "马斯克被告" },
+  {
+    "query": "台湾花莲发生 5.5 级地震",
+    "display_query": "台湾花莲发生 5.5 级地震"
+  },
+  {
+    "query": "靖国神社被红漆涂写英文「厕所」",
+    "display_query": "靖国神社被红漆涂写英文「厕所」"
+  },
+  { "query": "腾讯控股回购公司股份", "display_query": "腾讯控股回购公司股份" },
+  { "query": "印度上万人因高温死亡", "display_query": "印度上万人因高温死亡" },
   {
     "query": "胡塞武装击落美军无人机",
     "display_query": "胡塞武装击落美军无人机"
