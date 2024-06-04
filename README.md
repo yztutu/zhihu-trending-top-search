@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 04 2024 23:10:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 05 2024 00:13:02 GMT+0800 (China Standard Time) -->
 
 1. [高考](https://www.zhihu.com/search?q=高考)
 1. [孙颖莎女单夺冠](https://www.zhihu.com/search?q=孙颖莎女单夺冠)
@@ -27,20 +27,6 @@
 1. [美国俄州与宾州两地发生枪击](https://www.zhihu.com/search?q=美国俄州与宾州两地发生枪击)
 1. [周星驰短剧上线](https://www.zhihu.com/search?q=周星驰短剧上线)
 1. [樊振东 4-0 横扫雨果](https://www.zhihu.com/search?q=樊振东 4-0 横扫雨果)
-1. [如何看待今日A股市场](https://www.zhihu.com/search?q=如何看待今日A股市场)
-1. [印度多人因高温死亡](https://www.zhihu.com/search?q=印度多人因高温死亡)
-1. [以色列称不摧毁哈马斯不会永久停火](https://www.zhihu.com/search?q=以色列称不摧毁哈马斯不会永久停火)
-1. [所有的大人曾经都是小孩](https://www.zhihu.com/search?q=所有的大人曾经都是小孩)
-1. [靖国神社被红漆涂写英文「厕所」](https://www.zhihu.com/search?q=靖国神社被红漆涂写英文「厕所」)
-1. [美官员否认航母受到胡塞武装袭击](https://www.zhihu.com/search?q=美官员否认航母受到胡塞武装袭击)
-1. [印度极端高温](https://www.zhihu.com/search?q=印度极端高温)
-1. [藏海传](https://www.zhihu.com/search?q=藏海传)
-1. [北斗卫星为高考试卷护航](https://www.zhihu.com/search?q=北斗卫星为高考试卷护航)
-1. [马斯克被告](https://www.zhihu.com/search?q=马斯克被告)
-1. [台湾花莲发生 5.5 级地震](https://www.zhihu.com/search?q=台湾花莲发生 5.5
-   级地震)
-1. [黑土地被征占建高档别墅](https://www.zhihu.com/search?q=黑土地被征占建高档别墅)
-1. [日本地震](https://www.zhihu.com/search?q=日本地震)
 
 <!-- END -->
 
