@@ -1,5 +1,6 @@
 [
   { "query": "苹果手机", "display_query": "苹果手机" },
+  { "query": "墨雨云间", "display_query": "墨雨云间" },
   { "query": "张志磊vs维尔德", "display_query": "张志磊vs维尔德" },
   {
     "query": "董明珠称打工人想休闲可以辞职",
@@ -34,7 +35,6 @@
     "query": "物理化学中好玩儿的随机过程",
     "display_query": "物理化学中好玩儿的随机过程"
   },
-  { "query": "墨雨云间", "display_query": "墨雨云间" },
   { "query": "周大福", "display_query": "周大福" },
   {
     "query": "斯坦福被曝抄袭中国面壁开源模型",
