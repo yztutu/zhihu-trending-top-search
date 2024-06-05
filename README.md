@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 05 2024 16:12:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 05 2024 17:12:28 GMT+0800 (China Standard Time) -->
 
 1. [苹果手机](https://www.zhihu.com/search?q=苹果手机)
 1. [张志磊vs维尔德](https://www.zhihu.com/search?q=张志磊vs维尔德)
