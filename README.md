@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 06 2024 23:11:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 07 2024 00:12:15 GMT+0800 (China Standard Time) -->
 
 1. [高考](https://www.zhihu.com/search?q=高考)
 1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
@@ -27,24 +27,6 @@
 1. [周深演唱会官宣武汉南京](https://www.zhihu.com/search?q=周深演唱会官宣武汉南京)
 1. [乌承认巴勒斯坦国](https://www.zhihu.com/search?q=乌承认巴勒斯坦国)
 1. [迪丽热巴新歌首发](https://www.zhihu.com/search?q=迪丽热巴新歌首发)
-1. [数只美股疑似出现行情异常](https://www.zhihu.com/search?q=数只美股疑似出现行情异常)
-1. [董明珠称打工人想休闲可以辞职](https://www.zhihu.com/search?q=董明珠称打工人想休闲可以辞职)
-1. [逾 7900 人应聘宁夏煤业井下操作工](https://www.zhihu.com/search?q=逾 7900
-   人应聘宁夏煤业井下操作工)
-1. [什么是「奥利给」不等式](https://www.zhihu.com/search?q=什么是「奥利给」不等式)
-1. [以为很干净实际很脏的东西](https://www.zhihu.com/search?q=以为很干净实际很脏的东西)
-1. [为什么公交车门不设计在最末尾](https://www.zhihu.com/search?q=为什么公交车门不设计在最末尾)
-1. [苹果手机](https://www.zhihu.com/search?q=苹果手机)
-1. [张志磊vs维尔德](https://www.zhihu.com/search?q=张志磊vs维尔德)
-1. [胡塞武装再度袭击美航母](https://www.zhihu.com/search?q=胡塞武装再度袭击美航母)
-1. [阿沁控诉詹雯婷抄袭](https://www.zhihu.com/search?q=阿沁控诉詹雯婷抄袭)
-1. [生物自身合成最坚硬的物质是什么](https://www.zhihu.com/search?q=生物自身合成最坚硬的物质是什么)
-1. [余承东「卷王不是特斯拉是比亚迪」](https://www.zhihu.com/search?q=余承东「卷王不是特斯拉是比亚迪」)
-1. [iPhone降价幅度超25%](https://www.zhihu.com/search?q=iPhone降价幅度超25%)
-1. [美官员称未发现艾森豪威尔号遭袭](https://www.zhihu.com/search?q=美官员称未发现艾森豪威尔号遭袭)
-1. [斯里兰卡极端天气致10人死亡](https://www.zhihu.com/search?q=斯里兰卡极端天气致10人死亡)
-1. [《庆余年》第三季要等多久](https://www.zhihu.com/search?q=《庆余年》第三季要等多久)
-1. [周星驰短剧上线](https://www.zhihu.com/search?q=周星驰短剧上线)
 
 <!-- END -->
 
