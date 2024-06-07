@@ -3,7 +3,6 @@
   { "query": "高考", "display_query": "高考" },
   { "query": "如何看待今日A股市场", "display_query": "如何看待今日A股市场" },
   { "query": "国足首发", "display_query": "国足首发" },
-  { "query": "墨雨云间", "display_query": "墨雨云间" },
   {
     "query": "「二维码很快会被用完」系谣言",
     "display_query": "「二维码很快会被用完」系谣言"
@@ -24,6 +23,11 @@
     "query": "联合国呼吁所有国家承认巴勒斯坦国",
     "display_query": "联合国呼吁所有国家承认巴勒斯坦国"
   },
+  {
+    "query": "嫦娥六号在月背挖出「中」字",
+    "display_query": "嫦娥六号在月背挖出「中」字"
+  },
+  { "query": "墨雨云间", "display_query": "墨雨云间" },
   { "query": "星舰第四次发射", "display_query": "星舰第四次发射" },
   {
     "query": "孙颖莎王曼昱角逐女单冠军",
