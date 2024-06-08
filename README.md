@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 08 2024 11:10:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 08 2024 12:12:35 GMT+0800 (China Standard Time) -->
 
 1. [高考作文](https://www.zhihu.com/search?q=高考作文)
 1. [高考](https://www.zhihu.com/search?q=高考)
@@ -26,6 +26,7 @@
 1. [胡塞武装称袭击以色列埃拉特](https://www.zhihu.com/search?q=胡塞武装称袭击以色列埃拉特)
 1. [浙江2名落水失联驴友已去世](https://www.zhihu.com/search?q=浙江2名落水失联驴友已去世)
 1. [联合国呼吁所有国家承认巴勒斯坦国](https://www.zhihu.com/search?q=联合国呼吁所有国家承认巴勒斯坦国)
+1. [周大福深圳工厂停产](https://www.zhihu.com/search?q=周大福深圳工厂停产)
 1. [张锡峰后悔为赚钱学计算机](https://www.zhihu.com/search?q=张锡峰后悔为赚钱学计算机)
 1. [嫦娥六号在月背挖出「中」字](https://www.zhihu.com/search?q=嫦娥六号在月背挖出「中」字)
 
