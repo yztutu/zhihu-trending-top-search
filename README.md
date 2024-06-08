@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 08 2024 20:16:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 08 2024 21:09:58 GMT+0800 (China Standard Time) -->
 
 1. [高考](https://www.zhihu.com/search?q=高考)
 1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)
@@ -23,10 +23,11 @@
 1. [spacex](https://www.zhihu.com/search?q=spacex)
 1. [墨雨云间](https://www.zhihu.com/search?q=墨雨云间)
 1. [「二维码很快会被用完」系谣言](https://www.zhihu.com/search?q=「二维码很快会被用完」系谣言)
-1. [周大福深圳工厂停产](https://www.zhihu.com/search?q=周大福深圳工厂停产)
 1. [如何评价「金猪玉叶」](https://www.zhihu.com/search?q=如何评价「金猪玉叶」)
 1. [买房或可七天无理由退定](https://www.zhihu.com/search?q=买房或可七天无理由退定)
 1. [周大福深圳工厂停工停产](https://www.zhihu.com/search?q=周大福深圳工厂停工停产)
+1. [魔方是否能通过一套动作必定还原](https://www.zhihu.com/search?q=魔方是否能通过一套动作必定还原)
+1. [周大福深圳工厂停产](https://www.zhihu.com/search?q=周大福深圳工厂停产)
 1. [乘客极限登机因网约车迟到错过航班](https://www.zhihu.com/search?q=乘客极限登机因网约车迟到错过航班)
 1. [高考作文](https://www.zhihu.com/search?q=高考作文)
 1. [如何看待今日A股市场](https://www.zhihu.com/search?q=如何看待今日A股市场)
