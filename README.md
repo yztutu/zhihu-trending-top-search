@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 10 2024 15:10:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 10 2024 16:13:57 GMT+0800 (China Standard Time) -->
 
 1. [端午节](https://www.zhihu.com/search?q=端午节)
 1. [为什么「一到高考就下雨」](https://www.zhihu.com/search?q=为什么「一到高考就下雨」)
