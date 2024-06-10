@@ -8,7 +8,6 @@
     "query": "为什么国家大力发展电车",
     "display_query": "为什么国家大力发展电车"
   },
-  { "query": "以军轰炸难民营学校", "display_query": "以军轰炸难民营学校" },
   {
     "query": "为什么「一到高考就下雨」",
     "display_query": "为什么「一到高考就下雨」"
@@ -31,5 +30,6 @@
     "query": "2024 高考天津卷作文题",
     "display_query": "2024 高考天津卷作文题"
   },
+  { "query": "以军轰炸难民营学校", "display_query": "以军轰炸难民营学校" },
   { "query": "高考第三天", "display_query": "高考第三天" }
 ]
