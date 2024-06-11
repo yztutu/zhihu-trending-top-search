@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 11 2024 10:29:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 11 2024 11:11:32 GMT+0800 (China Standard Time) -->
 
 1. [端午节](https://www.zhihu.com/search?q=端午节)
 1. [全国冬小麦收获进度过半](https://www.zhihu.com/search?q=全国冬小麦收获进度过半)
@@ -24,6 +24,9 @@
 1. [100个知乎答主](https://www.zhihu.com/search?q=100个知乎答主)
 1. [张学友感染病毒取消演唱会](https://www.zhihu.com/search?q=张学友感染病毒取消演唱会)
 1. [丹麦首相遭殴打](https://www.zhihu.com/search?q=丹麦首相遭殴打)
+1. [2024 高考广东物理](https://www.zhihu.com/search?q=2024 高考广东物理)
+1. [端午假期第一天金价大跌](https://www.zhihu.com/search?q=端午假期第一天金价大跌)
+1. [端午节不同地区习俗](https://www.zhihu.com/search?q=端午节不同地区习俗)
 1. [2024 高考文综](https://www.zhihu.com/search?q=2024 高考文综)
 1. [2024 高考物理](https://www.zhihu.com/search?q=2024 高考物理)
 1. [2024 高考理综](https://www.zhihu.com/search?q=2024 高考理综)
