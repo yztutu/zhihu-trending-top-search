@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 12 2024 21:12:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 12 2024 22:09:11 GMT+0800 (China Standard Time) -->
 
 1. [如何看待今日A股市场](https://www.zhihu.com/search?q=如何看待今日A股市场)
 1. [歌手2024](https://www.zhihu.com/search?q=歌手2024)
