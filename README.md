@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 12 2024 18:10:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 12 2024 19:08:50 GMT+0800 (China Standard Time) -->
 
 1. [如何看待今日A股市场](https://www.zhihu.com/search?q=如何看待今日A股市场)
+1. [歌手2024](https://www.zhihu.com/search?q=歌手2024)
 1. [赴山海](https://www.zhihu.com/search?q=赴山海)
 1. [数码爱好者眼中的好物](https://www.zhihu.com/search?q=数码爱好者眼中的好物)
 1. [二胎妈妈的经验之选](https://www.zhihu.com/search?q=二胎妈妈的经验之选)
