@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 15 2024 14:12:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 15 2024 15:09:35 GMT+0800 (China Standard Time) -->
 
 1. [如何看待今日A股市场](https://www.zhihu.com/search?q=如何看待今日A股市场)
 1. [美联储维持利率不变](https://www.zhihu.com/search?q=美联储维持利率不变)
@@ -26,6 +26,7 @@
 1. [苹果与openai合作惹怒马斯克](https://www.zhihu.com/search?q=苹果与openai合作惹怒马斯克)
 1. [阿尔卡拉斯夺得男单冠军](https://www.zhihu.com/search?q=阿尔卡拉斯夺得男单冠军)
 1. [看不见影子的少年](https://www.zhihu.com/search?q=看不见影子的少年)
+1. [人民网评玫瑰的故事](https://www.zhihu.com/search?q=人民网评玫瑰的故事)
 1. [美国为什么要中国月球月壤](https://www.zhihu.com/search?q=美国为什么要中国月球月壤)
 
 <!-- END -->
