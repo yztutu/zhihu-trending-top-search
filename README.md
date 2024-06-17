@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 17 2024 23:11:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 18 2024 00:12:43 GMT+0800 (China Standard Time) -->
 
 1. [英语四六级考试](https://www.zhihu.com/search?q=英语四六级考试)
 1. [如何看待今日A股市场](https://www.zhihu.com/search?q=如何看待今日A股市场)
@@ -27,18 +27,6 @@
 1. [618手机推荐](https://www.zhihu.com/search?q=618手机推荐)
 1. [河南此轮高温何时结束](https://www.zhihu.com/search?q=河南此轮高温何时结束)
 1. [欧洲杯](https://www.zhihu.com/search?q=欧洲杯)
-1. [深蓝g318上市售价17.59万元起](https://www.zhihu.com/search?q=深蓝g318上市售价17.59万元起)
-1. [美国与乌克兰签署双边安全协议](https://www.zhihu.com/search?q=美国与乌克兰签署双边安全协议)
-1. [马斯克560亿美元巨额薪酬已通过](https://www.zhihu.com/search?q=马斯克560亿美元巨额薪酬已通过)
-1. [河南发布干旱橙色预警](https://www.zhihu.com/search?q=河南发布干旱橙色预警)
-1. [董宇辉发声抗拒卖货](https://www.zhihu.com/search?q=董宇辉发声抗拒卖货)
-1. [马斯克被曝与SpaceX多名员工有染](https://www.zhihu.com/search?q=马斯克被曝与SpaceX多名员工有染)
-1. [北京为高校毕业生提供优惠租房房源](https://www.zhihu.com/search?q=北京为高校毕业生提供优惠租房房源)
-1. [韩国](https://www.zhihu.com/search?q=韩国)
-1. [美联储维持利率不变](https://www.zhihu.com/search?q=美联储维持利率不变)
-1. [中国男篮集训名单出炉](https://www.zhihu.com/search?q=中国男篮集训名单出炉)
-1. [苹果与openai合作惹怒马斯克](https://www.zhihu.com/search?q=苹果与openai合作惹怒马斯克)
-1. [阿尔卡拉斯夺得男单冠军](https://www.zhihu.com/search?q=阿尔卡拉斯夺得男单冠军)
 
 <!-- END -->
 
