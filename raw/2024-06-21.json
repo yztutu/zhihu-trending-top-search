@@ -1,10 +1,11 @@
 [
+  { "query": "如何看待A股市场", "display_query": "如何看待A股市场" },
   { "query": "怎么看待A股市场", "display_query": "怎么看待A股市场" },
   {
     "query": "韩国人知道自己的国家小吗",
     "display_query": "韩国人知道自己的国家小吗"
   },
-  { "query": "姜萍妈妈首发声", "display_query": "姜萍妈妈首发声" },
+  { "query": "歌手", "display_query": "歌手" },
   { "query": "职场第一课", "display_query": "职场第一课" },
   {
     "query": "Shopee研发中心员工猝死",
@@ -20,6 +21,7 @@
     "query": "杨紫将担任巴黎奥运火炬手",
     "display_query": "杨紫将担任巴黎奥运火炬手"
   },
+  { "query": "姜萍妈妈首发声", "display_query": "姜萍妈妈首发声" },
   {
     "query": "苹果停用 Apple Pay Later",
     "display_query": "苹果停用 Apple Pay Later"
