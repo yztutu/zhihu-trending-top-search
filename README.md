@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 22 2024 21:12:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 22 2024 22:10:19 GMT+0800 (China Standard Time) -->
 
 1. [如何看待A股市场](https://www.zhihu.com/search?q=如何看待A股市场)
 1. [怎么看待A股市场](https://www.zhihu.com/search?q=怎么看待A股市场)
@@ -26,6 +26,7 @@
 1. [杨紫将担任巴黎奥运火炬手](https://www.zhihu.com/search?q=杨紫将担任巴黎奥运火炬手)
 1. [证监会将推出「科创板八条」](https://www.zhihu.com/search?q=证监会将推出「科创板八条」)
 1. [乌克兰打败俄罗斯才能加入北约](https://www.zhihu.com/search?q=乌克兰打败俄罗斯才能加入北约)
+1. [贾乃亮赚翻了背后mcn亏惨了](https://www.zhihu.com/search?q=贾乃亮赚翻了背后mcn亏惨了)
 1. [黄霄雲冲榜歌手2024](https://www.zhihu.com/search?q=黄霄雲冲榜歌手2024)
 1. [胖东来魔改永辉首店收官](https://www.zhihu.com/search?q=胖东来魔改永辉首店收官)
 1. [韩国人知道自己的国家小吗](https://www.zhihu.com/search?q=韩国人知道自己的国家小吗)
