@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 22 2024 07:09:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 22 2024 08:45:05 GMT+0800 (China Standard Time) -->
 
 1. [如何看待A股市场](https://www.zhihu.com/search?q=如何看待A股市场)
 1. [怎么看待A股市场](https://www.zhihu.com/search?q=怎么看待A股市场)
@@ -26,6 +26,7 @@
 1. [「黑神话悟空」会不会高开低走](https://www.zhihu.com/search?q=「黑神话悟空」会不会高开低走)
 1. [人民日报评姜萍](https://www.zhihu.com/search?q=人民日报评姜萍)
 1. [杨紫将担任巴黎奥运火炬手](https://www.zhihu.com/search?q=杨紫将担任巴黎奥运火炬手)
+1. [胖东来魔改永辉首店收官](https://www.zhihu.com/search?q=胖东来魔改永辉首店收官)
 1. [山体滑坡寺庙倒塌一家 6
    口躲雨被埋](https://www.zhihu.com/search?q=山体滑坡寺庙倒塌一家 6 口躲雨被埋)
 
