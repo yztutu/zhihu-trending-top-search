@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 25 2024 23:10:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 26 2024 00:13:04 GMT+0800 (China Standard Time) -->
 
 1. [河北高考分数线公布](https://www.zhihu.com/search?q=河北高考分数线公布)
 1. [河南高考分数线公布](https://www.zhihu.com/search?q=河南高考分数线公布)
@@ -27,18 +27,6 @@
 1. [无趣的本质是什么](https://www.zhihu.com/search?q=无趣的本质是什么)
 1. [高考查分时间汇总](https://www.zhihu.com/search?q=高考查分时间汇总)
 1. [2024高考查分时间汇总](https://www.zhihu.com/search?q=2024高考查分时间汇总)
-1. [美国多地发生枪击事件](https://www.zhihu.com/search?q=美国多地发生枪击事件)
-1. [董宇辉](https://www.zhihu.com/search?q=董宇辉)
-1. [新说唱](https://www.zhihu.com/search?q=新说唱)
-1. [阿里发布数学竞赛决赛通知](https://www.zhihu.com/search?q=阿里发布数学竞赛决赛通知)
-1. [manner](https://www.zhihu.com/search?q=manner)
-1. [陈晓陈妍希](https://www.zhihu.com/search?q=陈晓陈妍希)
-1. [姜萍决赛成绩8月公布](https://www.zhihu.com/search?q=姜萍决赛成绩8月公布)
-1. [荷兰0-0战平法国](https://www.zhihu.com/search?q=荷兰0-0战平法国)
-1. [如何评价阿里数学竞赛试题](https://www.zhihu.com/search?q=如何评价阿里数学竞赛试题)
-1. [黄亦玫离婚](https://www.zhihu.com/search?q=黄亦玫离婚)
-1. [桂林洪水](https://www.zhihu.com/search?q=桂林洪水)
-1. [黄亦玫离婚海报](https://www.zhihu.com/search?q=黄亦玫离婚海报)
 
 <!-- END -->
 
