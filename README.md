@@ -15,10 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 26 2024 15:09:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 26 2024 16:13:28 GMT+0800 (China Standard Time) -->
 
 1. [河北高考分数线公布](https://www.zhihu.com/search?q=河北高考分数线公布)
 1. [河南高考分数线公布](https://www.zhihu.com/search?q=河南高考分数线公布)
+1. [国际禁毒日](https://www.zhihu.com/search?q=国际禁毒日)
 1. [安徽高考分数线](https://www.zhihu.com/search?q=安徽高考分数线)
 1. [北京高考分数线](https://www.zhihu.com/search?q=北京高考分数线)
 1. [河北高考分数线](https://www.zhihu.com/search?q=河北高考分数线)
