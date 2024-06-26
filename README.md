@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 26 2024 14:14:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 26 2024 15:09:39 GMT+0800 (China Standard Time) -->
 
 1. [河北高考分数线公布](https://www.zhihu.com/search?q=河北高考分数线公布)
 1. [河南高考分数线公布](https://www.zhihu.com/search?q=河南高考分数线公布)
@@ -23,6 +23,7 @@
 1. [北京高考分数线](https://www.zhihu.com/search?q=北京高考分数线)
 1. [河北高考分数线](https://www.zhihu.com/search?q=河北高考分数线)
 1. [广东高考分数线公布](https://www.zhihu.com/search?q=广东高考分数线公布)
+1. [原神](https://www.zhihu.com/search?q=原神)
 1. [如何看待A股市场](https://www.zhihu.com/search?q=如何看待A股市场)
 1. [无趣的本质是什么](https://www.zhihu.com/search?q=无趣的本质是什么)
 1. [高考查分时间汇总](https://www.zhihu.com/search?q=高考查分时间汇总)
