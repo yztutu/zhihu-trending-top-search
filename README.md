@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 27 2024 22:09:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 27 2024 23:11:22 GMT+0800 (China Standard Time) -->
 
 1. [河北高考分数线](https://www.zhihu.com/search?q=河北高考分数线)
 1. [四川绵阳一理科考生高考 710
