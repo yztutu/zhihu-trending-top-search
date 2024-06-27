@@ -15,14 +15,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 27 2024 16:13:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 27 2024 17:10:45 GMT+0800 (China Standard Time) -->
 
 1. [河北高考分数线](https://www.zhihu.com/search?q=河北高考分数线)
 1. [如何看待A股市场](https://www.zhihu.com/search?q=如何看待A股市场)
 1. [度华年](https://www.zhihu.com/search?q=度华年)
 1. [四川绵阳一理科考生高考 710
    分](https://www.zhihu.com/search?q=四川绵阳一理科考生高考 710 分)
-1. [韩国一电池厂发生火灾20余人遇难](https://www.zhihu.com/search?q=韩国一电池厂发生火灾20余人遇难)
 1. [火焰山景区地表最高温度达
    81℃](https://www.zhihu.com/search?q=火焰山景区地表最高温度达 81℃)
 1. [实拍长沙暴雨城市内涝](https://www.zhihu.com/search?q=实拍长沙暴雨城市内涝)
@@ -32,6 +31,9 @@
    日单方面免签)
 1. [欧洲杯阿尔巴尼亚 VS 西班牙](https://www.zhihu.com/search?q=欧洲杯阿尔巴尼亚
    VS 西班牙)
+1. [欧洲杯克罗地亚 VS 意大利](https://www.zhihu.com/search?q=欧洲杯克罗地亚 VS
+   意大利)
+1. [韩国一电池厂发生火灾20余人遇难](https://www.zhihu.com/search?q=韩国一电池厂发生火灾20余人遇难)
 1. [国际禁毒日](https://www.zhihu.com/search?q=国际禁毒日)
 1. [阿里数赛决赛试题公布](https://www.zhihu.com/search?q=阿里数赛决赛试题公布)
 1. [韩国警告俄罗斯](https://www.zhihu.com/search?q=韩国警告俄罗斯)
