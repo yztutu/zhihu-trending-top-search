@@ -4,10 +4,6 @@
   { "query": "度华年", "display_query": "度华年" },
   { "query": "歌手歌单", "display_query": "歌手歌单" },
   {
-    "query": "四川绵阳一理科考生高考 710 分",
-    "display_query": "四川绵阳一理科考生高考 710 分"
-  },
-  {
     "query": "火焰山景区地表最高温度达 81℃",
     "display_query": "火焰山景区地表最高温度达 81℃"
   },
@@ -18,6 +14,11 @@
     "display_query": "福建考生高考语文获满分"
   },
   { "query": "高考语文满分考生出现", "display_query": "高考语文满分考生出现" },
+  { "query": "广东高考分数线", "display_query": "广东高考分数线" },
+  {
+    "query": "四川绵阳一理科考生高考 710 分",
+    "display_query": "四川绵阳一理科考生高考 710 分"
+  },
   {
     "query": "2024 湖北高考分数线公布",
     "display_query": "2024 湖北高考分数线公布"
