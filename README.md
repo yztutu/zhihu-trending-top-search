@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 29 2024 18:09:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 29 2024 19:09:03 GMT+0800 (China Standard Time) -->
 
 1. [国际禁毒日](https://www.zhihu.com/search?q=国际禁毒日)
 1. [安徽高考分数线](https://www.zhihu.com/search?q=安徽高考分数线)
@@ -24,9 +24,10 @@
 1. [油价](https://www.zhihu.com/search?q=油价)
 1. [歌手歌单](https://www.zhihu.com/search?q=歌手歌单)
 1. [实拍长沙暴雨城市内涝](https://www.zhihu.com/search?q=实拍长沙暴雨城市内涝)
-1. [人民币汇率逼近 7.3](https://www.zhihu.com/search?q=人民币汇率逼近 7.3)
 1. [福建考生高考语文获满分](https://www.zhihu.com/search?q=福建考生高考语文获满分)
 1. [高考语文满分考生出现](https://www.zhihu.com/search?q=高考语文满分考生出现)
+1. [广东高考分数线](https://www.zhihu.com/search?q=广东高考分数线)
+1. [人民币汇率逼近 7.3](https://www.zhihu.com/search?q=人民币汇率逼近 7.3)
 
 <!-- END -->
 
