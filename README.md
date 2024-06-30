@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 30 2024 14:12:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 30 2024 15:09:55 GMT+0800 (China Standard Time) -->
 
 1. [国际禁毒日](https://www.zhihu.com/search?q=国际禁毒日)
 1. [安徽高考分数线](https://www.zhihu.com/search?q=安徽高考分数线)
