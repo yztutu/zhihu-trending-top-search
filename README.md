@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 03 2024 17:11:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 03 2024 18:11:33 GMT+0800 (China Standard Time) -->
 
 1. [野孩子](https://www.zhihu.com/search?q=野孩子)
 1. [度华年](https://www.zhihu.com/search?q=度华年)
@@ -26,8 +26,8 @@
 1. [欧洲杯](https://www.zhihu.com/search?q=欧洲杯)
 1. [赵今麦演技](https://www.zhihu.com/search?q=赵今麦演技)
 1. [崔永熙签约开拓者](https://www.zhihu.com/search?q=崔永熙签约开拓者)
-1. [河南巩义一火箭坠落起火](https://www.zhihu.com/search?q=河南巩义一火箭坠落起火)
 1. [「天龙三号」火箭试车失败](https://www.zhihu.com/search?q=「天龙三号」火箭试车失败)
+1. [河南巩义一火箭坠落起火](https://www.zhihu.com/search?q=河南巩义一火箭坠落起火)
 1. [A股市场](https://www.zhihu.com/search?q=A股市场)
 1. [比亚迪销量](https://www.zhihu.com/search?q=比亚迪销量)
 1. [东方甄选](https://www.zhihu.com/search?q=东方甄选)
