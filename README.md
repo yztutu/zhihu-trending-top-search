@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 04 2024 12:12:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 04 2024 13:11:44 GMT+0800 (China Standard Time) -->
 
 1. [野孩子](https://www.zhihu.com/search?q=野孩子)
 1. [如何看待今日A股市场](https://www.zhihu.com/search?q=如何看待今日A股市场)
@@ -25,6 +25,8 @@
 1. [长相思2定档](https://www.zhihu.com/search?q=长相思2定档)
 1. [赵今麦演技](https://www.zhihu.com/search?q=赵今麦演技)
 1. [张志杰](https://www.zhihu.com/search?q=张志杰)
+1. [深中通道正式通车试运营](https://www.zhihu.com/search?q=深中通道正式通车试运营)
+1. [深中通道正式通车](https://www.zhihu.com/search?q=深中通道正式通车)
 1. [U18 中国女篮不敌澳大利亚获亚军](https://www.zhihu.com/search?q=U18
    中国女篮不敌澳大利亚获亚军)
 1. [张子宇](https://www.zhihu.com/search?q=张子宇)
