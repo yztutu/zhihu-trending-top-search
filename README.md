@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 04 2024 20:18:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 04 2024 21:12:21 GMT+0800 (China Standard Time) -->
 
 1. [度华年](https://www.zhihu.com/search?q=度华年)
 1. [如何看待今日A股市场](https://www.zhihu.com/search?q=如何看待今日A股市场)
@@ -23,6 +23,11 @@
 1. [歌手2024](https://www.zhihu.com/search?q=歌手2024)
 1. [歌手歌单](https://www.zhihu.com/search?q=歌手歌单)
 1. [张志杰](https://www.zhihu.com/search?q=张志杰)
+1. [中国小女孩向马斯克报特斯拉
+   Bug](https://www.zhihu.com/search?q=中国小女孩向马斯克报特斯拉 Bug)
+1. [葡萄牙](https://www.zhihu.com/search?q=葡萄牙)
+1. [王俊凯](https://www.zhihu.com/search?q=王俊凯)
+1. [百花奖](https://www.zhihu.com/search?q=百花奖)
 1. [刘德华获颁银紫荆星章](https://www.zhihu.com/search?q=刘德华获颁银紫荆星章)
 1. [头脑特工队2 票房突破 10 亿美元](https://www.zhihu.com/search?q=头脑特工队2
    票房突破 10 亿美元)
