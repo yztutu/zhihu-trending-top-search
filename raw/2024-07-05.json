@@ -9,10 +9,6 @@
   },
   { "query": "绝区零预下载", "display_query": "绝区零预下载" },
   {
-    "query": "洞庭湖入江口以下全线超警",
-    "display_query": "洞庭湖入江口以下全线超警"
-  },
-  {
     "query": "俄罗斯已成为高收入国家",
     "display_query": "俄罗斯已成为高收入国家"
   },
@@ -23,6 +19,11 @@
   {
     "query": "印度北方邦踩踏事件致上百人死亡",
     "display_query": "印度北方邦踩踏事件致上百人死亡"
+  },
+  { "query": "日元跌回1986年", "display_query": "日元跌回1986年" },
+  {
+    "query": "洞庭湖入江口以下全线超警",
+    "display_query": "洞庭湖入江口以下全线超警"
   },
   { "query": "度华年", "display_query": "度华年" },
   { "query": "歌手2024", "display_query": "歌手2024" },
