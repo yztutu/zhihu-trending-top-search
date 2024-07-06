@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 06 2024 12:12:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 06 2024 13:10:21 GMT+0800 (China Standard Time) -->
 
 1. [如何看待A股市场](https://www.zhihu.com/search?q=如何看待A股市场)
 1. [乘风2024](https://www.zhihu.com/search?q=乘风2024)
@@ -23,13 +23,14 @@
 1. [绝区零预下载](https://www.zhihu.com/search?q=绝区零预下载)
 1. [葡萄牙门将科斯塔三扑点球](https://www.zhihu.com/search?q=葡萄牙门将科斯塔三扑点球)
 1. [美滞留宇航员返航时间不能确定](https://www.zhihu.com/search?q=美滞留宇航员返航时间不能确定)
-1. [美将提供 23 亿美元对乌安全援助](https://www.zhihu.com/search?q=美将提供 23
-   亿美元对乌安全援助)
 1. [波音空客使用假钛金属](https://www.zhihu.com/search?q=波音空客使用假钛金属)
 1. [星际客机发生 5 次氮气泄露](https://www.zhihu.com/search?q=星际客机发生 5
    次氮气泄露)
 1. [星际客机发生 5 次氦气泄露](https://www.zhihu.com/search?q=星际客机发生 5
    次氦气泄露)
+1. [假古董直播一晚进账数十万](https://www.zhihu.com/search?q=假古董直播一晚进账数十万)
+1. [美将提供 23 亿美元对乌安全援助](https://www.zhihu.com/search?q=美将提供 23
+   亿美元对乌安全援助)
 1. [张志杰](https://www.zhihu.com/search?q=张志杰)
 1. [张志杰离世折射赛程过密](https://www.zhihu.com/search?q=张志杰离世折射赛程过密)
 1. [吉林拟建「锅包肉办公室」](https://www.zhihu.com/search?q=吉林拟建「锅包肉办公室」)
