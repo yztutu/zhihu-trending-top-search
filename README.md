@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 09 2024 00:12:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 09 2024 01:08:48 GMT+0800 (China Standard Time) -->
 
 1. [如何看待A股市场](https://www.zhihu.com/search?q=如何看待A股市场)
 1. [t1夺冠](https://www.zhihu.com/search?q=t1夺冠)
@@ -26,6 +26,7 @@
 1. [王欣瑜晋级女单32强](https://www.zhihu.com/search?q=王欣瑜晋级女单32强)
 1. [洞庭湖一线堤防发生决堤险情](https://www.zhihu.com/search?q=洞庭湖一线堤防发生决堤险情)
 1. [李彦宏称「开源是一种智商税」](https://www.zhihu.com/search?q=李彦宏称「开源是一种智商税」)
+1. [万吨大驱「延安舰」直面外舰挑衅](https://www.zhihu.com/search?q=万吨大驱「延安舰」直面外舰挑衅)
 1. [TES 2:0 淘汰新科世界冠军 GEN](https://www.zhihu.com/search?q=TES 2:0
    淘汰新科世界冠军 GEN)
 
