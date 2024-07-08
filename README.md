@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 08 2024 19:09:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 08 2024 20:19:38 GMT+0800 (China Standard Time) -->
 
 1. [如何看待A股市场](https://www.zhihu.com/search?q=如何看待A股市场)
 1. [t1夺冠](https://www.zhihu.com/search?q=t1夺冠)
@@ -24,9 +24,11 @@
 1. [菲律宾绑架案何以频发](https://www.zhihu.com/search?q=菲律宾绑架案何以频发)
 1. [出口民调显示英国工党赢得大选](https://www.zhihu.com/search?q=出口民调显示英国工党赢得大选)
 1. [王欣瑜晋级女单32强](https://www.zhihu.com/search?q=王欣瑜晋级女单32强)
-1. [谭维维《人间道》](https://www.zhihu.com/search?q=谭维维《人间道》)
 1. [洞庭湖一线堤防发生决堤险情](https://www.zhihu.com/search?q=洞庭湖一线堤防发生决堤险情)
 1. [那英《如果你也听说》](https://www.zhihu.com/search?q=那英《如果你也听说》)
+1. [TES 2:0 淘汰新科世界冠军 GEN](https://www.zhihu.com/search?q=TES 2:0
+   淘汰新科世界冠军 GEN)
+1. [谭维维《人间道》](https://www.zhihu.com/search?q=谭维维《人间道》)
 1. [乘风2024](https://www.zhihu.com/search?q=乘风2024)
 1. [以色列北部遭15枚火箭弹袭击](https://www.zhihu.com/search?q=以色列北部遭15枚火箭弹袭击)
 1. [冒牌教授魏新河被惩罚](https://www.zhihu.com/search?q=冒牌教授魏新河被惩罚)
