@@ -1,5 +1,4 @@
 [
-  { "query": "如何看待A股市场", "display_query": "如何看待A股市场" },
   { "query": "如何看待今日A股市场", "display_query": "如何看待今日A股市场" },
   { "query": "人机局", "display_query": "人机局" },
   { "query": "t1夺冠", "display_query": "t1夺冠" },
@@ -22,6 +21,7 @@
     "query": "「首个有望在火星存活的植物」被发现",
     "display_query": "「首个有望在火星存活的植物」被发现"
   },
+  { "query": "如何看待A股市场", "display_query": "如何看待A股市场" },
   {
     "query": "万吨大驱「延安舰」直面外舰挑衅",
     "display_query": "万吨大驱「延安舰」直面外舰挑衅"
