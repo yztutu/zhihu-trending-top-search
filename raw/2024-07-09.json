@@ -1,6 +1,16 @@
 [
-  { "query": "如何看待A股市场", "display_query": "如何看待A股市场" },
+  {
+    "query": "广州放松住房「限外令」",
+    "display_query": "广州放松住房「限外令」"
+  },
+  {
+    "query": "高考语文值得放弃6分默写吗",
+    "display_query": "高考语文值得放弃6分默写吗"
+  },
+  { "query": "人机局", "display_query": "人机局" },
+  { "query": "t1夺冠", "display_query": "t1夺冠" },
   { "query": "职场第一课", "display_query": "职场第一课" },
+  { "query": "汪苏泷演唱会", "display_query": "汪苏泷演唱会" },
   {
     "query": "洞庭湖一线堤防发生决堤险情",
     "display_query": "洞庭湖一线堤防发生决堤险情"
@@ -17,6 +27,7 @@
     "query": "「首个有望在火星存活的植物」被发现",
     "display_query": "「首个有望在火星存活的植物」被发现"
   },
+  { "query": "如何看待A股市场", "display_query": "如何看待A股市场" },
   { "query": "社交达人初养成", "display_query": "社交达人初养成" },
   { "query": "泰坦尼克号制片人去世", "display_query": "泰坦尼克号制片人去世" },
   {
@@ -27,7 +38,6 @@
     "query": "英国新首相称不继续「卢旺达计划」",
     "display_query": "英国新首相称不继续「卢旺达计划」"
   },
-  { "query": "t1夺冠", "display_query": "t1夺冠" },
   { "query": "卡卡西有没有偏心佐助", "display_query": "卡卡西有没有偏心佐助" },
   { "query": "菲律宾绑架案何以频发", "display_query": "菲律宾绑架案何以频发" },
   {
