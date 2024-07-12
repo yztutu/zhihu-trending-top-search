@@ -1,9 +1,5 @@
 [
   { "query": "如何看待A股市场", "display_query": "如何看待A股市场" },
-  {
-    "query": "有哪些故意缩短产品寿命的设计",
-    "display_query": "有哪些故意缩短产品寿命的设计"
-  },
   { "query": "遗憾怎么写最刀", "display_query": "遗憾怎么写最刀" },
   { "query": "歌手歌单", "display_query": "歌手歌单" },
   { "query": "歌手 2024", "display_query": "歌手 2024" },
@@ -17,5 +13,13 @@
   {
     "query": "现场见证c罗最后一届欧洲杯",
     "display_query": "现场见证c罗最后一届欧洲杯"
+  },
+  {
+    "query": "官方通报延安中学学生坠亡",
+    "display_query": "官方通报延安中学学生坠亡"
+  },
+  {
+    "query": "有哪些故意缩短产品寿命的设计",
+    "display_query": "有哪些故意缩短产品寿命的设计"
   }
 ]
