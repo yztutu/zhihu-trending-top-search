@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 12 2024 16:13:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 12 2024 17:11:40 GMT+0800 (China Standard Time) -->
 
 1. [咒术回战](https://www.zhihu.com/search?q=咒术回战)
 1. [如何看待A股市场](https://www.zhihu.com/search?q=如何看待A股市场)
