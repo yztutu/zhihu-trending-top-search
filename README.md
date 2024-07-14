@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 14 2024 23:15:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 15 2024 00:20:53 GMT+0800 (China Standard Time) -->
 
 1. [北京暴雨](https://www.zhihu.com/search?q=北京暴雨)
 1. [boss直聘崩了](https://www.zhihu.com/search?q=boss直聘崩了)
@@ -28,9 +28,6 @@
 1. [歌手](https://www.zhihu.com/search?q=歌手)
 1. [欧洲杯](https://www.zhihu.com/search?q=欧洲杯)
 1. [荷兰vs英格兰](https://www.zhihu.com/search?q=荷兰vs英格兰)
-1. [默杀票房破3亿](https://www.zhihu.com/search?q=默杀票房破3亿)
-1. [上半年入境外国人同比增
-   152.7%](https://www.zhihu.com/search?q=上半年入境外国人同比增 152.7%)
 
 <!-- END -->
 
