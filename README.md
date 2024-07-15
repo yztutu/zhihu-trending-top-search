@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 16 2024 05:10:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 16 2024 06:10:12 GMT+0800 (China Standard Time) -->
 
 1. [阿根廷夺冠](https://www.zhihu.com/search?q=阿根廷夺冠)
 1. [三大指数集体低开](https://www.zhihu.com/search?q=三大指数集体低开)
