@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 16 2024 11:14:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 16 2024 12:13:10 GMT+0800 (China Standard Time) -->
 
 1. [阿根廷夺冠](https://www.zhihu.com/search?q=阿根廷夺冠)
 1. [梅西](https://www.zhihu.com/search?q=梅西)
