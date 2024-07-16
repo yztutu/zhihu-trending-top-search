@@ -1,5 +1,7 @@
 [
   { "query": "阿根廷夺冠", "display_query": "阿根廷夺冠" },
+  { "query": "如何看待今日A股市场", "display_query": "如何看待今日A股市场" },
+  { "query": "性价比高的手机推荐", "display_query": "性价比高的手机推荐" },
   { "query": "北京下雨", "display_query": "北京下雨" },
   {
     "query": "南海发现新物种拟幽灵蛸",
@@ -11,6 +13,10 @@
   },
   { "query": "小米获得独立造车资质", "display_query": "小米获得独立造车资质" },
   { "query": "拜登出现离谱口误", "display_query": "拜登出现离谱口误" },
+  {
+    "query": "萝卜快跑价格低至网约车3/4",
+    "display_query": "萝卜快跑价格低至网约车3/4"
+  },
   { "query": "百度萝卜快跑", "display_query": "百度萝卜快跑" },
   {
     "query": "宝马中国打算退出价格战",
@@ -24,10 +30,6 @@
   { "query": "梅西", "display_query": "梅西" },
   { "query": "小夭到底喜欢谁", "display_query": "小夭到底喜欢谁" },
   { "query": "错位", "display_query": "错位" },
-  {
-    "query": "萝卜快跑价格低至网约车3/4",
-    "display_query": "萝卜快跑价格低至网约车3/4"
-  },
   { "query": "三大指数集体低开", "display_query": "三大指数集体低开" },
   { "query": "王一博", "display_query": "王一博" }
 ]
