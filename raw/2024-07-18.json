@@ -1,7 +1,6 @@
 [
   { "query": "拜登新冠检测呈阳性", "display_query": "拜登新冠检测呈阳性" },
   { "query": "如何看待A股市场", "display_query": "如何看待A股市场" },
-  { "query": "如何看待今日A股市场", "display_query": "如何看待今日A股市场" },
   { "query": "游戏本推荐", "display_query": "游戏本推荐" },
   {
     "query": "邹市明夫妇创业七年卖掉所有房产",
@@ -18,6 +17,8 @@
     "query": "阿尔卡拉斯夺得温网男单冠军",
     "display_query": "阿尔卡拉斯夺得温网男单冠军"
   },
+  { "query": "2024暑期档票房破40亿", "display_query": "2024暑期档票房破40亿" },
+  { "query": "如何看待今日A股市场", "display_query": "如何看待今日A股市场" },
   { "query": "阿根廷夺冠", "display_query": "阿根廷夺冠" },
   { "query": "河南暴雨", "display_query": "河南暴雨" },
   {
