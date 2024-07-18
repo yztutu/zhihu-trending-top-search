@@ -8,10 +8,6 @@
   },
   { "query": "你比星光美丽", "display_query": "你比星光美丽" },
   {
-    "query": "南海发现新物种拟幽灵蛸",
-    "display_query": "南海发现新物种拟幽灵蛸"
-  },
-  {
     "query": "邹市明夫妇创业七年卖掉所有房产",
     "display_query": "邹市明夫妇创业七年卖掉所有房产"
   },
@@ -21,5 +17,9 @@
   },
   { "query": "小米获得独立造车资质", "display_query": "小米获得独立造车资质" },
   { "query": "抓娃娃", "display_query": "抓娃娃" },
-  { "query": "日本掀起弹珠机狂热", "display_query": "日本掀起弹珠机狂热" }
+  { "query": "日本掀起弹珠机狂热", "display_query": "日本掀起弹珠机狂热" },
+  {
+    "query": "南海发现新物种拟幽灵蛸",
+    "display_query": "南海发现新物种拟幽灵蛸"
+  }
 ]
