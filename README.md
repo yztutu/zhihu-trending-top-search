@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 23 2024 08:49:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 23 2024 10:00:01 GMT+0800 (China Standard Time) -->
 
 1. [SBS歌谣大战](https://www.zhihu.com/search?q=SBS歌谣大战)
 1. [王宁](https://www.zhihu.com/search?q=王宁)
@@ -24,9 +24,10 @@
 1. [唐朝诡事录之西行](https://www.zhihu.com/search?q=唐朝诡事录之西行)
 1. [微软客服回应蓝屏](https://www.zhihu.com/search?q=微软客服回应蓝屏)
 1. [雷军回应造车原因](https://www.zhihu.com/search?q=雷军回应造车原因)
-1. [温州遭持刀伤害医生不幸去世](https://www.zhihu.com/search?q=温州遭持刀伤害医生不幸去世)
 1. [国际法院认定以色列非法占领巴领土](https://www.zhihu.com/search?q=国际法院认定以色列非法占领巴领土)
 1. [雅安暴雨 30 余人失联](https://www.zhihu.com/search?q=雅安暴雨 30 余人失联)
+1. [抓娃娃票房破 10 亿](https://www.zhihu.com/search?q=抓娃娃票房破 10 亿)
+1. [温州遭持刀伤害医生不幸去世](https://www.zhihu.com/search?q=温州遭持刀伤害医生不幸去世)
 1. [李晟医生去世](https://www.zhihu.com/search?q=李晟医生去世)
 
 <!-- END -->
