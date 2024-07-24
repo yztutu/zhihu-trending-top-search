@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 24 2024 23:11:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 25 2024 00:12:54 GMT+0800 (China Standard Time) -->
 
 1. [北京暴雨](https://www.zhihu.com/search?q=北京暴雨)
 1. [如何看待A股市场](https://www.zhihu.com/search?q=如何看待A股市场)
@@ -27,16 +27,6 @@
 1. [广汽丰田否认退出价格战](https://www.zhihu.com/search?q=广汽丰田否认退出价格战)
 1. [王贵元](https://www.zhihu.com/search?q=王贵元)
 1. [拜登退选](https://www.zhihu.com/search?q=拜登退选)
-1. [西安咖啡师推出油泼辣子咖啡](https://www.zhihu.com/search?q=西安咖啡师推出油泼辣子咖啡)
-1. [专家回应网传山东19万文科生滑档](https://www.zhihu.com/search?q=专家回应网传山东19万文科生滑档)
-1. [美国飞机坠毁 3 人死亡](https://www.zhihu.com/search?q=美国飞机坠毁 3 人死亡)
-1. [张子墨《登陆日》二公退赛](https://www.zhihu.com/search?q=张子墨《登陆日》二公退赛)
-1. [《抓娃娃》票房破 14 亿](https://www.zhihu.com/search?q=《抓娃娃》票房破 14
-   亿)
-1. [陕西洪涝灾害致 21 万人受灾](https://www.zhihu.com/search?q=陕西洪涝灾害致 21
-   万人受灾)
-1. [SBS歌谣大战](https://www.zhihu.com/search?q=SBS歌谣大战)
-1. [韦世豪踹人被罚红牌](https://www.zhihu.com/search?q=韦世豪踹人被罚红牌)
 
 <!-- END -->
 
