@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 27 2024 23:09:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 28 2024 00:12:27 GMT+0800 (China Standard Time) -->
 
 1. [油价降了](https://www.zhihu.com/search?q=油价降了)
 1. [如何看待今日A股市场](https://www.zhihu.com/search?q=如何看待今日A股市场)
@@ -27,7 +27,6 @@
 1. [超雄综合征不等于会暴虐犯罪](https://www.zhihu.com/search?q=超雄综合征不等于会暴虐犯罪)
 1. [暑期档电影票房破60亿](https://www.zhihu.com/search?q=暑期档电影票房破60亿)
 1. [夜宵推荐](https://www.zhihu.com/search?q=夜宵推荐)
-1. [以军空袭也门荷台达](https://www.zhihu.com/search?q=以军空袭也门荷台达)
 
 <!-- END -->
 
