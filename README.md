@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 30 2024 05:11:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 30 2024 06:12:10 GMT+0800 (China Standard Time) -->
 
 1. [北京暴雨](https://www.zhihu.com/search?q=北京暴雨)
 1. [如何看待今日A股市场](https://www.zhihu.com/search?q=如何看待今日A股市场)
@@ -25,6 +25,8 @@
 1. [小米汽车已连续两周销量下滑](https://www.zhihu.com/search?q=小米汽车已连续两周销量下滑)
 1. [唐诡西行捅到疯窝了](https://www.zhihu.com/search?q=唐诡西行捅到疯窝了)
 1. [那英歌王](https://www.zhihu.com/search?q=那英歌王)
+1. [席琳·迪翁](https://www.zhihu.com/search?q=席琳·迪翁)
+1. [海柔创新回应中信建投实习生泄露信息](https://www.zhihu.com/search?q=海柔创新回应中信建投实习生泄露信息)
 1. [巴黎奥运会热气球点火仪式](https://www.zhihu.com/search?q=巴黎奥运会热气球点火仪式)
 1. [席琳迪翁演唱《爱的颂歌》](https://www.zhihu.com/search?q=席琳迪翁演唱《爱的颂歌》)
 
