@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 31 2024 23:10:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 01 2024 00:12:42 GMT+0800 (China Standard Time) -->
 
 1. [北京暴雨](https://www.zhihu.com/search?q=北京暴雨)
 1. [A股](https://www.zhihu.com/search?q=A股)
@@ -27,29 +27,6 @@
 1. [湖南8个村子因暴雨失联](https://www.zhihu.com/search?q=湖南8个村子因暴雨失联)
 1. [湖南8个村子失联](https://www.zhihu.com/search?q=湖南8个村子失联)
 1. [死侍与金刚狼票房破亿](https://www.zhihu.com/search?q=死侍与金刚狼票房破亿)
-1. [女篮小组赛中国 1 分惜败西班牙](https://www.zhihu.com/search?q=女篮小组赛中国
-   1 分惜败西班牙)
-1. [以军袭击加沙收容所](https://www.zhihu.com/search?q=以军袭击加沙收容所)
-1. [《抓娃娃》票房破 22 亿](https://www.zhihu.com/search?q=《抓娃娃》票房破 22
-   亿)
-1. [《死侍与金刚狼》票房破亿](https://www.zhihu.com/search?q=《死侍与金刚狼》票房破亿)
-1. [多家银行下调存款利率](https://www.zhihu.com/search?q=多家银行下调存款利率)
-1. [相机推荐](https://www.zhihu.com/search?q=相机推荐)
-1. [小米汽车已连续两周销量下滑](https://www.zhihu.com/search?q=小米汽车已连续两周销量下滑)
-1. [唐诡西行捅到疯窝了](https://www.zhihu.com/search?q=唐诡西行捅到疯窝了)
-1. [北京中轴线申遗成功](https://www.zhihu.com/search?q=北京中轴线申遗成功)
-1. [李小双怒斥中国体操队](https://www.zhihu.com/search?q=李小双怒斥中国体操队)
-1. [网传东证期货美女与多人钱色交易](https://www.zhihu.com/search?q=网传东证期货美女与多人钱色交易)
-1. [职场第一课](https://www.zhihu.com/search?q=职场第一课)
-1. [小组赛法国男篮战胜巴西](https://www.zhihu.com/search?q=小组赛法国男篮战胜巴西)
-1. [大量运动员投诉奥运会伙食太差](https://www.zhihu.com/search?q=大量运动员投诉奥运会伙食太差)
-1. [《异人之下》上映](https://www.zhihu.com/search?q=《异人之下》上映)
-1. [巴黎奥运会伙食太差被投诉](https://www.zhihu.com/search?q=巴黎奥运会伙食太差被投诉)
-1. [中国女子4×100自由泳接力摘铜](https://www.zhihu.com/search?q=中国女子4×100自由泳接力摘铜)
-1. [王楚钦孙颖莎进混双8强](https://www.zhihu.com/search?q=王楚钦孙颖莎进混双8强)
-1. [男子 4*100 自由泳接力首次进决赛](https://www.zhihu.com/search?q=男子 4*100
-   自由泳接力首次进决赛)
-1. [孙一文疑遭误判绝杀出局无缘卫冕](https://www.zhihu.com/search?q=孙一文疑遭误判绝杀出局无缘卫冕)
 
 <!-- END -->
 
