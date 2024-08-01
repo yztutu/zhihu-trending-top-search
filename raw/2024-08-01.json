@@ -1,5 +1,4 @@
 [
-  { "query": "A股", "display_query": "A股" },
   { "query": "今日A股市场", "display_query": "今日A股市场" },
   {
     "query": "为什么有人宁愿走国道也不愿走高速",
@@ -21,6 +20,8 @@
   },
   { "query": "炉石传说", "display_query": "炉石传说" },
   { "query": "王阳明到底悟到了什么", "display_query": "王阳明到底悟到了什么" },
+  { "query": "职人心态修炼手册", "display_query": "职人心态修炼手册" },
+  { "query": "A股", "display_query": "A股" },
   { "query": "北京暴雨", "display_query": "北京暴雨" },
   { "query": "如何看待今日A股市场", "display_query": "如何看待今日A股市场" },
   {
