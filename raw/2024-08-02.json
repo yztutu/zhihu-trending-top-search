@@ -1,6 +1,5 @@
 [
   { "query": "Red Velvet", "display_query": "Red Velvet" },
-  { "query": "如何看待A股市场", "display_query": "如何看待A股市场" },
   { "query": "如何看待今日A股市场", "display_query": "如何看待今日A股市场" },
   {
     "query": "我国成功发射卫星互联网高轨卫星",
@@ -8,6 +7,7 @@
   },
   { "query": "降维打击到底有多恐怖", "display_query": "降维打击到底有多恐怖" },
   { "query": "上海发布高温橙色预警", "display_query": "上海发布高温橙色预警" },
+  { "query": "十天之后回到现实", "display_query": "十天之后回到现实" },
   {
     "query": "湖南8个村子因暴雨失联",
     "display_query": "湖南8个村子因暴雨失联"
@@ -18,6 +18,7 @@
     "query": "孙颖莎王楚钦进混双决赛",
     "display_query": "孙颖莎王楚钦进混双决赛"
   },
+  { "query": "如何看待A股市场", "display_query": "如何看待A股市场" },
   {
     "query": "社奉行及雷电五传是否有罪",
     "display_query": "社奉行及雷电五传是否有罪"
