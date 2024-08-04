@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Aug 04 2024 22:09:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 04 2024 23:10:29 GMT+0800 (China Standard Time) -->
 
 1. [Red Velvet](https://www.zhihu.com/search?q=Red Velvet)
 1. [孙颖莎vs早田希娜](https://www.zhihu.com/search?q=孙颖莎vs早田希娜)
@@ -26,6 +26,7 @@
 1. [上海发布高温橙色预警](https://www.zhihu.com/search?q=上海发布高温橙色预警)
 1. [十天之后回到现实](https://www.zhihu.com/search?q=十天之后回到现实)
 1. [湖南8个村子因暴雨失联](https://www.zhihu.com/search?q=湖南8个村子因暴雨失联)
+1. [英国破产](https://www.zhihu.com/search?q=英国破产)
 1. [孙颖莎王楚钦进混双决赛](https://www.zhihu.com/search?q=孙颖莎王楚钦进混双决赛)
 
 <!-- END -->
