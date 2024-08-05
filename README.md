@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 05 2024 10:02:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 05 2024 11:11:44 GMT+0800 (China Standard Time) -->
 
 1. [Red Velvet](https://www.zhihu.com/search?q=Red Velvet)
 1. [孙颖莎vs早田希娜](https://www.zhihu.com/search?q=孙颖莎vs早田希娜)
