@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 08 2024 00:12:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 08 2024 01:11:32 GMT+0800 (China Standard Time) -->
 
 1. [中国女排](https://www.zhihu.com/search?q=中国女排)
 1. [今日立秋](https://www.zhihu.com/search?q=今日立秋)
@@ -25,9 +25,10 @@
 1. [张雨霏巴黎奥运 3 次摘铜](https://www.zhihu.com/search?q=张雨霏巴黎奥运 3
    次摘铜)
 1. [王嘉男、张溟鲲晋级男子跳远决赛](https://www.zhihu.com/search?q=王嘉男、张溟鲲晋级男子跳远决赛)
-1. [羽毛球男双王昶梁伟铿获得银牌](https://www.zhihu.com/search?q=羽毛球男双王昶梁伟铿获得银牌)
 1. [张雨霏50米自由泳铜牌](https://www.zhihu.com/search?q=张雨霏50米自由泳铜牌)
 1. [男子4*100米混合泳中国队夺金](https://www.zhihu.com/search?q=男子4*100米混合泳中国队夺金)
+1. [女子4*100米混合泳](https://www.zhihu.com/search?q=女子4*100米混合泳)
+1. [羽毛球男双王昶梁伟铿获得银牌](https://www.zhihu.com/search?q=羽毛球男双王昶梁伟铿获得银牌)
 
 <!-- END -->
 
