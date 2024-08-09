@@ -1,26 +1,19 @@
 [
-  {
-    "query": "ST 东时实控人徐雄被立案",
-    "display_query": "ST 东时实控人徐雄被立案"
-  },
-  { "query": "我本来就是农民的孩子", "display_query": "我本来就是农民的孩子" },
-  {
-    "query": "我国南海探获千亿方大气田",
-    "display_query": "我国南海探获千亿方大气田"
-  },
-  { "query": "如何看待今日A股市场", "display_query": "如何看待今日A股市场" },
   { "query": "中国女排", "display_query": "中国女排" },
+  { "query": "国乒女团晋级决赛", "display_query": "国乒女团晋级决赛" },
+  { "query": "国乒男团晋级决赛", "display_query": "国乒男团晋级决赛" },
+  { "query": "如何看待今日A股市场", "display_query": "如何看待今日A股市场" },
   {
-    "query": "国家对内蒙古启动防汛四级应急响应",
-    "display_query": "国家对内蒙古启动防汛四级应急响应"
+    "query": "沪深两市成交额突破5000亿",
+    "display_query": "沪深两市成交额突破5000亿"
   },
   {
     "query": "陈若琳说全红婵受身体发育困扰",
     "display_query": "陈若琳说全红婵受身体发育困扰"
   },
   {
-    "query": "苹果曝光新款 Mac mini",
-    "display_query": "苹果曝光新款 Mac mini"
+    "query": "美国西北大学吴瑛教授去世",
+    "display_query": "美国西北大学吴瑛教授去世"
   },
   {
     "query": "王嘉男、张溟鲲晋级男子跳远决赛",
@@ -30,15 +23,31 @@
     "query": "中国游泳队 2 金 3 银 7 铜收官",
     "display_query": "中国游泳队 2 金 3 银 7 铜收官"
   },
-  { "query": "三大指数集体低开", "display_query": "三大指数集体低开" },
-  { "query": "国乒女团晋级决赛", "display_query": "国乒女团晋级决赛" },
-  {
-    "query": "四川泥石流灾害转移安置939人",
-    "display_query": "四川泥石流灾害转移安置939人"
-  },
   {
     "query": "品牌方高价请明星带货收效甚微要求退款",
     "display_query": "品牌方高价请明星带货收效甚微要求退款"
+  },
+  {
+    "query": "ST 东时实控人徐雄被立案",
+    "display_query": "ST 东时实控人徐雄被立案"
+  },
+  { "query": "我本来就是农民的孩子", "display_query": "我本来就是农民的孩子" },
+  {
+    "query": "我国南海探获千亿方大气田",
+    "display_query": "我国南海探获千亿方大气田"
+  },
+  {
+    "query": "国家对内蒙古启动防汛四级应急响应",
+    "display_query": "国家对内蒙古启动防汛四级应急响应"
+  },
+  {
+    "query": "苹果曝光新款 Mac mini",
+    "display_query": "苹果曝光新款 Mac mini"
+  },
+  { "query": "三大指数集体低开", "display_query": "三大指数集体低开" },
+  {
+    "query": "四川泥石流灾害转移安置939人",
+    "display_query": "四川泥石流灾害转移安置939人"
   },
   {
     "query": "下一届奥运会樊振东还能再参加吗",
