@@ -1,12 +1,11 @@
 [
-  { "query": "中国女排", "display_query": "中国女排" },
   { "query": "国乒女团晋级决赛", "display_query": "国乒女团晋级决赛" },
   { "query": "国乒男团晋级决赛", "display_query": "国乒男团晋级决赛" },
-  { "query": "如何看待今日A股市场", "display_query": "如何看待今日A股市场" },
   {
     "query": "沪深两市成交额突破5000亿",
     "display_query": "沪深两市成交额突破5000亿"
   },
+  { "query": "张本智和", "display_query": "张本智和" },
   {
     "query": "陈若琳说全红婵受身体发育困扰",
     "display_query": "陈若琳说全红婵受身体发育困扰"
@@ -28,6 +27,12 @@
     "display_query": "品牌方高价请明星带货收效甚微要求退款"
   },
   {
+    "query": "下一届奥运会樊振东还能再参加吗",
+    "display_query": "下一届奥运会樊振东还能再参加吗"
+  },
+  { "query": "中国女排", "display_query": "中国女排" },
+  { "query": "如何看待今日A股市场", "display_query": "如何看待今日A股市场" },
+  {
     "query": "ST 东时实控人徐雄被立案",
     "display_query": "ST 东时实控人徐雄被立案"
   },
@@ -48,10 +53,6 @@
   {
     "query": "四川泥石流灾害转移安置939人",
     "display_query": "四川泥石流灾害转移安置939人"
-  },
-  {
-    "query": "下一届奥运会樊振东还能再参加吗",
-    "display_query": "下一届奥运会樊振东还能再参加吗"
   },
   {
     "query": "国际乒联公布最新世界排名",
