@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 12 2024 16:14:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 12 2024 17:11:51 GMT+0800 (China Standard Time) -->
 
 1. [如何评价「尘白禁区」](https://www.zhihu.com/search?q=如何评价「尘白禁区」)
 1. [张本智和](https://www.zhihu.com/search?q=张本智和)
