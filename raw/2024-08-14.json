@@ -17,8 +17,11 @@
     "query": "中国女乒团体奥运五连冠",
     "display_query": "中国女乒团体奥运五连冠"
   },
-  { "query": "花样游泳双人决赛", "display_query": "花样游泳双人决赛" },
   { "query": "奥运男篮决赛", "display_query": "奥运男篮决赛" },
+  { "query": "宋佳媛铅球摘铜", "display_query": "宋佳媛铅球摘铜" },
+  { "query": "李倩拳击金牌", "display_query": "李倩拳击金牌" },
+  { "query": "中国拳击第三金", "display_query": "中国拳击第三金" },
+  { "query": "花样游泳双人决赛", "display_query": "花样游泳双人决赛" },
   {
     "query": "花样游泳双人决赛中国队夺金",
     "display_query": "花样游泳双人决赛中国队夺金"
