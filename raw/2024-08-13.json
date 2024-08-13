@@ -18,6 +18,13 @@
     "display_query": "资生堂上半年净利润降 99.9%"
   },
   {
+    "query": "中国女乒团体奥运五连冠",
+    "display_query": "中国女乒团体奥运五连冠"
+  },
+  { "query": "国乒奥运女团五连冠", "display_query": "国乒奥运女团五连冠" },
+  { "query": "花样游泳双人决赛", "display_query": "花样游泳双人决赛" },
+  { "query": "奥运男篮决赛", "display_query": "奥运男篮决赛" },
+  {
     "query": "男子单人 10 米台跳水决赛",
     "display_query": "男子单人 10 米台跳水决赛"
   },
@@ -28,10 +35,6 @@
   {
     "query": "孙颖莎 3:0 战胜平野美宇",
     "display_query": "孙颖莎 3:0 战胜平野美宇"
-  },
-  {
-    "query": "中国女乒团体奥运五连冠",
-    "display_query": "中国女乒团体奥运五连冠"
   },
   { "query": "奥运会男子马拉松决赛", "display_query": "奥运会男子马拉松决赛" },
   { "query": "乒乓女团金牌赛", "display_query": "乒乓女团金牌赛" },
