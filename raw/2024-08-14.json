@@ -9,7 +9,6 @@
     "query": "中国女乒团体奥运五连冠",
     "display_query": "中国女乒团体奥运五连冠"
   },
-  { "query": "中国击剑队颗粒无收", "display_query": "中国击剑队颗粒无收" },
   {
     "query": "国产大型无人运输机成功首飞",
     "display_query": "国产大型无人运输机成功首飞"
@@ -27,6 +26,8 @@
     "query": "李雯雯获本届奥运最后一块金牌",
     "display_query": "李雯雯获本届奥运最后一块金牌"
   },
+  { "query": "洛杉矶奥运会", "display_query": "洛杉矶奥运会" },
+  { "query": "中国击剑队颗粒无收", "display_query": "中国击剑队颗粒无收" },
   {
     "query": "中国首夺花游双人奥运金牌",
     "display_query": "中国首夺花游双人奥运金牌"
