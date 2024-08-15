@@ -15,12 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 15 2024 11:12:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 15 2024 12:12:34 GMT+0800 (China Standard Time) -->
 
 1. [资生堂上半年净利润降
    99.9%](https://www.zhihu.com/search?q=资生堂上半年净利润降 99.9%)
-1. [俄承认乌军已攻入俄本土 30
-   公里](https://www.zhihu.com/search?q=俄承认乌军已攻入俄本土 30 公里)
 1. [为什么骑楼没有全国推行开](https://www.zhihu.com/search?q=为什么骑楼没有全国推行开)
 1. [为什么苹果不愿加屏下指纹](https://www.zhihu.com/search?q=为什么苹果不愿加屏下指纹)
 1. [岸田文雄因日本多地防备大地震取消出国访问](https://www.zhihu.com/search?q=岸田文雄因日本多地防备大地震取消出国访问)
@@ -32,6 +30,9 @@
 1. [广西一景区发生事故造成 1 死 60
    伤](https://www.zhihu.com/search?q=广西一景区发生事故造成 1 死 60 伤)
 1. [谷爱凌参加奥运大众组马拉松](https://www.zhihu.com/search?q=谷爱凌参加奥运大众组马拉松)
+1. [全球化工巨头宣布部分维生素产品断供](https://www.zhihu.com/search?q=全球化工巨头宣布部分维生素产品断供)
+1. [俄承认乌军已攻入俄本土 30
+   公里](https://www.zhihu.com/search?q=俄承认乌军已攻入俄本土 30 公里)
 1. [洛杉矶 12 分钟](https://www.zhihu.com/search?q=洛杉矶 12 分钟)
 1. [中国女乒团体奥运五连冠](https://www.zhihu.com/search?q=中国女乒团体奥运五连冠)
 1. [巴黎奥运首创大众马拉松](https://www.zhihu.com/search?q=巴黎奥运首创大众马拉松)
