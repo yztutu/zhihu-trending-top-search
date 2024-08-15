@@ -15,11 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 15 2024 06:10:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 15 2024 10:19:15 GMT+0800 (China Standard Time) -->
 
 1. [资生堂上半年净利润降
    99.9%](https://www.zhihu.com/search?q=资生堂上半年净利润降 99.9%)
-1. [洛杉矶 12 分钟](https://www.zhihu.com/search?q=洛杉矶 12 分钟)
 1. [俄承认乌军已攻入俄本土 30
    公里](https://www.zhihu.com/search?q=俄承认乌军已攻入俄本土 30 公里)
 1. [为什么骑楼没有全国推行开](https://www.zhihu.com/search?q=为什么骑楼没有全国推行开)
@@ -32,6 +31,8 @@
 1. [为什么说猪是蛇的天敌](https://www.zhihu.com/search?q=为什么说猪是蛇的天敌)
 1. [广西一景区发生事故造成 1 死 60
    伤](https://www.zhihu.com/search?q=广西一景区发生事故造成 1 死 60 伤)
+1. [谷爱凌参加奥运大众组马拉松](https://www.zhihu.com/search?q=谷爱凌参加奥运大众组马拉松)
+1. [洛杉矶 12 分钟](https://www.zhihu.com/search?q=洛杉矶 12 分钟)
 1. [中国女乒团体奥运五连冠](https://www.zhihu.com/search?q=中国女乒团体奥运五连冠)
 1. [巴黎奥运首创大众马拉松](https://www.zhihu.com/search?q=巴黎奥运首创大众马拉松)
 1. [洛杉矶奥运会](https://www.zhihu.com/search?q=洛杉矶奥运会)
