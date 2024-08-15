@@ -1,4 +1,6 @@
 [
+  { "query": "如何看待今日A股市场", "display_query": "如何看待今日A股市场" },
+  { "query": "你一个人旅行过吗", "display_query": "你一个人旅行过吗" },
   {
     "query": "资生堂上半年净利润降 99.9%",
     "display_query": "资生堂上半年净利润降 99.9%"

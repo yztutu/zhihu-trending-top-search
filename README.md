@@ -15,8 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 15 2024 13:11:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 15 2024 14:14:52 GMT+0800 (China Standard Time) -->
 
+1. [如何看待今日A股市场](https://www.zhihu.com/search?q=如何看待今日A股市场)
+1. [你一个人旅行过吗](https://www.zhihu.com/search?q=你一个人旅行过吗)
 1. [资生堂上半年净利润降
    99.9%](https://www.zhihu.com/search?q=资生堂上半年净利润降 99.9%)
 1. [为什么骑楼没有全国推行开](https://www.zhihu.com/search?q=为什么骑楼没有全国推行开)
