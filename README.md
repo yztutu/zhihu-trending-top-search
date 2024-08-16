@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 16 2024 21:13:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 16 2024 22:09:24 GMT+0800 (China Standard Time) -->
 
 1. [世界羽联移除何冰娇排名](https://www.zhihu.com/search?q=世界羽联移除何冰娇排名)
 1. [7 月 M2 同比增长 6.3%](https://www.zhihu.com/search?q=7 月 M2 同比增长 6.3%)
