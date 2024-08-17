@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 17 2024 21:10:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 17 2024 22:10:16 GMT+0800 (China Standard Time) -->
 
 1. [7 月 M2 同比增长 6.3%](https://www.zhihu.com/search?q=7 月 M2 同比增长 6.3%)
 1. [台积电美国工厂 4
@@ -30,6 +30,7 @@
 1. [黄雪梅获得大众马拉松女子第一名](https://www.zhihu.com/search?q=黄雪梅获得大众马拉松女子第一名)
 1. [少女参加训练营疑遭 3
    次侵犯](https://www.zhihu.com/search?q=少女参加训练营疑遭 3 次侵犯)
+1. [莫斯科交易所股票暂停交易](https://www.zhihu.com/search?q=莫斯科交易所股票暂停交易)
 1. [腾讯控股二季度净利润增
    53%](https://www.zhihu.com/search?q=腾讯控股二季度净利润增 53%)
 1. [中秋国庆放假通知出炉](https://www.zhihu.com/search?q=中秋国庆放假通知出炉)
