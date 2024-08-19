@@ -15,11 +15,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 19 2024 18:12:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 19 2024 19:09:00 GMT+0800 (China Standard Time) -->
 
+1. [中国医师节](https://www.zhihu.com/search?q=中国医师节)
 1. [公积金是否能视为收入](https://www.zhihu.com/search?q=公积金是否能视为收入)
+1. [切尔西vs曼城](https://www.zhihu.com/search?q=切尔西vs曼城)
 1. [中国已经建成世界上规模最大的教育体系](https://www.zhihu.com/search?q=中国已经建成世界上规模最大的教育体系)
 1. [达州蚁商神龙洞投毒](https://www.zhihu.com/search?q=达州蚁商神龙洞投毒)
+1. [徐峥新片被指「消费苦难」](https://www.zhihu.com/search?q=徐峥新片被指「消费苦难」)
 1. [教师因课程不合格被要求整改](https://www.zhihu.com/search?q=教师因课程不合格被要求整改)
 1. [你接受买东西都是 500
    元的超能力吗](https://www.zhihu.com/search?q=你接受买东西都是 500
