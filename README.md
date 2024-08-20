@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 20 2024 20:20:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 20 2024 21:14:54 GMT+0800 (China Standard Time) -->
 
 1. [中国医师节](https://www.zhihu.com/search?q=中国医师节)
 1. [如何看待今日A股市场](https://www.zhihu.com/search?q=如何看待今日A股市场)
@@ -23,10 +23,11 @@
 1. [切尔西vs曼城](https://www.zhihu.com/search?q=切尔西vs曼城)
 1. [徐峥新片被指「消费苦难」](https://www.zhihu.com/search?q=徐峥新片被指「消费苦难」)
 1. [邓亚萍儿子获乒乓球全国冠军](https://www.zhihu.com/search?q=邓亚萍儿子获乒乓球全国冠军)
-1. [加沙停火谈判已在卡塔尔多哈开始](https://www.zhihu.com/search?q=加沙停火谈判已在卡塔尔多哈开始)
 1. [异形：夺命舰票房高开](https://www.zhihu.com/search?q=异形：夺命舰票房高开)
 1. [体操协会：打击体育饭圈违法犯罪行为](https://www.zhihu.com/search?q=体操协会：打击体育饭圈违法犯罪行为)
 1. [官方通报李佩霞事件](https://www.zhihu.com/search?q=官方通报李佩霞事件)
+1. [来电科技创始人袁冰松失联](https://www.zhihu.com/search?q=来电科技创始人袁冰松失联)
+1. [加沙停火谈判已在卡塔尔多哈开始](https://www.zhihu.com/search?q=加沙停火谈判已在卡塔尔多哈开始)
 1. [彩票中奖个税出新规](https://www.zhihu.com/search?q=彩票中奖个税出新规)
 1. [裸婚老太花光再婚配偶 224
    万元](https://www.zhihu.com/search?q=裸婚老太花光再婚配偶 224 万元)
