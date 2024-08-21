@@ -15,11 +15,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 21 2024 18:11:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 21 2024 19:08:49 GMT+0800 (China Standard Time) -->
 
 1. [中国医师节](https://www.zhihu.com/search?q=中国医师节)
 1. [如何看待今日A股市场](https://www.zhihu.com/search?q=如何看待今日A股市场)
 1. [公积金是否能视为收入](https://www.zhihu.com/search?q=公积金是否能视为收入)
+1. [智界r7](https://www.zhihu.com/search?q=智界r7)
 1. [工商银行股价再创新高](https://www.zhihu.com/search?q=工商银行股价再创新高)
 1. [LV 巧克力引发抢购](https://www.zhihu.com/search?q=LV 巧克力引发抢购)
 1. [云南煤矿事故致多人死亡](https://www.zhihu.com/search?q=云南煤矿事故致多人死亡)
