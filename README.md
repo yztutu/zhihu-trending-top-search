@@ -15,10 +15,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 27 2024 17:11:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 27 2024 18:11:05 GMT+0800 (China Standard Time) -->
 
 1. [孙杨](https://www.zhihu.com/search?q=孙杨)
 1. [你觉得什么才叫遗憾](https://www.zhihu.com/search?q=你觉得什么才叫遗憾)
+1. [外媒称普华永道可能停业 6
+   个月](https://www.zhihu.com/search?q=外媒称普华永道可能停业 6 个月)
 1. [浙江婚假拟从 3 天延长到 13 天](https://www.zhihu.com/search?q=浙江婚假拟从 3
    天延长到 13 天)
 1. [小米将对外公开 Vela 开源代码](https://www.zhihu.com/search?q=小米将对外公开
