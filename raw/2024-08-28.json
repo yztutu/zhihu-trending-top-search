@@ -2,10 +2,6 @@
   { "query": "任天堂直面会", "display_query": "任天堂直面会" },
   { "query": "孙杨", "display_query": "孙杨" },
   {
-    "query": "以军空袭加沙致7人死亡",
-    "display_query": "以军空袭加沙致7人死亡"
-  },
-  {
     "query": "外媒称普华永道可能停业 6 个月",
     "display_query": "外媒称普华永道可能停业 6 个月"
   },
@@ -34,6 +30,10 @@
     "display_query": "部分骑行团存在「暴骑」等安全问题"
   },
   { "query": "房屋养老金是什么", "display_query": "房屋养老金是什么" },
+  {
+    "query": "以军空袭加沙致7人死亡",
+    "display_query": "以军空袭加沙致7人死亡"
+  },
   { "query": "你觉得什么才叫遗憾", "display_query": "你觉得什么才叫遗憾" },
   {
     "query": "通关黑神话悟空可免费游花果山",
