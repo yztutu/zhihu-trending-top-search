@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 29 2024 18:11:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 29 2024 19:10:22 GMT+0800 (China Standard Time) -->
 
 1. [外媒称普华永道可能停业 6
    个月](https://www.zhihu.com/search?q=外媒称普华永道可能停业 6 个月)
@@ -27,6 +27,7 @@
 1. [北京 30 多家外卖店铺共同一张执照](https://www.zhihu.com/search?q=北京 30
    多家外卖店铺共同一张执照)
 1. [为什么有的汽车的方向盘要做成半圆形](https://www.zhihu.com/search?q=为什么有的汽车的方向盘要做成半圆形)
+1. [黎巴嫩为什么打以色列](https://www.zhihu.com/search?q=黎巴嫩为什么打以色列)
 1. [黄子韬求婚徐艺洋](https://www.zhihu.com/search?q=黄子韬求婚徐艺洋)
 1. [女子吃冰箱剩西瓜出现脑脓肿](https://www.zhihu.com/search?q=女子吃冰箱剩西瓜出现脑脓肿)
 1. [拼多多跌超 28%](https://www.zhihu.com/search?q=拼多多跌超 28%)
