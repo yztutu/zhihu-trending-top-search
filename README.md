@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 29 2024 14:15:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 29 2024 16:14:22 GMT+0800 (China Standard Time) -->
 
 1. [孙杨](https://www.zhihu.com/search?q=孙杨)
 1. [外媒称普华永道可能停业 6
@@ -30,6 +30,8 @@
 1. [北京 30 多家外卖店铺共同一张执照](https://www.zhihu.com/search?q=北京 30
    多家外卖店铺共同一张执照)
 1. [为什么有的汽车的方向盘要做成半圆形](https://www.zhihu.com/search?q=为什么有的汽车的方向盘要做成半圆形)
+1. [黄子韬求婚徐艺洋](https://www.zhihu.com/search?q=黄子韬求婚徐艺洋)
+1. [女子吃冰箱剩西瓜出现脑脓肿](https://www.zhihu.com/search?q=女子吃冰箱剩西瓜出现脑脓肿)
 1. [我国网民规模近 11 亿人](https://www.zhihu.com/search?q=我国网民规模近 11
    亿人)
 1. [职业打假人被批量生产](https://www.zhihu.com/search?q=职业打假人被批量生产)
