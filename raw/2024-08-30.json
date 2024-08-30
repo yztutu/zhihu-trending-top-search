@@ -15,10 +15,6 @@
   },
   { "query": "拼多多跌超 28%", "display_query": "拼多多跌超 28%" },
   {
-    "query": "美网女单郑钦文逆转阿尼西莫娃",
-    "display_query": "美网女单郑钦文逆转阿尼西莫娃"
-  },
-  {
     "query": "中秋国庆连续 5 周调休",
     "display_query": "中秋国庆连续 5 周调休"
   },
@@ -29,5 +25,13 @@
   {
     "query": "派克特发歌 diss 乙游玩家",
     "display_query": "派克特发歌 diss 乙游玩家"
+  },
+  {
+    "query": "ibm中国回应关闭研发部门",
+    "display_query": "ibm中国回应关闭研发部门"
+  },
+  {
+    "query": "美网女单郑钦文逆转阿尼西莫娃",
+    "display_query": "美网女单郑钦文逆转阿尼西莫娃"
   }
 ]
