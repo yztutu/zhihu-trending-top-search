@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 02 2024 10:08:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 02 2024 11:12:39 GMT+0800 (China Standard Time) -->
 
 1. [为什么现在的古装剧一股现代味](https://www.zhihu.com/search?q=为什么现在的古装剧一股现代味)
 1. [黎巴嫩为什么打以色列](https://www.zhihu.com/search?q=黎巴嫩为什么打以色列)
