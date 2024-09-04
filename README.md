@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 04 2024 18:11:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 04 2024 19:09:09 GMT+0800 (China Standard Time) -->
 
 1. [青海山体滑坡](https://www.zhihu.com/search?q=青海山体滑坡)
 1. [你听过导师最有水平的一句话是什么](https://www.zhihu.com/search?q=你听过导师最有水平的一句话是什么)
@@ -23,11 +23,12 @@
 1. [为什么现在不谈论可燃冰了](https://www.zhihu.com/search?q=为什么现在不谈论可燃冰了)
 1. [苹果税](https://www.zhihu.com/search?q=苹果税)
 1. [乌克兰基辅遭俄军导弹袭击](https://www.zhihu.com/search?q=乌克兰基辅遭俄军导弹袭击)
-1. [月薪1w能买苹果手机吗](https://www.zhihu.com/search?q=月薪1w能买苹果手机吗)
 1. [央行买入 4000 亿元特别国债](https://www.zhihu.com/search?q=央行买入 4000
    亿元特别国债)
 1. [塔克拉玛干沙漠养出大螃蟹](https://www.zhihu.com/search?q=塔克拉玛干沙漠养出大螃蟹)
 1. [沙漠螃蟹](https://www.zhihu.com/search?q=沙漠螃蟹)
+1. [夫妻离婚都不要女儿法院判不准离](https://www.zhihu.com/search?q=夫妻离婚都不要女儿法院判不准离)
+1. [月薪1w能买苹果手机吗](https://www.zhihu.com/search?q=月薪1w能买苹果手机吗)
 1. [为什么韩国人喜欢去张家界旅游](https://www.zhihu.com/search?q=为什么韩国人喜欢去张家界旅游)
 1. [为什么郭麒麟现在只拍戏不讲相声](https://www.zhihu.com/search?q=为什么郭麒麟现在只拍戏不讲相声)
 1. [为什么萝卜快跑 8
