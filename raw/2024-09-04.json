@@ -6,7 +6,6 @@
     "query": "你遇到最离谱的事是什么",
     "display_query": "你遇到最离谱的事是什么"
   },
-  { "query": "苹果税", "display_query": "苹果税" },
   {
     "query": "乌克兰基辅遭俄军导弹袭击",
     "display_query": "乌克兰基辅遭俄军导弹袭击"
@@ -23,5 +22,7 @@
   {
     "query": "塔克拉玛干沙漠养出大螃蟹",
     "display_query": "塔克拉玛干沙漠养出大螃蟹"
-  }
+  },
+  { "query": "沙漠螃蟹", "display_query": "沙漠螃蟹" },
+  { "query": "苹果税", "display_query": "苹果税" }
 ]
