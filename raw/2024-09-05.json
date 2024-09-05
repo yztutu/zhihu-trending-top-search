@@ -24,10 +24,6 @@
     "display_query": "为什么苹果不对 12306 买票抽成"
   },
   {
-    "query": "LOL 解说组合德云色宣布将解散",
-    "display_query": "LOL 解说组合德云色宣布将解散"
-  },
-  {
     "query": "为何多数 PDF 转 WORD 都付费",
     "display_query": "为何多数 PDF 转 WORD 都付费"
   },
@@ -38,6 +34,14 @@
   {
     "query": "园长因收学生 6.16 元巧克力被开除",
     "display_query": "园长因收学生 6.16 元巧克力被开除"
+  },
+  {
+    "query": "如何评价「黑神话：悟空」哪吒的形象",
+    "display_query": "如何评价「黑神话：悟空」哪吒的形象"
+  },
+  {
+    "query": "LOL 解说组合德云色宣布将解散",
+    "display_query": "LOL 解说组合德云色宣布将解散"
   },
   { "query": "硫超标枸杞加工被曝光", "display_query": "硫超标枸杞加工被曝光" },
   { "query": "青海山体滑坡", "display_query": "青海山体滑坡" },
