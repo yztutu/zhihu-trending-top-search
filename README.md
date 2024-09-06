@@ -15,10 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 06 2024 16:14:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 06 2024 17:11:38 GMT+0800 (China Standard Time) -->
 
 1. [沪深两市成交额突破5000亿元](https://www.zhihu.com/search?q=沪深两市成交额突破5000亿元)
 1. [你听过导师最有水平的一句话是什么](https://www.zhihu.com/search?q=你听过导师最有水平的一句话是什么)
+1. [为什么有深湖比深海更可怕的说法](https://www.zhihu.com/search?q=为什么有深湖比深海更可怕的说法)
 1. [WPS崩了](https://www.zhihu.com/search?q=WPS崩了)
 1. [央行买入 4000 亿元特别国债](https://www.zhihu.com/search?q=央行买入 4000
    亿元特别国债)
