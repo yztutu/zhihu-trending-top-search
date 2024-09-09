@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 10 2024 05:09:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 10 2024 06:10:12 GMT+0800 (China Standard Time) -->
 
 1. [真正的狠人是什么样的](https://www.zhihu.com/search?q=真正的狠人是什么样的)
 1. [日本多地「大米荒」持续](https://www.zhihu.com/search?q=日本多地「大米荒」持续)
