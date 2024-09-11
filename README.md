@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 11 2024 18:11:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 11 2024 19:11:13 GMT+0800 (China Standard Time) -->
 
 1. [真正的狠人是什么样的](https://www.zhihu.com/search?q=真正的狠人是什么样的)
 1. [网传东北雨姐视频造假塌房](https://www.zhihu.com/search?q=网传东北雨姐视频造假塌房)
@@ -29,6 +29,7 @@
    0.6％)
 1. [DeepMind 最新成果剑指量子力学](https://www.zhihu.com/search?q=DeepMind
    最新成果剑指量子力学)
+1. [hle战胜gen夺冠](https://www.zhihu.com/search?q=hle战胜gen夺冠)
 1. [沈阳鼓励外卖骑手监督食品安全](https://www.zhihu.com/search?q=沈阳鼓励外卖骑手监督食品安全)
 1. [教师节](https://www.zhihu.com/search?q=教师节)
 1. [教师节快乐](https://www.zhihu.com/search?q=教师节快乐)
