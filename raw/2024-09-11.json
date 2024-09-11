@@ -8,13 +8,6 @@
     "query": "拟允许在北上广等地设外商独资医院",
     "display_query": "拟允许在北上广等地设外商独资医院"
   },
-  { "query": "LCK 夏季赛总决赛", "display_query": "LCK 夏季赛总决赛" },
-  {
-    "query": "郑钦文美网轰出 54 记排名第一",
-    "display_query": "郑钦文美网轰出 54 记排名第一"
-  },
-  { "query": "HLE夺冠 ", "display_query": "HLE夺冠 " },
-  { "query": "HLE3-2战胜GEN", "display_query": "HLE3-2战胜GEN" },
   {
     "query": "8 月 CPI 同比上涨 0.6％",
     "display_query": "8 月 CPI 同比上涨 0.6％"
@@ -28,6 +21,25 @@
     "query": "沈阳鼓励外卖骑手监督食品安全",
     "display_query": "沈阳鼓励外卖骑手监督食品安全"
   },
+  {
+    "query": "美国波音「星际客机」飞船返回地球",
+    "display_query": "美国波音「星际客机」飞船返回地球"
+  },
+  {
+    "query": "华为三折叠手机预订量破200万",
+    "display_query": "华为三折叠手机预订量破200万"
+  },
+  {
+    "query": "日本游客在圆明园拍照被网红制止",
+    "display_query": "日本游客在圆明园拍照被网红制止"
+  },
+  { "query": "LCK 夏季赛总决赛", "display_query": "LCK 夏季赛总决赛" },
+  {
+    "query": "郑钦文美网轰出 54 记排名第一",
+    "display_query": "郑钦文美网轰出 54 记排名第一"
+  },
+  { "query": "HLE夺冠 ", "display_query": "HLE夺冠 " },
+  { "query": "HLE3-2战胜GEN", "display_query": "HLE3-2战胜GEN" },
   { "query": "教师节", "display_query": "教师节" },
   { "query": "教师节快乐", "display_query": "教师节快乐" },
   {
