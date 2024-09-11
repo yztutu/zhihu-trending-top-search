@@ -8,10 +8,6 @@
   },
   { "query": "C罗900球", "display_query": "C罗900球" },
   {
-    "query": "我国将实施首次近地小行星防御任务",
-    "display_query": "我国将实施首次近地小行星防御任务"
-  },
-  {
     "query": "拟允许在北上广等地设外商独资医院",
     "display_query": "拟允许在北上广等地设外商独资医院"
   },
@@ -20,5 +16,10 @@
     "query": "郑钦文美网轰出 54 记排名第一",
     "display_query": "郑钦文美网轰出 54 记排名第一"
   },
-  { "query": "HLE夺冠 ", "display_query": "HLE夺冠 " }
+  { "query": "HLE夺冠 ", "display_query": "HLE夺冠 " },
+  { "query": "HLE3-2战胜GEN", "display_query": "HLE3-2战胜GEN" },
+  {
+    "query": "我国将实施首次近地小行星防御任务",
+    "display_query": "我国将实施首次近地小行星防御任务"
+  }
 ]
