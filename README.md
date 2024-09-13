@@ -15,12 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 13 2024 15:12:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 13 2024 16:14:16 GMT+0800 (China Standard Time) -->
 
 1. [国足首发](https://www.zhihu.com/search?q=国足首发)
 1. [欧洲央行宣布降息25个基点](https://www.zhihu.com/search?q=欧洲央行宣布降息25个基点)
 1. [网传东北雨姐视频造假塌房](https://www.zhihu.com/search?q=网传东北雨姐视频造假塌房)
-1. [深圳加大以旧换新补贴范围](https://www.zhihu.com/search?q=深圳加大以旧换新补贴范围)
 1. [华为三折叠屏手机售价19999元起](https://www.zhihu.com/search?q=华为三折叠屏手机售价19999元起)
 1. [孙颖莎3比0战胜田志希](https://www.zhihu.com/search?q=孙颖莎3比0战胜田志希)
 1. [刘德华演唱会摔倒](https://www.zhihu.com/search?q=刘德华演唱会摔倒)
@@ -29,6 +28,8 @@
 1. [深圳夫妻负债 928
    万被法院宣告个人破产](https://www.zhihu.com/search?q=深圳夫妻负债 928
    万被法院宣告个人破产)
+1. [央视起底饭圈乱象](https://www.zhihu.com/search?q=央视起底饭圈乱象)
+1. [深圳加大以旧换新补贴范围](https://www.zhihu.com/search?q=深圳加大以旧换新补贴范围)
 1. [8 月 CPI 同比上涨 0.6％](https://www.zhihu.com/search?q=8 月 CPI 同比上涨
    0.6％)
 1. [iPhone 16 全系亮相](https://www.zhihu.com/search?q=iPhone 16 全系亮相)
