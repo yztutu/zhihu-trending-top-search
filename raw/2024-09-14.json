@@ -25,6 +25,10 @@
     "query": "沈阳激励外卖骑手「随手拍」监督食品安全",
     "display_query": "沈阳激励外卖骑手「随手拍」监督食品安全"
   },
-  { "query": "国际油价跳水暴跌", "display_query": "国际油价跳水暴跌" },
-  { "query": "飞天奖", "display_query": "飞天奖" }
+  { "query": "飞天奖", "display_query": "飞天奖" },
+  {
+    "query": "华为三折叠价格19999起",
+    "display_query": "华为三折叠价格19999起"
+  },
+  { "query": "国际油价跳水暴跌", "display_query": "国际油价跳水暴跌" }
 ]
