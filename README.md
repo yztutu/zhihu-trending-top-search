@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 15 2024 16:14:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 15 2024 17:10:33 GMT+0800 (China Standard Time) -->
 
 1. [苹果官网崩了](https://www.zhihu.com/search?q=苹果官网崩了)
 1. [国足首发](https://www.zhihu.com/search?q=国足首发)
@@ -26,6 +26,7 @@
 1. [库里官宣王者荣耀联动](https://www.zhihu.com/search?q=库里官宣王者荣耀联动)
 1. [哥伦比亚2:1阿根廷](https://www.zhihu.com/search?q=哥伦比亚2:1阿根廷)
 1. [无人机导致天津大面积航班延误](https://www.zhihu.com/search?q=无人机导致天津大面积航班延误)
+1. [茅台股价创近两年新低](https://www.zhihu.com/search?q=茅台股价创近两年新低)
 1. [巴菲特又抛售近 2.29
    亿美元美银股票](https://www.zhihu.com/search?q=巴菲特又抛售近 2.29
    亿美元美银股票)
