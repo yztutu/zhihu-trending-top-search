@@ -1,5 +1,4 @@
 [
-  { "query": "苹果官网崩了", "display_query": "苹果官网崩了" },
   { "query": "国足首发", "display_query": "国足首发" },
   { "query": "孙颖莎3比0战胜田志希", "display_query": "孙颖莎3比0战胜田志希" },
   {
@@ -17,5 +16,7 @@
   {
     "query": "梁靖崑3比2战胜西蒙高茨",
     "display_query": "梁靖崑3比2战胜西蒙高茨"
-  }
+  },
+  { "query": "汪嵩称没有踢假球", "display_query": "汪嵩称没有踢假球" },
+  { "query": "苹果官网崩了", "display_query": "苹果官网崩了" }
 ]
