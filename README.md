@@ -15,12 +15,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 20 2024 10:10:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 20 2024 11:14:08 GMT+0800 (China Standard Time) -->
 
 1. [超级月亮](https://www.zhihu.com/search?q=超级月亮)
 1. [央视中秋晚会](https://www.zhihu.com/search?q=央视中秋晚会)
 1. [孙颖莎夺冠](https://www.zhihu.com/search?q=孙颖莎夺冠)
 1. [洗衣机推荐](https://www.zhihu.com/search?q=洗衣机推荐)
+1. [美股三大指数集体收涨](https://www.zhihu.com/search?q=美股三大指数集体收涨)
 1. [孙颖莎夺得女单冠军](https://www.zhihu.com/search?q=孙颖莎夺得女单冠军)
 1. [英雄联盟崩了](https://www.zhihu.com/search?q=英雄联盟崩了)
 1. [《凡人歌》北京中产家庭困境](https://www.zhihu.com/search?q=《凡人歌》北京中产家庭困境)
