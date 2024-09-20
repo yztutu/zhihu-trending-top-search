@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 20 2024 23:11:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 21 2024 00:13:29 GMT+0800 (China Standard Time) -->
 
 1. [央视中秋晚会](https://www.zhihu.com/search?q=央视中秋晚会)
 1. [孙颖莎夺冠](https://www.zhihu.com/search?q=孙颖莎夺冠)
@@ -27,15 +27,6 @@
 1. [《里斯本丸沉没》上映](https://www.zhihu.com/search?q=《里斯本丸沉没》上映)
 1. [《凡人歌》北京中产家庭困境](https://www.zhihu.com/search?q=《凡人歌》北京中产家庭困境)
 1. [台风普拉桑生成](https://www.zhihu.com/search?q=台风普拉桑生成)
-1. [洗衣机推荐](https://www.zhihu.com/search?q=洗衣机推荐)
-1. [金店店员用铅块偷换 45.8kg
-   黄金](https://www.zhihu.com/search?q=金店店员用铅块偷换 45.8kg 黄金)
-1. [兰州大学研究生总量首超本科生](https://www.zhihu.com/search?q=兰州大学研究生总量首超本科生)
-1. [2024年中秋晚会](https://www.zhihu.com/search?q=2024年中秋晚会)
-1. [嫦娥六号挖回的月背土壤成分揭秘](https://www.zhihu.com/search?q=嫦娥六号挖回的月背土壤成分揭秘)
-1. [三只羊涉嫌误导消费者被立案调查](https://www.zhihu.com/search?q=三只羊涉嫌误导消费者被立案调查)
-1. [超级月亮](https://www.zhihu.com/search?q=超级月亮)
-1. [孙颖莎夺得女单冠军](https://www.zhihu.com/search?q=孙颖莎夺得女单冠军)
 
 <!-- END -->
 
