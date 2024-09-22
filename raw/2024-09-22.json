@@ -3,7 +3,6 @@
   { "query": "孙颖莎夺冠", "display_query": "孙颖莎夺冠" },
   { "query": "米兰时装周", "display_query": "米兰时装周" },
   { "query": "北京下雨", "display_query": "北京下雨" },
-  { "query": "英雄联盟崩了", "display_query": "英雄联盟崩了" },
   {
     "query": "如何评价「黑神话悟空」",
     "display_query": "如何评价「黑神话悟空」"
@@ -14,5 +13,10 @@
     "query": "「下腰」近几年致多名儿童瘫痪",
     "display_query": "「下腰」近几年致多名儿童瘫痪"
   },
-  { "query": "小杨哥公司被立案调查", "display_query": "小杨哥公司被立案调查" }
+  { "query": "小杨哥公司被立案调查", "display_query": "小杨哥公司被立案调查" },
+  {
+    "query": "唐嫣李现合唱若月亮没来",
+    "display_query": "唐嫣李现合唱若月亮没来"
+  },
+  { "query": "英雄联盟崩了", "display_query": "英雄联盟崩了" }
 ]
