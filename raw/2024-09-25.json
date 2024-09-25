@@ -1,4 +1,6 @@
 [
+  { "query": "王者荣耀新赛季", "display_query": "王者荣耀新赛季" },
+  { "query": "降低存量房贷利率", "display_query": "降低存量房贷利率" },
   {
     "query": "为何古代镖师走镖土匪不敢抢",
     "display_query": "为何古代镖师走镖土匪不敢抢"
@@ -8,6 +10,10 @@
     "display_query": "为什么在中国邮箱不流行"
   },
   { "query": "叶珂是谁", "display_query": "叶珂是谁" },
+  {
+    "query": "黎巴嫩通信设备爆炸扰乱卫生系统",
+    "display_query": "黎巴嫩通信设备爆炸扰乱卫生系统"
+  },
   {
     "query": "我国禁止用粘土实心砖建房",
     "display_query": "我国禁止用粘土实心砖建房"
