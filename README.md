@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 27 2024 16:15:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 27 2024 17:12:40 GMT+0800 (China Standard Time) -->
 
 1. [王者荣耀新赛季](https://www.zhihu.com/search?q=王者荣耀新赛季)
 1. [沪指重回3000点](https://www.zhihu.com/search?q=沪指重回3000点)
