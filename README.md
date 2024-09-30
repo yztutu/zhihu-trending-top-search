@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 30 2024 14:17:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 30 2024 15:12:22 GMT+0800 (China Standard Time) -->
 
 1. [演员到底有多吃天赋](https://www.zhihu.com/search?q=演员到底有多吃天赋)
 1. [大碗娱乐宣布所有艺人合约到期不续](https://www.zhihu.com/search?q=大碗娱乐宣布所有艺人合约到期不续)
@@ -25,6 +25,7 @@
 1. [A 股继续放量飙升](https://www.zhihu.com/search?q=A 股继续放量飙升)
 1. [专家称 A 股 3000 点应该能站稳](https://www.zhihu.com/search?q=专家称 A 股
    3000 点应该能站稳)
+1. [a股成交额连续2天破万亿](https://www.zhihu.com/search?q=a股成交额连续2天破万亿)
 1. [拜登称中东可能爆发全面战争](https://www.zhihu.com/search?q=拜登称中东可能爆发全面战争)
 1. [遭教官体罚进 ICU 的 14
    岁女孩离世](https://www.zhihu.com/search?q=遭教官体罚进 ICU 的 14 岁女孩离世)
