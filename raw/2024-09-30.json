@@ -1,5 +1,6 @@
 [
   { "query": "演员到底有多吃天赋", "display_query": "演员到底有多吃天赋" },
+  { "query": "上海海港vs上海申花", "display_query": "上海海港vs上海申花" },
   {
     "query": "大碗娱乐宣布所有艺人合约到期不续",
     "display_query": "大碗娱乐宣布所有艺人合约到期不续"
@@ -49,7 +50,6 @@
     "query": "以军对黎巴嫩发起新一轮袭击",
     "display_query": "以军对黎巴嫩发起新一轮袭击"
   },
-  { "query": "上海海港vs上海申花", "display_query": "上海海港vs上海申花" },
   { "query": "阿里京东互相开放", "display_query": "阿里京东互相开放" },
   {
     "query": "为什么都说「死神」时髦值很高",
