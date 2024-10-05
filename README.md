@@ -15,11 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 05 2024 12:14:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 05 2024 13:10:47 GMT+0800 (China Standard Time) -->
 
 1. [演员到底有多吃天赋](https://www.zhihu.com/search?q=演员到底有多吃天赋)
 1. [张本智和](https://www.zhihu.com/search?q=张本智和)
-1. [王楚钦](https://www.zhihu.com/search?q=王楚钦)
 1. [上海海港vs上海申花](https://www.zhihu.com/search?q=上海海港vs上海申花)
 1. [大碗娱乐宣布所有艺人合约到期不续](https://www.zhihu.com/search?q=大碗娱乐宣布所有艺人合约到期不续)
 1. [a股成交额连续2天破万亿](https://www.zhihu.com/search?q=a股成交额连续2天破万亿)
@@ -27,6 +26,8 @@
 1. [阿维塔07正式上市](https://www.zhihu.com/search?q=阿维塔07正式上市)
 1. [淘宝官宣已支持微信支付](https://www.zhihu.com/search?q=淘宝官宣已支持微信支付)
 1. [上交所交易出现卡顿延迟](https://www.zhihu.com/search?q=上交所交易出现卡顿延迟)
+1. [a股行情](https://www.zhihu.com/search?q=a股行情)
+1. [王楚钦](https://www.zhihu.com/search?q=王楚钦)
 
 <!-- END -->
 
