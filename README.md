@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 09 2024 11:17:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 09 2024 12:13:58 GMT+0800 (China Standard Time) -->
 
 1. [诺贝尔生理学或医学奖揭晓](https://www.zhihu.com/search?q=诺贝尔生理学或医学奖揭晓)
 1. [A股](https://www.zhihu.com/search?q=A股)
@@ -24,6 +24,7 @@
 1. [G2战胜WBG](https://www.zhihu.com/search?q=G2战胜WBG)
 1. [勇士vs快船](https://www.zhihu.com/search?q=勇士vs快船)
 1. [为什么有人宁愿走国道也不愿走高速](https://www.zhihu.com/search?q=为什么有人宁愿走国道也不愿走高速)
+1. [东北雨姐带货厂家承认产品有木薯粉](https://www.zhihu.com/search?q=东北雨姐带货厂家承认产品有木薯粉)
 1. [哀牢山](https://www.zhihu.com/search?q=哀牢山)
 1. [郑钦文摔倒落泪](https://www.zhihu.com/search?q=郑钦文摔倒落泪)
 1. [徐州一餐饮店发生火灾](https://www.zhihu.com/search?q=徐州一餐饮店发生火灾)
