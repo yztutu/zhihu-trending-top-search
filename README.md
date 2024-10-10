@@ -15,10 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 10 2024 07:12:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 10 2024 08:55:13 GMT+0800 (China Standard Time) -->
 
 1. [A股](https://www.zhihu.com/search?q=A股)
 1. [为什么有人宁愿走国道也不愿走高速](https://www.zhihu.com/search?q=为什么有人宁愿走国道也不愿走高速)
+1. [孙颖莎](https://www.zhihu.com/search?q=孙颖莎)
 1. [东北雨姐带货厂家承认产品有木薯粉](https://www.zhihu.com/search?q=东北雨姐带货厂家承认产品有木薯粉)
 1. [上交所延长接受指定交易申报指令时间](https://www.zhihu.com/search?q=上交所延长接受指定交易申报指令时间)
 1. [踏空者焦虑情绪升温](https://www.zhihu.com/search?q=踏空者焦虑情绪升温)
