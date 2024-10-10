@@ -1,6 +1,11 @@
 [
+  { "query": "世界精神卫生日", "display_query": "世界精神卫生日" },
   { "query": "A股", "display_query": "A股" },
   { "query": "美股三大指数集体收涨", "display_query": "美股三大指数集体收涨" },
+  {
+    "query": "你的学校发生过最扯的事是什么",
+    "display_query": "你的学校发生过最扯的事是什么"
+  },
   {
     "query": "为什么有人宁愿走国道也不愿走高速 ",
     "display_query": "为什么有人宁愿走国道也不愿走高速 "
@@ -24,7 +29,6 @@
     "query": "诺贝尔生理学或医学奖获奖揭晓",
     "display_query": "诺贝尔生理学或医学奖获奖揭晓"
   },
-  { "query": "世界精神卫生日", "display_query": "世界精神卫生日" },
   {
     "query": "詹姆斯布朗尼同场并肩作战",
     "display_query": "詹姆斯布朗尼同场并肩作战"

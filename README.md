@@ -15,10 +15,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 10 2024 15:11:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 10 2024 16:15:07 GMT+0800 (China Standard Time) -->
 
+1. [世界精神卫生日](https://www.zhihu.com/search?q=世界精神卫生日)
 1. [A股](https://www.zhihu.com/search?q=A股)
 1. [美股三大指数集体收涨](https://www.zhihu.com/search?q=美股三大指数集体收涨)
+1. [你的学校发生过最扯的事是什么](https://www.zhihu.com/search?q=你的学校发生过最扯的事是什么)
 1. [为什么有人宁愿走国道也不愿走高速](https://www.zhihu.com/search?q=为什么有人宁愿走国道也不愿走高速)
 1. [孙颖莎](https://www.zhihu.com/search?q=孙颖莎)
 1. [东北雨姐带货厂家承认产品有木薯粉](https://www.zhihu.com/search?q=东北雨姐带货厂家承认产品有木薯粉)
@@ -27,7 +29,6 @@
 1. [王曼昱退出亚锦赛女单、女双和团体比赛](https://www.zhihu.com/search?q=王曼昱退出亚锦赛女单、女双和团体比赛)
 1. [microRNA获诺贝尔奖](https://www.zhihu.com/search?q=microRNA获诺贝尔奖)
 1. [诺贝尔生理学或医学奖获奖揭晓](https://www.zhihu.com/search?q=诺贝尔生理学或医学奖获奖揭晓)
-1. [世界精神卫生日](https://www.zhihu.com/search?q=世界精神卫生日)
 1. [詹姆斯布朗尼同场并肩作战](https://www.zhihu.com/search?q=詹姆斯布朗尼同场并肩作战)
 1. [四分之一以色列人考虑离开该国](https://www.zhihu.com/search?q=四分之一以色列人考虑离开该国)
 1. [皇马卡瓦哈尔重伤](https://www.zhihu.com/search?q=皇马卡瓦哈尔重伤)
