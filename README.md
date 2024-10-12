@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 12 2024 23:11:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 13 2024 00:13:08 GMT+0800 (China Standard Time) -->
 
 1. [世界精神卫生日](https://www.zhihu.com/search?q=世界精神卫生日)
 1. [向科学要答案](https://www.zhihu.com/search?q=向科学要答案)
@@ -27,17 +27,6 @@
 1. [BLG对战PSG](https://www.zhihu.com/search?q=BLG对战PSG)
 1. [孙颖莎](https://www.zhihu.com/search?q=孙颖莎)
 1. [发现孩子很普通怎么办](https://www.zhihu.com/search?q=发现孩子很普通怎么办)
-1. [董路称「女乒 1-3 日本相当于国足 0-7
-   日本」](https://www.zhihu.com/search?q=董路称「女乒 1-3 日本相当于国足 0-7
-   日本」)
-1. [奔驰客服回应迈巴赫漏水](https://www.zhihu.com/search?q=奔驰客服回应迈巴赫漏水)
-1. [股市行情](https://www.zhihu.com/search?q=股市行情)
-1. [你在体制内捅过的最大篓子是什么](https://www.zhihu.com/search?q=你在体制内捅过的最大篓子是什么)
-1. [东北雨姐删除道歉视频](https://www.zhihu.com/search?q=东北雨姐删除道歉视频)
-1. [诺贝尔物理学奖揭晓](https://www.zhihu.com/search?q=诺贝尔物理学奖揭晓)
-1. [以军空袭黎巴嫩首都](https://www.zhihu.com/search?q=以军空袭黎巴嫩首都)
-1. [王曼昱亚锦赛退赛](https://www.zhihu.com/search?q=王曼昱亚锦赛退赛)
-1. [东北雨姐带货厂家承认产品有木薯粉](https://www.zhihu.com/search?q=东北雨姐带货厂家承认产品有木薯粉)
 
 <!-- END -->
 
