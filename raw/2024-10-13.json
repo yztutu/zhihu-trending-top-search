@@ -1,6 +1,5 @@
 [
   { "query": "向科学要答案", "display_query": "向科学要答案" },
-  { "query": "诺贝尔文学奖揭晓", "display_query": "诺贝尔文学奖揭晓" },
   { "query": "重阳节", "display_query": "重阳节" },
   {
     "query": "存量房贷利率25日起调整",
@@ -18,6 +17,8 @@
     "query": "你在体制内捅过的最大篓子是什么",
     "display_query": "你在体制内捅过的最大篓子是什么"
   },
+  { "query": "东北雨姐删除道歉视频", "display_query": "东北雨姐删除道歉视频" },
+  { "query": "诺贝尔文学奖揭晓", "display_query": "诺贝尔文学奖揭晓" },
   { "query": "世界精神卫生日", "display_query": "世界精神卫生日" },
   { "query": "孙颖莎", "display_query": "孙颖莎" }
 ]
