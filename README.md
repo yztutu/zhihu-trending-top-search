@@ -15,10 +15,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 14 2024 18:12:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 14 2024 19:10:44 GMT+0800 (China Standard Time) -->
 
+1. [诺贝尔经济学奖揭晓](https://www.zhihu.com/search?q=诺贝尔经济学奖揭晓)
+1. [存量房贷利率25日起调整](https://www.zhihu.com/search?q=存量房贷利率25日起调整)
+1. [诺贝尔经济学奖公布](https://www.zhihu.com/search?q=诺贝尔经济学奖公布)
 1. [天猫双11攻略](https://www.zhihu.com/search?q=天猫双11攻略)
 1. [G2对战BLG](https://www.zhihu.com/search?q=G2对战BLG)
+1. [三大指数集体高开](https://www.zhihu.com/search?q=三大指数集体高开)
 1. [为什么都在担心中国的产业转移](https://www.zhihu.com/search?q=为什么都在担心中国的产业转移)
 1. [居民消费价格同比上涨](https://www.zhihu.com/search?q=居民消费价格同比上涨)
 1. [张本智和](https://www.zhihu.com/search?q=张本智和)
@@ -27,7 +31,6 @@
 1. [林诗栋](https://www.zhihu.com/search?q=林诗栋)
 1. [江歌妈妈](https://www.zhihu.com/search?q=江歌妈妈)
 1. [特斯拉无人出租车曝光](https://www.zhihu.com/search?q=特斯拉无人出租车曝光)
-1. [存量房贷利率25日起调整](https://www.zhihu.com/search?q=存量房贷利率25日起调整)
 1. [油价上调](https://www.zhihu.com/search?q=油价上调)
 1. [发现孩子很普通怎么办](https://www.zhihu.com/search?q=发现孩子很普通怎么办)
 1. [向科学要答案](https://www.zhihu.com/search?q=向科学要答案)
