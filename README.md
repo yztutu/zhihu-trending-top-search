@@ -15,10 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 15 2024 21:20:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 15 2024 22:11:11 GMT+0800 (China Standard Time) -->
 
-1. [诺贝尔经济学奖揭晓](https://www.zhihu.com/search?q=诺贝尔经济学奖揭晓)
-1. [三大指数集体低开](https://www.zhihu.com/search?q=三大指数集体低开)
+1. [2024年诺贝尔经济学奖公布](https://www.zhihu.com/search?q=2024年诺贝尔经济学奖公布)
+1. [如何看待 Steam 商店页面出现警告](https://www.zhihu.com/search?q=如何看待
+   Steam 商店页面出现警告)
 1. [存量房贷利率25日起调整](https://www.zhihu.com/search?q=存量房贷利率25日起调整)
 1. [诺贝尔经济学奖公布](https://www.zhihu.com/search?q=诺贝尔经济学奖公布)
 1. [天猫双11攻略](https://www.zhihu.com/search?q=天猫双11攻略)
@@ -27,6 +28,8 @@
 1. [台湾当归](https://www.zhihu.com/search?q=台湾当归)
 1. [居民消费价格同比上涨](https://www.zhihu.com/search?q=居民消费价格同比上涨)
 1. [张本智和](https://www.zhihu.com/search?q=张本智和)
+1. [诺贝尔经济学奖揭晓](https://www.zhihu.com/search?q=诺贝尔经济学奖揭晓)
+1. [三大指数集体低开](https://www.zhihu.com/search?q=三大指数集体低开)
 1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=工业克苏鲁什么意思)
 1. [曝王楚钦决定退出全锦赛男团比赛](https://www.zhihu.com/search?q=曝王楚钦决定退出全锦赛男团比赛)
 1. [79 人吃自助打包五袋肉被罚 1000 元](https://www.zhihu.com/search?q=79
