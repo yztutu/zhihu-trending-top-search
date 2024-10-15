@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 15 2024 18:13:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 15 2024 19:10:09 GMT+0800 (China Standard Time) -->
 
 1. [诺贝尔经济学奖揭晓](https://www.zhihu.com/search?q=诺贝尔经济学奖揭晓)
+1. [三大指数集体低开](https://www.zhihu.com/search?q=三大指数集体低开)
 1. [存量房贷利率25日起调整](https://www.zhihu.com/search?q=存量房贷利率25日起调整)
 1. [诺贝尔经济学奖公布](https://www.zhihu.com/search?q=诺贝尔经济学奖公布)
 1. [天猫双11攻略](https://www.zhihu.com/search?q=天猫双11攻略)
