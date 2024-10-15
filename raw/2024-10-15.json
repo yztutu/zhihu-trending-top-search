@@ -1,13 +1,24 @@
 [
+  { "query": "诺贝尔经济学奖揭晓", "display_query": "诺贝尔经济学奖揭晓" },
   {
-    "query": "曝王楚钦决定退出全锦赛男团比赛",
-    "display_query": "曝王楚钦决定退出全锦赛男团比赛"
+    "query": "存量房贷利率25日起调整",
+    "display_query": "存量房贷利率25日起调整"
   },
+  { "query": "诺贝尔经济学奖公布", "display_query": "诺贝尔经济学奖公布" },
+  { "query": "天猫双11攻略", "display_query": "天猫双11攻略" },
+  { "query": "三大指数集体高开", "display_query": "三大指数集体高开" },
   {
     "query": "为什么都在担心中国的产业转移",
     "display_query": "为什么都在担心中国的产业转移"
   },
+  { "query": "台湾当归", "display_query": "台湾当归" },
   { "query": "居民消费价格同比上涨", "display_query": "居民消费价格同比上涨" },
+  { "query": "张本智和", "display_query": "张本智和" },
+  { "query": "工业克苏鲁什么意思", "display_query": "工业克苏鲁什么意思" },
+  {
+    "query": "曝王楚钦决定退出全锦赛男团比赛",
+    "display_query": "曝王楚钦决定退出全锦赛男团比赛"
+  },
   {
     "query": "79 人吃自助打包五袋肉被罚 1000 元",
     "display_query": "79 人吃自助打包五袋肉被罚 1000 元"
@@ -30,15 +41,6 @@
   },
   { "query": "成都新购房取消限售", "display_query": "成都新购房取消限售" },
   { "query": "林诗栋", "display_query": "林诗栋" },
-  { "query": "诺贝尔经济学奖揭晓", "display_query": "诺贝尔经济学奖揭晓" },
-  {
-    "query": "存量房贷利率25日起调整",
-    "display_query": "存量房贷利率25日起调整"
-  },
-  { "query": "诺贝尔经济学奖公布", "display_query": "诺贝尔经济学奖公布" },
-  { "query": "天猫双11攻略", "display_query": "天猫双11攻略" },
   { "query": "G2对战BLG", "display_query": "G2对战BLG" },
-  { "query": "三大指数集体高开", "display_query": "三大指数集体高开" },
-  { "query": "张本智和", "display_query": "张本智和" },
   { "query": "林诗栋vs张本智和", "display_query": "林诗栋vs张本智和" }
 ]
