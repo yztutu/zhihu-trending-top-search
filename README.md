@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 19 2024 20:20:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 19 2024 21:16:05 GMT+0800 (China Standard Time) -->
 
 1. [向科学要答案](https://www.zhihu.com/search?q=向科学要答案)
 1. [美英空袭也门首都萨那](https://www.zhihu.com/search?q=美英空袭也门首都萨那)
