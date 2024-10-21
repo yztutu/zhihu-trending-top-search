@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 21 2024 11:21:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 21 2024 12:14:40 GMT+0800 (China Standard Time) -->
 
 1. [美英空袭也门首都萨那](https://www.zhihu.com/search?q=美英空袭也门首都萨那)
 1. [欧洲央行宣布降息25个基点](https://www.zhihu.com/search?q=欧洲央行宣布降息25个基点)
