@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 22 2024 16:15:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 22 2024 17:12:33 GMT+0800 (China Standard Time) -->
 
 1. [明星现实中真的很漂亮吗](https://www.zhihu.com/search?q=明星现实中真的很漂亮吗)
 1. [什么叫演戏用力过猛](https://www.zhihu.com/search?q=什么叫演戏用力过猛)
