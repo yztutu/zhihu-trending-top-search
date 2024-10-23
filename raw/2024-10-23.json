@@ -1,10 +1,11 @@
 [
+  { "query": "今日霜降", "display_query": "今日霜降" },
   {
     "query": "明星现实中真的很漂亮吗",
     "display_query": "明星现实中真的很漂亮吗"
   },
   { "query": "什么叫演戏用力过猛", "display_query": "什么叫演戏用力过猛" },
-  { "query": "tes对战t1", "display_query": "tes对战t1" },
+  { "query": "山东泰山vs横滨水手", "display_query": "山东泰山vs横滨水手" },
   {
     "query": "为什么现在增肌提倡「不力竭」",
     "display_query": "为什么现在增肌提倡「不力竭」"
@@ -29,6 +30,7 @@
     "query": "斯坦福监狱实验创始人津巴多辞世",
     "display_query": "斯坦福监狱实验创始人津巴多辞世"
   },
+  { "query": "tes对战t1", "display_query": "tes对战t1" },
   {
     "query": "5000 亿互换便利操作细则出炉",
     "display_query": "5000 亿互换便利操作细则出炉"
