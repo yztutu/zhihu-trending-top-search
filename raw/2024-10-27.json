@@ -6,7 +6,6 @@
     "query": "被查房时怎么证明是情侣关系",
     "display_query": "被查房时怎么证明是情侣关系"
   },
-  { "query": "郑钦文", "display_query": "郑钦文" },
   { "query": "国足0:7日本", "display_query": "国足0:7日本" },
   {
     "query": "中国古代为何没有公共广场",
@@ -23,5 +22,7 @@
   {
     "query": "为什么刘国梁要培养王楚钦",
     "display_query": "为什么刘国梁要培养王楚钦"
-  }
+  },
+  { "query": "双十一买什么", "display_query": "双十一买什么" },
+  { "query": "郑钦文", "display_query": "郑钦文" }
 ]
