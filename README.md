@@ -15,9 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 28 2024 08:58:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 28 2024 10:21:40 GMT+0800 (China Standard Time) -->
 
-1. [存量房贷利率批量下调](https://www.zhihu.com/search?q=存量房贷利率批量下调)
 1. [存量房贷利率今起下调](https://www.zhihu.com/search?q=存量房贷利率今起下调)
 1. [被查房时怎么证明是情侣关系](https://www.zhihu.com/search?q=被查房时怎么证明是情侣关系)
 1. [国足0:7日本](https://www.zhihu.com/search?q=国足0:7日本)
@@ -27,6 +26,8 @@
 1. [双十一买什么](https://www.zhihu.com/search?q=双十一买什么)
 1. [2024 好物 100 发布](https://www.zhihu.com/search?q=2024 好物 100 发布)
 1. [答主评审团](https://www.zhihu.com/search?q=答主评审团)
+1. [史上最卷测评](https://www.zhihu.com/search?q=史上最卷测评)
+1. [存量房贷利率批量下调](https://www.zhihu.com/search?q=存量房贷利率批量下调)
 1. [WBG对战BLG](https://www.zhihu.com/search?q=WBG对战BLG)
 
 <!-- END -->
