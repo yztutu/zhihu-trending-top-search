@@ -15,8 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 29 2024 14:17:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 29 2024 15:12:41 GMT+0800 (China Standard Time) -->
 
+1. [金球奖颁奖典礼](https://www.zhihu.com/search?q=金球奖颁奖典礼)
 1. [勇士vs快船](https://www.zhihu.com/search?q=勇士vs快船)
 1. [自首路上被抓算自首吗](https://www.zhihu.com/search?q=自首路上被抓算自首吗)
 1. [库里受伤](https://www.zhihu.com/search?q=库里受伤)
