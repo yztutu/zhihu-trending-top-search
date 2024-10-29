@@ -1,6 +1,9 @@
 [
-  { "query": "金球奖颁奖典礼", "display_query": "金球奖颁奖典礼" },
-  { "query": "勇士vs快船", "display_query": "勇士vs快船" },
+  {
+    "query": "《心动的信号 7》第二对 CP 官宣",
+    "display_query": "《心动的信号 7》第二对 CP 官宣"
+  },
+  { "query": "2024 扫地机器人推荐", "display_query": "2024 扫地机器人推荐" },
   { "query": "自首路上被抓算自首吗", "display_query": "自首路上被抓算自首吗" },
   { "query": "库里受伤", "display_query": "库里受伤" },
   { "query": "t1晋级决赛", "display_query": "t1晋级决赛" },
@@ -21,6 +24,8 @@
     "display_query": "为什么高铁实际运行速度没有达到最高速"
   },
   { "query": "双十一买什么", "display_query": "双十一买什么" },
+  { "query": "金球奖颁奖典礼", "display_query": "金球奖颁奖典礼" },
+  { "query": "勇士vs快船", "display_query": "勇士vs快船" },
   { "query": "2024 好物 100 发布", "display_query": "2024 好物 100 发布" },
   {
     "query": "马斯克身家一夜猛增2385亿元",
