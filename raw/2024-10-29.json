@@ -1,12 +1,6 @@
 [
-  {
-    "query": "小米 SU7 Ultra 纽北最快四门车",
-    "display_query": "小米 SU7 Ultra 纽北最快四门车"
-  },
-  {
-    "query": "吃麦片可以控制血糖是真的吗？",
-    "display_query": "吃麦片可以控制血糖是真的吗？"
-  },
+  { "query": "金球奖颁奖典礼", "display_query": "金球奖颁奖典礼" },
+  { "query": "WBG对战BLG", "display_query": "WBG对战BLG" },
   { "query": "勇士vs快船", "display_query": "勇士vs快船" },
   { "query": "自首路上被抓算自首吗", "display_query": "自首路上被抓算自首吗" },
   { "query": "库里受伤", "display_query": "库里受伤" },
@@ -28,12 +22,19 @@
     "display_query": "为什么高铁实际运行速度没有达到最高速"
   },
   {
+    "query": "小米 SU7 Ultra 纽北最快四门车",
+    "display_query": "小米 SU7 Ultra 纽北最快四门车"
+  },
+  {
+    "query": "吃麦片可以控制血糖是真的吗？",
+    "display_query": "吃麦片可以控制血糖是真的吗？"
+  },
+  {
     "query": "《心动的信号 7》第二对 CP 官宣",
     "display_query": "《心动的信号 7》第二对 CP 官宣"
   },
   { "query": "2024 扫地机器人推荐", "display_query": "2024 扫地机器人推荐" },
   { "query": "双十一买什么", "display_query": "双十一买什么" },
-  { "query": "金球奖颁奖典礼", "display_query": "金球奖颁奖典礼" },
   { "query": "2024 好物 100 发布", "display_query": "2024 好物 100 发布" },
   {
     "query": "马斯克身家一夜猛增2385亿元",
