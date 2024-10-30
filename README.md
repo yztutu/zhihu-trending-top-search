@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 30 2024 16:16:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 30 2024 17:12:36 GMT+0800 (China Standard Time) -->
 
 1. [WBG对战BLG](https://www.zhihu.com/search?q=WBG对战BLG)
 1. [湖人vs太阳](https://www.zhihu.com/search?q=湖人vs太阳)
