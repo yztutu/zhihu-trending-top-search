@@ -15,8 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 01 2024 16:15:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 01 2024 17:12:13 GMT+0800 (China Standard Time) -->
 
+1. [永夜星河](https://www.zhihu.com/search?q=永夜星河)
 1. [什么叫降维打击](https://www.zhihu.com/search?q=什么叫降维打击)
 1. [有没有动物杰作被误会是人为的](https://www.zhihu.com/search?q=有没有动物杰作被误会是人为的)
 1. [中国人玩阳谋到底有多牛](https://www.zhihu.com/search?q=中国人玩阳谋到底有多牛)
