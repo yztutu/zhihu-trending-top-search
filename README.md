@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 02 2024 23:11:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 03 2024 00:12:51 GMT+0800 (China Standard Time) -->
 
 1. [永夜星河](https://www.zhihu.com/search?q=永夜星河)
 1. [什么叫降维打击](https://www.zhihu.com/search?q=什么叫降维打击)
@@ -27,7 +27,6 @@
 1. [答主评审团](https://www.zhihu.com/search?q=答主评审团)
 1. [史上最卷测评](https://www.zhihu.com/search?q=史上最卷测评)
 1. [那些真的「好」的好物](https://www.zhihu.com/search?q=那些真的「好」的好物)
-1. [有没有动物杰作被误会是人为的](https://www.zhihu.com/search?q=有没有动物杰作被误会是人为的)
 
 <!-- END -->
 
