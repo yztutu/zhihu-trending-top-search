@@ -15,8 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 03 2024 07:12:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 03 2024 09:00:11 GMT+0800 (China Standard Time) -->
 
+1. [T1](https://www.zhihu.com/search?q=T1)
+1. [BLG](https://www.zhihu.com/search?q=BLG)
+1. [Faker](https://www.zhihu.com/search?q=Faker)
 1. [永夜星河](https://www.zhihu.com/search?q=永夜星河)
 1. [什么叫降维打击](https://www.zhihu.com/search?q=什么叫降维打击)
 1. [中国人玩阳谋到底有多牛](https://www.zhihu.com/search?q=中国人玩阳谋到底有多牛)
