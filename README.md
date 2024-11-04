@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 04 2024 23:12:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 05 2024 00:14:31 GMT+0800 (China Standard Time) -->
 
 1. [T1](https://www.zhihu.com/search?q=T1)
 1. [BLG](https://www.zhihu.com/search?q=BLG)
@@ -27,14 +27,6 @@
 1. [双十一买什么](https://www.zhihu.com/search?q=双十一买什么)
 1. [答主评审团](https://www.zhihu.com/search?q=答主评审团)
 1. [那些真的「好」的好物](https://www.zhihu.com/search?q=那些真的「好」的好物)
-1. [以色列空袭贝鲁特致11伤](https://www.zhihu.com/search?q=以色列空袭贝鲁特致11伤)
-1. [央行启用公开市场买断式逆回购操作工具](https://www.zhihu.com/search?q=央行启用公开市场买断式逆回购操作工具)
-1. [今年最「卷」的好物颁奖礼](https://www.zhihu.com/search?q=今年最「卷」的好物颁奖礼)
-1. [Faker获FMVP](https://www.zhihu.com/search?q=Faker获FMVP)
-1. [年度巨制无广的好物推荐](https://www.zhihu.com/search?q=年度巨制无广的好物推荐)
-1. [永夜星河](https://www.zhihu.com/search?q=永夜星河)
-1. [「答主评审团」到底是什么？](https://www.zhihu.com/search?q=「答主评审团」到底是什么？)
-1. [从高处跳落入水有哪些风险](https://www.zhihu.com/search?q=从高处跳落入水有哪些风险)
 
 <!-- END -->
 
