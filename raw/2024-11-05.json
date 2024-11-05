@@ -1,9 +1,6 @@
 [
-  { "query": "雷霆大胜快船", "display_query": "雷霆大胜快船" },
-  {
-    "query": "扫地机的最大卖点不是 AI 避障",
-    "display_query": "扫地机的最大卖点不是 AI 避障"
-  },
+  { "query": "T1", "display_query": "T1" },
+  { "query": "BLG", "display_query": "BLG" },
   { "query": "Faker", "display_query": "Faker" },
   { "query": "t1夺冠", "display_query": "t1夺冠" },
   { "query": "郑钦文", "display_query": "郑钦文" },
@@ -12,7 +9,10 @@
   { "query": "如何看待华为mate70", "display_query": "如何看待华为mate70" },
   { "query": "双十一买什么", "display_query": "双十一买什么" },
   { "query": "答主评审团", "display_query": "答主评审团" },
-  { "query": "T1", "display_query": "T1" },
-  { "query": "BLG", "display_query": "BLG" },
+  { "query": "雷霆大胜快船", "display_query": "雷霆大胜快船" },
+  {
+    "query": "扫地机的最大卖点不是 AI 避障",
+    "display_query": "扫地机的最大卖点不是 AI 避障"
+  },
   { "query": "那些真的「好」的好物", "display_query": "那些真的「好」的好物" }
 ]
