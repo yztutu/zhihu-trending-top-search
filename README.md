@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 05 2024 23:12:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 06 2024 00:14:46 GMT+0800 (China Standard Time) -->
 
 1. [T1](https://www.zhihu.com/search?q=T1)
 1. [BLG](https://www.zhihu.com/search?q=BLG)
@@ -27,14 +27,6 @@
 1. [双十一买什么](https://www.zhihu.com/search?q=双十一买什么)
 1. [答主评审团](https://www.zhihu.com/search?q=答主评审团)
 1. [那些真的「好」的好物](https://www.zhihu.com/search?q=那些真的「好」的好物)
-1. [网传明年 BLG 班底大概率会散](https://www.zhihu.com/search?q=网传明年 BLG
-   班底大概率会散)
-1. [如何看待华为mate70](https://www.zhihu.com/search?q=如何看待华为mate70)
-1. [珠帘玉幕](https://www.zhihu.com/search?q=珠帘玉幕)
-1. [郑钦文vs萨巴伦卡](https://www.zhihu.com/search?q=郑钦文vs萨巴伦卡)
-1. [雷霆大胜快船](https://www.zhihu.com/search?q=雷霆大胜快船)
-1. [扫地机的最大卖点不是 AI
-   避障](https://www.zhihu.com/search?q=扫地机的最大卖点不是 AI 避障)
 
 <!-- END -->
 
