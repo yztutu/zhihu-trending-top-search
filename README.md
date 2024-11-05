@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 05 2024 12:14:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 05 2024 13:11:41 GMT+0800 (China Standard Time) -->
 
 1. [T1](https://www.zhihu.com/search?q=T1)
 1. [BLG](https://www.zhihu.com/search?q=BLG)
@@ -24,6 +24,7 @@
 1. [郑钦文](https://www.zhihu.com/search?q=郑钦文)
 1. [珠帘玉幕](https://www.zhihu.com/search?q=珠帘玉幕)
 1. [郑钦文vs萨巴伦卡](https://www.zhihu.com/search?q=郑钦文vs萨巴伦卡)
+1. [你在体制内捅过的最大篓子是什么](https://www.zhihu.com/search?q=你在体制内捅过的最大篓子是什么)
 1. [如何看待华为mate70](https://www.zhihu.com/search?q=如何看待华为mate70)
 1. [双十一买什么](https://www.zhihu.com/search?q=双十一买什么)
 1. [答主评审团](https://www.zhihu.com/search?q=答主评审团)
