@@ -1,8 +1,5 @@
 [
-  {
-    "query": "俄罗斯出租车司机抱怨中国品牌的出租车",
-    "display_query": "俄罗斯出租车司机抱怨中国品牌的出租车"
-  },
+  { "query": "T1", "display_query": "T1" },
   { "query": "BLG", "display_query": "BLG" },
   { "query": "Faker", "display_query": "Faker" },
   { "query": "湖人vs活塞", "display_query": "湖人vs活塞" },
@@ -21,7 +18,10 @@
     "query": "年度巨制无广的好物推荐",
     "display_query": "年度巨制无广的好物推荐"
   },
-  { "query": "T1", "display_query": "T1" },
+  {
+    "query": "俄罗斯出租车司机抱怨中国品牌的出租车",
+    "display_query": "俄罗斯出租车司机抱怨中国品牌的出租车"
+  },
   { "query": "郑钦文", "display_query": "郑钦文" },
   { "query": "t1夺冠", "display_query": "t1夺冠" }
 ]
