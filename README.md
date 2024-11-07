@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 07 2024 23:11:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 08 2024 00:14:00 GMT+0800 (China Standard Time) -->
 
 1. [立冬](https://www.zhihu.com/search?q=立冬)
 1. [油价下调](https://www.zhihu.com/search?q=油价下调)
@@ -27,9 +27,6 @@
 1. [那些真的「好」的好物](https://www.zhihu.com/search?q=那些真的「好」的好物)
 1. [今年最「卷」的好物颁奖礼](https://www.zhihu.com/search?q=今年最「卷」的好物颁奖礼)
 1. [年度巨制无广的好物推荐](https://www.zhihu.com/search?q=年度巨制无广的好物推荐)
-1. [「答主评审团」到底是什么？](https://www.zhihu.com/search?q=「答主评审团」到底是什么？)
-1. [当测评答主「打直球」](https://www.zhihu.com/search?q=当测评答主「打直球」)
-1. [看完还不知道怎么选，算我输！](https://www.zhihu.com/search?q=看完还不知道怎么选，算我输！)
 
 <!-- END -->
 
