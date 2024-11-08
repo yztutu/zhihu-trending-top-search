@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 08 2024 07:10:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 08 2024 08:54:50 GMT+0800 (China Standard Time) -->
 
-1. [立冬](https://www.zhihu.com/search?q=立冬)
 1. [油价下调](https://www.zhihu.com/search?q=油价下调)
+1. [中国记者节](https://www.zhihu.com/search?q=中国记者节)
 1. [湖人vs活塞](https://www.zhihu.com/search?q=湖人vs活塞)
 1. [特斯拉股价暴涨](https://www.zhihu.com/search?q=特斯拉股价暴涨)
 1. [你在体制内捅过的最大篓子是什么](https://www.zhihu.com/search?q=你在体制内捅过的最大篓子是什么)
@@ -27,6 +27,7 @@
 1. [那些真的「好」的好物](https://www.zhihu.com/search?q=那些真的「好」的好物)
 1. [今年最「卷」的好物颁奖礼](https://www.zhihu.com/search?q=今年最「卷」的好物颁奖礼)
 1. [年度巨制无广的好物推荐](https://www.zhihu.com/search?q=年度巨制无广的好物推荐)
+1. [立冬](https://www.zhihu.com/search?q=立冬)
 
 <!-- END -->
 
