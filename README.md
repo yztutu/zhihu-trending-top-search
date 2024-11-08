@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 08 2024 23:11:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 09 2024 00:13:55 GMT+0800 (China Standard Time) -->
 
 1. [立冬](https://www.zhihu.com/search?q=立冬)
 1. [油价下调](https://www.zhihu.com/search?q=油价下调)
@@ -27,15 +27,6 @@
 1. [年度巨制无广的好物推荐](https://www.zhihu.com/search?q=年度巨制无广的好物推荐)
 1. [「答主评审团」到底是什么？](https://www.zhihu.com/search?q=「答主评审团」到底是什么？)
 1. [当测评答主「打直球」](https://www.zhihu.com/search?q=当测评答主「打直球」)
-1. [如何评价「流浪地球
-   3」分上下两部上映](https://www.zhihu.com/search?q=如何评价「流浪地球
-   3」分上下两部上映)
-1. [郑钦文vs保利尼](https://www.zhihu.com/search?q=郑钦文vs保利尼)
-1. [看完还不知道怎么选，算我输！](https://www.zhihu.com/search?q=看完还不知道怎么选，算我输！)
-1. [起猛了，看到「真」的测评了](https://www.zhihu.com/search?q=起猛了，看到「真」的测评了)
-1. [湖人vs活塞](https://www.zhihu.com/search?q=湖人vs活塞)
-1. [特斯拉股价暴涨](https://www.zhihu.com/search?q=特斯拉股价暴涨)
-1. [你在体制内捅过的最大篓子是什么](https://www.zhihu.com/search?q=你在体制内捅过的最大篓子是什么)
 
 <!-- END -->
 
