@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 12 2024 16:15:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 12 2024 17:12:07 GMT+0800 (China Standard Time) -->
 
 1. [支付宝崩了](https://www.zhihu.com/search?q=支付宝崩了)
 1. [为何古人不用琥珀来给尸体做防腐](https://www.zhihu.com/search?q=为何古人不用琥珀来给尸体做防腐)
