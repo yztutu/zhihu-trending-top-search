@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 13 2024 18:12:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 13 2024 19:09:39 GMT+0800 (China Standard Time) -->
 
 1. [王曼昱vs王艺迪](https://www.zhihu.com/search?q=王曼昱vs王艺迪)
-1. [坚持上班的理由](https://www.zhihu.com/search?q=坚持上班的理由)
 1. [为何古人不用琥珀来给尸体做防腐](https://www.zhihu.com/search?q=为何古人不用琥珀来给尸体做防腐)
 1. [家长吐槽新版教材「防自学」](https://www.zhihu.com/search?q=家长吐槽新版教材「防自学」)
 1. [麦琳 熏鸡事变](https://www.zhihu.com/search?q=麦琳 熏鸡事变)
@@ -28,6 +27,8 @@
    95%成凑单神器)
 1. [拉夫劳伦成双11最惨凑单神器](https://www.zhihu.com/search?q=拉夫劳伦成双11最惨凑单神器)
 1. [上海一幼儿园开设理科班](https://www.zhihu.com/search?q=上海一幼儿园开设理科班)
+1. [幼儿园招聘需做背景查询和健康检查](https://www.zhihu.com/search?q=幼儿园招聘需做背景查询和健康检查)
+1. [坚持上班的理由](https://www.zhihu.com/search?q=坚持上班的理由)
 1. [哈里斯发表讲话承认败选](https://www.zhihu.com/search?q=哈里斯发表讲话承认败选)
 1. [日本石破内阁集体辞职](https://www.zhihu.com/search?q=日本石破内阁集体辞职)
 1. [麦琳退了女儿喜欢的汉服](https://www.zhihu.com/search?q=麦琳退了女儿喜欢的汉服)
