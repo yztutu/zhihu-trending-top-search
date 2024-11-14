@@ -15,12 +15,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 14 2024 15:11:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 14 2024 16:15:45 GMT+0800 (China Standard Time) -->
 
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [为何古人不用琥珀来给尸体做防腐](https://www.zhihu.com/search?q=为何古人不用琥珀来给尸体做防腐)
 1. [直接安排 10 万亿元](https://www.zhihu.com/search?q=直接安排 10 万亿元)
 1. [近年来力度最大的化债举措](https://www.zhihu.com/search?q=近年来力度最大的化债举措)
+1. [家长吐槽新版教材「防自学」](https://www.zhihu.com/search?q=家长吐槽新版教材「防自学」)
 1. [麦琳 熏鸡事变](https://www.zhihu.com/search?q=麦琳 熏鸡事变)
 1. [滞留太空的美宇航员瘦成锥子脸](https://www.zhihu.com/search?q=滞留太空的美宇航员瘦成锥子脸)
 1. [李行亮觉醒](https://www.zhihu.com/search?q=李行亮觉醒)
@@ -33,7 +34,6 @@
 1. [疑儿子在盒马鲜生摔倒没人扶妈妈砸店](https://www.zhihu.com/search?q=疑儿子在盒马鲜生摔倒没人扶妈妈砸店)
 1. [拉夫劳伦退货率 95%成凑单神器](https://www.zhihu.com/search?q=拉夫劳伦退货率
    95%成凑单神器)
-1. [家长吐槽新版教材「防自学」](https://www.zhihu.com/search?q=家长吐槽新版教材「防自学」)
 
 <!-- END -->
 
