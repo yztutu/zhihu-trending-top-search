@@ -3,10 +3,6 @@
   { "query": "国足", "display_query": "国足" },
   { "query": "31 省份平均工资公布", "display_query": "31 省份平均工资公布" },
   {
-    "query": "家长吐槽新版教材「防自学」",
-    "display_query": "家长吐槽新版教材「防自学」"
-  },
-  {
     "query": "滞留太空的美宇航员瘦成锥子脸",
     "display_query": "滞留太空的美宇航员瘦成锥子脸"
   },
@@ -20,7 +16,12 @@
     "display_query": "幼儿园招聘需做背景查询和健康检查"
   },
   { "query": "拜登是真傻还是装傻", "display_query": "拜登是真傻还是装傻" },
+  { "query": "叶珂退网", "display_query": "叶珂退网" },
   { "query": "AI在数字化转型应用", "display_query": "AI在数字化转型应用" },
+  {
+    "query": "家长吐槽新版教材「防自学」",
+    "display_query": "家长吐槽新版教材「防自学」"
+  },
   {
     "query": "为何古人不用琥珀来给尸体做防腐",
     "display_query": "为何古人不用琥珀来给尸体做防腐"
@@ -31,7 +32,6 @@
     "display_query": "小度ai眼镜亮相百度世界2024"
   },
   { "query": "ESG备考资料分享", "display_query": "ESG备考资料分享" },
-  { "query": "叶珂退网", "display_query": "叶珂退网" },
   { "query": "11 月「四台共舞」", "display_query": "11 月「四台共舞」" },
   { "query": "日产净利润暴跌94%", "display_query": "日产净利润暴跌94%" },
   { "query": "直接安排 10 万亿元", "display_query": "直接安排 10 万亿元" },
