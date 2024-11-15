@@ -1,5 +1,4 @@
 [
-  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   { "query": "王曼昱vs王艺迪", "display_query": "王曼昱vs王艺迪" },
   { "query": "国足", "display_query": "国足" },
   { "query": "31 省份平均工资公布", "display_query": "31 省份平均工资公布" },
@@ -24,6 +23,8 @@
     "display_query": "幼儿园招聘需做背景查询和健康检查"
   },
   { "query": "拜登是真傻还是装傻", "display_query": "拜登是真傻还是装傻" },
+  { "query": "AI在数字化转型应用", "display_query": "AI在数字化转型应用" },
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   {
     "query": "小度ai眼镜亮相百度世界2024",
     "display_query": "小度ai眼镜亮相百度世界2024"
