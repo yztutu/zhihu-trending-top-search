@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 16 2024 23:10:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 17 2024 00:13:57 GMT+0800 (China Standard Time) -->
 
 1. [王曼昱vs王艺迪](https://www.zhihu.com/search?q=王曼昱vs王艺迪)
 1. [国足](https://www.zhihu.com/search?q=国足)
@@ -27,9 +27,6 @@
 1. [叶珂退网](https://www.zhihu.com/search?q=叶珂退网)
 1. [AI在数字化转型应用](https://www.zhihu.com/search?q=AI在数字化转型应用)
 1. [产品经理思维](https://www.zhihu.com/search?q=产品经理思维)
-1. [家长吐槽新版教材「防自学」](https://www.zhihu.com/search?q=家长吐槽新版教材「防自学」)
-1. [滞留太空的美宇航员瘦成锥子脸](https://www.zhihu.com/search?q=滞留太空的美宇航员瘦成锥子脸)
-1. [疑儿子在盒马鲜生摔倒没人扶妈妈砸店](https://www.zhihu.com/search?q=疑儿子在盒马鲜生摔倒没人扶妈妈砸店)
 
 <!-- END -->
 
