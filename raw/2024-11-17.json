@@ -1,9 +1,6 @@
 [
-  {
-    "query": "国足客战巴林首发名单出炉",
-    "display_query": "国足客战巴林首发名单出炉"
-  },
-  { "query": "肖国栋vs奥沙利文", "display_query": "肖国栋vs奥沙利文" },
+  { "query": "王曼昱vs王艺迪", "display_query": "王曼昱vs王艺迪" },
+  { "query": "国足", "display_query": "国足" },
   { "query": "31省份平均工资公布", "display_query": "31省份平均工资公布" },
   { "query": "李行亮觉醒", "display_query": "李行亮觉醒" },
   {
@@ -18,6 +15,9 @@
   { "query": "叶珂退网", "display_query": "叶珂退网" },
   { "query": "AI在数字化转型应用", "display_query": "AI在数字化转型应用" },
   { "query": "产品经理思维", "display_query": "产品经理思维" },
-  { "query": "王曼昱vs王艺迪", "display_query": "王曼昱vs王艺迪" },
-  { "query": "国足", "display_query": "国足" }
+  {
+    "query": "国足客战巴林首发名单出炉",
+    "display_query": "国足客战巴林首发名单出炉"
+  },
+  { "query": "肖国栋vs奥沙利文", "display_query": "肖国栋vs奥沙利文" }
 ]
