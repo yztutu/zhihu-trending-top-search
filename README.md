@@ -15,18 +15,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 18 2024 13:12:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 18 2024 14:18:08 GMT+0800 (China Standard Time) -->
 
 1. [支付宝崩了](https://www.zhihu.com/search?q=支付宝崩了)
 1. [男人最无声的炫耀是什么](https://www.zhihu.com/search?q=男人最无声的炫耀是什么)
-1. [幼儿园招聘需做背景查询和健康检查](https://www.zhihu.com/search?q=幼儿园招聘需做背景查询和健康检查)
 1. [支付宝致歉](https://www.zhihu.com/search?q=支付宝致歉)
+1. [歼-35A在珠海进行动态展示](https://www.zhihu.com/search?q=歼-35A在珠海进行动态展示)
 1. [苹果高管谈新 Mac mini
    电源键设计](https://www.zhihu.com/search?q=苹果高管谈新 Mac mini 电源键设计)
+1. [歼-35A 展示筋斗动作完成航展首秀](https://www.zhihu.com/search?q=歼-35A
+   展示筋斗动作完成航展首秀)
+1. [歼-35A 开加力出现马赫环](https://www.zhihu.com/search?q=歼-35A
+   开加力出现马赫环)
 1. [麦琳让《再见爱人》火到了国外](https://www.zhihu.com/search?q=麦琳让《再见爱人》火到了国外)
 1. [腾讯第三季度营收 1672 亿](https://www.zhihu.com/search?q=腾讯第三季度营收
    1672 亿)
 1. [2024 广州车展](https://www.zhihu.com/search?q=2024 广州车展)
+1. [幼儿园招聘需做背景查询和健康检查](https://www.zhihu.com/search?q=幼儿园招聘需做背景查询和健康检查)
 1. [天舟八号](https://www.zhihu.com/search?q=天舟八号)
 1. [大学生300元抢6399元电车提车被拒](https://www.zhihu.com/search?q=大学生300元抢6399元电车提车被拒)
 1. [五粮液再炮轰某平台百亿补贴有假酒](https://www.zhihu.com/search?q=五粮液再炮轰某平台百亿补贴有假酒)
