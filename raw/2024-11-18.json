@@ -1,6 +1,5 @@
 [
   { "query": "支付宝崩了", "display_query": "支付宝崩了" },
-  { "query": "李行亮觉醒", "display_query": "李行亮觉醒" },
   {
     "query": "幼儿园招聘需做背景查询和健康检查",
     "display_query": "幼儿园招聘需做背景查询和健康检查"
@@ -21,6 +20,11 @@
   },
   { "query": "再见爱人火到国外", "display_query": "再见爱人火到国外" },
   { "query": "李子柒更新了", "display_query": "李子柒更新了" },
+  {
+    "query": "腾讯第三季度营收 1672 亿",
+    "display_query": "腾讯第三季度营收 1672 亿"
+  },
+  { "query": "李行亮觉醒", "display_query": "李行亮觉醒" },
   { "query": "王曼昱vs王艺迪", "display_query": "王曼昱vs王艺迪" },
   { "query": "31省份平均工资公布", "display_query": "31省份平均工资公布" },
   { "query": "凌妙妙失忆了", "display_query": "凌妙妙失忆了" }
