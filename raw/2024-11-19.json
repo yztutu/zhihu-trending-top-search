@@ -1,16 +1,12 @@
 [
-  {
-    "query": "「死神千年血战篇」第三季相克谭开播",
-    "display_query": "「死神千年血战篇」第三季相克谭开播"
-  },
+  { "query": "勇士vs快船", "display_query": "勇士vs快船" },
   { "query": "创业板指跌逾1%", "display_query": "创业板指跌逾1%" },
-  { "query": "支付宝崩了", "display_query": "支付宝崩了" },
   { "query": "独行侠险胜雷霆", "display_query": "独行侠险胜雷霆" },
+  { "query": "国足进球了", "display_query": "国足进球了" },
   {
     "query": "男人最无声的炫耀是什么",
     "display_query": "男人最无声的炫耀是什么"
   },
-  { "query": "支付宝致歉", "display_query": "支付宝致歉" },
   {
     "query": "男子被误诊感染 HPV 治疗 10 天花光积蓄",
     "display_query": "男子被误诊感染 HPV 治疗 10 天花光积蓄"
@@ -22,6 +18,16 @@
   { "query": "李行亮 求救信号", "display_query": "李行亮 求救信号" },
   { "query": "国足赢了", "display_query": "国足赢了" },
   {
+    "query": "证监会正式发布市值管理指引",
+    "display_query": "证监会正式发布市值管理指引"
+  },
+  {
+    "query": "「死神千年血战篇」第三季相克谭开播",
+    "display_query": "「死神千年血战篇」第三季相克谭开播"
+  },
+  { "query": "支付宝崩了", "display_query": "支付宝崩了" },
+  { "query": "支付宝致歉", "display_query": "支付宝致歉" },
+  {
     "query": "官方辟谣济南万象汇发生坠楼事件",
     "display_query": "官方辟谣济南万象汇发生坠楼事件"
   },
@@ -29,7 +35,6 @@
     "query": "京东 CEO 许冉谈「用户心智提升」",
     "display_query": "京东 CEO 许冉谈「用户心智提升」"
   },
-  { "query": "勇士vs快船", "display_query": "勇士vs快船" },
   {
     "query": "苏-57 上演旱地拔葱落叶飘等高难动作",
     "display_query": "苏-57 上演旱地拔葱落叶飘等高难动作"
