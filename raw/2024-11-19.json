@@ -10,18 +10,6 @@
   },
   { "query": "支付宝致歉", "display_query": "支付宝致歉" },
   {
-    "query": "歼-35A在珠海进行动态展示",
-    "display_query": "歼-35A在珠海进行动态展示"
-  },
-  {
-    "query": "歼-35A 展示筋斗动作完成航展首秀",
-    "display_query": "歼-35A 展示筋斗动作完成航展首秀"
-  },
-  {
-    "query": "歼-35A 开加力出现马赫环",
-    "display_query": "歼-35A 开加力出现马赫环"
-  },
-  {
     "query": "苏-57 上演旱地拔葱落叶飘等高难动作",
     "display_query": "苏-57 上演旱地拔葱落叶飘等高难动作"
   },
@@ -34,12 +22,29 @@
     "display_query": "腾讯第三季度营收 1672 亿"
   },
   {
-    "query": "Mate70 预约量突破 150 万",
-    "display_query": "Mate70 预约量突破 150 万"
-  },
-  {
     "query": "美国10月cpi同比上升2.6%",
     "display_query": "美国10月cpi同比上升2.6%"
+  },
+  { "query": "李行亮 求救信号", "display_query": "李行亮 求救信号" },
+  {
+    "query": "马斯克或因与俄官员通话遭调查",
+    "display_query": "马斯克或因与俄官员通话遭调查"
+  },
+  {
+    "query": "歼-35A在珠海进行动态展示",
+    "display_query": "歼-35A在珠海进行动态展示"
+  },
+  {
+    "query": "歼-35A 展示筋斗动作完成航展首秀",
+    "display_query": "歼-35A 展示筋斗动作完成航展首秀"
+  },
+  {
+    "query": "歼-35A 开加力出现马赫环",
+    "display_query": "歼-35A 开加力出现马赫环"
+  },
+  {
+    "query": "Mate70 预约量突破 150 万",
+    "display_query": "Mate70 预约量突破 150 万"
   },
   { "query": "王者荣耀女娲重做", "display_query": "王者荣耀女娲重做" },
   {
