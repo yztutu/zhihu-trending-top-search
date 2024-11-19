@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 19 2024 16:16:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 19 2024 17:13:07 GMT+0800 (China Standard Time) -->
 
 1. [创业板指跌逾1%](https://www.zhihu.com/search?q=创业板指跌逾1%)
 1. [支付宝崩了](https://www.zhihu.com/search?q=支付宝崩了)
@@ -23,6 +23,9 @@
 1. [MacOS真的比Windows流畅吗](https://www.zhihu.com/search?q=MacOS真的比Windows流畅吗)
 1. [男人最无声的炫耀是什么](https://www.zhihu.com/search?q=男人最无声的炫耀是什么)
 1. [支付宝致歉](https://www.zhihu.com/search?q=支付宝致歉)
+1. [男子被误诊感染 HPV 治疗 10
+   天花光积蓄](https://www.zhihu.com/search?q=男子被误诊感染 HPV 治疗 10
+   天花光积蓄)
 1. [苏-57 上演旱地拔葱落叶飘等高难动作](https://www.zhihu.com/search?q=苏-57
    上演旱地拔葱落叶飘等高难动作)
 1. [俄传奇试飞员驾驶苏-57
