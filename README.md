@@ -15,12 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 19 2024 17:13:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 19 2024 18:13:03 GMT+0800 (China Standard Time) -->
 
 1. [创业板指跌逾1%](https://www.zhihu.com/search?q=创业板指跌逾1%)
 1. [支付宝崩了](https://www.zhihu.com/search?q=支付宝崩了)
 1. [独行侠险胜雷霆](https://www.zhihu.com/search?q=独行侠险胜雷霆)
-1. [MacOS真的比Windows流畅吗](https://www.zhihu.com/search?q=MacOS真的比Windows流畅吗)
 1. [男人最无声的炫耀是什么](https://www.zhihu.com/search?q=男人最无声的炫耀是什么)
 1. [支付宝致歉](https://www.zhihu.com/search?q=支付宝致歉)
 1. [男子被误诊感染 HPV 治疗 10
@@ -33,8 +32,9 @@
    炫高难度动作)
 1. [腾讯第三季度营收 1672 亿](https://www.zhihu.com/search?q=腾讯第三季度营收
    1672 亿)
-1. [美国10月cpi同比上升2.6%](https://www.zhihu.com/search?q=美国10月cpi同比上升2.6%)
 1. [李行亮 求救信号](https://www.zhihu.com/search?q=李行亮 求救信号)
+1. [MacOS真的比Windows流畅吗](https://www.zhihu.com/search?q=MacOS真的比Windows流畅吗)
+1. [美国10月cpi同比上升2.6%](https://www.zhihu.com/search?q=美国10月cpi同比上升2.6%)
 1. [马斯克或因与俄官员通话遭调查](https://www.zhihu.com/search?q=马斯克或因与俄官员通话遭调查)
 1. [歼-35A在珠海进行动态展示](https://www.zhihu.com/search?q=歼-35A在珠海进行动态展示)
 1. [歼-35A 展示筋斗动作完成航展首秀](https://www.zhihu.com/search?q=歼-35A
