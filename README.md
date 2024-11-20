@@ -15,8 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 20 2024 18:13:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 20 2024 19:10:08 GMT+0800 (China Standard Time) -->
 
+1. [辛纳夺得atp年终总决赛冠军](https://www.zhihu.com/search?q=辛纳夺得atp年终总决赛冠军)
 1. [勇士vs快船](https://www.zhihu.com/search?q=勇士vs快船)
 1. [早期的的网红后来怎么样了](https://www.zhihu.com/search?q=早期的的网红后来怎么样了)
 1. [国足进球了](https://www.zhihu.com/search?q=国足进球了)
