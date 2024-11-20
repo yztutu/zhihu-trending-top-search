@@ -1,5 +1,4 @@
 [
-  { "query": "勇士vs快船", "display_query": "勇士vs快船" },
   {
     "query": "早期的的网红后来怎么样了",
     "display_query": "早期的的网红后来怎么样了"
@@ -14,7 +13,6 @@
     "display_query": "男子被误诊感染 HPV 治疗 10 天花光积蓄"
   },
   { "query": "李子柒身份证已改名", "display_query": "李子柒身份证已改名" },
-  { "query": "国足赢了", "display_query": "国足赢了" },
   {
     "query": "证监会正式发布市值管理指引",
     "display_query": "证监会正式发布市值管理指引"
@@ -35,6 +33,8 @@
     "query": "王骁 金鸡奖最佳男配角",
     "display_query": "王骁 金鸡奖最佳男配角"
   },
+  { "query": "勇士vs快船", "display_query": "勇士vs快船" },
+  { "query": "国足赢了", "display_query": "国足赢了" },
   { "query": "创业板指跌逾1%", "display_query": "创业板指跌逾1%" },
   { "query": "独行侠险胜雷霆", "display_query": "独行侠险胜雷霆" },
   {
