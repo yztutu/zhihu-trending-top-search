@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 21 2024 08:58:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 21 2024 10:21:28 GMT+0800 (China Standard Time) -->
 
-1. [Mate 70 预约量突破 150 万](https://www.zhihu.com/search?q=Mate 70 预约量突破
-   150 万)
+1. [tvb台庆](https://www.zhihu.com/search?q=tvb台庆)
 1. [勇士vs快船](https://www.zhihu.com/search?q=勇士vs快船)
 1. [早期的的网红后来怎么样了](https://www.zhihu.com/search?q=早期的的网红后来怎么样了)
 1. [国足进球了](https://www.zhihu.com/search?q=国足进球了)
@@ -28,7 +27,8 @@
 1. [武磊因伤无缘战巴林](https://www.zhihu.com/search?q=武磊因伤无缘战巴林)
 1. [李子柒身份证已改名](https://www.zhihu.com/search?q=李子柒身份证已改名)
 1. [国足赢了](https://www.zhihu.com/search?q=国足赢了)
-1. [tvb台庆](https://www.zhihu.com/search?q=tvb台庆)
+1. [Mate 70 预约量突破 150 万](https://www.zhihu.com/search?q=Mate 70 预约量突破
+   150 万)
 
 <!-- END -->
 
