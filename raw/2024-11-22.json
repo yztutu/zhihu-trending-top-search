@@ -1,9 +1,6 @@
 [
-  {
-    "query": "拼多多第三季度营收 993.5 亿元人民币",
-    "display_query": "拼多多第三季度营收 993.5 亿元人民币"
-  },
-  { "query": "麦琳难哄", "display_query": "麦琳难哄" },
+  { "query": "今日小雪", "display_query": "今日小雪" },
+  { "query": "为什么古代紫色稀有", "display_query": "为什么古代紫色稀有" },
   { "query": "勇士vs快船", "display_query": "勇士vs快船" },
   {
     "query": "早期的的网红后来怎么样了",
@@ -24,8 +21,11 @@
     "query": "阿根廷 10 月单月通胀率 2.7%",
     "display_query": "阿根廷 10 月单月通胀率 2.7%"
   },
-  { "query": "今日小雪", "display_query": "今日小雪" },
-  { "query": "为什么古代紫色稀有", "display_query": "为什么古代紫色稀有" },
+  {
+    "query": "拼多多第三季度营收 993.5 亿元人民币",
+    "display_query": "拼多多第三季度营收 993.5 亿元人民币"
+  },
+  { "query": "麦琳难哄", "display_query": "麦琳难哄" },
   { "query": "孙颖莎vs陈幸同", "display_query": "孙颖莎vs陈幸同" },
   { "query": "梁靖崑vs张本智和", "display_query": "梁靖崑vs张本智和" },
   { "query": "吉林一滑冰馆发生坍塌", "display_query": "吉林一滑冰馆发生坍塌" },
