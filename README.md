@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 22 2024 17:13:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 22 2024 18:13:02 GMT+0800 (China Standard Time) -->
 
-1. [缅北规模化电诈园区全部被铲除](https://www.zhihu.com/search?q=缅北规模化电诈园区全部被铲除)
+1. [今日小雪](https://www.zhihu.com/search?q=今日小雪)
+1. [为什么古代紫色稀有](https://www.zhihu.com/search?q=为什么古代紫色稀有)
 1. [勇士vs快船](https://www.zhihu.com/search?q=勇士vs快船)
 1. [早期的的网红后来怎么样了](https://www.zhihu.com/search?q=早期的的网红后来怎么样了)
 1. [乌克兰多地遭导弹袭击](https://www.zhihu.com/search?q=乌克兰多地遭导弹袭击)
@@ -27,9 +28,8 @@
 1. [CPU 温度是越低越好吗](https://www.zhihu.com/search?q=CPU 温度是越低越好吗)
 1. [阿根廷 10 月单月通胀率 2.7%](https://www.zhihu.com/search?q=阿根廷 10
    月单月通胀率 2.7%)
+1. [缅北规模化电诈园区全部被铲除](https://www.zhihu.com/search?q=缅北规模化电诈园区全部被铲除)
 1. [米莱宣布创造阿根廷奇迹](https://www.zhihu.com/search?q=米莱宣布创造阿根廷奇迹)
-1. [今日小雪](https://www.zhihu.com/search?q=今日小雪)
-1. [为什么古代紫色稀有](https://www.zhihu.com/search?q=为什么古代紫色稀有)
 1. [拼多多第三季度营收 993.5
    亿元人民币](https://www.zhihu.com/search?q=拼多多第三季度营收 993.5
    亿元人民币)
