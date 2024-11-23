@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 23 2024 19:08:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 23 2024 20:21:27 GMT+0800 (China Standard Time) -->
 
 1. [今日小雪](https://www.zhihu.com/search?q=今日小雪)
 1. [为什么古代紫色稀有](https://www.zhihu.com/search?q=为什么古代紫色稀有)
@@ -26,6 +26,7 @@
 1. [如何看待国企的末尾淘汰制度](https://www.zhihu.com/search?q=如何看待国企的末尾淘汰制度)
 1. [CPU 温度是越低越好吗](https://www.zhihu.com/search?q=CPU 温度是越低越好吗)
 1. [疑《再见爱人》工作人员吐槽麦琳成天哭](https://www.zhihu.com/search?q=疑《再见爱人》工作人员吐槽麦琳成天哭)
+1. [甄嬛传播出13周年](https://www.zhihu.com/search?q=甄嬛传播出13周年)
 1. [NASA 准备紧急撤离国际空间站](https://www.zhihu.com/search?q=NASA
    准备紧急撤离国际空间站)
 1. [湖南三所高校实施学分互认](https://www.zhihu.com/search?q=湖南三所高校实施学分互认)
