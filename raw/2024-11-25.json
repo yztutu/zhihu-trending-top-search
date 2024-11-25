@@ -1,16 +1,10 @@
 [
-  {
-    "query": "董宇辉改任与辉同行董事",
-    "display_query": "董宇辉改任与辉同行董事"
-  },
+  { "query": "王曼昱女单冠军", "display_query": "王曼昱女单冠军" },
+  { "query": "德云社纲丝节", "display_query": "德云社纲丝节" },
   { "query": "掘金vs湖人", "display_query": "掘金vs湖人" },
   { "query": "张本智和", "display_query": "张本智和" },
   { "query": "王楚钦", "display_query": "王楚钦" },
   { "query": "时代少年团演唱会直播", "display_query": "时代少年团演唱会直播" },
-  {
-    "query": "比亚迪第1000万辆新能源汽车下线",
-    "display_query": "比亚迪第1000万辆新能源汽车下线"
-  },
   {
     "query": "钟睒睒称看不起直播带货的企业家",
     "display_query": "钟睒睒称看不起直播带货的企业家"
@@ -21,6 +15,14 @@
   },
   { "query": "国足取消冬训计划", "display_query": "国足取消冬训计划" },
   { "query": "叶珂注销账号", "display_query": "叶珂注销账号" },
+  {
+    "query": "董宇辉改任与辉同行董事",
+    "display_query": "董宇辉改任与辉同行董事"
+  },
+  {
+    "query": "比亚迪第1000万辆新能源汽车下线",
+    "display_query": "比亚迪第1000万辆新能源汽车下线"
+  },
   { "query": "南安普顿 2:3 利物浦", "display_query": "南安普顿 2:3 利物浦" },
   { "query": "乌克兰多地遭导弹袭击", "display_query": "乌克兰多地遭导弹袭击" },
   {
