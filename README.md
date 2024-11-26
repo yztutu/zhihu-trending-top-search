@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 26 2024 23:13:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 27 2024 00:15:43 GMT+0800 (China Standard Time) -->
 
 1. [黑龙江发布暴雪红色预警](https://www.zhihu.com/search?q=黑龙江发布暴雪红色预警)
 1. [光遇复刻](https://www.zhihu.com/search?q=光遇复刻)
@@ -27,14 +27,6 @@
 1. [电商运营入门](https://www.zhihu.com/search?q=电商运营入门)
 1. [小红书赚钱技巧](https://www.zhihu.com/search?q=小红书赚钱技巧)
 1. [加入知乎推文团队](https://www.zhihu.com/search?q=加入知乎推文团队)
-1. [拉萨冬季饮品消费市场暖起来](https://www.zhihu.com/search?q=拉萨冬季饮品消费市场暖起来)
-1. [普通人使用ChatGPT方法](https://www.zhihu.com/search?q=普通人使用ChatGPT方法)
-1. [麦琳 熏鸡事变](https://www.zhihu.com/search?q=麦琳 熏鸡事变)
-1. [王曼昱女单冠军](https://www.zhihu.com/search?q=王曼昱女单冠军)
-1. [掘金vs湖人](https://www.zhihu.com/search?q=掘金vs湖人)
-1. [时代少年团演唱会直播](https://www.zhihu.com/search?q=时代少年团演唱会直播)
-1. [张本智和](https://www.zhihu.com/search?q=张本智和)
-1. [王楚钦](https://www.zhihu.com/search?q=王楚钦)
 
 <!-- END -->
 
