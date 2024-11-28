@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 28 2024 19:10:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 28 2024 20:24:25 GMT+0800 (China Standard Time) -->
 
 1. [王曼昱女单冠军](https://www.zhihu.com/search?q=王曼昱女单冠军)
 1. [湖人vs太阳](https://www.zhihu.com/search?q=湖人vs太阳)
