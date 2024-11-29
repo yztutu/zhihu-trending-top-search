@@ -15,12 +15,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 29 2024 10:26:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 29 2024 11:27:43 GMT+0800 (China Standard Time) -->
 
 1. [王曼昱女单冠军](https://www.zhihu.com/search?q=王曼昱女单冠军)
 1. [湖人vs太阳](https://www.zhihu.com/search?q=湖人vs太阳)
 1. [全国冻手冻脚地图出炉](https://www.zhihu.com/search?q=全国冻手冻脚地图出炉)
 1. [为什么中国学生学不好英语](https://www.zhihu.com/search?q=为什么中国学生学不好英语)
+1. [《封神第二部》定档](https://www.zhihu.com/search?q=《封神第二部》定档)
 1. [短剧推广与授权](https://www.zhihu.com/search?q=短剧推广与授权)
 1. [小说推文授权申请](https://www.zhihu.com/search?q=小说推文授权申请)
 1. [电商运营入门](https://www.zhihu.com/search?q=电商运营入门)
