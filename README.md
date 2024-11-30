@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 30 2024 23:11:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 01 2024 00:13:06 GMT+0800 (China Standard Time) -->
 
 1. [a股](https://www.zhihu.com/search?q=a股)
 1. [](https://www.zhihu.com/search?q=)
@@ -27,7 +27,6 @@
 1. [小说推文授权申请](https://www.zhihu.com/search?q=小说推文授权申请)
 1. [电商运营入门](https://www.zhihu.com/search?q=电商运营入门)
 1. [小红书赚钱技巧](https://www.zhihu.com/search?q=小红书赚钱技巧)
-1. [为什么中国学生学不好英语](https://www.zhihu.com/search?q=为什么中国学生学不好英语)
 
 <!-- END -->
 
