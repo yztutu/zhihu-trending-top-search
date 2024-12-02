@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 02 2024 13:12:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 02 2024 14:18:26 GMT+0800 (China Standard Time) -->
 
 1. [a股](https://www.zhihu.com/search?q=a股)
 1. [王曼昱女单冠军](https://www.zhihu.com/search?q=王曼昱女单冠军)
@@ -25,6 +25,8 @@
 1. [国考弃考](https://www.zhihu.com/search?q=国考弃考)
 1. [你见过的狠人有多绝](https://www.zhihu.com/search?q=你见过的狠人有多绝)
 1. [为何诸葛亮墓始终无人敢盗](https://www.zhihu.com/search?q=为何诸葛亮墓始终无人敢盗)
+1. [华为 Mate 70 价格](https://www.zhihu.com/search?q=华为 Mate 70 价格)
+1. [94岁巴菲特公布后事安排](https://www.zhihu.com/search?q=94岁巴菲特公布后事安排)
 1. [Northvolt在美国申请破产保护](https://www.zhihu.com/search?q=Northvolt在美国申请破产保护)
 1. [奥运冠军管晨辰怒斥吴柳芳擦边](https://www.zhihu.com/search?q=奥运冠军管晨辰怒斥吴柳芳擦边)
 1. [](https://www.zhihu.com/search?q=)
