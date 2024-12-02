@@ -1,5 +1,4 @@
 [
-  { "query": "a股", "display_query": "a股" },
   { "query": "国考笔试", "display_query": "国考笔试" },
   { "query": "申论", "display_query": "申论" },
   { "query": "申论大作文", "display_query": "申论大作文" },
@@ -12,12 +11,17 @@
   },
   { "query": "华为 Mate 70 价格", "display_query": "华为 Mate 70 价格" },
   {
-    "query": "94岁巴菲特公布后事安排",
-    "display_query": "94岁巴菲特公布后事安排"
-  },
-  {
     "query": "胖东来今年销售额已超 146 亿元",
     "display_query": "胖东来今年销售额已超 146 亿元"
+  },
+  {
+    "query": "于东来公布胖东来经营情况",
+    "display_query": "于东来公布胖东来经营情况"
+  },
+  { "query": "a股", "display_query": "a股" },
+  {
+    "query": "94岁巴菲特公布后事安排",
+    "display_query": "94岁巴菲特公布后事安排"
   },
   { "query": "王曼昱女单冠军", "display_query": "王曼昱女单冠军" },
   {
