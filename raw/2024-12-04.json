@@ -1,7 +1,5 @@
 [
   { "query": "国考笔试", "display_query": "国考笔试" },
-  { "query": "申论", "display_query": "申论" },
-  { "query": "申论大作文", "display_query": "申论大作文" },
   { "query": "国考弃考", "display_query": "国考弃考" },
   {
     "query": "为什么检查上级都会提前通知",
@@ -20,15 +18,17 @@
   },
   { "query": "华为纯血鸿蒙平板", "display_query": "华为纯血鸿蒙平板" },
   {
+    "query": "家长只喂米糊两月龄宝宝多脏器衰竭",
+    "display_query": "家长只喂米糊两月龄宝宝多脏器衰竭"
+  },
+  { "query": "申论", "display_query": "申论" },
+  { "query": "申论大作文", "display_query": "申论大作文" },
+  {
     "query": "全球咖啡豆价格飙升至近50年来最高水平",
     "display_query": "全球咖啡豆价格飙升至近50年来最高水平"
   },
   {
     "query": "韩国11月cpi同比上涨1.5%",
     "display_query": "韩国11月cpi同比上涨1.5%"
-  },
-  {
-    "query": "家长只喂米糊两月龄宝宝多脏器衰竭",
-    "display_query": "家长只喂米糊两月龄宝宝多脏器衰竭"
   }
 ]
