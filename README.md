@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 05 2024 03:12:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 05 2024 04:13:32 GMT+0800 (China Standard Time) -->
 
 1. [为什么检查上级都会提前通知](https://www.zhihu.com/search?q=为什么检查上级都会提前通知)
 1. [你见过的狠人有多绝](https://www.zhihu.com/search?q=你见过的狠人有多绝)
