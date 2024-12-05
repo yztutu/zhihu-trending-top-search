@@ -1,6 +1,8 @@
 [
-  { "query": "国考笔试", "display_query": "国考笔试" },
-  { "query": "国考弃考", "display_query": "国考弃考" },
+  {
+    "query": "为什么中国大陆要大力发展国产大飞机",
+    "display_query": "为什么中国大陆要大力发展国产大飞机"
+  },
   {
     "query": "为什么检查上级都会提前通知",
     "display_query": "为什么检查上级都会提前通知"
@@ -15,6 +17,12 @@
   { "query": "姆巴佩失点", "display_query": "姆巴佩失点" },
   { "query": "雷霆 105:101 勇士", "display_query": "雷霆 105:101 勇士" },
   { "query": "今年国考上岸难度", "display_query": "今年国考上岸难度" },
+  {
+    "query": "爱德华兹表示森林狼队内气氛不佳",
+    "display_query": "爱德华兹表示森林狼队内气氛不佳"
+  },
+  { "query": "国考笔试", "display_query": "国考笔试" },
+  { "query": "国考弃考", "display_query": "国考弃考" },
   { "query": "湖人vs森林狼", "display_query": "湖人vs森林狼" },
   { "query": "你见过的狠人有多绝", "display_query": "你见过的狠人有多绝" },
   {
