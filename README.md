@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 05 2024 21:23:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 05 2024 22:12:03 GMT+0800 (China Standard Time) -->
 
 1. [国考笔试](https://www.zhihu.com/search?q=国考笔试)
 1. [国考弃考](https://www.zhihu.com/search?q=国考弃考)
