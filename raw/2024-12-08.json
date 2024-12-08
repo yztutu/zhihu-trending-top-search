@@ -13,7 +13,6 @@
     "query": "如何评价电视剧我是刑警",
     "display_query": "如何评价电视剧我是刑警"
   },
-  { "query": "麦琳李行亮和好", "display_query": "麦琳李行亮和好" },
   {
     "query": "退役运动员转型面临哪些问题",
     "display_query": "退役运动员转型面临哪些问题"
@@ -23,5 +22,7 @@
   {
     "query": "伊朗外长称美国破坏地区稳定",
     "display_query": "伊朗外长称美国破坏地区稳定"
-  }
+  },
+  { "query": "拆解华为mate70", "display_query": "拆解华为mate70" },
+  { "query": "麦琳李行亮和好", "display_query": "麦琳李行亮和好" }
 ]
