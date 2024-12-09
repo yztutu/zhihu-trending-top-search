@@ -1,5 +1,9 @@
 [
   { "query": "广州马拉松", "display_query": "广州马拉松" },
+  {
+    "query": "部分中小银行逆势上调存款利率",
+    "display_query": "部分中小银行逆势上调存款利率"
+  },
   { "query": "有哪些演员戏路很窄", "display_query": "有哪些演员戏路很窄" },
   {
     "query": "数学是从什么时候开始反直觉的",
@@ -13,6 +17,7 @@
     "query": "朱啸虎公开回应月之暗面纠纷",
     "display_query": "朱啸虎公开回应月之暗面纠纷"
   },
+  { "query": "琼瑶儿子发声", "display_query": "琼瑶儿子发声" },
   {
     "query": "OpenAI 推出推理模型 o1 和 ChatGPT Pro",
     "display_query": "OpenAI 推出推理模型 o1 和 ChatGPT Pro"
