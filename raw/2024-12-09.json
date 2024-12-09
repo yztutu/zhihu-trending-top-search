@@ -23,20 +23,20 @@
   },
   { "query": "琼瑶儿子发声", "display_query": "琼瑶儿子发声" },
   {
-    "query": "OpenAI 推出推理模型 o1 和 ChatGPT Pro",
-    "display_query": "OpenAI 推出推理模型 o1 和 ChatGPT Pro"
-  },
-  {
     "query": "哥伦比亚一机库发现约 2 万具尸体",
     "display_query": "哥伦比亚一机库发现约 2 万具尸体"
   },
   {
-    "query": "OpenAI 世界最贵大模型",
-    "display_query": "OpenAI 世界最贵大模型"
-  },
-  {
     "query": "叙利亚反对派武装攻入哈马市",
     "display_query": "叙利亚反对派武装攻入哈马市"
+  },
+  {
+    "query": "OpenAI 推出推理模型 o1 和 ChatGPT Pro",
+    "display_query": "OpenAI 推出推理模型 o1 和 ChatGPT Pro"
+  },
+  {
+    "query": "OpenAI 世界最贵大模型",
+    "display_query": "OpenAI 世界最贵大模型"
   },
   {
     "query": "当地回应 2 万具尸体事件",
