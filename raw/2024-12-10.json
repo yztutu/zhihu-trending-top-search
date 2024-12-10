@@ -8,6 +8,8 @@
     "query": "纳斯达克中国金龙指数大涨",
     "display_query": "纳斯达克中国金龙指数大涨"
   },
+  { "query": "A股高开低走", "display_query": "A股高开低走" },
+  { "query": "A股三大指数高开", "display_query": "A股三大指数高开" },
   {
     "query": "数学是从什么时候开始反直觉的",
     "display_query": "数学是从什么时候开始反直觉的"
