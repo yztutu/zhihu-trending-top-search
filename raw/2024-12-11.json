@@ -1,4 +1,6 @@
 [
+  { "query": "有哪些演员戏路很窄", "display_query": "有哪些演员戏路很窄" },
+  { "query": "照骗能骗到什么程度", "display_query": "照骗能骗到什么程度" },
   { "query": "A股高开低走", "display_query": "A股高开低走" },
   { "query": "A股三大指数高开", "display_query": "A股三大指数高开" },
   {
@@ -33,8 +35,6 @@
     "query": "马斯克再批激光雷达智驾方案",
     "display_query": "马斯克再批激光雷达智驾方案"
   },
-  { "query": "有哪些演员戏路很窄", "display_query": "有哪些演员戏路很窄" },
-  { "query": "照骗能骗到什么程度", "display_query": "照骗能骗到什么程度" },
   {
     "query": "叙利亚反对派武装攻入哈马市",
     "display_query": "叙利亚反对派武装攻入哈马市"
