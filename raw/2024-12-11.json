@@ -1,4 +1,6 @@
 [
+  { "query": "有哪些演员戏路很窄", "display_query": "有哪些演员戏路很窄" },
+  { "query": "照骗能骗到什么程度", "display_query": "照骗能骗到什么程度" },
   { "query": "独行侠vs雷霆", "display_query": "独行侠vs雷霆" },
   {
     "query": "数学是从什么时候开始反直觉的",
@@ -36,8 +38,6 @@
     "query": "妈妈按天给大学生女儿发 50 元",
     "display_query": "妈妈按天给大学生女儿发 50 元"
   },
-  { "query": "有哪些演员戏路很窄", "display_query": "有哪些演员戏路很窄" },
-  { "query": "照骗能骗到什么程度", "display_query": "照骗能骗到什么程度" },
   { "query": "A股高开低走", "display_query": "A股高开低走" },
   { "query": "A股三大指数高开", "display_query": "A股三大指数高开" },
   {
