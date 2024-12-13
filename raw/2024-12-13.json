@@ -1,6 +1,9 @@
 [
   { "query": "11", "display_query": "11" },
-  { "query": "A股", "display_query": "A股" },
+  {
+    "query": "极越员工聚集总部与ceo谈判",
+    "display_query": "极越员工聚集总部与ceo谈判"
+  },
   { "query": "斯诺克苏格兰公开赛", "display_query": "斯诺克苏格兰公开赛" },
   { "query": "李铁", "display_query": "李铁" },
   {
@@ -22,6 +25,7 @@
     "query": "员工要求罢免上司作为老板你会怎么办",
     "display_query": "员工要求罢免上司作为老板你会怎么办"
   },
+  { "query": "A股", "display_query": "A股" },
   { "query": "外卖员收入曝光", "display_query": "外卖员收入曝光" },
   {
     "query": "98 万部老人机被远程控制偷扣话费",
