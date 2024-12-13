@@ -1,5 +1,6 @@
 [
   { "query": "11", "display_query": "11" },
+  { "query": "A股", "display_query": "A股" },
   { "query": "斯诺克苏格兰公开赛", "display_query": "斯诺克苏格兰公开赛" },
   { "query": "李铁", "display_query": "李铁" },
   {
