@@ -1,6 +1,6 @@
 [
   { "query": "11", "display_query": "11" },
-  { "query": "外卖员收入曝光", "display_query": "外卖员收入曝光" },
+  { "query": "A股", "display_query": "A股" },
   { "query": "斯诺克苏格兰公开赛", "display_query": "斯诺克苏格兰公开赛" },
   { "query": "李铁", "display_query": "李铁" },
   {
@@ -18,11 +18,11 @@
     "query": "出国是坐中国航司还是外航",
     "display_query": "出国是坐中国航司还是外航"
   },
-  { "query": "A股", "display_query": "A股" },
   {
     "query": "员工要求罢免上司作为老板你会怎么办",
     "display_query": "员工要求罢免上司作为老板你会怎么办"
   },
+  { "query": "外卖员收入曝光", "display_query": "外卖员收入曝光" },
   {
     "query": "98 万部老人机被远程控制偷扣话费",
     "display_query": "98 万部老人机被远程控制偷扣话费"
