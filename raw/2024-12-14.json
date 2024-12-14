@@ -1,7 +1,6 @@
 [
   { "query": "A股", "display_query": "A股" },
   { "query": "斯诺克苏格兰公开赛", "display_query": "斯诺克苏格兰公开赛" },
-  { "query": "李铁", "display_query": "李铁" },
   {
     "query": "你最意外的一笔收入是什么",
     "display_query": "你最意外的一笔收入是什么"
@@ -21,5 +20,10 @@
     "display_query": "员工要求罢免上司作为老板你会怎么办"
   },
   { "query": "于东来回应过度代购", "display_query": "于东来回应过度代购" },
+  {
+    "query": "可灵 AI 导演共创计划上线",
+    "display_query": "可灵 AI 导演共创计划上线"
+  },
+  { "query": "李铁", "display_query": "李铁" },
   { "query": "照骗能骗到什么程度", "display_query": "照骗能骗到什么程度" }
 ]
