@@ -6,7 +6,6 @@
     "query": "你最意外的一笔收入是什么",
     "display_query": "你最意外的一笔收入是什么"
   },
-  { "query": "四六级", "display_query": "四六级" },
   {
     "query": "演员知道自己正在拍一部烂片吗",
     "display_query": "演员知道自己正在拍一部烂片吗"
@@ -21,6 +20,11 @@
     "display_query": "员工要求罢免上司作为老板你会怎么办"
   },
   { "query": "于东来回应过度代购", "display_query": "于东来回应过度代购" },
+  {
+    "query": "苏州一地实行作业熔断机制",
+    "display_query": "苏州一地实行作业熔断机制"
+  },
+  { "query": "四六级", "display_query": "四六级" },
   {
     "query": "可灵 AI 导演共创计划上线",
     "display_query": "可灵 AI 导演共创计划上线"
