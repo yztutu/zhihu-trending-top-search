@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 14 2024 17:11:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 14 2024 18:11:31 GMT+0800 (China Standard Time) -->
 
 1. [A股](https://www.zhihu.com/search?q=A股)
+1. [六级翻译](https://www.zhihu.com/search?q=六级翻译)
 1. [斯诺克苏格兰公开赛](https://www.zhihu.com/search?q=斯诺克苏格兰公开赛)
 1. [你最意外的一笔收入是什么](https://www.zhihu.com/search?q=你最意外的一笔收入是什么)
 1. [四六级](https://www.zhihu.com/search?q=四六级)
