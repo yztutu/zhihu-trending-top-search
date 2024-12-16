@@ -1,6 +1,6 @@
 [
-  { "query": "A股", "display_query": "A股" },
   { "query": "11 月 70 城房价出炉", "display_query": "11 月 70 城房价出炉" },
+  { "query": "石宇奇夺男单冠军", "display_query": "石宇奇夺男单冠军" },
   {
     "query": "为什么现在年轻人存不下钱",
     "display_query": "为什么现在年轻人存不下钱"
@@ -13,7 +13,7 @@
     "query": "多家银行采用 AI 面试进行招聘",
     "display_query": "多家银行采用 AI 面试进行招聘"
   },
-  { "query": "tiktok提交紧急动议", "display_query": "tiktok提交紧急动议" },
+  { "query": "《黑神话：悟空》更新", "display_query": "《黑神话：悟空》更新" },
   {
     "query": "中国对进口氦气的依赖度下降 10%",
     "display_query": "中国对进口氦气的依赖度下降 10%"
@@ -30,6 +30,8 @@
     "query": "为什么孩子成绩优异却感到内心空虚",
     "display_query": "为什么孩子成绩优异却感到内心空虚"
   },
+  { "query": "A股", "display_query": "A股" },
+  { "query": "tiktok提交紧急动议", "display_query": "tiktok提交紧急动议" },
   { "query": "斯诺克苏格兰公开赛", "display_query": "斯诺克苏格兰公开赛" },
   {
     "query": "出国是坐中国航司还是外航",
