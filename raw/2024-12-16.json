@@ -10,6 +10,10 @@
     "display_query": "员工要求罢免上司作为老板你会怎么办"
   },
   { "query": "于东来回应过度代购", "display_query": "于东来回应过度代购" },
+  {
+    "query": "多家银行采用 AI 面试进行招聘",
+    "display_query": "多家银行采用 AI 面试进行招聘"
+  },
   { "query": "腾讯视频会员权益调整", "display_query": "腾讯视频会员权益调整" },
   { "query": "tiktok提交紧急动议", "display_query": "tiktok提交紧急动议" },
   {
