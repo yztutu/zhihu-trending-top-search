@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 16 2024 20:25:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 16 2024 21:23:24 GMT+0800 (China Standard Time) -->
 
 1. [11 月 70 城房价出炉](https://www.zhihu.com/search?q=11 月 70 城房价出炉)
 1. [石宇奇夺男单冠军](https://www.zhihu.com/search?q=石宇奇夺男单冠军)
@@ -23,6 +23,7 @@
 1. [明十三陵永陵和思陵首次对外开放](https://www.zhihu.com/search?q=明十三陵永陵和思陵首次对外开放)
 1. [多家银行采用 AI 面试进行招聘](https://www.zhihu.com/search?q=多家银行采用 AI
    面试进行招聘)
+1. [养乐多上海公司解散](https://www.zhihu.com/search?q=养乐多上海公司解散)
 1. [《黑神话：悟空》更新](https://www.zhihu.com/search?q=《黑神话：悟空》更新)
 1. [十月入股市的人现在如何了](https://www.zhihu.com/search?q=十月入股市的人现在如何了)
 1. [中国对进口氦气的依赖度下降
