@@ -1,7 +1,6 @@
 [
-  { "query": "蜜雪冰城涨价", "display_query": "蜜雪冰城涨价" },
-  { "query": "11 月 70 城房价出炉", "display_query": "11 月 70 城房价出炉" },
   { "query": "没文化可以有多可怕", "display_query": "没文化可以有多可怕" },
+  { "query": "金价大跌", "display_query": "金价大跌" },
   {
     "query": "古代的状元放到如今是什么水平",
     "display_query": "古代的状元放到如今是什么水平"
@@ -26,5 +25,11 @@
   {
     "query": "小米汽车凭什么后来居上",
     "display_query": "小米汽车凭什么后来居上"
-  }
+  },
+  {
+    "query": "极越 CEO 夏一平被员工围堵",
+    "display_query": "极越 CEO 夏一平被员工围堵"
+  },
+  { "query": "蜜雪冰城涨价", "display_query": "蜜雪冰城涨价" },
+  { "query": "11 月 70 城房价出炉", "display_query": "11 月 70 城房价出炉" }
 ]
