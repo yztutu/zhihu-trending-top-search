@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 20 2024 18:11:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 20 2024 19:09:24 GMT+0800 (China Standard Time) -->
 
 1. [没文化可以有多可怕](https://www.zhihu.com/search?q=没文化可以有多可怕)
 1. [金价大跌](https://www.zhihu.com/search?q=金价大跌)
@@ -26,6 +26,8 @@
 1. [美联储宣布降息25个基点](https://www.zhihu.com/search?q=美联储宣布降息25个基点)
 1. [为什么孩子成绩优异却感到内心空虚](https://www.zhihu.com/search?q=为什么孩子成绩优异却感到内心空虚)
 1. [小米汽车凭什么后来居上](https://www.zhihu.com/search?q=小米汽车凭什么后来居上)
+1. [《她为什么换了导师》被下载了十万次](https://www.zhihu.com/search?q=《她为什么换了导师》被下载了十万次)
+1. [万科时隔 4 年广州拿地](https://www.zhihu.com/search?q=万科时隔 4 年广州拿地)
 1. [极越 CEO 夏一平被员工围堵](https://www.zhihu.com/search?q=极越 CEO
    夏一平被员工围堵)
 1. [极越原地解散 CEO 遭员工围堵](https://www.zhihu.com/search?q=极越原地解散 CEO
