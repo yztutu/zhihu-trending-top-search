@@ -15,12 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 20 2024 14:16:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 20 2024 15:10:58 GMT+0800 (China Standard Time) -->
 
 1. [没文化可以有多可怕](https://www.zhihu.com/search?q=没文化可以有多可怕)
 1. [金价大跌](https://www.zhihu.com/search?q=金价大跌)
 1. [古代的状元放到如今是什么水平](https://www.zhihu.com/search?q=古代的状元放到如今是什么水平)
-1. [新一轮油价调整搁浅](https://www.zhihu.com/search?q=新一轮油价调整搁浅)
 1. [中国特有的狸花猫有多强大](https://www.zhihu.com/search?q=中国特有的狸花猫有多强大)
 1. [美联储宣布降息 25 个基点](https://www.zhihu.com/search?q=美联储宣布降息 25
    个基点)
@@ -29,6 +28,9 @@
 1. [小米汽车凭什么后来居上](https://www.zhihu.com/search?q=小米汽车凭什么后来居上)
 1. [极越 CEO 夏一平被员工围堵](https://www.zhihu.com/search?q=极越 CEO
    夏一平被员工围堵)
+1. [极越原地解散 CEO 遭员工围堵](https://www.zhihu.com/search?q=极越原地解散 CEO
+   遭员工围堵)
+1. [新一轮油价调整搁浅](https://www.zhihu.com/search?q=新一轮油价调整搁浅)
 1. [蜜雪冰城涨价](https://www.zhihu.com/search?q=蜜雪冰城涨价)
 1. [11 月 70 城房价出炉](https://www.zhihu.com/search?q=11 月 70 城房价出炉)
 

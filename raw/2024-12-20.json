@@ -5,7 +5,6 @@
     "query": "古代的状元放到如今是什么水平",
     "display_query": "古代的状元放到如今是什么水平"
   },
-  { "query": "新一轮油价调整搁浅", "display_query": "新一轮油价调整搁浅" },
   {
     "query": "中国特有的狸花猫有多强大",
     "display_query": "中国特有的狸花猫有多强大"
@@ -30,6 +29,11 @@
     "query": "极越 CEO 夏一平被员工围堵",
     "display_query": "极越 CEO 夏一平被员工围堵"
   },
+  {
+    "query": "极越原地解散 CEO 遭员工围堵",
+    "display_query": "极越原地解散 CEO 遭员工围堵"
+  },
+  { "query": "新一轮油价调整搁浅", "display_query": "新一轮油价调整搁浅" },
   { "query": "蜜雪冰城涨价", "display_query": "蜜雪冰城涨价" },
   { "query": "11 月 70 城房价出炉", "display_query": "11 月 70 城房价出炉" }
 ]
