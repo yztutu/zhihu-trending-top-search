@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 21 2024 17:10:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 21 2024 18:10:37 GMT+0800 (China Standard Time) -->
 
 1. [没文化可以有多可怕](https://www.zhihu.com/search?q=没文化可以有多可怕)
 1. [金价大跌](https://www.zhihu.com/search?q=金价大跌)
@@ -24,7 +24,11 @@
 1. [小米汽车凭什么后来居上](https://www.zhihu.com/search?q=小米汽车凭什么后来居上)
 1. [董明珠爆小米空调专利侵权赔了 50
    万](https://www.zhihu.com/search?q=董明珠爆小米空调专利侵权赔了 50 万)
+1. [过境免签外国人停留时间延长为 240
+   小时](https://www.zhihu.com/search?q=过境免签外国人停留时间延长为 240 小时)
 1. [播客为什么那么火](https://www.zhihu.com/search?q=播客为什么那么火)
+1. [中国 144 小时变 240 小时](https://www.zhihu.com/search?q=中国 144 小时变 240
+   小时)
 1. [美国威斯康辛州发生校园枪击案](https://www.zhihu.com/search?q=美国威斯康辛州发生校园枪击案)
 1. [前11月免签入境外国人同比增长123.3%](https://www.zhihu.com/search?q=前11月免签入境外国人同比增长123.3%)
 1. [王思聪要开 100 家牛排店](https://www.zhihu.com/search?q=王思聪要开 100
