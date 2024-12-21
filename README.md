@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 21 2024 08:55:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 21 2024 10:11:02 GMT+0800 (China Standard Time) -->
 
 1. [没文化可以有多可怕](https://www.zhihu.com/search?q=没文化可以有多可怕)
 1. [金价大跌](https://www.zhihu.com/search?q=金价大跌)
