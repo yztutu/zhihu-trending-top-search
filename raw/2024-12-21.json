@@ -17,7 +17,6 @@
     "query": "过境免签外国人停留时间延长为 240 小时",
     "display_query": "过境免签外国人停留时间延长为 240 小时"
   },
-  { "query": "播客为什么那么火", "display_query": "播客为什么那么火" },
   {
     "query": "中国 144 小时变 240 小时",
     "display_query": "中国 144 小时变 240 小时"
@@ -34,6 +33,7 @@
     "query": "王思聪要开 100 家牛排店",
     "display_query": "王思聪要开 100 家牛排店"
   },
+  { "query": "播客为什么那么火", "display_query": "播客为什么那么火" },
   {
     "query": "OpenAI 开放满血 o1 模型 API",
     "display_query": "OpenAI 开放满血 o1 模型 API"
