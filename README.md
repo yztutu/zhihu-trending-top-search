@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 22 2024 14:14:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 22 2024 15:09:50 GMT+0800 (China Standard Time) -->
 
 1. [考研数学](https://www.zhihu.com/search?q=考研数学)
 1. [金价大跌](https://www.zhihu.com/search?q=金价大跌)
