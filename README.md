@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 28 2024 23:10:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 29 2024 00:12:37 GMT+0800 (China Standard Time) -->
 
 1. [湖人vs勇士](https://www.zhihu.com/search?q=湖人vs勇士)
 1. [台湾花莲县海域发生4.8级地震](https://www.zhihu.com/search?q=台湾花莲县海域发生4.8级地震)
@@ -27,9 +27,6 @@
 1. [马保国是真傻还是装傻](https://www.zhihu.com/search?q=马保国是真傻还是装傻)
 1. [肯德基中国涨价](https://www.zhihu.com/search?q=肯德基中国涨价)
 1. [滴滴就臭车致歉](https://www.zhihu.com/search?q=滴滴就臭车致歉)
-1. [韩国为什么能拍好霸总偶像剧](https://www.zhihu.com/search?q=韩国为什么能拍好霸总偶像剧)
-1. [哈尔滨真的很冷吗](https://www.zhihu.com/search?q=哈尔滨真的很冷吗)
-1. [俄罗斯和伊朗真的放弃了叙利亚吗](https://www.zhihu.com/search?q=俄罗斯和伊朗真的放弃了叙利亚吗)
 
 <!-- END -->
 
