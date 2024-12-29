@@ -1,11 +1,8 @@
 [
+  { "query": "湖人vs勇士", "display_query": "湖人vs勇士" },
   {
-    "query": "日本航空公司遭遇网络攻击",
-    "display_query": "日本航空公司遭遇网络攻击"
-  },
-  {
-    "query": "北京今年最后一期油车摇号",
-    "display_query": "北京今年最后一期油车摇号"
+    "query": "台湾花莲县海域发生4.8级地震",
+    "display_query": "台湾花莲县海域发生4.8级地震"
   },
   { "query": "wbg对战al", "display_query": "wbg对战al" },
   { "query": "加入知乎推文团队", "display_query": "加入知乎推文团队" },
@@ -18,10 +15,13 @@
     "query": "适当提高退休人员基本养老金",
     "display_query": "适当提高退休人员基本养老金"
   },
-  { "query": "湖人vs勇士", "display_query": "湖人vs勇士" },
   {
-    "query": "台湾花莲县海域发生4.8级地震",
-    "display_query": "台湾花莲县海域发生4.8级地震"
+    "query": "日本航空公司遭遇网络攻击",
+    "display_query": "日本航空公司遭遇网络攻击"
+  },
+  {
+    "query": "北京今年最后一期油车摇号",
+    "display_query": "北京今年最后一期油车摇号"
   },
   {
     "query": "陕西眉县一居民住户疑似发生燃气闪爆",
