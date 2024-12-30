@@ -1,4 +1,6 @@
 [
+  { "query": "太阳vs勇士", "display_query": "太阳vs勇士" },
+  { "query": "勇士vs快船", "display_query": "勇士vs快船" },
   {
     "query": "为什么唐尚珺不继续复读了",
     "display_query": "为什么唐尚珺不继续复读了"
@@ -15,8 +17,6 @@
   },
   { "query": "小红书月入三万真假", "display_query": "小红书月入三万真假" },
   { "query": "短剧推广授权申请流程", "display_query": "短剧推广授权申请流程" },
-  { "query": "太阳vs勇士", "display_query": "太阳vs勇士" },
-  { "query": "勇士vs快船", "display_query": "勇士vs快船" },
   {
     "query": "疑似中国 6 代机试飞意味着什么",
     "display_query": "疑似中国 6 代机试飞意味着什么"
