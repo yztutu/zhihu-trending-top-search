@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 30 2024 19:09:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 30 2024 20:21:57 GMT+0800 (China Standard Time) -->
 
 1. [太阳vs勇士](https://www.zhihu.com/search?q=太阳vs勇士)
 1. [勇士vs快船](https://www.zhihu.com/search?q=勇士vs快船)
