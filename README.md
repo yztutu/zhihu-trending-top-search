@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 02 2025 15:10:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 02 2025 16:15:10 GMT+0800 (China Standard Time) -->
 
 1. [央视跨年晚会](https://www.zhihu.com/search?q=央视跨年晚会)
 1. [加入知乎推文团队](https://www.zhihu.com/search?q=加入知乎推文团队)
