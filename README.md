@@ -15,8 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 03 2025 14:16:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 03 2025 15:10:55 GMT+0800 (China Standard Time) -->
 
+1. [多家银行上调存款利率](https://www.zhihu.com/search?q=多家银行上调存款利率)
 1. [为什么钢筋放太多了反而不好](https://www.zhihu.com/search?q=为什么钢筋放太多了反而不好)
 1. [短剧推广能否躺赚](https://www.zhihu.com/search?q=短剧推广能否躺赚)
 1. [有哪些让你目瞪口呆的
