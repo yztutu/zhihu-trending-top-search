@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 06 2025 14:18:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 06 2025 15:12:05 GMT+0800 (China Standard Time) -->
 
 1. [利物浦vs曼联](https://www.zhihu.com/search?q=利物浦vs曼联)
 1. [地球自转的动力来自哪里](https://www.zhihu.com/search?q=地球自转的动力来自哪里)
