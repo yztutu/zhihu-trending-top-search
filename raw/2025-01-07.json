@@ -1,8 +1,5 @@
 [
-  {
-    "query": "取消在就业地参保户籍限制",
-    "display_query": "取消在就业地参保户籍限制"
-  },
+  { "query": "腊八节", "display_query": "腊八节" },
   { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
   { "query": "利物浦vs曼联", "display_query": "利物浦vs曼联" },
   {
@@ -28,11 +25,14 @@
   },
   { "query": "视频号赚钱可行性", "display_query": "视频号赚钱可行性" },
   {
+    "query": "取消在就业地参保户籍限制",
+    "display_query": "取消在就业地参保户籍限制"
+  },
+  {
     "query": "原神绮梦缱绻梦见月瑞希",
     "display_query": "原神绮梦缱绻梦见月瑞希"
   },
   { "query": "马天宇李明德", "display_query": "马天宇李明德" },
-  { "query": "腊八节", "display_query": "腊八节" },
   { "query": "视频号运营全攻略", "display_query": "视频号运营全攻略" },
   { "query": "小红书运营方法", "display_query": "小红书运营方法" },
   { "query": "电商小白入门运营", "display_query": "电商小白入门运营" },
