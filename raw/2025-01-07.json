@@ -1,12 +1,5 @@
 [
-  {
-    "query": "电影狮子王木法沙传奇总票房破1亿",
-    "display_query": "电影狮子王木法沙传奇总票房破1亿"
-  },
-  {
-    "query": "药品集采为何有企业报出极低价",
-    "display_query": "药品集采为何有企业报出极低价"
-  },
+  { "query": "腊八节", "display_query": "腊八节" },
   { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
   { "query": "利物浦vs曼联", "display_query": "利物浦vs曼联" },
   {
@@ -30,8 +23,15 @@
     "query": "一块吧唧被炒到 7 万多",
     "display_query": "一块吧唧被炒到 7 万多"
   },
-  { "query": "腊八节", "display_query": "腊八节" },
   { "query": "视频号赚钱可行性", "display_query": "视频号赚钱可行性" },
+  {
+    "query": "电影狮子王木法沙传奇总票房破1亿",
+    "display_query": "电影狮子王木法沙传奇总票房破1亿"
+  },
+  {
+    "query": "药品集采为何有企业报出极低价",
+    "display_query": "药品集采为何有企业报出极低价"
+  },
   {
     "query": "取消在就业地参保户籍限制",
     "display_query": "取消在就业地参保户籍限制"
