@@ -15,8 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 07 2025 13:11:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 07 2025 14:17:18 GMT+0800 (China Standard Time) -->
 
+1. [腊八节](https://www.zhihu.com/search?q=腊八节)
 1. [湖人vs火箭](https://www.zhihu.com/search?q=湖人vs火箭)
 1. [利物浦vs曼联](https://www.zhihu.com/search?q=利物浦vs曼联)
 1. [地球自转的动力来自哪里](https://www.zhihu.com/search?q=地球自转的动力来自哪里)
