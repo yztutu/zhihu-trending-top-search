@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 10 2025 16:15:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 10 2025 17:12:46 GMT+0800 (China Standard Time) -->
 
 1. [周杰伦新歌](https://www.zhihu.com/search?q=周杰伦新歌)
 1. [沪深京三市成交额突破5000亿元](https://www.zhihu.com/search?q=沪深京三市成交额突破5000亿元)
