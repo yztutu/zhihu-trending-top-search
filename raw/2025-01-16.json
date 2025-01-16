@@ -1,5 +1,9 @@
 [
   { "query": "国考", "display_query": "国考" },
+  {
+    "query": "为什么检查上级都会提前通知",
+    "display_query": "为什么检查上级都会提前通知"
+  },
   { "query": "有哪些演员戏路很窄", "display_query": "有哪些演员戏路很窄" },
   {
     "query": "同学聚会最悲哀的是什么",
