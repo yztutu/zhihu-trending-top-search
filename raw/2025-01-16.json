@@ -2,10 +2,6 @@
   { "query": "国考", "display_query": "国考" },
   { "query": "有哪些演员戏路很窄", "display_query": "有哪些演员戏路很窄" },
   {
-    "query": "被时代淘汰的水果有哪些",
-    "display_query": "被时代淘汰的水果有哪些"
-  },
-  {
     "query": "同学聚会最悲哀的是什么",
     "display_query": "同学聚会最悲哀的是什么"
   },
@@ -20,5 +16,10 @@
   },
   { "query": "小红书月入几万避坑", "display_query": "小红书月入几万避坑" },
   { "query": "抖音赚钱模式与逻辑", "display_query": "抖音赚钱模式与逻辑" },
-  { "query": "新手无货源开网店", "display_query": "新手无货源开网店" }
+  { "query": "新手无货源开网店", "display_query": "新手无货源开网店" },
+  { "query": "抖音如何快速起号", "display_query": "抖音如何快速起号" },
+  {
+    "query": "被时代淘汰的水果有哪些",
+    "display_query": "被时代淘汰的水果有哪些"
+  }
 ]
