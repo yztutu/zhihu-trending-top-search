@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jan 18 2025 23:10:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 19 2025 00:12:02 GMT+0800 (China Standard Time) -->
 
 1. [为什么检查上级都会提前通知](https://www.zhihu.com/search?q=为什么检查上级都会提前通知)
 1. [以军轰炸加沙地带多地](https://www.zhihu.com/search?q=以军轰炸加沙地带多地)
@@ -27,7 +27,6 @@
 1. [普通人自媒体赚钱方式](https://www.zhihu.com/search?q=普通人自媒体赚钱方式)
 1. [小红书养号与变现技巧](https://www.zhihu.com/search?q=小红书养号与变现技巧)
 1. [抖音快速涨 1000 粉](https://www.zhihu.com/search?q=抖音快速涨 1000 粉)
-1. [有哪些演员戏路很窄](https://www.zhihu.com/search?q=有哪些演员戏路很窄)
 
 <!-- END -->
 
