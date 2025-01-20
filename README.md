@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 20 2025 18:12:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 20 2025 19:09:42 GMT+0800 (China Standard Time) -->
 
 1. [快船轻取湖人](https://www.zhihu.com/search?q=快船轻取湖人)
+1. [曼联1比3布莱顿](https://www.zhihu.com/search?q=曼联1比3布莱顿)
 1. [张之臻晋级](https://www.zhihu.com/search?q=张之臻晋级)
 1. [库里受伤](https://www.zhihu.com/search?q=库里受伤)
 1. [如何高效利用iPhone](https://www.zhihu.com/search?q=如何高效利用iPhone)
