@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 20 2025 22:10:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 20 2025 23:12:04 GMT+0800 (China Standard Time) -->
 
 1. [快船轻取湖人](https://www.zhihu.com/search?q=快船轻取湖人)
 1. [曼联1比3布莱顿](https://www.zhihu.com/search?q=曼联1比3布莱顿)
