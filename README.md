@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 21 2025 20:22:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 21 2025 21:17:56 GMT+0800 (China Standard Time) -->
 
 1. [为什么马的腿断了必须死](https://www.zhihu.com/search?q=为什么马的腿断了必须死)
 1. [知乎如何赚钱](https://www.zhihu.com/search?q=知乎如何赚钱)
