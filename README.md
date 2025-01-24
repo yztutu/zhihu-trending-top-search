@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 24 2025 16:15:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 24 2025 17:12:15 GMT+0800 (China Standard Time) -->
 
 1. [河南暴雪](https://www.zhihu.com/search?q=河南暴雪)
 1. [北方小年](https://www.zhihu.com/search?q=北方小年)
