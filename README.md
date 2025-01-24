@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 24 2025 11:13:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 24 2025 12:13:57 GMT+0800 (China Standard Time) -->
 
 1. [北方小年](https://www.zhihu.com/search?q=北方小年)
-1. [为什么马的腿断了必须死](https://www.zhihu.com/search?q=为什么马的腿断了必须死)
 1. [冲锋衣软壳和硬壳的区别](https://www.zhihu.com/search?q=冲锋衣软壳和硬壳的区别)
 1. [百元和千元的冲锋衣区别在哪](https://www.zhihu.com/search?q=百元和千元的冲锋衣区别在哪)
 1. [冲锋衣平价推荐](https://www.zhihu.com/search?q=冲锋衣平价推荐)
@@ -27,6 +26,8 @@
 1. [电压锅和高压锅哪个好](https://www.zhihu.com/search?q=电压锅和高压锅哪个好)
 1. [电压锅食谱推荐](https://www.zhihu.com/search?q=电压锅食谱推荐)
 1. [电压锅会爆炸吗](https://www.zhihu.com/search?q=电压锅会爆炸吗)
+1. [电压锅有哪些安全隐患](https://www.zhihu.com/search?q=电压锅有哪些安全隐患)
+1. [为什么马的腿断了必须死](https://www.zhihu.com/search?q=为什么马的腿断了必须死)
 
 <!-- END -->
 
