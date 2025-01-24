@@ -1,6 +1,5 @@
 [
   { "query": "河南暴雪", "display_query": "河南暴雪" },
-  { "query": "北方小年", "display_query": "北方小年" },
   { "query": "今年首场寒潮来袭", "display_query": "今年首场寒潮来袭" },
   {
     "query": "冲锋衣软壳和硬壳的区别",
@@ -16,6 +15,7 @@
   { "query": "电压锅和高压锅哪个好", "display_query": "电压锅和高压锅哪个好" },
   { "query": "电压锅食谱推荐", "display_query": "电压锅食谱推荐" },
   { "query": "电压锅会爆炸吗", "display_query": "电压锅会爆炸吗" },
+  { "query": "北方小年", "display_query": "北方小年" },
   { "query": "电压锅有哪些安全隐患", "display_query": "电压锅有哪些安全隐患" },
   {
     "query": "为什么马的腿断了必须死",
