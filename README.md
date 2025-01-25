@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jan 25 2025 11:11:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jan 25 2025 12:13:28 GMT+0800 (China Standard Time) -->
 
 1. [河南暴雪](https://www.zhihu.com/search?q=河南暴雪)
 1. [今年首场寒潮来袭](https://www.zhihu.com/search?q=今年首场寒潮来袭)
