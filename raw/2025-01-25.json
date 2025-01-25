@@ -1,5 +1,4 @@
 [
-  { "query": "河南暴雪", "display_query": "河南暴雪" },
   { "query": "今年首场寒潮来袭", "display_query": "今年首场寒潮来袭" },
   {
     "query": "冲锋衣软壳和硬壳的区别",
@@ -14,5 +13,7 @@
   { "query": "在家用电压锅安全吗", "display_query": "在家用电压锅安全吗" },
   { "query": "电压锅和高压锅哪个好", "display_query": "电压锅和高压锅哪个好" },
   { "query": "电压锅食谱推荐", "display_query": "电压锅食谱推荐" },
-  { "query": "电压锅会爆炸吗", "display_query": "电压锅会爆炸吗" }
+  { "query": "电压锅会爆炸吗", "display_query": "电压锅会爆炸吗" },
+  { "query": "电压锅有哪些安全隐患", "display_query": "电压锅有哪些安全隐患" },
+  { "query": "河南暴雪", "display_query": "河南暴雪" }
 ]
