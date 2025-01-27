@@ -1,6 +1,6 @@
 [
-  { "query": "AI 推文赚钱", "display_query": "AI 推文赚钱" },
-  { "query": "哪吒 2 预售破亿", "display_query": "哪吒 2 预售破亿" },
+  { "query": "掘金vs森林狼", "display_query": "掘金vs森林狼" },
+  { "query": "烂高中到底多差", "display_query": "烂高中到底多差" },
   { "query": "湖人vs勇士", "display_query": "湖人vs勇士" },
   {
     "query": "为什么很多家庭一到过年就吵架",
@@ -20,5 +20,7 @@
   {
     "query": "冲锋衣软壳和硬壳的区别",
     "display_query": "冲锋衣软壳和硬壳的区别"
-  }
+  },
+  { "query": "AI 推文赚钱", "display_query": "AI 推文赚钱" },
+  { "query": "哪吒 2 预售破亿", "display_query": "哪吒 2 预售破亿" }
 ]
