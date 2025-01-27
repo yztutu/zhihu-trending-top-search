@@ -1,6 +1,9 @@
 [
-  { "query": "掘金vs森林狼", "display_query": "掘金vs森林狼" },
-  { "query": "烂高中到底多差", "display_query": "烂高中到底多差" },
+  { "query": "下班副业赚钱", "display_query": "下班副业赚钱" },
+  {
+    "query": "31省份人均收入账单出炉",
+    "display_query": "31省份人均收入账单出炉"
+  },
   { "query": "湖人vs勇士", "display_query": "湖人vs勇士" },
   {
     "query": "为什么很多家庭一到过年就吵架",
@@ -21,6 +24,8 @@
     "query": "冲锋衣软壳和硬壳的区别",
     "display_query": "冲锋衣软壳和硬壳的区别"
   },
+  { "query": "掘金vs森林狼", "display_query": "掘金vs森林狼" },
+  { "query": "烂高中到底多差", "display_query": "烂高中到底多差" },
   {
     "query": "假如 LG 杯第三盘正常下柯洁能逆转吗",
     "display_query": "假如 LG 杯第三盘正常下柯洁能逆转吗"
