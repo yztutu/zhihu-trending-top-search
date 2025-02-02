@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Feb 02 2025 12:13:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Feb 02 2025 13:11:32 GMT+0800 (China Standard Time) -->
 
 1. [勇士vs太阳](https://www.zhihu.com/search?q=勇士vs太阳)
 1. [初五迎财神](https://www.zhihu.com/search?q=初五迎财神)
