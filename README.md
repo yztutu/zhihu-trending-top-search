@@ -15,21 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 03 2025 23:12:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Feb 04 2025 00:14:15 GMT+0800 (China Standard Time) -->
 
 1. [立春习俗](https://www.zhihu.com/search?q=立春习俗)
-1. [冲锋衣软壳和硬壳的区别](https://www.zhihu.com/search?q=冲锋衣软壳和硬壳的区别)
-1. [百元和千元的冲锋衣区别在哪](https://www.zhihu.com/search?q=百元和千元的冲锋衣区别在哪)
-1. [冲锋衣平价推荐](https://www.zhihu.com/search?q=冲锋衣平价推荐)
-1. [2025 冲锋衣推荐](https://www.zhihu.com/search?q=2025 冲锋衣推荐)
-1. [在家用电压锅安全吗](https://www.zhihu.com/search?q=在家用电压锅安全吗)
-1. [电压锅和高压锅哪个好](https://www.zhihu.com/search?q=电压锅和高压锅哪个好)
-1. [电压锅食谱推荐](https://www.zhihu.com/search?q=电压锅食谱推荐)
-1. [电压锅会爆炸吗](https://www.zhihu.com/search?q=电压锅会爆炸吗)
-1. [电压锅有哪些安全隐患](https://www.zhihu.com/search?q=电压锅有哪些安全隐患)
-1. [正月初五为什么叫破五](https://www.zhihu.com/search?q=正月初五为什么叫破五)
-1. [唐探1900票房](https://www.zhihu.com/search?q=唐探1900票房)
-1. [等固态电池出来再买车好吗](https://www.zhihu.com/search?q=等固态电池出来再买车好吗)
+1. [知乎新年活动](https://www.zhihu.com/search?q=知乎新年活动)
+1. [知乎蛇年活动](https://www.zhihu.com/search?q=知乎蛇年活动)
+1. [知乎春节活动](https://www.zhihu.com/search?q=知乎春节活动)
+1. [过年玩什么，好运贪吃蛇](https://www.zhihu.com/search?q=过年玩什么，好运贪吃蛇)
+1. [春节答题挑战](https://www.zhihu.com/search?q=春节答题挑战)
+1. [答题分奖金](https://www.zhihu.com/search?q=答题分奖金)
+1. [有趣的过年方式](https://www.zhihu.com/search?q=有趣的过年方式)
+1. [有奖答题 PK 分奖金](https://www.zhihu.com/search?q=有奖答题 PK 分奖金)
+1. [知识王者 PK 分奖金](https://www.zhihu.com/search?q=知识王者 PK 分奖金)
 
 <!-- END -->
 
