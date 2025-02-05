@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 05 2025 08:55:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 05 2025 10:12:02 GMT+0800 (China Standard Time) -->
 
 1. [不想上班](https://www.zhihu.com/search?q=不想上班)
 1. [知乎新年活动](https://www.zhihu.com/search?q=知乎新年活动)
