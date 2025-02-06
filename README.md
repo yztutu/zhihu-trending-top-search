@@ -15,9 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 06 2025 10:12:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 06 2025 12:13:53 GMT+0800 (China Standard Time) -->
 
-1. [不想上班](https://www.zhihu.com/search?q=不想上班)
 1. [节后上班第一天](https://www.zhihu.com/search?q=节后上班第一天)
 1. [勇士力克魔术](https://www.zhihu.com/search?q=勇士力克魔术)
 1. [春节档票房破60亿](https://www.zhihu.com/search?q=春节档票房破60亿)
@@ -27,6 +26,8 @@
 1. [知乎新年活动](https://www.zhihu.com/search?q=知乎新年活动)
 1. [知乎蛇年活动](https://www.zhihu.com/search?q=知乎蛇年活动)
 1. [知乎春节活动](https://www.zhihu.com/search?q=知乎春节活动)
+1. [过年玩什么，好运贪吃蛇](https://www.zhihu.com/search?q=过年玩什么，好运贪吃蛇)
+1. [不想上班](https://www.zhihu.com/search?q=不想上班)
 
 <!-- END -->
 
