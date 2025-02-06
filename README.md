@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 06 2025 19:09:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 06 2025 20:22:27 GMT+0800 (China Standard Time) -->
 
-1. [为何马谡置之死地就真死了](https://www.zhihu.com/search?q=为何马谡置之死地就真死了)
-1. [过年来知乎，蛇么都好玩](https://www.zhihu.com/search?q=过年来知乎，蛇么都好玩)
+1. [为何不把显卡发热量收集利用起来](https://www.zhihu.com/search?q=为何不把显卡发热量收集利用起来)
+1. [美新法案下载deepseek可判20年](https://www.zhihu.com/search?q=美新法案下载deepseek可判20年)
 1. [「蛇拿九稳」有奖答题挑战](https://www.zhihu.com/search?q=「蛇拿九稳」有奖答题挑战)
 1. [知乎新年活动](https://www.zhihu.com/search?q=知乎新年活动)
 1. [知乎蛇年活动](https://www.zhihu.com/search?q=知乎蛇年活动)
@@ -27,6 +27,8 @@
 1. [春节答题挑战](https://www.zhihu.com/search?q=春节答题挑战)
 1. [答题分奖金](https://www.zhihu.com/search?q=答题分奖金)
 1. [有趣的过年方式](https://www.zhihu.com/search?q=有趣的过年方式)
+1. [为何马谡置之死地就真死了](https://www.zhihu.com/search?q=为何马谡置之死地就真死了)
+1. [过年来知乎，蛇么都好玩](https://www.zhihu.com/search?q=过年来知乎，蛇么都好玩)
 1. [节后上班第一天](https://www.zhihu.com/search?q=节后上班第一天)
 1. [勇士力克魔术](https://www.zhihu.com/search?q=勇士力克魔术)
 1. [春节档票房破60亿](https://www.zhihu.com/search?q=春节档票房破60亿)
