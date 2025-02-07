@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 07 2025 17:11:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 07 2025 18:12:17 GMT+0800 (China Standard Time) -->
 
-1. [北京大风](https://www.zhihu.com/search?q=北京大风)
+1. [为什么 DeepSeek 要开源](https://www.zhihu.com/search?q=为什么 DeepSeek
+   要开源)
 1. [孙颖莎vs何卓佳](https://www.zhihu.com/search?q=孙颖莎vs何卓佳)
 1. [为何马谡置之死地就真死了](https://www.zhihu.com/search?q=为何马谡置之死地就真死了)
 1. [过年来知乎，蛇么都好玩](https://www.zhihu.com/search?q=过年来知乎，蛇么都好玩)
@@ -27,6 +28,7 @@
 1. [知乎春节活动](https://www.zhihu.com/search?q=知乎春节活动)
 1. [过年玩什么，好运贪吃蛇](https://www.zhihu.com/search?q=过年玩什么，好运贪吃蛇)
 1. [春节答题挑战](https://www.zhihu.com/search?q=春节答题挑战)
+1. [北京大风](https://www.zhihu.com/search?q=北京大风)
 1. [韩国发布最新航空安全管理方案](https://www.zhihu.com/search?q=韩国发布最新航空安全管理方案)
 1. [菲律宾南部一直升机坠毁](https://www.zhihu.com/search?q=菲律宾南部一直升机坠毁)
 1. [答题分奖金](https://www.zhihu.com/search?q=答题分奖金)
