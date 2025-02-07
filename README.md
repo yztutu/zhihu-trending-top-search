@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 07 2025 23:11:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 08 2025 00:14:05 GMT+0800 (China Standard Time) -->
 
 1. [北京大风](https://www.zhihu.com/search?q=北京大风)
+1. [大学生兼职](https://www.zhihu.com/search?q=大学生兼职)
 1. [新一轮油价调整搁浅](https://www.zhihu.com/search?q=新一轮油价调整搁浅)
 1. [孙颖莎vs何卓佳](https://www.zhihu.com/search?q=孙颖莎vs何卓佳)
 1. [为何马谡置之死地就真死了](https://www.zhihu.com/search?q=为何马谡置之死地就真死了)
@@ -26,20 +27,6 @@
 1. [知乎新年活动](https://www.zhihu.com/search?q=知乎新年活动)
 1. [知乎蛇年活动](https://www.zhihu.com/search?q=知乎蛇年活动)
 1. [知乎春节活动](https://www.zhihu.com/search?q=知乎春节活动)
-1. [过年玩什么，好运贪吃蛇](https://www.zhihu.com/search?q=过年玩什么，好运贪吃蛇)
-1. [申真谞谈柯洁 LG 杯事件](https://www.zhihu.com/search?q=申真谞谈柯洁 LG
-   杯事件)
-1. [为什么 DeepSeek 要开源](https://www.zhihu.com/search?q=为什么 DeepSeek
-   要开源)
-1. [春节答题挑战](https://www.zhihu.com/search?q=春节答题挑战)
-1. [韩国发布最新航空安全管理方案](https://www.zhihu.com/search?q=韩国发布最新航空安全管理方案)
-1. [菲律宾南部一直升机坠毁](https://www.zhihu.com/search?q=菲律宾南部一直升机坠毁)
-1. [答题分奖金](https://www.zhihu.com/search?q=答题分奖金)
-1. [有趣的过年方式](https://www.zhihu.com/search?q=有趣的过年方式)
-1. [有没有以前很火现在却很危险的发明](https://www.zhihu.com/search?q=有没有以前很火现在却很危险的发明)
-1. [人形机器人 Figure 与 OpenAI
-   终止合作](https://www.zhihu.com/search?q=人形机器人 Figure 与 OpenAI
-   终止合作)
 
 <!-- END -->
 
