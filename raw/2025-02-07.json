@@ -1,12 +1,5 @@
 [
-  {
-    "query": "韩国发布最新航空安全管理方案",
-    "display_query": "韩国发布最新航空安全管理方案"
-  },
-  {
-    "query": "菲律宾南部一直升机坠毁",
-    "display_query": "菲律宾南部一直升机坠毁"
-  },
+  { "query": "北京大风", "display_query": "北京大风" },
   { "query": "孙颖莎vs何卓佳", "display_query": "孙颖莎vs何卓佳" },
   {
     "query": "为何马谡置之死地就真死了",
@@ -27,8 +20,15 @@
     "query": "过年玩什么，好运贪吃蛇",
     "display_query": "过年玩什么，好运贪吃蛇"
   },
-  { "query": "北京大风", "display_query": "北京大风" },
   { "query": "春节答题挑战", "display_query": "春节答题挑战" },
+  {
+    "query": "韩国发布最新航空安全管理方案",
+    "display_query": "韩国发布最新航空安全管理方案"
+  },
+  {
+    "query": "菲律宾南部一直升机坠毁",
+    "display_query": "菲律宾南部一直升机坠毁"
+  },
   { "query": "答题分奖金", "display_query": "答题分奖金" },
   { "query": "有趣的过年方式", "display_query": "有趣的过年方式" },
   {
