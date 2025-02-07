@@ -1,8 +1,6 @@
 [
-  {
-    "query": "为什么 DeepSeek 要开源",
-    "display_query": "为什么 DeepSeek 要开源"
-  },
+  { "query": "北京大风", "display_query": "北京大风" },
+  { "query": "新一轮油价调整搁浅", "display_query": "新一轮油价调整搁浅" },
   { "query": "孙颖莎vs何卓佳", "display_query": "孙颖莎vs何卓佳" },
   {
     "query": "为何马谡置之死地就真死了",
@@ -23,8 +21,11 @@
     "query": "过年玩什么，好运贪吃蛇",
     "display_query": "过年玩什么，好运贪吃蛇"
   },
+  {
+    "query": "为什么 DeepSeek 要开源",
+    "display_query": "为什么 DeepSeek 要开源"
+  },
   { "query": "春节答题挑战", "display_query": "春节答题挑战" },
-  { "query": "北京大风", "display_query": "北京大风" },
   {
     "query": "韩国发布最新航空安全管理方案",
     "display_query": "韩国发布最新航空安全管理方案"
