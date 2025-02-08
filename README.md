@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 08 2025 19:08:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 08 2025 20:19:34 GMT+0800 (China Standard Time) -->
 
 1. [北京大风](https://www.zhihu.com/search?q=北京大风)
 1. [一个男人最大的底气是什么](https://www.zhihu.com/search?q=一个男人最大的底气是什么)
@@ -24,11 +24,11 @@
 1. [为什么练肩要选用小重量](https://www.zhihu.com/search?q=为什么练肩要选用小重量)
 1. [新一轮油价调整搁浅](https://www.zhihu.com/search?q=新一轮油价调整搁浅)
 1. [为什么说猫是液体的](https://www.zhihu.com/search?q=为什么说猫是液体的)
-1. [为何马谡置之死地就真死了](https://www.zhihu.com/search?q=为何马谡置之死地就真死了)
 1. [过年来知乎，蛇么都好玩](https://www.zhihu.com/search?q=过年来知乎，蛇么都好玩)
 1. [「蛇拿九稳」有奖答题挑战](https://www.zhihu.com/search?q=「蛇拿九稳」有奖答题挑战)
-1. [美国国际开发署被曝几乎全员被裁](https://www.zhihu.com/search?q=美国国际开发署被曝几乎全员被裁)
 1. [知乎新年活动](https://www.zhihu.com/search?q=知乎新年活动)
+1. [为何马谡置之死地就真死了](https://www.zhihu.com/search?q=为何马谡置之死地就真死了)
+1. [美国国际开发署被曝几乎全员被裁](https://www.zhihu.com/search?q=美国国际开发署被曝几乎全员被裁)
 1. [知乎蛇年活动](https://www.zhihu.com/search?q=知乎蛇年活动)
 1. [孙颖莎vs何卓佳](https://www.zhihu.com/search?q=孙颖莎vs何卓佳)
 1. [知乎春节活动](https://www.zhihu.com/search?q=知乎春节活动)
