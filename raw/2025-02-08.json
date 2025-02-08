@@ -1,9 +1,4 @@
 [
-  { "query": "北京大风", "display_query": "北京大风" },
-  {
-    "query": "一个男人最大的底气是什么",
-    "display_query": "一个男人最大的底气是什么"
-  },
   {
     "query": "为什么高德地图有那么多人用",
     "display_query": "为什么高德地图有那么多人用"
@@ -15,7 +10,6 @@
   },
   { "query": "新一轮油价调整搁浅", "display_query": "新一轮油价调整搁浅" },
   { "query": "为什么说猫是液体的", "display_query": "为什么说猫是液体的" },
-  { "query": "孙颖莎vs何卓佳", "display_query": "孙颖莎vs何卓佳" },
   {
     "query": "为何马谡置之死地就真死了",
     "display_query": "为何马谡置之死地就真死了"
@@ -30,5 +24,11 @@
   },
   { "query": "知乎新年活动", "display_query": "知乎新年活动" },
   { "query": "知乎蛇年活动", "display_query": "知乎蛇年活动" },
+  { "query": "北京大风", "display_query": "北京大风" },
+  {
+    "query": "一个男人最大的底气是什么",
+    "display_query": "一个男人最大的底气是什么"
+  },
+  { "query": "孙颖莎vs何卓佳", "display_query": "孙颖莎vs何卓佳" },
   { "query": "知乎春节活动", "display_query": "知乎春节活动" }
 ]
