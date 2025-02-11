@@ -9,7 +9,6 @@
     "display_query": "为什么高德地图有那么多人用"
   },
   { "query": "大学生兼职", "display_query": "大学生兼职" },
-  { "query": "wbg对战jdg", "display_query": "wbg对战jdg" },
   {
     "query": "荣耀 CEO 赵明确认离职",
     "display_query": "荣耀 CEO 赵明确认离职"
@@ -19,6 +18,7 @@
   { "query": "知乎写作计划", "display_query": "知乎写作计划" },
   { "query": "大学生线上兼职", "display_query": "大学生线上兼职" },
   { "query": "赚钱副业推荐", "display_query": "赚钱副业推荐" },
+  { "query": "wbg对战jdg", "display_query": "wbg对战jdg" },
   {
     "query": "武契奇所乘车辆轮胎脱落",
     "display_query": "武契奇所乘车辆轮胎脱落"
