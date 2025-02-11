@@ -1,9 +1,12 @@
 [
   {
-    "query": "武契奇所乘车辆轮胎脱落",
-    "display_query": "武契奇所乘车辆轮胎脱落"
+    "query": "一个男人最大的底气是什么",
+    "display_query": "一个男人最大的底气是什么"
   },
-  { "query": "证监会推出18条措施", "display_query": "证监会推出18条措施" },
+  {
+    "query": "为什么高德地图有那么多人用",
+    "display_query": "为什么高德地图有那么多人用"
+  },
   { "query": "大学生兼职", "display_query": "大学生兼职" },
   { "query": "wbg对战jdg", "display_query": "wbg对战jdg" },
   {
@@ -16,11 +19,8 @@
   { "query": "大学生线上兼职", "display_query": "大学生线上兼职" },
   { "query": "赚钱副业推荐", "display_query": "赚钱副业推荐" },
   {
-    "query": "一个男人最大的底气是什么",
-    "display_query": "一个男人最大的底气是什么"
+    "query": "武契奇所乘车辆轮胎脱落",
+    "display_query": "武契奇所乘车辆轮胎脱落"
   },
-  {
-    "query": "为什么高德地图有那么多人用",
-    "display_query": "为什么高德地图有那么多人用"
-  }
+  { "query": "证监会推出18条措施", "display_query": "证监会推出18条措施" }
 ]
