@@ -1,5 +1,4 @@
 [
-  { "query": "孙颖莎夺冠", "display_query": "孙颖莎夺冠" },
   { "query": "大学生兼职", "display_query": "大学生兼职" },
   { "query": "元宵节", "display_query": "元宵节" },
   {
@@ -12,6 +11,7 @@
   { "query": "大学生线上兼职", "display_query": "大学生线上兼职" },
   { "query": "赚钱副业推荐", "display_query": "赚钱副业推荐" },
   { "query": "小说推文赚钱", "display_query": "小说推文赚钱" },
-  { "query": "上海男篮轻取天津男篮", "display_query": "上海男篮轻取天津男篮" },
-  { "query": "推文小说入门", "display_query": "推文小说入门" }
+  { "query": "推文小说入门", "display_query": "推文小说入门" },
+  { "query": "孙颖莎夺冠", "display_query": "孙颖莎夺冠" },
+  { "query": "上海男篮轻取天津男篮", "display_query": "上海男篮轻取天津男篮" }
 ]
