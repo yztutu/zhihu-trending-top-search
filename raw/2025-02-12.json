@@ -1,9 +1,6 @@
 [
-  {
-    "query": "警方介入调查老师唐某某",
-    "display_query": "警方介入调查老师唐某某"
-  },
-  { "query": "冯俊熙王雪夺金", "display_query": "冯俊熙王雪夺金" },
+  { "query": "大学生兼职", "display_query": "大学生兼职" },
+  { "query": "元宵节", "display_query": "元宵节" },
   {
     "query": "我国成功发射卫星互联网低轨卫星",
     "display_query": "我国成功发射卫星互联网低轨卫星"
@@ -18,8 +15,11 @@
   { "query": "知乎写作计划", "display_query": "知乎写作计划" },
   { "query": "大学生线上兼职", "display_query": "大学生线上兼职" },
   { "query": "赚钱副业推荐", "display_query": "赚钱副业推荐" },
-  { "query": "大学生兼职", "display_query": "大学生兼职" },
-  { "query": "元宵节", "display_query": "元宵节" },
+  {
+    "query": "警方介入调查老师唐某某",
+    "display_query": "警方介入调查老师唐某某"
+  },
+  { "query": "冯俊熙王雪夺金", "display_query": "冯俊熙王雪夺金" },
   { "query": "小说推文赚钱", "display_query": "小说推文赚钱" },
   { "query": "推文小说入门", "display_query": "推文小说入门" },
   { "query": "孙颖莎夺冠", "display_query": "孙颖莎夺冠" },
