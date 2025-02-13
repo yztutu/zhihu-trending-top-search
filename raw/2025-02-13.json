@@ -1,9 +1,6 @@
 [
-  {
-    "query": "海底捞招 211/985 学历外送员",
-    "display_query": "海底捞招 211/985 学历外送员"
-  },
-  { "query": "哈弗茨赛季报销", "display_query": "哈弗茨赛季报销" },
+  { "query": "麦当劳涨价", "display_query": "麦当劳涨价" },
+  { "query": "大学生兼职", "display_query": "大学生兼职" },
   { "query": "元宵节", "display_query": "元宵节" },
   { "query": "独行侠战胜勇士", "display_query": "独行侠战胜勇士" },
   { "query": "有前妻是什么体验", "display_query": "有前妻是什么体验" },
@@ -12,8 +9,11 @@
   { "query": "知乎写作计划", "display_query": "知乎写作计划" },
   { "query": "大学生线上兼职", "display_query": "大学生线上兼职" },
   { "query": "赚钱副业推荐", "display_query": "赚钱副业推荐" },
-  { "query": "麦当劳涨价", "display_query": "麦当劳涨价" },
-  { "query": "大学生兼职", "display_query": "大学生兼职" },
+  {
+    "query": "海底捞招 211/985 学历外送员",
+    "display_query": "海底捞招 211/985 学历外送员"
+  },
+  { "query": "哈弗茨赛季报销", "display_query": "哈弗茨赛季报销" },
   { "query": "哪吒 2 票房超 95 亿 ", "display_query": "哪吒 2 票房超 95 亿 " },
   {
     "query": "「流浪地球 3」能否超越「哪吒 2」票房",
