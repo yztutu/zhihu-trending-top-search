@@ -1,10 +1,6 @@
 [
   { "query": "小说推文", "display_query": "小说推文" },
   {
-    "query": "沪深两市成交额突破5000亿",
-    "display_query": "沪深两市成交额突破5000亿"
-  },
-  {
     "query": "你最意外的一笔收入是什么",
     "display_query": "你最意外的一笔收入是什么"
   },
@@ -18,6 +14,11 @@
   { "query": "短剧推广躺赚", "display_query": "短剧推广躺赚" },
   { "query": "无货源开网店", "display_query": "无货源开网店" },
   { "query": "线上兼职推荐", "display_query": "线上兼职推荐" },
+  { "query": "知乎写小说赚钱", "display_query": "知乎写小说赚钱" },
+  {
+    "query": "沪深两市成交额突破5000亿",
+    "display_query": "沪深两市成交额突破5000亿"
+  },
   {
     "query": "哪咤2背后的动画行业现状",
     "display_query": "哪咤2背后的动画行业现状"
