@@ -1,12 +1,5 @@
 [
-  {
-    "query": "任天堂在台湾地区设立子公司",
-    "display_query": "任天堂在台湾地区设立子公司"
-  },
-  {
-    "query": "惠州新规明确顺风车不得以营利为目的",
-    "display_query": "惠州新规明确顺风车不得以营利为目的"
-  },
+  { "query": "小说推文", "display_query": "小说推文" },
   {
     "query": "你最意外的一笔收入是什么",
     "display_query": "你最意外的一笔收入是什么"
@@ -24,7 +17,14 @@
   { "query": "短剧推广躺赚", "display_query": "短剧推广躺赚" },
   { "query": "无货源开网店", "display_query": "无货源开网店" },
   { "query": "线上兼职推荐", "display_query": "线上兼职推荐" },
-  { "query": "小说推文", "display_query": "小说推文" },
   { "query": "写作能力提升", "display_query": "写作能力提升" },
+  {
+    "query": "任天堂在台湾地区设立子公司",
+    "display_query": "任天堂在台湾地区设立子公司"
+  },
+  {
+    "query": "惠州新规明确顺风车不得以营利为目的",
+    "display_query": "惠州新规明确顺风车不得以营利为目的"
+  },
   { "query": "小说签约赚钱", "display_query": "小说签约赚钱" }
 ]
