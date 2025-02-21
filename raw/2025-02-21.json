@@ -1,5 +1,5 @@
 [
-  { "query": "今晚油价下调", "display_query": "今晚油价下调" },
+  { "query": "阿凡达重映", "display_query": "阿凡达重映" },
   {
     "query": "为什么甲状腺激素一定要用碘来合成",
     "display_query": "为什么甲状腺激素一定要用碘来合成"
@@ -15,10 +15,6 @@
     "display_query": "王健林 7702 万股权被冻结"
   },
   {
-    "query": "微信灰度测试接入DeepSeek-R1",
-    "display_query": "微信灰度测试接入DeepSeek-R1"
-  },
-  {
     "query": "《我是哪吒 2》 被批诈骗",
     "display_query": "《我是哪吒 2》 被批诈骗"
   },
@@ -26,6 +22,12 @@
   {
     "query": "格力专卖店改名董明珠健康家",
     "display_query": "格力专卖店改名董明珠健康家"
+  },
+  { "query": "董明珠健康家", "display_query": "董明珠健康家" },
+  { "query": "今晚油价下调", "display_query": "今晚油价下调" },
+  {
+    "query": "微信灰度测试接入DeepSeek-R1",
+    "display_query": "微信灰度测试接入DeepSeek-R1"
   },
   { "query": "成品油价或年内首跌", "display_query": "成品油价或年内首跌" },
   {
