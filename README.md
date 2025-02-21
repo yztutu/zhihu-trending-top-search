@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 21 2025 19:09:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 21 2025 20:22:26 GMT+0800 (China Standard Time) -->
 
 1. [今晚油价下调](https://www.zhihu.com/search?q=今晚油价下调)
 1. [为什么甲状腺激素一定要用碘来合成](https://www.zhihu.com/search?q=为什么甲状腺激素一定要用碘来合成)
@@ -23,6 +23,7 @@
 1. [沪深京三市成交额突破1万亿元](https://www.zhihu.com/search?q=沪深京三市成交额突破1万亿元)
 1. [为什么全网都在黑土木工程](https://www.zhihu.com/search?q=为什么全网都在黑土木工程)
 1. [快船vs雄鹿](https://www.zhihu.com/search?q=快船vs雄鹿)
+1. [实物黄金疯狂涌入美国](https://www.zhihu.com/search?q=实物黄金疯狂涌入美国)
 1. [《蛟龙行动》宣布撤档](https://www.zhihu.com/search?q=《蛟龙行动》宣布撤档)
 1. [王健林 7702 万股权被冻结](https://www.zhihu.com/search?q=王健林 7702
    万股权被冻结)
