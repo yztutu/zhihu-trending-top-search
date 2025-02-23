@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Feb 23 2025 17:11:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Feb 23 2025 18:12:12 GMT+0800 (China Standard Time) -->
 
 1. [今晚油价下调](https://www.zhihu.com/search?q=今晚油价下调)
 1. [现货黄金再创新高](https://www.zhihu.com/search?q=现货黄金再创新高)
