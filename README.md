@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 24 2025 07:10:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 24 2025 08:58:30 GMT+0800 (China Standard Time) -->
 
 1. [今晚油价下调](https://www.zhihu.com/search?q=今晚油价下调)
 1. [现货黄金再创新高](https://www.zhihu.com/search?q=现货黄金再创新高)
@@ -23,10 +23,11 @@
 1. [为什么全网都在黑土木工程](https://www.zhihu.com/search?q=为什么全网都在黑土木工程)
 1. [快船vs雄鹿](https://www.zhihu.com/search?q=快船vs雄鹿)
 1. [实物黄金疯狂涌入美国](https://www.zhihu.com/search?q=实物黄金疯狂涌入美国)
-1. [微信灰度测试接入DeepSeek-R1](https://www.zhihu.com/search?q=微信灰度测试接入DeepSeek-R1)
 1. [小行星或将撞击地球](https://www.zhihu.com/search?q=小行星或将撞击地球)
 1. [达美航空客机翻覆](https://www.zhihu.com/search?q=达美航空客机翻覆)
 1. [陈晓与陈妍希宣布离婚](https://www.zhihu.com/search?q=陈晓与陈妍希宣布离婚)
+1. [浙大转专业机械工程报录比超计算机](https://www.zhihu.com/search?q=浙大转专业机械工程报录比超计算机)
+1. [微信灰度测试接入DeepSeek-R1](https://www.zhihu.com/search?q=微信灰度测试接入DeepSeek-R1)
 
 <!-- END -->
 
