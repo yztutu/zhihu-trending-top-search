@@ -12,10 +12,6 @@
   },
   { "query": "DeepSeek NSA", "display_query": "DeepSeek NSA" },
   {
-    "query": "浙大转专业机械工程报录比超计算机",
-    "display_query": "浙大转专业机械工程报录比超计算机"
-  },
-  {
     "query": "孕妇称被动车上行李箱砸中致孩子夭折",
     "display_query": "孕妇称被动车上行李箱砸中致孩子夭折"
   },
@@ -26,5 +22,13 @@
   {
     "query": "埃及百年来首次发现新法老陵墓",
     "display_query": "埃及百年来首次发现新法老陵墓"
+  },
+  {
+    "query": "郭艾伦再次谴责捅眼球员",
+    "display_query": "郭艾伦再次谴责捅眼球员"
+  },
+  {
+    "query": "浙大转专业机械工程报录比超计算机",
+    "display_query": "浙大转专业机械工程报录比超计算机"
   }
 ]
