@@ -15,12 +15,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Feb 25 2025 21:20:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Feb 25 2025 22:11:45 GMT+0800 (China Standard Time) -->
 
 1. [多家银行下调存款利率](https://www.zhihu.com/search?q=多家银行下调存款利率)
 1. [考研国家线](https://www.zhihu.com/search?q=考研国家线)
 1. [现货黄金再创新高](https://www.zhihu.com/search?q=现货黄金再创新高)
 1. [为什么全网都在黑土木工程](https://www.zhihu.com/search?q=为什么全网都在黑土木工程)
+1. [利物浦2:0曼城](https://www.zhihu.com/search?q=利物浦2:0曼城)
 1. [为什么光一产生就可以达到光速](https://www.zhihu.com/search?q=为什么光一产生就可以达到光速)
 1. [七星连珠](https://www.zhihu.com/search?q=七星连珠)
 1. [为什么复活哪吒要用藕](https://www.zhihu.com/search?q=为什么复活哪吒要用藕)
