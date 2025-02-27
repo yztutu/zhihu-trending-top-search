@@ -1,12 +1,6 @@
 [
-  {
-    "query": "有一双超级大长腿是什么感觉",
-    "display_query": "有一双超级大长腿是什么感觉"
-  },
-  {
-    "query": "老师带儿子闯教室殴打学生",
-    "display_query": "老师带儿子闯教室殴打学生"
-  },
+  { "query": "四六级成绩", "display_query": "四六级成绩" },
+  { "query": "独行侠VS湖人", "display_query": "独行侠VS湖人" },
   { "query": "湖人vs独行侠", "display_query": "湖人vs独行侠" },
   { "query": "勇士大胜黄蜂", "display_query": "勇士大胜黄蜂" },
   {
@@ -29,5 +23,13 @@
   {
     "query": "少女花150元文身清洗需76.9万元",
     "display_query": "少女花150元文身清洗需76.9万元"
+  },
+  {
+    "query": "有一双超级大长腿是什么感觉",
+    "display_query": "有一双超级大长腿是什么感觉"
+  },
+  {
+    "query": "老师带儿子闯教室殴打学生",
+    "display_query": "老师带儿子闯教室殴打学生"
   }
 ]
