@@ -1,11 +1,10 @@
 [
-  { "query": "四六级成绩", "display_query": "四六级成绩" },
   { "query": "湖人vs独行侠", "display_query": "湖人vs独行侠" },
-  { "query": "勇士大胜黄蜂", "display_query": "勇士大胜黄蜂" },
   {
     "query": "为什么全网都在黑土木工程",
     "display_query": "为什么全网都在黑土木工程"
   },
+  { "query": "小米su7ultra", "display_query": "小米su7ultra" },
   { "query": "利物浦2:0曼城", "display_query": "利物浦2:0曼城" },
   {
     "query": "为何白天只睡一小会就能恢复疲劳",
@@ -20,12 +19,22 @@
     "display_query": "奶奶每天玩手机到凌晨近视 2300 度"
   },
   {
-    "query": "少女花150元文身清洗需76.9万元",
-    "display_query": "少女花150元文身清洗需76.9万元"
-  },
-  {
     "query": "澳军称 055 在悉尼外海实弹开火",
     "display_query": "澳军称 055 在悉尼外海实弹开火"
+  },
+  {
+    "query": "城镇居民不允许到农村购买农房、宅基地",
+    "display_query": "城镇居民不允许到农村购买农房、宅基地"
+  },
+  {
+    "query": "昆明一电梯失控致业主身亡",
+    "display_query": "昆明一电梯失控致业主身亡"
+  },
+  { "query": "四六级成绩", "display_query": "四六级成绩" },
+  { "query": "勇士大胜黄蜂", "display_query": "勇士大胜黄蜂" },
+  {
+    "query": "少女花150元文身清洗需76.9万元",
+    "display_query": "少女花150元文身清洗需76.9万元"
   },
   {
     "query": "腾讯回应余承东鸿蒙喊话",
