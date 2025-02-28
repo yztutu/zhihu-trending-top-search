@@ -15,13 +15,15 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 28 2025 15:11:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 28 2025 16:15:35 GMT+0800 (China Standard Time) -->
 
 1. [湖人vs独行侠](https://www.zhihu.com/search?q=湖人vs独行侠)
+1. [沪深两市成交额突破5000亿](https://www.zhihu.com/search?q=沪深两市成交额突破5000亿)
 1. [为什么全网都在黑土木工程](https://www.zhihu.com/search?q=为什么全网都在黑土木工程)
 1. [小米su7ultra](https://www.zhihu.com/search?q=小米su7ultra)
 1. [利物浦2:0曼城](https://www.zhihu.com/search?q=利物浦2:0曼城)
 1. [为何白天只睡一小会就能恢复疲劳](https://www.zhihu.com/search?q=为何白天只睡一小会就能恢复疲劳)
+1. [魔术vs勇士](https://www.zhihu.com/search?q=魔术vs勇士)
 1. [RTX 5070Ti 显卡国行售价 6299 起](https://www.zhihu.com/search?q=RTX 5070Ti
    显卡国行售价 6299 起)
 1. [奶奶每天玩手机到凌晨近视 2300
