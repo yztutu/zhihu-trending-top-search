@@ -5,7 +5,6 @@
     "query": "沪深两市成交额突破5000亿",
     "display_query": "沪深两市成交额突破5000亿"
   },
-  { "query": "上班恶心穿搭", "display_query": "上班恶心穿搭" },
   { "query": "退税", "display_query": "退税" },
   { "query": "小米su7ultra", "display_query": "小米su7ultra" },
   { "query": "魔术vs勇士", "display_query": "魔术vs勇士" },
@@ -20,5 +19,7 @@
   {
     "query": "比特币 24 小时内跌幅超 4%",
     "display_query": "比特币 24 小时内跌幅超 4%"
-  }
+  },
+  { "query": "爱你开播", "display_query": "爱你开播" },
+  { "query": "上班恶心穿搭", "display_query": "上班恶心穿搭" }
 ]
