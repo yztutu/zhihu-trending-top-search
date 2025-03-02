@@ -1,9 +1,6 @@
 [
-  {
-    "query": "美方对中俄挑拨离间完全是徒劳的",
-    "display_query": "美方对中俄挑拨离间完全是徒劳的"
-  },
-  { "query": "美国猛砍对外援助", "display_query": "美国猛砍对外援助" },
+  { "query": "多家银行下调存款利率", "display_query": "多家银行下调存款利率" },
+  { "query": "湖人vs独行侠", "display_query": "湖人vs独行侠" },
   {
     "query": "沪深两市成交额突破5000亿",
     "display_query": "沪深两市成交额突破5000亿"
@@ -24,7 +21,10 @@
     "display_query": "比特币 24 小时内跌幅超 4%"
   },
   { "query": "爱你开播", "display_query": "爱你开播" },
-  { "query": "多家银行下调存款利率", "display_query": "多家银行下调存款利率" },
-  { "query": "湖人vs独行侠", "display_query": "湖人vs独行侠" },
+  {
+    "query": "美方对中俄挑拨离间完全是徒劳的",
+    "display_query": "美方对中俄挑拨离间完全是徒劳的"
+  },
+  { "query": "美国猛砍对外援助", "display_query": "美国猛砍对外援助" },
   { "query": "上班恶心穿搭", "display_query": "上班恶心穿搭" }
 ]
