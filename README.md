@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 02 2025 19:09:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 02 2025 20:20:14 GMT+0800 (China Standard Time) -->
 
 1. [多家银行下调存款利率](https://www.zhihu.com/search?q=多家银行下调存款利率)
 1. [湖人vs独行侠](https://www.zhihu.com/search?q=湖人vs独行侠)
@@ -26,9 +26,11 @@
 1. [澳军称 055 在悉尼外海实弹开火](https://www.zhihu.com/search?q=澳军称 055
    在悉尼外海实弹开火)
 1. [连续一年每天吃半斤牛肉体质会有变化吗](https://www.zhihu.com/search?q=连续一年每天吃半斤牛肉体质会有变化吗)
+1. [爱你开播](https://www.zhihu.com/search?q=爱你开播)
+1. [新闻学专业 70% 学生在做自媒体](https://www.zhihu.com/search?q=新闻学专业 70%
+   学生在做自媒体)
 1. [比特币 24 小时内跌幅超 4%](https://www.zhihu.com/search?q=比特币 24
    小时内跌幅超 4%)
-1. [爱你开播](https://www.zhihu.com/search?q=爱你开播)
 1. [美方对中俄挑拨离间完全是徒劳的](https://www.zhihu.com/search?q=美方对中俄挑拨离间完全是徒劳的)
 1. [美国猛砍对外援助](https://www.zhihu.com/search?q=美国猛砍对外援助)
 1. [上班恶心穿搭](https://www.zhihu.com/search?q=上班恶心穿搭)
