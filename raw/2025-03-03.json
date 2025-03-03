@@ -1,5 +1,6 @@
 [
-  { "query": "小米su7ultra价格公布", "display_query": "小米su7ultra价格公布" },
+  { "query": "多家银行下调存款利率", "display_query": "多家银行下调存款利率" },
+  { "query": "湖人vs独行侠", "display_query": "湖人vs独行侠" },
   {
     "query": "沪深两市成交额突破5000亿",
     "display_query": "沪深两市成交额突破5000亿"
@@ -23,12 +24,11 @@
     "query": "deepseek据悉力求提前发布其r2模型",
     "display_query": "deepseek据悉力求提前发布其r2模型"
   },
+  { "query": "小米su7ultra价格公布", "display_query": "小米su7ultra价格公布" },
   {
     "query": "江汽集团回应迈巴赫测试争议",
     "display_query": "江汽集团回应迈巴赫测试争议"
   },
-  { "query": "多家银行下调存款利率", "display_query": "多家银行下调存款利率" },
-  { "query": "湖人vs独行侠", "display_query": "湖人vs独行侠" },
   { "query": "退税", "display_query": "退税" },
   {
     "query": "新闻学专业 70% 学生在做自媒体",
