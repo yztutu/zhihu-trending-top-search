@@ -1,5 +1,4 @@
 [
-  { "query": "多家银行下调存款利率", "display_query": "多家银行下调存款利率" },
   { "query": "快船vs湖人", "display_query": "快船vs湖人" },
   { "query": "金价下跌", "display_query": "金价下跌" },
   { "query": "工业克苏鲁什么意思", "display_query": "工业克苏鲁什么意思" },
@@ -12,12 +11,15 @@
     "query": "小米 SU7 Ultra 定价 52.99 万元",
     "display_query": "小米 SU7 Ultra 定价 52.99 万元"
   },
-  { "query": "OpenAI 发布 GPT4.5", "display_query": "OpenAI 发布 GPT4.5" },
   {
     "query": "小米 SU7 Ultra 大定破 1W 台",
     "display_query": "小米 SU7 Ultra 大定破 1W 台"
   },
   { "query": "余华英被执行死刑", "display_query": "余华英被执行死刑" },
+  { "query": "openai推出gpt-4.5", "display_query": "openai推出gpt-4.5" },
+  { "query": "猫猫的奇幻漂流上映", "display_query": "猫猫的奇幻漂流上映" },
+  { "query": "多家银行下调存款利率", "display_query": "多家银行下调存款利率" },
+  { "query": "OpenAI 发布 GPT4.5", "display_query": "OpenAI 发布 GPT4.5" },
   {
     "query": "《哪吒 2》配音演员起诉配音公司",
     "display_query": "《哪吒 2》配音演员起诉配音公司"
