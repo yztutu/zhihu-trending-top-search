@@ -1,9 +1,5 @@
 [
-  { "query": "多家银行下调存款利率", "display_query": "多家银行下调存款利率" },
-  {
-    "query": "沪深两市成交额突破5000亿",
-    "display_query": "沪深两市成交额突破5000亿"
-  },
+  { "query": "章若楠追星周杰伦成功", "display_query": "章若楠追星周杰伦成功" },
   { "query": "工业克苏鲁什么意思", "display_query": "工业克苏鲁什么意思" },
   { "query": "魔术vs勇士", "display_query": "魔术vs勇士" },
   { "query": "湖人vs快船", "display_query": "湖人vs快船" },
@@ -23,6 +19,15 @@
   {
     "query": "深圳一在售楼盘现假地铁站牌",
     "display_query": "深圳一在售楼盘现假地铁站牌"
+  },
+  {
+    "query": "老师带儿子闯教室殴打学生",
+    "display_query": "老师带儿子闯教室殴打学生"
+  },
+  { "query": "多家银行下调存款利率", "display_query": "多家银行下调存款利率" },
+  {
+    "query": "沪深两市成交额突破5000亿",
+    "display_query": "沪深两市成交额突破5000亿"
   },
   { "query": "湖人vs独行侠", "display_query": "湖人vs独行侠" },
   { "query": "小米su7ultra", "display_query": "小米su7ultra" },
