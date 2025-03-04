@@ -19,10 +19,6 @@
     "display_query": "美国 450 万美元研究给醉酒老鼠喷山猫尿液"
   },
   {
-    "query": "小米 SU7 Ultra 大定破 1W 台",
-    "display_query": "小米 SU7 Ultra 大定破 1W 台"
-  },
-  {
     "query": "DeepSeek 首次公布模型推理优化细节",
     "display_query": "DeepSeek 首次公布模型推理优化细节"
   },
@@ -33,6 +29,10 @@
   {
     "query": "DeepSeek 公布模型推理成本利润细节",
     "display_query": "DeepSeek 公布模型推理成本利润细节"
+  },
+  {
+    "query": "小米 SU7 Ultra 大定破 1W 台",
+    "display_query": "小米 SU7 Ultra 大定破 1W 台"
   },
   { "query": "金价下跌", "display_query": "金价下跌" },
   { "query": "猫猫的奇幻漂流上映", "display_query": "猫猫的奇幻漂流上映" },
