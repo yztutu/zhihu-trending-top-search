@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 04 2025 07:11:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 04 2025 08:58:42 GMT+0800 (China Standard Time) -->
 
 1. [快船vs湖人](https://www.zhihu.com/search?q=快船vs湖人)
 1. [金价下跌](https://www.zhihu.com/search?q=金价下跌)
