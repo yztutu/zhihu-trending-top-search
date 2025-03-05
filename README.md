@@ -15,13 +15,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 05 2025 18:13:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 05 2025 19:10:25 GMT+0800 (China Standard Time) -->
 
 1. [快船vs湖人](https://www.zhihu.com/search?q=快船vs湖人)
 1. [皇马vs马竞](https://www.zhihu.com/search?q=皇马vs马竞)
 1. [你捡过最大的漏是什么](https://www.zhihu.com/search?q=你捡过最大的漏是什么)
 1. [为什么检查上级都会提前通知](https://www.zhihu.com/search?q=为什么检查上级都会提前通知)
 1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=工业克苏鲁什么意思)
+1. [上海申花vs川崎前锋](https://www.zhihu.com/search?q=上海申花vs川崎前锋)
 1. [你见过最震惊三观事情是什么](https://www.zhihu.com/search?q=你见过最震惊三观事情是什么)
 1. [小米 SU7 Ultra 定价 52.99 万元](https://www.zhihu.com/search?q=小米 SU7
    Ultra 定价 52.99 万元)
