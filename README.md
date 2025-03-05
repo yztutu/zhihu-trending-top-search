@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 05 2025 11:20:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 05 2025 12:14:51 GMT+0800 (China Standard Time) -->
 
-1. [快船vs湖人](https://www.zhihu.com/search?q=快船vs湖人)
+1. [雪天出行8个提醒](https://www.zhihu.com/search?q=雪天出行8个提醒)
+1. [x⁷=1的根式解都是什么](https://www.zhihu.com/search?q=x⁷=1的根式解都是什么)
 1. [皇马vs马竞](https://www.zhihu.com/search?q=皇马vs马竞)
 1. [为什么检查上级都会提前通知](https://www.zhihu.com/search?q=为什么检查上级都会提前通知)
 1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=工业克苏鲁什么意思)
@@ -28,6 +29,7 @@
    首次公布模型推理优化细节)
 1. [DeepSeek 公布 V3 / R1 推理系统概览](https://www.zhihu.com/search?q=DeepSeek
    公布 V3 / R1 推理系统概览)
+1. [快船vs湖人](https://www.zhihu.com/search?q=快船vs湖人)
 1. [DeepSeek 公布模型推理成本利润细节](https://www.zhihu.com/search?q=DeepSeek
    公布模型推理成本利润细节)
 1. [建议故意伤害刑责年龄降至12岁](https://www.zhihu.com/search?q=建议故意伤害刑责年龄降至12岁)
