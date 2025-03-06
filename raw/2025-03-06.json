@@ -1,5 +1,5 @@
 [
-  { "query": "赵丽颖向阳花官宣定档", "display_query": "赵丽颖向阳花官宣定档" },
+  { "query": "皇马vs马竞", "display_query": "皇马vs马竞" },
   { "query": "你捡过最大的漏是什么", "display_query": "你捡过最大的漏是什么" },
   {
     "query": "为什么检查上级都会提前通知",
@@ -11,10 +11,6 @@
     "query": "你见过最震惊三观事情是什么",
     "display_query": "你见过最震惊三观事情是什么"
   },
-  {
-    "query": "小米 SU7 Ultra 定价 52.99 万元",
-    "display_query": "小米 SU7 Ultra 定价 52.99 万元"
-  },
   { "query": "猫猫的奇幻漂流上映", "display_query": "猫猫的奇幻漂流上映" },
   {
     "query": "中国足协发布球员自荐系统",
@@ -24,7 +20,11 @@
     "query": "蒋胜男建议删除离婚冷静期条款",
     "display_query": "蒋胜男建议删除离婚冷静期条款"
   },
-  { "query": "皇马vs马竞", "display_query": "皇马vs马竞" },
   { "query": "第 97 届奥斯卡金像奖", "display_query": "第 97 届奥斯卡金像奖" },
+  { "query": "赵丽颖向阳花官宣定档", "display_query": "赵丽颖向阳花官宣定档" },
+  {
+    "query": "小米 SU7 Ultra 定价 52.99 万元",
+    "display_query": "小米 SU7 Ultra 定价 52.99 万元"
+  },
   { "query": "快船vs湖人", "display_query": "快船vs湖人" }
 ]
