@@ -1,6 +1,4 @@
 [
-  { "query": "快船vs湖人", "display_query": "快船vs湖人" },
-  { "query": "皇马vs马竞", "display_query": "皇马vs马竞" },
   { "query": "你捡过最大的漏是什么", "display_query": "你捡过最大的漏是什么" },
   {
     "query": "为什么检查上级都会提前通知",
@@ -20,5 +18,12 @@
   {
     "query": "中国足协发布球员自荐系统",
     "display_query": "中国足协发布球员自荐系统"
-  }
+  },
+  {
+    "query": "蒋胜男建议删除离婚冷静期条款",
+    "display_query": "蒋胜男建议删除离婚冷静期条款"
+  },
+  { "query": "第 97 届奥斯卡金像奖", "display_query": "第 97 届奥斯卡金像奖" },
+  { "query": "快船vs湖人", "display_query": "快船vs湖人" },
+  { "query": "皇马vs马竞", "display_query": "皇马vs马竞" }
 ]
