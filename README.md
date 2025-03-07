@@ -15,10 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 07 2025 12:15:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 07 2025 13:12:29 GMT+0800 (China Standard Time) -->
 
-1. [3 亿中国人送到澳大利亚要多久](https://www.zhihu.com/search?q=3
-   亿中国人送到澳大利亚要多久)
 1. [皇马vs马竞](https://www.zhihu.com/search?q=皇马vs马竞)
 1. [你捡过最大的漏是什么](https://www.zhihu.com/search?q=你捡过最大的漏是什么)
 1. [为什么检查上级都会提前通知](https://www.zhihu.com/search?q=为什么检查上级都会提前通知)
@@ -30,6 +28,8 @@
 1. [RTX 5070Ti 显卡国行售价 6299 起](https://www.zhihu.com/search?q=RTX 5070Ti
    显卡国行售价 6299 起)
 1. [猫猫的奇幻漂流上映](https://www.zhihu.com/search?q=猫猫的奇幻漂流上映)
+1. [3 亿中国人送到澳大利亚要多久](https://www.zhihu.com/search?q=3
+   亿中国人送到澳大利亚要多久)
 1. [中国足协发布球员自荐系统](https://www.zhihu.com/search?q=中国足协发布球员自荐系统)
 1. [蒋胜男建议删除离婚冷静期条款](https://www.zhihu.com/search?q=蒋胜男建议删除离婚冷静期条款)
 1. [王大陆被裁定交保500万](https://www.zhihu.com/search?q=王大陆被裁定交保500万)
