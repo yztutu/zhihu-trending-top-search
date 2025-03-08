@@ -12,6 +12,19 @@
     "display_query": "反直觉的地理知识有哪些"
   },
   {
+    "query": "蒋胜男建议删除离婚冷静期条款",
+    "display_query": "蒋胜男建议删除离婚冷静期条款"
+  },
+  {
+    "query": "为什么日本出不了 DeepSeek",
+    "display_query": "为什么日本出不了 DeepSeek"
+  },
+  {
+    "query": "美国暂停对乌克兰军事援助",
+    "display_query": "美国暂停对乌克兰军事援助"
+  },
+  { "query": "盒马被立案调查", "display_query": "盒马被立案调查" },
+  {
     "query": "DeepSeek 首次公布模型推理优化细节",
     "display_query": "DeepSeek 首次公布模型推理优化细节"
   },
@@ -23,18 +36,6 @@
     "query": "DeepSeek 公布模型推理成本利润细节",
     "display_query": "DeepSeek 公布模型推理成本利润细节"
   },
-  {
-    "query": "蒋胜男建议删除离婚冷静期条款",
-    "display_query": "蒋胜男建议删除离婚冷静期条款"
-  },
-  {
-    "query": "为什么日本出不了 DeepSeek",
-    "display_query": "为什么日本出不了 DeepSeek"
-  },
   { "query": "猫猫的奇幻漂流上映", "display_query": "猫猫的奇幻漂流上映" },
-  { "query": "星舰第八次试飞", "display_query": "星舰第八次试飞" },
-  {
-    "query": "美国暂停对乌克兰军事援助",
-    "display_query": "美国暂停对乌克兰军事援助"
-  }
+  { "query": "星舰第八次试飞", "display_query": "星舰第八次试飞" }
 ]
