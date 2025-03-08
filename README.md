@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Mar 08 2025 16:12:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Mar 08 2025 17:10:01 GMT+0800 (China Standard Time) -->
 
 1. [妇女节](https://www.zhihu.com/search?q=妇女节)
+1. [教资](https://www.zhihu.com/search?q=教资)
 1. [你捡过最大的漏是什么](https://www.zhihu.com/search?q=你捡过最大的漏是什么)
 1. [男人有胡子和没胡子颜值差距有多大](https://www.zhihu.com/search?q=男人有胡子和没胡子颜值差距有多大)
 1. [上海申花vs川崎前锋](https://www.zhihu.com/search?q=上海申花vs川崎前锋)
@@ -31,7 +32,6 @@
 1. [蒋胜男建议删除离婚冷静期条款](https://www.zhihu.com/search?q=蒋胜男建议删除离婚冷静期条款)
 1. [为什么日本出不了 DeepSeek](https://www.zhihu.com/search?q=为什么日本出不了
    DeepSeek)
-1. [教资](https://www.zhihu.com/search?q=教资)
 1. [猫猫的奇幻漂流上映](https://www.zhihu.com/search?q=猫猫的奇幻漂流上映)
 1. [星舰第八次试飞](https://www.zhihu.com/search?q=星舰第八次试飞)
 1. [美国暂停对乌克兰军事援助](https://www.zhihu.com/search?q=美国暂停对乌克兰军事援助)
