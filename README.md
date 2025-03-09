@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 10 2025 05:09:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 10 2025 06:09:44 GMT+0800 (China Standard Time) -->
 
 1. [妇女节](https://www.zhihu.com/search?q=妇女节)
 1. [男人有胡子和没胡子颜值差距有多大](https://www.zhihu.com/search?q=男人有胡子和没胡子颜值差距有多大)
