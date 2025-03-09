@@ -1,6 +1,5 @@
 [
   { "query": "妇女节", "display_query": "妇女节" },
-  { "query": "教资", "display_query": "教资" },
   {
     "query": "男人有胡子和没胡子颜值差距有多大",
     "display_query": "男人有胡子和没胡子颜值差距有多大"
@@ -24,6 +23,11 @@
     "query": "金融监管总局将研究提高消费贷款额度",
     "display_query": "金融监管总局将研究提高消费贷款额度"
   },
+  {
+    "query": "欧文遭遇左膝前交叉韧带撕裂",
+    "display_query": "欧文遭遇左膝前交叉韧带撕裂"
+  },
+  { "query": "教资", "display_query": "教资" },
   {
     "query": "为什么日本出不了 DeepSeek",
     "display_query": "为什么日本出不了 DeepSeek"
