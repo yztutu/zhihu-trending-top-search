@@ -11,10 +11,6 @@
     "display_query": "反直觉的地理知识有哪些"
   },
   {
-    "query": "为什么日本出不了 DeepSeek",
-    "display_query": "为什么日本出不了 DeepSeek"
-  },
-  {
     "query": "美国暂停对乌克兰军事援助",
     "display_query": "美国暂停对乌克兰军事援助"
   },
@@ -24,11 +20,15 @@
     "display_query": "女子盗录哪吒2被罚1.5万"
   },
   { "query": "韩国迎来双胞胎时代", "display_query": "韩国迎来双胞胎时代" },
-  { "query": "哈登再度砍下50分", "display_query": "哈登再度砍下50分" },
   {
     "query": "金融监管总局将研究提高消费贷款额度",
     "display_query": "金融监管总局将研究提高消费贷款额度"
   },
+  {
+    "query": "为什么日本出不了 DeepSeek",
+    "display_query": "为什么日本出不了 DeepSeek"
+  },
+  { "query": "哈登再度砍下50分", "display_query": "哈登再度砍下50分" },
   {
     "query": "城乡居民基础养老金最低标准提高20元",
     "display_query": "城乡居民基础养老金最低标准提高20元"
