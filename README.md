@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 23 2025 09:04:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 23 2025 18:11:47 GMT+0800 (China Standard Time) -->
 
 1. [有哪些故意缩短产品寿命的设计](https://www.zhihu.com/search?q=有哪些故意缩短产品寿命的设计)
 1. [你见过最令你震撼的一张图片是什么](https://www.zhihu.com/search?q=你见过最令你震撼的一张图片是什么)
