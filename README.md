@@ -15,20 +15,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 31 2025 20:24:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 02 2025 01:12:33 GMT+0800 (China Standard Time) -->
 
-1. [林钟勋申裕斌混双夺冠](https://www.zhihu.com/search?q=林钟勋申裕斌混双夺冠)
-1. [机械狗「集结」AWE](https://www.zhihu.com/search?q=机械狗「集结」AWE)
-1. [AI 给家电带来了什么](https://www.zhihu.com/search?q=AI 给家电带来了什么)
-1. [冷藏冷冻不串味的 AI 冰箱](https://www.zhihu.com/search?q=冷藏冷冻不串味的 AI
-   冰箱)
-1. [AWE 未来生活家](https://www.zhihu.com/search?q=AWE 未来生活家)
-1. [卷出新高度的 AI 家电](https://www.zhihu.com/search?q=卷出新高度的 AI 家电)
-1. [看见未来家](https://www.zhihu.com/search?q=看见未来家)
-1. [让家电回归工具本质](https://www.zhihu.com/search?q=让家电回归工具本质)
+1. [愚人节文案](https://www.zhihu.com/search?q=愚人节文案)
+1. [湖人战胜火箭](https://www.zhihu.com/search?q=湖人战胜火箭)
+1. [愚人节](https://www.zhihu.com/search?q=愚人节)
+1. [你干过最牛的一件事是什么](https://www.zhihu.com/search?q=你干过最牛的一件事是什么)
+1. [金价又创新高](https://www.zhihu.com/search?q=金价又创新高)
+1. [羽毛球](https://www.zhihu.com/search?q=羽毛球)
+1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=工业克苏鲁什么意思)
 1. [长的漂亮真的很有优势吗](https://www.zhihu.com/search?q=长的漂亮真的很有优势吗)
-1. [AI 能为家电带来哪些新功能](https://www.zhihu.com/search?q=AI
-   能为家电带来哪些新功能)
+1. [河北廊坊永清县 4.2 级地震](https://www.zhihu.com/search?q=河北廊坊永清县 4.2
+   级地震)
+1. [义乌购房新政公布](https://www.zhihu.com/search?q=义乌购房新政公布)
 
 <!-- END -->
 
