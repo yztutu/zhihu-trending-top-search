@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 17 2025 05:12:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 17 2025 13:13:05 GMT+0800 (China Standard Time) -->
 
 1. [你的学校发生过最扯的事是什么](https://www.zhihu.com/search?q=你的学校发生过最扯的事是什么)
 1. [世界经济进入大停滞了吗](https://www.zhihu.com/search?q=世界经济进入大停滞了吗)
