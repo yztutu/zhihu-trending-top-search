@@ -1,11 +1,10 @@
 [
+  { "query": "巴菲特股东大会", "display_query": "巴菲特股东大会" },
   {
     "query": "你的学校发生过最扯的事是什么",
     "display_query": "你的学校发生过最扯的事是什么"
   },
   { "query": "工业克苏鲁什么意思", "display_query": "工业克苏鲁什么意思" },
-  { "query": "潘凤是怎么混成大将的", "display_query": "潘凤是怎么混成大将的" },
-  { "query": "为什么贾玲突然消失了", "display_query": "为什么贾玲突然消失了" },
   { "query": "知乎旧物节", "display_query": "知乎旧物节" },
   { "query": "寻找穿越时光的旧物", "display_query": "寻找穿越时光的旧物" },
   {
@@ -14,6 +13,13 @@
   },
   { "query": "穿越时光的旧物", "display_query": "穿越时光的旧物" },
   { "query": "中日友好医院肖飞", "display_query": "中日友好医院肖飞" },
+  {
+    "query": "网友吐槽 iPhone 闹钟调休不响导致迟到",
+    "display_query": "网友吐槽 iPhone 闹钟调休不响导致迟到"
+  },
+  { "query": "惠英红 影后", "display_query": "惠英红 影后" },
+  { "query": "潘凤是怎么混成大将的", "display_query": "潘凤是怎么混成大将的" },
+  { "query": "为什么贾玲突然消失了", "display_query": "为什么贾玲突然消失了" },
   {
     "query": "春秋航空 2024 年净利润预计达 25 亿元",
     "display_query": "春秋航空 2024 年净利润预计达 25 亿元"
