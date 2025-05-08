@@ -1,6 +1,9 @@
 [
-  { "query": "库里受伤", "display_query": "库里受伤" },
-  { "query": "海军究竟能有多烧钱", "display_query": "海军究竟能有多烧钱" },
+  {
+    "query": "于东来邀请质疑者考察胖东来",
+    "display_query": "于东来邀请质疑者考察胖东来"
+  },
+  { "query": "永野芽郁田中圭", "display_query": "永野芽郁田中圭" },
   {
     "query": "为什么在中国邮箱不流行",
     "display_query": "为什么在中国邮箱不流行"
@@ -23,5 +26,7 @@
   {
     "query": "哪件旧物是你一直保留着的",
     "display_query": "哪件旧物是你一直保留着的"
-  }
+  },
+  { "query": "库里受伤", "display_query": "库里受伤" },
+  { "query": "海军究竟能有多烧钱", "display_query": "海军究竟能有多烧钱" }
 ]

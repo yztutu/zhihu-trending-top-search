@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu May 08 2025 16:17:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu May 08 2025 18:14:51 GMT+0800 (China Standard Time) -->
 
-1. [库里受伤](https://www.zhihu.com/search?q=库里受伤)
-1. [海军究竟能有多烧钱](https://www.zhihu.com/search?q=海军究竟能有多烧钱)
+1. [于东来邀请质疑者考察胖东来](https://www.zhihu.com/search?q=于东来邀请质疑者考察胖东来)
+1. [永野芽郁田中圭](https://www.zhihu.com/search?q=永野芽郁田中圭)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=为什么在中国邮箱不流行)
 1. [为什么中国要用五孔插座](https://www.zhihu.com/search?q=为什么中国要用五孔插座)
 1. [勇士vs森林狼](https://www.zhihu.com/search?q=勇士vs森林狼)
@@ -27,6 +27,8 @@
 1. [知乎旧物节](https://www.zhihu.com/search?q=知乎旧物节)
 1. [寻找穿越时光的旧物](https://www.zhihu.com/search?q=寻找穿越时光的旧物)
 1. [哪件旧物是你一直保留着的](https://www.zhihu.com/search?q=哪件旧物是你一直保留着的)
+1. [库里受伤](https://www.zhihu.com/search?q=库里受伤)
+1. [海军究竟能有多烧钱](https://www.zhihu.com/search?q=海军究竟能有多烧钱)
 
 <!-- END -->
 
