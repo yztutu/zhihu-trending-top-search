@@ -1,0 +1,24 @@
+[
+  { "query": "国际护士节", "display_query": "国际护士节" },
+  { "query": "勇士不敌森林狼", "display_query": "勇士不敌森林狼" },
+  { "query": "孟子义演技", "display_query": "孟子义演技" },
+  { "query": "知乎旧物节", "display_query": "知乎旧物节" },
+  { "query": "寻找穿越时光的旧物", "display_query": "寻找穿越时光的旧物" },
+  {
+    "query": "哪件旧物是你一直保留着的",
+    "display_query": "哪件旧物是你一直保留着的"
+  },
+  { "query": "穿越时光的旧物", "display_query": "穿越时光的旧物" },
+  {
+    "query": "美国这几年为何衰落的如此之快",
+    "display_query": "美国这几年为何衰落的如此之快"
+  },
+  {
+    "query": "胖东来柴怼怼为何会在玉石这事上撕破脸",
+    "display_query": "胖东来柴怼怼为何会在玉石这事上撕破脸"
+  },
+  {
+    "query": "奈雪的茶再换 logo 改成奈雪",
+    "display_query": "奈雪的茶再换 logo 改成奈雪"
+  }
+]
