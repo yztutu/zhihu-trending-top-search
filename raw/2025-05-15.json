@@ -1,0 +1,15 @@
+[
+  { "query": "森林狼vs勇士", "display_query": "森林狼vs勇士" },
+  { "query": "勇士不敌森林狼", "display_query": "勇士不敌森林狼" },
+  { "query": "戛纳", "display_query": "戛纳" },
+  { "query": "人民币大涨", "display_query": "人民币大涨" },
+  { "query": "金价跳水", "display_query": "金价跳水" },
+  { "query": "中国人到底有多能吃", "display_query": "中国人到底有多能吃" },
+  { "query": "京东外卖崩了", "display_query": "京东外卖崩了" },
+  { "query": "知乎旧物节", "display_query": "知乎旧物节" },
+  { "query": "寻找穿越时光的旧物", "display_query": "寻找穿越时光的旧物" },
+  {
+    "query": "哪件旧物是你一直保留着的",
+    "display_query": "哪件旧物是你一直保留着的"
+  }
+]
