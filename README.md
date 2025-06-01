@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 01 2025 21:21:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 02 2025 00:14:44 GMT+0800 (China Standard Time) -->
 
 1. [世界无烟日](https://www.zhihu.com/search?q=世界无烟日)
 1. [比亚迪降价](https://www.zhihu.com/search?q=比亚迪降价)
@@ -27,7 +27,6 @@
 1. [能提升幸福感的家居好物](https://www.zhihu.com/search?q=能提升幸福感的家居好物)
 1. [让家充满艺术气息的好物](https://www.zhihu.com/search?q=让家充满艺术气息的好物)
 1. [618 好看的家具推荐](https://www.zhihu.com/search?q=618 好看的家具推荐)
-1. [燃油附加费下调](https://www.zhihu.com/search?q=燃油附加费下调)
 
 <!-- END -->
 
