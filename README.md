@@ -15,16 +15,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 05 2025 06:12:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 05 2025 23:13:59 GMT+0800 (China Standard Time) -->
 
-1. [李在明](https://www.zhihu.com/search?q=李在明)
+1. [今日芒种](https://www.zhihu.com/search?q=今日芒种)
 1. [国内油价上调](https://www.zhihu.com/search?q=国内油价上调)
-1. [郑钦文vs萨巴伦卡](https://www.zhihu.com/search?q=郑钦文vs萨巴伦卡)
+1. [《歌手》第四期歌单](https://www.zhihu.com/search?q=《歌手》第四期歌单)
+1. [歌手歌单](https://www.zhihu.com/search?q=歌手歌单)
 1. [有哪句影视台词是你至今难忘的](https://www.zhihu.com/search?q=有哪句影视台词是你至今难忘的)
+1. [国足vs印尼](https://www.zhihu.com/search?q=国足vs印尼)
 1. [你见过哪些结婚作死的行为](https://www.zhihu.com/search?q=你见过哪些结婚作死的行为)
-1. [iG战胜FPX](https://www.zhihu.com/search?q=iG战胜FPX)
+1. [IG战胜FPX](https://www.zhihu.com/search?q=IG战胜FPX)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618 洗衣机推荐)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618 家电推荐)
+1. [李在明](https://www.zhihu.com/search?q=李在明)
+1. [郑钦文vs萨巴伦卡](https://www.zhihu.com/search?q=郑钦文vs萨巴伦卡)
+1. [iG战胜FPX](https://www.zhihu.com/search?q=iG战胜FPX)
 1. [618 价格暴降家电](https://www.zhihu.com/search?q=618 价格暴降家电)
 1. [618 护眼灯选购](https://www.zhihu.com/search?q=618 护眼灯选购)
 
