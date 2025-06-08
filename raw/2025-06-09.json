@@ -1,0 +1,21 @@
+[
+  { "query": "高考英语", "display_query": "高考英语" },
+  { "query": "北京高考作文", "display_query": "北京高考作文" },
+  { "query": "国足首发", "display_query": "国足首发" },
+  { "query": "长沙暴雨", "display_query": "长沙暴雨" },
+  {
+    "query": "如何看待美国识字率只有 79％",
+    "display_query": "如何看待美国识字率只有 79％"
+  },
+  {
+    "query": "我国成功发射卫星互联网低轨卫星",
+    "display_query": "我国成功发射卫星互联网低轨卫星"
+  },
+  {
+    "query": "「妈妈岗」在全国各地兴起",
+    "display_query": "「妈妈岗」在全国各地兴起"
+  },
+  { "query": "618 洗衣机推荐", "display_query": "618 洗衣机推荐" },
+  { "query": "618 家电推荐", "display_query": "618 家电推荐" },
+  { "query": "618 价格暴降家电", "display_query": "618 价格暴降家电" }
+]
