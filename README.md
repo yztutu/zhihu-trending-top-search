@@ -15,19 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 09 2025 01:10:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 12 2025 03:10:34 GMT+0800 (China Standard Time) -->
 
-1. [高考英语](https://www.zhihu.com/search?q=高考英语)
-1. [北京高考作文](https://www.zhihu.com/search?q=北京高考作文)
-1. [国足首发](https://www.zhihu.com/search?q=国足首发)
-1. [长沙暴雨](https://www.zhihu.com/search?q=长沙暴雨)
-1. [如何看待美国识字率只有
-   79％](https://www.zhihu.com/search?q=如何看待美国识字率只有 79％)
-1. [我国成功发射卫星互联网低轨卫星](https://www.zhihu.com/search?q=我国成功发射卫星互联网低轨卫星)
-1. [「妈妈岗」在全国各地兴起](https://www.zhihu.com/search?q=「妈妈岗」在全国各地兴起)
+1. [广东启动防风ⅳ级应急响应](https://www.zhihu.com/search?q=广东启动防风ⅳ级应急响应)
+1. [今年第1号台风已生成](https://www.zhihu.com/search?q=今年第1号台风已生成)
+1. [如何评价大冰](https://www.zhihu.com/search?q=如何评价大冰)
+1. [国足vs巴林](https://www.zhihu.com/search?q=国足vs巴林)
+1. [体制内着装最忌讳的是什么](https://www.zhihu.com/search?q=体制内着装最忌讳的是什么)
+1. [娶自己的发小是什么感觉](https://www.zhihu.com/search?q=娶自己的发小是什么感觉)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618 洗衣机推荐)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618 家电推荐)
 1. [618 价格暴降家电](https://www.zhihu.com/search?q=618 价格暴降家电)
+1. [618 护眼灯选购](https://www.zhihu.com/search?q=618 护眼灯选购)
 
 <!-- END -->
 
