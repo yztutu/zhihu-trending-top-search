@@ -1,0 +1,18 @@
+[
+  { "query": "四六级", "display_query": "四六级" },
+  { "query": "B站崩了", "display_query": "B站崩了" },
+  { "query": "618 洗衣机推荐", "display_query": "618 洗衣机推荐" },
+  { "query": "618 家电推荐", "display_query": "618 家电推荐" },
+  { "query": "618 价格暴降家电", "display_query": "618 价格暴降家电" },
+  { "query": "618 护眼灯选购", "display_query": "618 护眼灯选购" },
+  { "query": "618 洗烘套装推荐", "display_query": "618 洗烘套装推荐" },
+  {
+    "query": "能提升幸福感的家居好物",
+    "display_query": "能提升幸福感的家居好物"
+  },
+  {
+    "query": "让家充满艺术气息的好物",
+    "display_query": "让家充满艺术气息的好物"
+  },
+  { "query": "618 好看的家具推荐", "display_query": "618 好看的家具推荐" }
+]
