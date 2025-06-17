@@ -1,9 +1,6 @@
 [
-  {
-    "query": "你的学校发生过最扯的事是什么",
-    "display_query": "你的学校发生过最扯的事是什么"
-  },
-  { "query": "HLE对战T1", "display_query": "HLE对战T1" },
+  { "query": "临江仙破万", "display_query": "临江仙破万" },
+  { "query": "钟楚曦酱园弄观后感", "display_query": "钟楚曦酱园弄观后感" },
   {
     "query": "你干过最牛的一件事是什么",
     "display_query": "你干过最牛的一件事是什么"
@@ -24,6 +21,11 @@
   { "query": "618 家电推荐", "display_query": "618 家电推荐" },
   { "query": "618 价格暴降家电", "display_query": "618 价格暴降家电" },
   { "query": "618 护眼灯选购", "display_query": "618 护眼灯选购" },
+  {
+    "query": "你的学校发生过最扯的事是什么",
+    "display_query": "你的学校发生过最扯的事是什么"
+  },
+  { "query": "HLE对战T1", "display_query": "HLE对战T1" },
   { "query": "618 洗烘套装推荐", "display_query": "618 洗烘套装推荐" },
   {
     "query": "能提升幸福感的家居好物",
