@@ -15,18 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 22 2025 16:16:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 24 2025 13:16:06 GMT+0800 (China Standard Time) -->
 
-1. [金价跌跌不休](https://www.zhihu.com/search?q=金价跌跌不休)
-1. [胖真的是一件很丢人的事吗](https://www.zhihu.com/search?q=胖真的是一件很丢人的事吗)
-1. [英国央行维持利率不变](https://www.zhihu.com/search?q=英国央行维持利率不变)
-1. [人民日报谈单依纯改编歌曲李白](https://www.zhihu.com/search?q=人民日报谈单依纯改编歌曲李白)
-1. [八旬老人诊断胃炎被以癌症切全胃](https://www.zhihu.com/search?q=八旬老人诊断胃炎被以癌症切全胃)
-1. [蜂鸟音乐指控邓紫棋侵权](https://www.zhihu.com/search?q=蜂鸟音乐指控邓紫棋侵权)
-1. [京东正式进军酒旅市场](https://www.zhihu.com/search?q=京东正式进军酒旅市场)
-1. [郑钦文退出柏林赛](https://www.zhihu.com/search?q=郑钦文退出柏林赛)
-1. [男子动漫城充值14.8万举报后遭恐吓](https://www.zhihu.com/search?q=男子动漫城充值14.8万举报后遭恐吓)
-1. [美国参议院通过稳定币天才法案](https://www.zhihu.com/search?q=美国参议院通过稳定币天才法案)
+1. [成都地震](https://www.zhihu.com/search?q=成都地震)
+1. [高考查分](https://www.zhihu.com/search?q=高考查分)
+1. [皇马vs帕丘卡](https://www.zhihu.com/search?q=皇马vs帕丘卡)
+1. [广州震感](https://www.zhihu.com/search?q=广州震感)
+1. [步行者vs雷霆](https://www.zhihu.com/search?q=步行者vs雷霆)
+1. [蔡依林新专辑pleasure](https://www.zhihu.com/search?q=蔡依林新专辑pleasure)
+1. [雷霆vs步行者](https://www.zhihu.com/search?q=雷霆vs步行者)
+1. [哪吒汽车正式被申请破产](https://www.zhihu.com/search?q=哪吒汽车正式被申请破产)
+1. [宇树完成C轮融资交割](https://www.zhihu.com/search?q=宇树完成C轮融资交割)
+1. [泡泡玛特成立影视部门](https://www.zhihu.com/search?q=泡泡玛特成立影视部门)
 
 <!-- END -->
 
