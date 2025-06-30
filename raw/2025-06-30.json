@@ -1,0 +1,24 @@
+[
+  { "query": "成都暴雨", "display_query": "成都暴雨" },
+  { "query": "高考失利", "display_query": "高考失利" },
+  { "query": "阳江地震", "display_query": "阳江地震" },
+  { "query": "充电宝", "display_query": "充电宝" },
+  { "query": "尤文图斯vs曼城", "display_query": "尤文图斯vs曼城" },
+  { "query": "皇马vs帕丘卡", "display_query": "皇马vs帕丘卡" },
+  {
+    "query": "为什么没有 X 形状的河流走向",
+    "display_query": "为什么没有 X 形状的河流走向"
+  },
+  {
+    "query": "王欣瑜获得wta500柏林站女单亚军",
+    "display_query": "王欣瑜获得wta500柏林站女单亚军"
+  },
+  {
+    "query": "6部门发布19条举措加强金融支持",
+    "display_query": "6部门发布19条举措加强金融支持"
+  },
+  {
+    "query": "威海5岁男童被打死案宣判",
+    "display_query": "威海5岁男童被打死案宣判"
+  }
+]
