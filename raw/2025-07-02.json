@@ -1,15 +1,11 @@
 [
-  { "query": "建党节", "display_query": "建党节" },
-  { "query": "尊界s800", "display_query": "尊界s800" },
+  { "query": "特斯拉涨价", "display_query": "特斯拉涨价" },
   {
     "query": "中年夫妻有多少生活和谐的",
     "display_query": "中年夫妻有多少生活和谐的"
   },
+  { "query": "今晚油价上调", "display_query": "今晚油价上调" },
   { "query": "一分一段表", "display_query": "一分一段表" },
-  {
-    "query": "韩雪被指文物前使用强光拍摄",
-    "display_query": "韩雪被指文物前使用强光拍摄"
-  },
   { "query": "小米AI眼镜发布", "display_query": "小米AI眼镜发布" },
   {
     "query": "多家健身房拒绝为老人办卡",
@@ -17,5 +13,12 @@
   },
   { "query": "我家这样过夏天", "display_query": "我家这样过夏天" },
   { "query": "2025 清凉智选季", "display_query": "2025 清凉智选季" },
-  { "query": "我的清凉家", "display_query": "我的清凉家" }
+  { "query": "我的清凉家", "display_query": "我的清凉家" },
+  { "query": "消暑家电选购清单", "display_query": "消暑家电选购清单" },
+  { "query": "建党节", "display_query": "建党节" },
+  { "query": "尊界s800", "display_query": "尊界s800" },
+  {
+    "query": "韩雪被指文物前使用强光拍摄",
+    "display_query": "韩雪被指文物前使用强光拍摄"
+  }
 ]
