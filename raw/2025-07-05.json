@@ -12,10 +12,11 @@
     "display_query": "偷偷藏不住未授权网络微短剧改编权"
   },
   { "query": "哇唧唧哇 晋江", "display_query": "哇唧唧哇 晋江" },
+  { "query": "我家这样过夏天", "display_query": "我家这样过夏天" },
+  { "query": "2025 清凉智选季", "display_query": "2025 清凉智选季" },
+  { "query": "我的清凉家", "display_query": "我的清凉家" },
   {
     "query": "禁止携无 3C 标识及被召回充电宝乘境内航班",
     "display_query": "禁止携无 3C 标识及被召回充电宝乘境内航班"
-  },
-  { "query": "我家这样过夏天", "display_query": "我家这样过夏天" },
-  { "query": "2025 清凉智选季", "display_query": "2025 清凉智选季" }
+  }
 ]
