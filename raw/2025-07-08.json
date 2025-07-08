@@ -1,6 +1,8 @@
 [
-  { "query": "台风", "display_query": "台风" },
-  { "query": "青岛大学毕业典礼", "display_query": "青岛大学毕业典礼" },
+  {
+    "query": "女子诉银行下属支行借款1.12亿不还",
+    "display_query": "女子诉银行下属支行借款1.12亿不还"
+  },
   { "query": "我家这样过夏天", "display_query": "我家这样过夏天" },
   { "query": "2025 清凉智选季", "display_query": "2025 清凉智选季" },
   { "query": "我的清凉家", "display_query": "我的清凉家" },
@@ -14,5 +16,8 @@
   {
     "query": "懂行人才知道的空调选购要点",
     "display_query": "懂行人才知道的空调选购要点"
-  }
+  },
+  { "query": "厨房像桑拿房怎么办？", "display_query": "厨房像桑拿房怎么办？" },
+  { "query": "台风", "display_query": "台风" },
+  { "query": "青岛大学毕业典礼", "display_query": "青岛大学毕业典礼" }
 ]

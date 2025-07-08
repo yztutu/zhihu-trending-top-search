@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 08 2025 18:15:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 08 2025 21:29:22 GMT+0800 (China Standard Time) -->
 
-1. [台风](https://www.zhihu.com/search?q=台风)
-1. [青岛大学毕业典礼](https://www.zhihu.com/search?q=青岛大学毕业典礼)
+1. [女子诉银行下属支行借款1.12亿不还](https://www.zhihu.com/search?q=女子诉银行下属支行借款1.12亿不还)
 1. [我家这样过夏天](https://www.zhihu.com/search?q=我家这样过夏天)
 1. [2025 清凉智选季](https://www.zhihu.com/search?q=2025 清凉智选季)
 1. [我的清凉家](https://www.zhihu.com/search?q=我的清凉家)
@@ -27,6 +26,9 @@
 1. [全场景消暑指南](https://www.zhihu.com/search?q=全场景消暑指南)
 1. [空调选购的捷径是「匹配需求」](https://www.zhihu.com/search?q=空调选购的捷径是「匹配需求」)
 1. [懂行人才知道的空调选购要点](https://www.zhihu.com/search?q=懂行人才知道的空调选购要点)
+1. [厨房像桑拿房怎么办？](https://www.zhihu.com/search?q=厨房像桑拿房怎么办？)
+1. [台风](https://www.zhihu.com/search?q=台风)
+1. [青岛大学毕业典礼](https://www.zhihu.com/search?q=青岛大学毕业典礼)
 
 <!-- END -->
 
