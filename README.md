@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 07 2025 16:20:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 08 2025 14:20:30 GMT+0800 (China Standard Time) -->
 
-1. [王者荣耀新赛季](https://www.zhihu.com/search?q=王者荣耀新赛季)
-1. [自己做饭会省钱吗](https://www.zhihu.com/search?q=自己做饭会省钱吗)
+1. [台风](https://www.zhihu.com/search?q=台风)
+1. [青岛大学毕业典礼](https://www.zhihu.com/search?q=青岛大学毕业典礼)
 1. [我家这样过夏天](https://www.zhihu.com/search?q=我家这样过夏天)
 1. [2025 清凉智选季](https://www.zhihu.com/search?q=2025 清凉智选季)
 1. [我的清凉家](https://www.zhihu.com/search?q=我的清凉家)
