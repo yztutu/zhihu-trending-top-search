@@ -1,5 +1,4 @@
 [
-  { "query": "不鸡娃的结果是什么", "display_query": "不鸡娃的结果是什么" },
   { "query": "BLG战胜AL", "display_query": "BLG战胜AL" },
   { "query": "樊振东vs林诗栋", "display_query": "樊振东vs林诗栋" },
   { "query": "我家这样过夏天", "display_query": "我家这样过夏天" },
@@ -11,5 +10,10 @@
   {
     "query": "空调选购的捷径是「匹配需求」",
     "display_query": "空调选购的捷径是「匹配需求」"
-  }
+  },
+  {
+    "query": "懂行人才知道的空调选购要点",
+    "display_query": "懂行人才知道的空调选购要点"
+  },
+  { "query": "不鸡娃的结果是什么", "display_query": "不鸡娃的结果是什么" }
 ]
