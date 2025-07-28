@@ -15,8 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 28 2025 12:39:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 28 2025 14:23:43 GMT+0800 (China Standard Time) -->
 
+1. [山东舰5年起降近万架次舰载机](https://www.zhihu.com/search?q=山东舰5年起降近万架次舰载机)
+1. [张碧晨方回应年轮原唱](https://www.zhihu.com/search?q=张碧晨方回应年轮原唱)
 1. [BLG战胜AL](https://www.zhihu.com/search?q=BLG战胜AL)
 1. [我家这样过夏天](https://www.zhihu.com/search?q=我家这样过夏天)
 1. [2025 清凉智选季](https://www.zhihu.com/search?q=2025 清凉智选季)
