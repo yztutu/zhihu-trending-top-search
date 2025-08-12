@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 12 2025 03:13:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 12 2025 13:13:51 GMT+0800 (China Standard Time) -->
 
 1. [早期的的网红后来怎么样了](https://www.zhihu.com/search?q=早期的的网红后来怎么样了)
 1. [孙颖莎vs陈幸同](https://www.zhihu.com/search?q=孙颖莎vs陈幸同)
@@ -25,6 +25,8 @@
 1. [胖东来拟招1000人](https://www.zhihu.com/search?q=胖东来拟招1000人)
 1. [胖东来招聘20个岗位给曾服刑人员](https://www.zhihu.com/search?q=胖东来招聘20个岗位给曾服刑人员)
 1. [红牛王一博](https://www.zhihu.com/search?q=红牛王一博)
+1. [Alin彭佳慧合唱《伤痕》](https://www.zhihu.com/search?q=Alin彭佳慧合唱《伤痕》)
+1. [远嫁妻子因鸡蛋崩溃掀桌](https://www.zhihu.com/search?q=远嫁妻子因鸡蛋崩溃掀桌)
 1. [北京：五环外不再限制购房套数](https://www.zhihu.com/search?q=北京：五环外不再限制购房套数)
 1. [飞机上熊孩子顶座引发乘客打架](https://www.zhihu.com/search?q=飞机上熊孩子顶座引发乘客打架)
 
