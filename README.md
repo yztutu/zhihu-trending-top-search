@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 16 2025 19:10:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 16 2025 23:11:58 GMT+0800 (China Standard Time) -->
 
 1. [B站崩了](https://www.zhihu.com/search?q=B站崩了)
 1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=工业克苏鲁什么意思)
