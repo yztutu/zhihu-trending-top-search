@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 07 2025 04:11:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 07 2025 16:14:10 GMT+0800 (China Standard Time) -->
 
 1. [你能接受孩子健康快乐且平庸吗](https://www.zhihu.com/search?q=你能接受孩子健康快乐且平庸吗)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=为什么有些人的预判能力这么强)
