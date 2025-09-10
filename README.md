@@ -15,8 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 10 2025 07:10:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 10 2025 13:12:07 GMT+0800 (China Standard Time) -->
 
+1. [教师节祝福语](https://www.zhihu.com/search?q=教师节祝福语)
+1. [教师节](https://www.zhihu.com/search?q=教师节)
 1. [你能接受孩子健康快乐且平庸吗](https://www.zhihu.com/search?q=你能接受孩子健康快乐且平庸吗)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=为什么有些人的预判能力这么强)
 1. [中国有多少城市能撑起来七日游](https://www.zhihu.com/search?q=中国有多少城市能撑起来七日游)
