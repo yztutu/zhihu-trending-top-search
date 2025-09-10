@@ -1,10 +1,9 @@
 [
-  { "query": "教师节祝福语", "display_query": "教师节祝福语" },
-  { "query": "教师节", "display_query": "教师节" },
   {
-    "query": "你能接受孩子健康快乐且平庸吗",
-    "display_query": "你能接受孩子健康快乐且平庸吗"
+    "query": "如何评价欧盟外长卡拉斯",
+    "display_query": "如何评价欧盟外长卡拉斯"
   },
+  { "query": "王楚钦3-1松岛辉空", "display_query": "王楚钦3-1松岛辉空" },
   {
     "query": "为什么有些人的预判能力这么强",
     "display_query": "为什么有些人的预判能力这么强"
@@ -12,6 +11,30 @@
   {
     "query": "中国有多少城市能撑起来七日游",
     "display_query": "中国有多少城市能撑起来七日游"
+  },
+  { "query": "郑州暴雨", "display_query": "郑州暴雨" },
+  {
+    "query": "你见过哪些不动声色的善良",
+    "display_query": "你见过哪些不动声色的善良"
+  },
+  { "query": "面相长的凶是什么体验", "display_query": "面相长的凶是什么体验" },
+  {
+    "query": "你住过最贵的酒店是哪家",
+    "display_query": "你住过最贵的酒店是哪家"
+  },
+  {
+    "query": "哪些东西已经贵到不值得买了",
+    "display_query": "哪些东西已经贵到不值得买了"
+  },
+  {
+    "query": "一个人可以蠢到什么程度",
+    "display_query": "一个人可以蠢到什么程度"
+  },
+  { "query": "教师节祝福语", "display_query": "教师节祝福语" },
+  { "query": "教师节", "display_query": "教师节" },
+  {
+    "query": "你能接受孩子健康快乐且平庸吗",
+    "display_query": "你能接受孩子健康快乐且平庸吗"
   },
   {
     "query": "如何评价颜宁的科研能力",
@@ -25,15 +48,7 @@
     "query": "现在的大学生到底是什么状态",
     "display_query": "现在的大学生到底是什么状态"
   },
-  {
-    "query": "你住过最贵的酒店是哪家",
-    "display_query": "你住过最贵的酒店是哪家"
-  },
   { "query": "TES3比1NIP", "display_query": "TES3比1NIP" },
-  {
-    "query": "一个人可以蠢到什么程度",
-    "display_query": "一个人可以蠢到什么程度"
-  },
   {
     "query": "写西幻该如何避免写成中式西幻",
     "display_query": "写西幻该如何避免写成中式西幻"
