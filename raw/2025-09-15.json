@@ -1,4 +1,29 @@
 [
+  { "query": "北京暴雨", "display_query": "北京暴雨" },
+  { "query": "王楚钦男单夺冠", "display_query": "王楚钦男单夺冠" },
+  { "query": "艾美奖获奖名单", "display_query": "艾美奖获奖名单" },
+  {
+    "query": "莫斯科交易所暂停股票交易",
+    "display_query": "莫斯科交易所暂停股票交易"
+  },
+  { "query": "什么是顶级的思维", "display_query": "什么是顶级的思维" },
+  { "query": "孙颖莎VS王曼昱", "display_query": "孙颖莎VS王曼昱" },
+  {
+    "query": "你是如何理解「当时只道是寻常」的",
+    "display_query": "你是如何理解「当时只道是寻常」的"
+  },
+  {
+    "query": "电影动作演员为什么老龄化严重",
+    "display_query": "电影动作演员为什么老龄化严重"
+  },
+  {
+    "query": "共享单车骑行中突然被锁致用户骨折",
+    "display_query": "共享单车骑行中突然被锁致用户骨折"
+  },
+  {
+    "query": "很多人开始反思「临时生活」",
+    "display_query": "很多人开始反思「临时生活」"
+  },
   {
     "query": "为什么有些人的预判能力这么强",
     "display_query": "为什么有些人的预判能力这么强"
@@ -11,7 +36,6 @@
     "query": "买了小米SU7的人现在怎么样了",
     "display_query": "买了小米SU7的人现在怎么样了"
   },
-  { "query": "孙颖莎VS王曼昱", "display_query": "孙颖莎VS王曼昱" },
   {
     "query": "你能容忍小朋友跪在地上玩吗",
     "display_query": "你能容忍小朋友跪在地上玩吗"
@@ -28,9 +52,5 @@
     "query": "什么样的家庭才能养出松弛感的孩子",
     "display_query": "什么样的家庭才能养出松弛感的孩子"
   },
-  { "query": "C919还能成批生产吗", "display_query": "C919还能成批生产吗" },
-  {
-    "query": "你是如何理解「当时只道是寻常」的",
-    "display_query": "你是如何理解「当时只道是寻常」的"
-  }
+  { "query": "C919还能成批生产吗", "display_query": "C919还能成批生产吗" }
 ]
