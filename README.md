@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 17 2025 07:09:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 17 2025 11:22:42 GMT+0800 (China Standard Time) -->
 
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=为什么有些人的预判能力这么强)
+1. [美股三大指数集体收跌](https://www.zhihu.com/search?q=美股三大指数集体收跌)
 1. [什么是顶级的思维](https://www.zhihu.com/search?q=什么是顶级的思维)
 1. [中国有多少城市能撑起来七日游](https://www.zhihu.com/search?q=中国有多少城市能撑起来七日游)
 1. [买了小米SU7的人现在怎么样了](https://www.zhihu.com/search?q=买了小米SU7的人现在怎么样了)
