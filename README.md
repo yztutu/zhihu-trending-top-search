@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 18 2025 00:16:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 18 2025 04:13:11 GMT+0800 (China Standard Time) -->
 
 1. [四六级报名](https://www.zhihu.com/search?q=四六级报名)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=为什么有些人的预判能力这么强)
