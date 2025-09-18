@@ -15,21 +15,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 18 2025 10:20:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 18 2025 23:13:06 GMT+0800 (China Standard Time) -->
 
-1. [四六级报名](https://www.zhihu.com/search?q=四六级报名)
 1. [美联储](https://www.zhihu.com/search?q=美联储)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=为什么有些人的预判能力这么强)
 1. [什么是顶级的思维](https://www.zhihu.com/search?q=什么是顶级的思维)
-1. [中国有多少城市能撑起来七日游](https://www.zhihu.com/search?q=中国有多少城市能撑起来七日游)
 1. [美联储宣布降息 25 个基点](https://www.zhihu.com/search?q=美联储宣布降息 25
    个基点)
+1. [美联储降息25个基点](https://www.zhihu.com/search?q=美联储降息25个基点)
 1. [一个演员的演技能好到什么程度](https://www.zhihu.com/search?q=一个演员的演技能好到什么程度)
 1. [对「岁月是把杀猪刀」有什么好的诠释](https://www.zhihu.com/search?q=对「岁月是把杀猪刀」有什么好的诠释)
 1. [买了小米SU7的人现在怎么样了](https://www.zhihu.com/search?q=买了小米SU7的人现在怎么样了)
+1. [中国完成了哪些在外国人看来难以完成的事](https://www.zhihu.com/search?q=中国完成了哪些在外国人看来难以完成的事)
+1. [黄金到底能涨到什么地步](https://www.zhihu.com/search?q=黄金到底能涨到什么地步)
+1. [四六级报名](https://www.zhihu.com/search?q=四六级报名)
+1. [中国有多少城市能撑起来七日游](https://www.zhihu.com/search?q=中国有多少城市能撑起来七日游)
 1. [现在的NBA与以前NBA相比水平如何](https://www.zhihu.com/search?q=现在的NBA与以前NBA相比水平如何)
 1. [美股三大指数集体收跌](https://www.zhihu.com/search?q=美股三大指数集体收跌)
-1. [中国完成了哪些在外国人看来难以完成的事](https://www.zhihu.com/search?q=中国完成了哪些在外国人看来难以完成的事)
 
 <!-- END -->
 
