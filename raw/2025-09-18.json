@@ -1,14 +1,18 @@
 [
   { "query": "四六级报名", "display_query": "四六级报名" },
+  { "query": "美联储", "display_query": "美联储" },
   {
     "query": "为什么有些人的预判能力这么强",
     "display_query": "为什么有些人的预判能力这么强"
   },
-  { "query": "美股三大指数集体收跌", "display_query": "美股三大指数集体收跌" },
   { "query": "什么是顶级的思维", "display_query": "什么是顶级的思维" },
   {
     "query": "中国有多少城市能撑起来七日游",
     "display_query": "中国有多少城市能撑起来七日游"
+  },
+  {
+    "query": "美联储宣布降息 25 个基点",
+    "display_query": "美联储宣布降息 25 个基点"
   },
   {
     "query": "一个演员的演技能好到什么程度",
@@ -26,6 +30,7 @@
     "query": "现在的NBA与以前NBA相比水平如何",
     "display_query": "现在的NBA与以前NBA相比水平如何"
   },
+  { "query": "美股三大指数集体收跌", "display_query": "美股三大指数集体收跌" },
   {
     "query": "中国完成了哪些在外国人看来难以完成的事",
     "display_query": "中国完成了哪些在外国人看来难以完成的事"
