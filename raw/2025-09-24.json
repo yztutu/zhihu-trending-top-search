@@ -1,0 +1,27 @@
+[
+  { "query": "A股", "display_query": "A股" },
+  {
+    "query": "沪深两市成交额突破5000亿元",
+    "display_query": "沪深两市成交额突破5000亿元"
+  },
+  { "query": "曼联2比1切尔西", "display_query": "曼联2比1切尔西" },
+  {
+    "query": "你碰到过的最巧的事是什么",
+    "display_query": "你碰到过的最巧的事是什么"
+  },
+  { "query": "gen对战t1", "display_query": "gen对战t1" },
+  { "query": "中国的城堡是不是很少", "display_query": "中国的城堡是不是很少" },
+  { "query": "发现孩子很普通怎么办", "display_query": "发现孩子很普通怎么办" },
+  {
+    "query": "刘邦凭什么这么听萧何的话",
+    "display_query": "刘邦凭什么这么听萧何的话"
+  },
+  {
+    "query": "你见过哪些不动声色的善良",
+    "display_query": "你见过哪些不动声色的善良"
+  },
+  {
+    "query": "黄金到底能涨到什么地步",
+    "display_query": "黄金到底能涨到什么地步"
+  }
+]
