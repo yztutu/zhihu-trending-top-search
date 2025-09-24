@@ -10,6 +10,10 @@
     "display_query": "你碰到过的最巧的事是什么"
   },
   { "query": "gen对战t1", "display_query": "gen对战t1" },
+  {
+    "query": "为什么在中国邮箱不流行",
+    "display_query": "为什么在中国邮箱不流行"
+  },
   { "query": "中国的城堡是不是很少", "display_query": "中国的城堡是不是很少" },
   { "query": "发现孩子很普通怎么办", "display_query": "发现孩子很普通怎么办" },
   {
