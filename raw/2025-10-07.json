@@ -1,9 +1,9 @@
 [
+  { "query": "加沙停火谈判在即", "display_query": "加沙停火谈判在即" },
   {
-    "query": "诺贝尔生理学或医学奖揭晓",
-    "display_query": "诺贝尔生理学或医学奖揭晓"
+    "query": "新能源车为何在欧美不受欢迎",
+    "display_query": "新能源车为何在欧美不受欢迎"
   },
-  { "query": "太阳vs湖人", "display_query": "太阳vs湖人" },
   {
     "query": "你什么时候意识到自己没见过世面",
     "display_query": "你什么时候意识到自己没见过世面"
@@ -23,5 +23,10 @@
     "query": "数学是从什么时候开始反直觉的",
     "display_query": "数学是从什么时候开始反直觉的"
   },
-  { "query": "男人的快乐有多简单", "display_query": "男人的快乐有多简单" }
+  { "query": "男人的快乐有多简单", "display_query": "男人的快乐有多简单" },
+  {
+    "query": "诺贝尔生理学或医学奖揭晓",
+    "display_query": "诺贝尔生理学或医学奖揭晓"
+  },
+  { "query": "太阳vs湖人", "display_query": "太阳vs湖人" }
 ]
