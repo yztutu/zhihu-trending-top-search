@@ -15,10 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 12 2025 09:03:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 12 2025 22:10:15 GMT+0800 (China Standard Time) -->
 
-1. [诺贝尔化学奖](https://www.zhihu.com/search?q=诺贝尔化学奖)
-1. [世界大学排名发布](https://www.zhihu.com/search?q=世界大学排名发布)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=为什么有些人的预判能力这么强)
 1. [为什么说男人至死都是少年](https://www.zhihu.com/search?q=为什么说男人至死都是少年)
 1. [你因为什么事情报过警](https://www.zhihu.com/search?q=你因为什么事情报过警)
@@ -27,6 +25,10 @@
 1. [宗馥莉辞职](https://www.zhihu.com/search?q=宗馥莉辞职)
 1. [美股暴跌](https://www.zhihu.com/search?q=美股暴跌)
 1. [发现孩子很普通怎么办](https://www.zhihu.com/search?q=发现孩子很普通怎么办)
+1. [演员知道自己正在拍一部烂片吗](https://www.zhihu.com/search?q=演员知道自己正在拍一部烂片吗)
+1. [诺贝尔物理学奖揭晓](https://www.zhihu.com/search?q=诺贝尔物理学奖揭晓)
+1. [诺贝尔化学奖](https://www.zhihu.com/search?q=诺贝尔化学奖)
+1. [世界大学排名发布](https://www.zhihu.com/search?q=世界大学排名发布)
 
 <!-- END -->
 
