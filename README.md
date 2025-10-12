@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 12 2025 03:08:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 12 2025 09:03:03 GMT+0800 (China Standard Time) -->
 
 1. [诺贝尔化学奖](https://www.zhihu.com/search?q=诺贝尔化学奖)
 1. [世界大学排名发布](https://www.zhihu.com/search?q=世界大学排名发布)
