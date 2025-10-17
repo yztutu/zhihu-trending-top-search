@@ -1,6 +1,12 @@
 [
-  { "query": "A股", "display_query": "A股" },
-  { "query": "世界粮食日", "display_query": "世界粮食日" },
+  {
+    "query": "赛博朋克2该加道德系统么",
+    "display_query": "赛博朋克2该加道德系统么"
+  },
+  {
+    "query": "影视剧里有哪些美人惊艳了你",
+    "display_query": "影视剧里有哪些美人惊艳了你"
+  },
   {
     "query": "为什么有些人的预判能力这么强",
     "display_query": "为什么有些人的预判能力这么强"
@@ -30,6 +36,8 @@
     "query": "常年独居的人靠什么抵抗孤独",
     "display_query": "常年独居的人靠什么抵抗孤独"
   },
+  { "query": "A股", "display_query": "A股" },
+  { "query": "世界粮食日", "display_query": "世界粮食日" },
   { "query": "有什么值得三刷的电影", "display_query": "有什么值得三刷的电影" },
   {
     "query": "人到中年除了钱您认为什么最重要",
