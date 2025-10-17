@@ -1,8 +1,17 @@
 [
+  { "query": "A股", "display_query": "A股" },
   { "query": "世界粮食日", "display_query": "世界粮食日" },
+  {
+    "query": "为什么有些人的预判能力这么强",
+    "display_query": "为什么有些人的预判能力这么强"
+  },
   {
     "query": "哪一刻让你终于意识到了这就是命",
     "display_query": "哪一刻让你终于意识到了这就是命"
+  },
+  {
+    "query": "为什么优秀员工往往最先离职",
+    "display_query": "为什么优秀员工往往最先离职"
   },
   {
     "query": "人的意识究竟是怎么产生的",
