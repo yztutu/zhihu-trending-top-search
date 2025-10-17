@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 17 2025 17:14:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 17 2025 18:14:16 GMT+0800 (China Standard Time) -->
 
-1. [做多黄金成最拥挤交易](https://www.zhihu.com/search?q=做多黄金成最拥挤交易)
+1. [有什么值得三刷的电影](https://www.zhihu.com/search?q=有什么值得三刷的电影)
+1. [人到中年除了钱您认为什么最重要](https://www.zhihu.com/search?q=人到中年除了钱您认为什么最重要)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=为什么有些人的预判能力这么强)
 1. [哪一刻让你终于意识到了这就是命](https://www.zhihu.com/search?q=哪一刻让你终于意识到了这就是命)
 1. [为什么优秀员工往往最先离职](https://www.zhihu.com/search?q=为什么优秀员工往往最先离职)
@@ -26,6 +27,7 @@
 1. [演员到底有多吃天赋](https://www.zhihu.com/search?q=演员到底有多吃天赋)
 1. [为什么优秀员工最先离职](https://www.zhihu.com/search?q=为什么优秀员工最先离职)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=常年独居的人靠什么抵抗孤独)
+1. [做多黄金成最拥挤交易](https://www.zhihu.com/search?q=做多黄金成最拥挤交易)
 1. [你有什么解压的小众爱好](https://www.zhihu.com/search?q=你有什么解压的小众爱好)
 1. [A股](https://www.zhihu.com/search?q=A股)
 1. [世界粮食日](https://www.zhihu.com/search?q=世界粮食日)
