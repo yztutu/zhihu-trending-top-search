@@ -1,0 +1,33 @@
+[
+  { "query": "A股", "display_query": "A股" },
+  { "query": "世界粮食日", "display_query": "世界粮食日" },
+  {
+    "query": "为什么有些人的预判能力这么强",
+    "display_query": "为什么有些人的预判能力这么强"
+  },
+  {
+    "query": "为什么优秀员工往往最先离职",
+    "display_query": "为什么优秀员工往往最先离职"
+  },
+  {
+    "query": "常年独居的人靠什么抵抗孤独",
+    "display_query": "常年独居的人靠什么抵抗孤独"
+  },
+  {
+    "query": "反直觉的地理知识有哪些",
+    "display_query": "反直觉的地理知识有哪些"
+  },
+  {
+    "query": "现在的大学生到底是什么状态",
+    "display_query": "现在的大学生到底是什么状态"
+  },
+  {
+    "query": "如何用最少的钱打扮自己",
+    "display_query": "如何用最少的钱打扮自己"
+  },
+  { "query": "AL对战GEN", "display_query": "AL对战GEN" },
+  {
+    "query": "德国的工业已经退到什么地步了",
+    "display_query": "德国的工业已经退到什么地步了"
+  }
+]
