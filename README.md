@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 20 2025 07:11:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 20 2025 09:06:22 GMT+0800 (China Standard Time) -->
 
 1. [苏超半决赛](https://www.zhihu.com/search?q=苏超半决赛)
 1. [闻泰科技147亿半导体资产被荷兰冻结](https://www.zhihu.com/search?q=闻泰科技147亿半导体资产被荷兰冻结)
@@ -23,11 +23,12 @@
 1. [《再见爱人 第五季》第一期](https://www.zhihu.com/search?q=《再见爱人
    第五季》第一期)
 1. [固态电池新突破：新能源车续航有望翻倍](https://www.zhihu.com/search?q=固态电池新突破：新能源车续航有望翻倍)
-1. [网传高校副教授未过考核转岗保安](https://www.zhihu.com/search?q=网传高校副教授未过考核转岗保安)
 1. [何炅自曝精力大不如前](https://www.zhihu.com/search?q=何炅自曝精力大不如前)
 1. [高速服务区现「野人小孩」](https://www.zhihu.com/search?q=高速服务区现「野人小孩」)
 1. [何美延梁淞回应家暴事件](https://www.zhihu.com/search?q=何美延梁淞回应家暴事件)
 1. [国考报考首日近19万人报名](https://www.zhihu.com/search?q=国考报考首日近19万人报名)
+1. [丰巢创始人兼CEO徐育斌被曝辞职](https://www.zhihu.com/search?q=丰巢创始人兼CEO徐育斌被曝辞职)
+1. [网传高校副教授未过考核转岗保安](https://www.zhihu.com/search?q=网传高校副教授未过考核转岗保安)
 
 <!-- END -->
 
