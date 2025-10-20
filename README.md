@@ -15,10 +15,17 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 20 2025 16:18:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 20 2025 18:14:39 GMT+0800 (China Standard Time) -->
 
+1. [英超双红会](https://www.zhihu.com/search?q=英超双红会)
+1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=为什么有些人的预判能力这么强)
+1. [利物浦vs曼联](https://www.zhihu.com/search?q=利物浦vs曼联)
+1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=常年独居的人靠什么抵抗孤独)
+1. [有哪些逆天的微生物](https://www.zhihu.com/search?q=有哪些逆天的微生物)
 1. [南京野猪为什么如此泛滥](https://www.zhihu.com/search?q=南京野猪为什么如此泛滥)
+1. [你有什么解压的小众爱好](https://www.zhihu.com/search?q=你有什么解压的小众爱好)
 1. [你去过最离谱的景区是什么](https://www.zhihu.com/search?q=你去过最离谱的景区是什么)
+1. [现在的大学生到底是什么状态](https://www.zhihu.com/search?q=现在的大学生到底是什么状态)
 1. [有哪些信、达、不雅的翻译](https://www.zhihu.com/search?q=有哪些信、达、不雅的翻译)
 1. [你见过最不会点菜的人是什么样子的](https://www.zhihu.com/search?q=你见过最不会点菜的人是什么样子的)
 1. [为什么杂鱼这个词在日本很有攻击力](https://www.zhihu.com/search?q=为什么杂鱼这个词在日本很有攻击力)
