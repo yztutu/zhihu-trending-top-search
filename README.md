@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 21 2025 11:00:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 21 2025 12:15:44 GMT+0800 (China Standard Time) -->
 
 1. [英超双红会](https://www.zhihu.com/search?q=英超双红会)
 1. [考研倒计时](https://www.zhihu.com/search?q=考研倒计时)
@@ -25,6 +25,7 @@
 1. [有哪些逆天的微生物](https://www.zhihu.com/search?q=有哪些逆天的微生物)
 1. [南京野猪为什么如此泛滥](https://www.zhihu.com/search?q=南京野猪为什么如此泛滥)
 1. [你有什么解压的小众爱好](https://www.zhihu.com/search?q=你有什么解压的小众爱好)
+1. [你喝多了都干过什么蠢事](https://www.zhihu.com/search?q=你喝多了都干过什么蠢事)
 1. [你去过最离谱的景区是什么](https://www.zhihu.com/search?q=你去过最离谱的景区是什么)
 1. [现在的大学生到底是什么状态](https://www.zhihu.com/search?q=现在的大学生到底是什么状态)
 
