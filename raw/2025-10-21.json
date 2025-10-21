@@ -1,11 +1,20 @@
 [
   { "query": "英超双红会", "display_query": "英超双红会" },
-  { "query": "考研倒计时", "display_query": "考研倒计时" },
+  { "query": "A股", "display_query": "A股" },
+  { "query": "蔚来李斌内部讲话流出", "display_query": "蔚来李斌内部讲话流出" },
   {
     "query": "为什么有些人的预判能力这么强",
     "display_query": "为什么有些人的预判能力这么强"
   },
   { "query": "利物浦vs曼联", "display_query": "利物浦vs曼联" },
+  {
+    "query": "中国有多少城市能撑起来七日游",
+    "display_query": "中国有多少城市能撑起来七日游"
+  },
+  {
+    "query": "为什么现在不创造新的汉字了",
+    "display_query": "为什么现在不创造新的汉字了"
+  },
   {
     "query": "常年独居的人靠什么抵抗孤独",
     "display_query": "常年独居的人靠什么抵抗孤独"
@@ -15,6 +24,7 @@
     "query": "南京野猪为什么如此泛滥",
     "display_query": "南京野猪为什么如此泛滥"
   },
+  { "query": "考研倒计时", "display_query": "考研倒计时" },
   {
     "query": "你有什么解压的小众爱好",
     "display_query": "你有什么解压的小众爱好"
