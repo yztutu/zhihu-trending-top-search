@@ -1,8 +1,5 @@
 [
-  {
-    "query": "国考报名热门岗位已两千挑一",
-    "display_query": "国考报名热门岗位已两千挑一"
-  },
+  { "query": "A股", "display_query": "A股" },
   { "query": "蔚来李斌内部讲话流出", "display_query": "蔚来李斌内部讲话流出" },
   { "query": "什么叫中国人的浪漫", "display_query": "什么叫中国人的浪漫" },
   {
@@ -28,6 +25,10 @@
     "display_query": "你有什么解压的小众爱好"
   },
   {
+    "query": "国考报名热门岗位已两千挑一",
+    "display_query": "国考报名热门岗位已两千挑一"
+  },
+  {
     "query": "潮玩平台退款要求扇孩子耳光5分钟",
     "display_query": "潮玩平台退款要求扇孩子耳光5分钟"
   },
@@ -39,7 +40,6 @@
     "query": "泽连斯基：准备进行领土谈判",
     "display_query": "泽连斯基：准备进行领土谈判"
   },
-  { "query": "A股", "display_query": "A股" },
   {
     "query": "你喝多了都干过什么蠢事",
     "display_query": "你喝多了都干过什么蠢事"
