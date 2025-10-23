@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 23 2025 13:13:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 23 2025 15:13:11 GMT+0800 (China Standard Time) -->
 
 1. [蔚来李斌内部讲话流出](https://www.zhihu.com/search?q=蔚来李斌内部讲话流出)
 1. [什么叫中国人的浪漫](https://www.zhihu.com/search?q=什么叫中国人的浪漫)
