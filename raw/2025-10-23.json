@@ -1,4 +1,5 @@
 [
+  { "query": "今日霜降", "display_query": "今日霜降" },
   { "query": "蔚来李斌内部讲话流出", "display_query": "蔚来李斌内部讲话流出" },
   { "query": "什么叫中国人的浪漫", "display_query": "什么叫中国人的浪漫" },
   {
@@ -6,9 +7,19 @@
     "display_query": "被查房时怎么证明是情侣关系"
   },
   {
+    "query": "沪深两市成交额突破5000亿",
+    "display_query": "沪深两市成交额突破5000亿"
+  },
+  {
+    "query": "中国有多少城市能撑起来七日游",
+    "display_query": "中国有多少城市能撑起来七日游"
+  },
+  {
     "query": "为什么现在不创造新的汉字了",
     "display_query": "为什么现在不创造新的汉字了"
   },
+  { "query": "GEN对战TES", "display_query": "GEN对战TES" },
+  { "query": "王源演唱会", "display_query": "王源演唱会" },
   { "query": "杨和苏 Asen", "display_query": "杨和苏 Asen" },
   {
     "query": "常年独居的人靠什么抵抗孤独",
