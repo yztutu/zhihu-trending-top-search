@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 23 2025 10:58:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 23 2025 11:36:01 GMT+0800 (China Standard Time) -->
 
-1. [吃狗吃过的剩饭有什么风险](https://www.zhihu.com/search?q=吃狗吃过的剩饭有什么风险)
+1. [学生满口网络梗](https://www.zhihu.com/search?q=学生满口网络梗)
+1. [黄金今年会达到怎样的高度](https://www.zhihu.com/search?q=黄金今年会达到怎样的高度)
 1. [什么叫中国人的浪漫](https://www.zhihu.com/search?q=什么叫中国人的浪漫)
 1. [杨和苏 Asen](https://www.zhihu.com/search?q=杨和苏 Asen)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=常年独居的人靠什么抵抗孤独)
@@ -26,6 +27,7 @@
 1. [你喝多了都干过什么蠢事](https://www.zhihu.com/search?q=你喝多了都干过什么蠢事)
 1. [你去过最离谱的景区是什么](https://www.zhihu.com/search?q=你去过最离谱的景区是什么)
 1. [现在的大学生到底是什么状态](https://www.zhihu.com/search?q=现在的大学生到底是什么状态)
+1. [吃狗吃过的剩饭有什么风险](https://www.zhihu.com/search?q=吃狗吃过的剩饭有什么风险)
 1. [勇士vs湖人](https://www.zhihu.com/search?q=勇士vs湖人)
 1. [蔚来李斌内部讲话流出](https://www.zhihu.com/search?q=蔚来李斌内部讲话流出)
 
