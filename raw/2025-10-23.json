@@ -1,5 +1,8 @@
 [
-  { "query": "蔚来李斌内部讲话流出", "display_query": "蔚来李斌内部讲话流出" },
+  {
+    "query": "吃狗吃过的剩饭有什么风险",
+    "display_query": "吃狗吃过的剩饭有什么风险"
+  },
   { "query": "什么叫中国人的浪漫", "display_query": "什么叫中国人的浪漫" },
   { "query": "杨和苏 Asen", "display_query": "杨和苏 Asen" },
   {
@@ -26,5 +29,6 @@
     "query": "现在的大学生到底是什么状态",
     "display_query": "现在的大学生到底是什么状态"
   },
-  { "query": "勇士vs湖人", "display_query": "勇士vs湖人" }
+  { "query": "勇士vs湖人", "display_query": "勇士vs湖人" },
+  { "query": "蔚来李斌内部讲话流出", "display_query": "蔚来李斌内部讲话流出" }
 ]
