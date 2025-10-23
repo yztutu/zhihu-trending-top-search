@@ -1,10 +1,14 @@
 [
-  { "query": "学生满口网络梗", "display_query": "学生满口网络梗" },
-  {
-    "query": "黄金今年会达到怎样的高度",
-    "display_query": "黄金今年会达到怎样的高度"
-  },
+  { "query": "蔚来李斌内部讲话流出", "display_query": "蔚来李斌内部讲话流出" },
   { "query": "什么叫中国人的浪漫", "display_query": "什么叫中国人的浪漫" },
+  {
+    "query": "被查房时怎么证明是情侣关系",
+    "display_query": "被查房时怎么证明是情侣关系"
+  },
+  {
+    "query": "为什么现在不创造新的汉字了",
+    "display_query": "为什么现在不创造新的汉字了"
+  },
   { "query": "杨和苏 Asen", "display_query": "杨和苏 Asen" },
   {
     "query": "常年独居的人靠什么抵抗孤独",
@@ -26,6 +30,11 @@
     "query": "你去过最离谱的景区是什么",
     "display_query": "你去过最离谱的景区是什么"
   },
+  { "query": "学生满口网络梗", "display_query": "学生满口网络梗" },
+  {
+    "query": "黄金今年会达到怎样的高度",
+    "display_query": "黄金今年会达到怎样的高度"
+  },
   {
     "query": "现在的大学生到底是什么状态",
     "display_query": "现在的大学生到底是什么状态"
@@ -34,6 +43,5 @@
     "query": "吃狗吃过的剩饭有什么风险",
     "display_query": "吃狗吃过的剩饭有什么风险"
   },
-  { "query": "勇士vs湖人", "display_query": "勇士vs湖人" },
-  { "query": "蔚来李斌内部讲话流出", "display_query": "蔚来李斌内部讲话流出" }
+  { "query": "勇士vs湖人", "display_query": "勇士vs湖人" }
 ]
