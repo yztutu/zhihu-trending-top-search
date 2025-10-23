@@ -1,9 +1,6 @@
 [
-  {
-    "query": "为何有人会痴迷于追求正确呢",
-    "display_query": "为何有人会痴迷于追求正确呢"
-  },
-  { "query": "丁宁已任校长", "display_query": "丁宁已任校长" },
+  { "query": "今日霜降", "display_query": "今日霜降" },
+  { "query": "蔚来李斌内部讲话流出", "display_query": "蔚来李斌内部讲话流出" },
   { "query": "什么叫中国人的浪漫", "display_query": "什么叫中国人的浪漫" },
   {
     "query": "被查房时怎么证明是情侣关系",
@@ -21,15 +18,18 @@
     "query": "为什么现在不创造新的汉字了",
     "display_query": "为什么现在不创造新的汉字了"
   },
+  { "query": "GEN对战TES", "display_query": "GEN对战TES" },
   { "query": "王源演唱会", "display_query": "王源演唱会" },
   { "query": "杨和苏 Asen", "display_query": "杨和苏 Asen" },
+  {
+    "query": "为何有人会痴迷于追求正确呢",
+    "display_query": "为何有人会痴迷于追求正确呢"
+  },
+  { "query": "丁宁已任校长", "display_query": "丁宁已任校长" },
   {
     "query": "常年独居的人靠什么抵抗孤独",
     "display_query": "常年独居的人靠什么抵抗孤独"
   },
-  { "query": "今日霜降", "display_query": "今日霜降" },
-  { "query": "蔚来李斌内部讲话流出", "display_query": "蔚来李斌内部讲话流出" },
-  { "query": "GEN对战TES", "display_query": "GEN对战TES" },
   { "query": "古代怎么不在漠北建城", "display_query": "古代怎么不在漠北建城" },
   {
     "query": "俄乌停战预期被指引发黄金大跌",
