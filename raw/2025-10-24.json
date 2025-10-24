@@ -1,9 +1,5 @@
 [
-  { "query": "当代奢侈品三巨头", "display_query": "当代奢侈品三巨头" },
-  {
-    "query": "吃狗吃过的剩饭有什么风险",
-    "display_query": "吃狗吃过的剩饭有什么风险"
-  },
+  { "query": "今日霜降", "display_query": "今日霜降" },
   { "query": "什么叫中国人的浪漫", "display_query": "什么叫中国人的浪漫" },
   {
     "query": "被查房时怎么证明是情侣关系",
@@ -27,10 +23,14 @@
     "query": "常年独居的人靠什么抵抗孤独",
     "display_query": "常年独居的人靠什么抵抗孤独"
   },
-  { "query": "今日霜降", "display_query": "今日霜降" },
   {
     "query": "你有什么解压的小众爱好",
     "display_query": "你有什么解压的小众爱好"
+  },
+  { "query": "当代奢侈品三巨头", "display_query": "当代奢侈品三巨头" },
+  {
+    "query": "吃狗吃过的剩饭有什么风险",
+    "display_query": "吃狗吃过的剩饭有什么风险"
   },
   {
     "query": "美联储强调拥抱稳定币和加密支付",
