@@ -1,5 +1,4 @@
 [
-  { "query": "今日霜降", "display_query": "今日霜降" },
   { "query": "什么叫中国人的浪漫", "display_query": "什么叫中国人的浪漫" },
   {
     "query": "被查房时怎么证明是情侣关系",
@@ -27,6 +26,11 @@
     "query": "你有什么解压的小众爱好",
     "display_query": "你有什么解压的小众爱好"
   },
+  {
+    "query": "你喝多了都干过什么蠢事",
+    "display_query": "你喝多了都干过什么蠢事"
+  },
+  { "query": "今日霜降", "display_query": "今日霜降" },
   { "query": "当代奢侈品三巨头", "display_query": "当代奢侈品三巨头" },
   {
     "query": "吃狗吃过的剩饭有什么风险",
