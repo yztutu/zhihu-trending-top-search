@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 24 2025 18:14:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 24 2025 19:11:22 GMT+0800 (China Standard Time) -->
 
 1. [今日霜降](https://www.zhihu.com/search?q=今日霜降)
+1. [你对什么食物是无法接受的](https://www.zhihu.com/search?q=你对什么食物是无法接受的)
 1. [什么叫中国人的浪漫](https://www.zhihu.com/search?q=什么叫中国人的浪漫)
 1. [被查房时怎么证明是情侣关系](https://www.zhihu.com/search?q=被查房时怎么证明是情侣关系)
 1. [沪深两市成交额突破5000亿](https://www.zhihu.com/search?q=沪深两市成交额突破5000亿)
