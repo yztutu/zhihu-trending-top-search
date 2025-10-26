@@ -3,6 +3,7 @@
     "query": "你对什么食物是无法接受的",
     "display_query": "你对什么食物是无法接受的"
   },
+  { "query": "日本地震", "display_query": "日本地震" },
   {
     "query": "中国有多少城市能撑起来七日游",
     "display_query": "中国有多少城市能撑起来七日游"
