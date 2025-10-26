@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 26 2025 20:23:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 26 2025 21:18:50 GMT+0800 (China Standard Time) -->
 
 1. [你对什么食物是无法接受的](https://www.zhihu.com/search?q=你对什么食物是无法接受的)
 1. [日本地震](https://www.zhihu.com/search?q=日本地震)
