@@ -2,10 +2,6 @@
   { "query": "照骗能骗到什么程度", "display_query": "照骗能骗到什么程度" },
   { "query": "有什么震惊了你的名言", "display_query": "有什么震惊了你的名言" },
   { "query": "如何看待途虎这家公司", "display_query": "如何看待途虎这家公司" },
-  {
-    "query": "王自如自曝负债 1 个亿",
-    "display_query": "王自如自曝负债 1 个亿"
-  },
   { "query": "逃离鸭科夫为何受欢迎", "display_query": "逃离鸭科夫为何受欢迎" },
   {
     "query": "教育部：不得以考试成绩对学生进行排名",
@@ -23,6 +19,14 @@
   {
     "query": "六大AI模型上演投资对决",
     "display_query": "六大AI模型上演投资对决"
+  },
+  {
+    "query": "阿里通义千问拿下爱彼迎",
+    "display_query": "阿里通义千问拿下爱彼迎"
+  },
+  {
+    "query": "王自如自曝负债 1 个亿",
+    "display_query": "王自如自曝负债 1 个亿"
   },
   { "query": "Bin", "display_query": "Bin" },
   {
