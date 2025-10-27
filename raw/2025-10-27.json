@@ -1,15 +1,10 @@
 [
   { "query": "照骗能骗到什么程度", "display_query": "照骗能骗到什么程度" },
-  { "query": "Bin", "display_query": "Bin" },
   { "query": "有什么震惊了你的名言", "display_query": "有什么震惊了你的名言" },
   { "query": "如何看待途虎这家公司", "display_query": "如何看待途虎这家公司" },
   {
     "query": "王自如自曝负债 1 个亿",
     "display_query": "王自如自曝负债 1 个亿"
-  },
-  {
-    "query": "我国成功研制出新型芯片",
-    "display_query": "我国成功研制出新型芯片"
   },
   { "query": "逃离鸭科夫为何受欢迎", "display_query": "逃离鸭科夫为何受欢迎" },
   {
@@ -23,6 +18,16 @@
   {
     "query": "导演金性洙称韩国电影没人拍了",
     "display_query": "导演金性洙称韩国电影没人拍了"
+  },
+  { "query": "可偷甘蔗地成打卡点", "display_query": "可偷甘蔗地成打卡点" },
+  {
+    "query": "六大AI模型上演投资对决",
+    "display_query": "六大AI模型上演投资对决"
+  },
+  { "query": "Bin", "display_query": "Bin" },
+  {
+    "query": "我国成功研制出新型芯片",
+    "display_query": "我国成功研制出新型芯片"
   },
   { "query": "CS2更新", "display_query": "CS2更新" },
   {
