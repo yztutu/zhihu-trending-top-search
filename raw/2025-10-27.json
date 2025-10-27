@@ -1,6 +1,26 @@
 [
+  { "query": "阿斯顿维拉1比0曼城", "display_query": "阿斯顿维拉1比0曼城" },
   { "query": "照骗能骗到什么程度", "display_query": "照骗能骗到什么程度" },
+  { "query": "皇马vs巴萨", "display_query": "皇马vs巴萨" },
+  {
+    "query": "常年独居的人靠什么抵抗孤独",
+    "display_query": "常年独居的人靠什么抵抗孤独"
+  },
+  {
+    "query": "你有什么解压的小众爱好",
+    "display_query": "你有什么解压的小众爱好"
+  },
+  { "query": "太阳vs掘金", "display_query": "太阳vs掘金" },
+  {
+    "query": "现在的大学生到底是什么状态",
+    "display_query": "现在的大学生到底是什么状态"
+  },
+  { "query": "人真的一定要上班吗", "display_query": "人真的一定要上班吗" },
   { "query": "有什么震惊了你的名言", "display_query": "有什么震惊了你的名言" },
+  {
+    "query": "你心目中排名第一的饮料是什么",
+    "display_query": "你心目中排名第一的饮料是什么"
+  },
   { "query": "如何看待途虎这家公司", "display_query": "如何看待途虎这家公司" },
   { "query": "逃离鸭科夫为何受欢迎", "display_query": "逃离鸭科夫为何受欢迎" },
   {
