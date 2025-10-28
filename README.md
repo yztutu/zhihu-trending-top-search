@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 29 2025 05:11:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 29 2025 06:12:38 GMT+0800 (China Standard Time) -->
 
 1. [世界动画日](https://www.zhihu.com/search?q=世界动画日)
 1. [你对什么食物是无法接受的](https://www.zhihu.com/search?q=你对什么食物是无法接受的)
