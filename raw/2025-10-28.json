@@ -1,4 +1,9 @@
 [
+  { "query": "世界动画日", "display_query": "世界动画日" },
+  {
+    "query": "你对什么食物是无法接受的",
+    "display_query": "你对什么食物是无法接受的"
+  },
   { "query": "阿斯顿维拉1比0曼城", "display_query": "阿斯顿维拉1比0曼城" },
   {
     "query": "中年男人最大的悲哀是什么",
@@ -6,6 +11,7 @@
   },
   { "query": "照骗能骗到什么程度", "display_query": "照骗能骗到什么程度" },
   { "query": "皇马vs巴萨", "display_query": "皇马vs巴萨" },
+  { "query": "身体好是怎样一种体验", "display_query": "身体好是怎样一种体验" },
   {
     "query": "常年独居的人靠什么抵抗孤独",
     "display_query": "常年独居的人靠什么抵抗孤独"
