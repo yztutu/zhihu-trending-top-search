@@ -15,15 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 29 2025 11:10:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 29 2025 12:19:34 GMT+0800 (China Standard Time) -->
 
 1. [世界动画日](https://www.zhihu.com/search?q=世界动画日)
 1. [重阳节](https://www.zhihu.com/search?q=重阳节)
 1. [你对什么食物是无法接受的](https://www.zhihu.com/search?q=你对什么食物是无法接受的)
+1. [为什么说重庆是男人的天堂](https://www.zhihu.com/search?q=为什么说重庆是男人的天堂)
 1. [中年男人最大的悲哀是什么](https://www.zhihu.com/search?q=中年男人最大的悲哀是什么)
 1. [照骗能骗到什么程度](https://www.zhihu.com/search?q=照骗能骗到什么程度)
+1. [有什么骇人听闻的真实案件](https://www.zhihu.com/search?q=有什么骇人听闻的真实案件)
 1. [身体好是怎样一种体验](https://www.zhihu.com/search?q=身体好是怎样一种体验)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=常年独居的人靠什么抵抗孤独)
+1. [你因为什么而打赏过骑手](https://www.zhihu.com/search?q=你因为什么而打赏过骑手)
 1. [你有什么解压的小众爱好](https://www.zhihu.com/search?q=你有什么解压的小众爱好)
 1. [现在的大学生到底是什么状态](https://www.zhihu.com/search?q=现在的大学生到底是什么状态)
 1. [为什么都说人生的容错率大到无法想象](https://www.zhihu.com/search?q=为什么都说人生的容错率大到无法想象)
