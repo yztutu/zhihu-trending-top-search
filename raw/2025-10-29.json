@@ -1,6 +1,12 @@
 [
-  { "query": "世界动画日", "display_query": "世界动画日" },
-  { "query": "重阳节", "display_query": "重阳节" },
+  {
+    "query": "为什么内存条涨价这么离谱",
+    "display_query": "为什么内存条涨价这么离谱"
+  },
+  {
+    "query": "本次的内存周期调整会持续多久",
+    "display_query": "本次的内存周期调整会持续多久"
+  },
   {
     "query": "你对什么食物是无法接受的",
     "display_query": "你对什么食物是无法接受的"
@@ -27,6 +33,8 @@
     "query": "你因为什么而打赏过骑手",
     "display_query": "你因为什么而打赏过骑手"
   },
+  { "query": "世界动画日", "display_query": "世界动画日" },
+  { "query": "重阳节", "display_query": "重阳节" },
   {
     "query": "你有什么解压的小众爱好",
     "display_query": "你有什么解压的小众爱好"
