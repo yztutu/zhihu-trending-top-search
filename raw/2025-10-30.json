@@ -1,5 +1,9 @@
 [
   { "query": "重阳节", "display_query": "重阳节" },
+  { "query": "今日重阳", "display_query": "今日重阳" },
+  { "query": "ELLE红毯", "display_query": "ELLE红毯" },
+  { "query": "快船vs勇士", "display_query": "快船vs勇士" },
+  { "query": "A股三大指数集体高开", "display_query": "A股三大指数集体高开" },
   {
     "query": "为什么说重庆是男人的天堂",
     "display_query": "为什么说重庆是男人的天堂"
@@ -9,6 +13,7 @@
     "display_query": "中年男人最大的悲哀是什么"
   },
   { "query": "照骗能骗到什么程度", "display_query": "照骗能骗到什么程度" },
+  { "query": "GEN 3:1 HLE", "display_query": "GEN 3:1 HLE" },
   {
     "query": "有什么骇人听闻的真实案件",
     "display_query": "有什么骇人听闻的真实案件"
