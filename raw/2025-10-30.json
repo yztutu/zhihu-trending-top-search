@@ -1,6 +1,12 @@
 [
-  { "query": "重阳节", "display_query": "重阳节" },
-  { "query": "今日重阳", "display_query": "今日重阳" },
+  {
+    "query": "穿不了高领衣服原来是一种病",
+    "display_query": "穿不了高领衣服原来是一种病"
+  },
+  {
+    "query": "如何评价喜人奇妙夜第二季第五期",
+    "display_query": "如何评价喜人奇妙夜第二季第五期"
+  },
   { "query": "ELLE红毯", "display_query": "ELLE红毯" },
   { "query": "快船vs勇士", "display_query": "快船vs勇士" },
   { "query": "A股三大指数集体高开", "display_query": "A股三大指数集体高开" },
@@ -18,6 +24,8 @@
     "query": "有什么骇人听闻的真实案件",
     "display_query": "有什么骇人听闻的真实案件"
   },
+  { "query": "重阳节", "display_query": "重阳节" },
+  { "query": "今日重阳", "display_query": "今日重阳" },
   {
     "query": "你因为什么而打赏过骑手",
     "display_query": "你因为什么而打赏过骑手"
