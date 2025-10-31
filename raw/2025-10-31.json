@@ -1,11 +1,9 @@
 [
+  { "query": "重阳节", "display_query": "重阳节" },
+  { "query": "快船vs勇士", "display_query": "快船vs勇士" },
   {
-    "query": "「周末到河北」上好物100榜单了",
-    "display_query": "「周末到河北」上好物100榜单了"
-  },
-  {
-    "query": "今年是百年一遇的晚重阳",
-    "display_query": "今年是百年一遇的晚重阳"
+    "query": "为什么说男人至死都是少年",
+    "display_query": "为什么说男人至死都是少年"
   },
   {
     "query": "为什么说重庆是男人的天堂",
@@ -30,9 +28,15 @@
   },
   { "query": "美联储降息25个基点", "display_query": "美联储降息25个基点" },
   {
+    "query": "「周末到河北」上好物100榜单了",
+    "display_query": "「周末到河北」上好物100榜单了"
+  },
+  {
+    "query": "今年是百年一遇的晚重阳",
+    "display_query": "今年是百年一遇的晚重阳"
+  },
+  {
     "query": "反直觉的地理知识有哪些",
     "display_query": "反直觉的地理知识有哪些"
-  },
-  { "query": "重阳节", "display_query": "重阳节" },
-  { "query": "快船vs勇士", "display_query": "快船vs勇士" }
+  }
 ]
