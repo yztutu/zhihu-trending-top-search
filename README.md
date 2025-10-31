@@ -15,13 +15,16 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 31 2025 18:14:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 31 2025 19:10:55 GMT+0800 (China Standard Time) -->
 
 1. [重阳节](https://www.zhihu.com/search?q=重阳节)
+1. [10月最后一天](https://www.zhihu.com/search?q=10月最后一天)
+1. [11月起这些新规开始施行](https://www.zhihu.com/search?q=11月起这些新规开始施行)
 1. [快船vs勇士](https://www.zhihu.com/search?q=快船vs勇士)
 1. [为什么说男人至死都是少年](https://www.zhihu.com/search?q=为什么说男人至死都是少年)
 1. [为什么说重庆是男人的天堂](https://www.zhihu.com/search?q=为什么说重庆是男人的天堂)
 1. [为什么好多学校都喜欢挖个湖](https://www.zhihu.com/search?q=为什么好多学校都喜欢挖个湖)
+1. [中国有多少城市能撑起来七日游](https://www.zhihu.com/search?q=中国有多少城市能撑起来七日游)
 1. [有什么骇人听闻的真实案件](https://www.zhihu.com/search?q=有什么骇人听闻的真实案件)
 1. [TES对战G2](https://www.zhihu.com/search?q=TES对战G2)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=常年独居的人靠什么抵抗孤独)
