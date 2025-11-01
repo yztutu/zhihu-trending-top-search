@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 01 2025 19:09:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 01 2025 20:23:24 GMT+0800 (China Standard Time) -->
 
 1. [10月最后一天](https://www.zhihu.com/search?q=10月最后一天)
 1. [11月起这些新规开始施行](https://www.zhihu.com/search?q=11月起这些新规开始施行)
