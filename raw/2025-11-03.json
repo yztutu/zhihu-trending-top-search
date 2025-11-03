@@ -1,10 +1,6 @@
 [
   { "query": "苏超总决赛", "display_query": "苏超总决赛" },
   {
-    "query": "全球投资者正以惊人速度从印度撤资",
-    "display_query": "全球投资者正以惊人速度从印度撤资"
-  },
-  {
     "query": "父母腿脚不便 辅助工具",
     "display_query": "父母腿脚不便 辅助工具"
   },
@@ -27,6 +23,11 @@
   { "query": "医生测评外骨骼机器人", "display_query": "医生测评外骨骼机器人" },
   { "query": "李银河谈老年人与 AI", "display_query": "李银河谈老年人与 AI" },
   { "query": "李银河视频播客", "display_query": "李银河视频播客" },
+  { "query": "李银河谈 AI 时代", "display_query": "李银河谈 AI 时代" },
+  {
+    "query": "全球投资者正以惊人速度从印度撤资",
+    "display_query": "全球投资者正以惊人速度从印度撤资"
+  },
   {
     "query": "为什么说男人至死都是少年",
     "display_query": "为什么说男人至死都是少年"
