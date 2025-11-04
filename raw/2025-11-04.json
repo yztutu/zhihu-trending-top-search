@@ -1,8 +1,5 @@
 [
-  {
-    "query": "如何才能做出很好吃的卤肉",
-    "display_query": "如何才能做出很好吃的卤肉"
-  },
+  { "query": "湖人vs热火", "display_query": "湖人vs热火" },
   {
     "query": "哪句话让你突然沉默了很久",
     "display_query": "哪句话让你突然沉默了很久"
@@ -27,7 +24,10 @@
     "query": "被保护得太好的人是怎样的",
     "display_query": "被保护得太好的人是怎样的"
   },
-  { "query": "湖人vs热火", "display_query": "湖人vs热火" },
+  {
+    "query": "如何才能做出很好吃的卤肉",
+    "display_query": "如何才能做出很好吃的卤肉"
+  },
   { "query": "TES对战T1", "display_query": "TES对战T1" },
   { "query": "有什么尴尬到爆的经历", "display_query": "有什么尴尬到爆的经历" },
   { "query": "不鸡娃的结果是什么", "display_query": "不鸡娃的结果是什么" },
