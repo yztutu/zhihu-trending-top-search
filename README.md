@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 04 2025 20:29:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 04 2025 21:28:59 GMT+0800 (China Standard Time) -->
 
-1. [湖人vs热火](https://www.zhihu.com/search?q=湖人vs热火)
+1. [如何才能做出很好吃的卤肉](https://www.zhihu.com/search?q=如何才能做出很好吃的卤肉)
 1. [哪句话让你突然沉默了很久](https://www.zhihu.com/search?q=哪句话让你突然沉默了很久)
 1. [你见过的狠人有多绝](https://www.zhihu.com/search?q=你见过的狠人有多绝)
 1. [职业运动员究竟有多厉害](https://www.zhihu.com/search?q=职业运动员究竟有多厉害)
@@ -27,6 +27,7 @@
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=常年独居的人靠什么抵抗孤独)
 1. [灰熊vs湖人](https://www.zhihu.com/search?q=灰熊vs湖人)
 1. [被保护得太好的人是怎样的](https://www.zhihu.com/search?q=被保护得太好的人是怎样的)
+1. [湖人vs热火](https://www.zhihu.com/search?q=湖人vs热火)
 1. [TES对战T1](https://www.zhihu.com/search?q=TES对战T1)
 1. [有什么尴尬到爆的经历](https://www.zhihu.com/search?q=有什么尴尬到爆的经历)
 1. [不鸡娃的结果是什么](https://www.zhihu.com/search?q=不鸡娃的结果是什么)
