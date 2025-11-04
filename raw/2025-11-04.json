@@ -9,7 +9,8 @@
     "query": "职业运动员究竟有多厉害",
     "display_query": "职业运动员究竟有多厉害"
   },
-  { "query": "TES对战T1", "display_query": "TES对战T1" },
+  { "query": "周深演唱会", "display_query": "周深演唱会" },
+  { "query": "tes对战t1", "display_query": "tes对战t1" },
   {
     "query": "有哪些非常冷门且令人意外的知识",
     "display_query": "有哪些非常冷门且令人意外的知识"
@@ -23,6 +24,7 @@
     "query": "被保护得太好的人是怎样的",
     "display_query": "被保护得太好的人是怎样的"
   },
+  { "query": "TES对战T1", "display_query": "TES对战T1" },
   { "query": "有什么尴尬到爆的经历", "display_query": "有什么尴尬到爆的经历" },
   { "query": "不鸡娃的结果是什么", "display_query": "不鸡娃的结果是什么" },
   {
