@@ -1,4 +1,5 @@
 [
+  { "query": "史上最长春节假期", "display_query": "史上最长春节假期" },
   { "query": "湖人vs热火", "display_query": "湖人vs热火" },
   {
     "query": "哪句话让你突然沉默了很久",
@@ -12,9 +13,14 @@
   { "query": "周深演唱会", "display_query": "周深演唱会" },
   { "query": "tes对战t1", "display_query": "tes对战t1" },
   {
+    "query": "有哪些非常冷门且令人意外的知识",
+    "display_query": "有哪些非常冷门且令人意外的知识"
+  },
+  {
     "query": "常年独居的人靠什么抵抗孤独",
     "display_query": "常年独居的人靠什么抵抗孤独"
   },
+  { "query": "利物浦vs皇马", "display_query": "利物浦vs皇马" },
   {
     "query": "被保护得太好的人是怎样的",
     "display_query": "被保护得太好的人是怎样的"
