@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 05 2025 16:18:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 05 2025 17:15:31 GMT+0800 (China Standard Time) -->
 
-1. [LLM预测下一词](https://www.zhihu.com/search?q=LLM预测下一词)
+1. [湖人vs热火](https://www.zhihu.com/search?q=湖人vs热火)
 1. [哪句话让你突然沉默了很久](https://www.zhihu.com/search?q=哪句话让你突然沉默了很久)
 1. [你见过的狠人有多绝](https://www.zhihu.com/search?q=你见过的狠人有多绝)
 1. [职业运动员究竟有多厉害](https://www.zhihu.com/search?q=职业运动员究竟有多厉害)
@@ -27,7 +27,7 @@
 1. [被保护得太好的人是怎样的](https://www.zhihu.com/search?q=被保护得太好的人是怎样的)
 1. [湖人vs开拓者](https://www.zhihu.com/search?q=湖人vs开拓者)
 1. [现在的大学生到底是什么状态](https://www.zhihu.com/search?q=现在的大学生到底是什么状态)
-1. [湖人vs热火](https://www.zhihu.com/search?q=湖人vs热火)
+1. [LLM预测下一词](https://www.zhihu.com/search?q=LLM预测下一词)
 1. [缅北白家21人获刑](https://www.zhihu.com/search?q=缅北白家21人获刑)
 1. [TES 遭 T1 零封淘汰](https://www.zhihu.com/search?q=TES 遭 T1 零封淘汰)
 
