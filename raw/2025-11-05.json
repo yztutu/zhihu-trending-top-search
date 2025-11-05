@@ -1,6 +1,5 @@
 [
-  { "query": "缅北白家21人获刑", "display_query": "缅北白家21人获刑" },
-  { "query": "TES 遭 T1 零封淘汰", "display_query": "TES 遭 T1 零封淘汰" },
+  { "query": "湖人vs热火", "display_query": "湖人vs热火" },
   {
     "query": "哪句话让你突然沉默了很久",
     "display_query": "哪句话让你突然沉默了很久"
@@ -21,9 +20,10 @@
     "display_query": "被保护得太好的人是怎样的"
   },
   { "query": "湖人vs开拓者", "display_query": "湖人vs开拓者" },
-  { "query": "湖人vs热火", "display_query": "湖人vs热火" },
   {
     "query": "现在的大学生到底是什么状态",
     "display_query": "现在的大学生到底是什么状态"
-  }
+  },
+  { "query": "缅北白家21人获刑", "display_query": "缅北白家21人获刑" },
+  { "query": "TES 遭 T1 零封淘汰", "display_query": "TES 遭 T1 零封淘汰" }
 ]
