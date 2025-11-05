@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 06 2025 03:11:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 06 2025 04:15:01 GMT+0800 (China Standard Time) -->
 
 1. [史上最长春节假期](https://www.zhihu.com/search?q=史上最长春节假期)
 1. [哪句话让你突然沉默了很久](https://www.zhihu.com/search?q=哪句话让你突然沉默了很久)
