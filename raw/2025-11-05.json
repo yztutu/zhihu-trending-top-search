@@ -1,5 +1,5 @@
 [
-  { "query": "湖人vs热火", "display_query": "湖人vs热火" },
+  { "query": "LLM预测下一词", "display_query": "LLM预测下一词" },
   {
     "query": "哪句话让你突然沉默了很久",
     "display_query": "哪句话让你突然沉默了很久"
@@ -24,6 +24,7 @@
     "query": "现在的大学生到底是什么状态",
     "display_query": "现在的大学生到底是什么状态"
   },
+  { "query": "湖人vs热火", "display_query": "湖人vs热火" },
   { "query": "缅北白家21人获刑", "display_query": "缅北白家21人获刑" },
   { "query": "TES 遭 T1 零封淘汰", "display_query": "TES 遭 T1 零封淘汰" }
 ]
