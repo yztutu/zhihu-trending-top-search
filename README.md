@@ -15,16 +15,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 06 2025 11:08:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 06 2025 12:19:24 GMT+0800 (China Standard Time) -->
 
 1. [史上最长春节假期](https://www.zhihu.com/search?q=史上最长春节假期)
-1. [哪句话让你突然沉默了很久](https://www.zhihu.com/search?q=哪句话让你突然沉默了很久)
 1. [你见过的狠人有多绝](https://www.zhihu.com/search?q=你见过的狠人有多绝)
 1. [职业运动员究竟有多厉害](https://www.zhihu.com/search?q=职业运动员究竟有多厉害)
+1. [为什么老一辈人厌恶游戏](https://www.zhihu.com/search?q=为什么老一辈人厌恶游戏)
 1. [有哪些非常冷门且令人意外的知识](https://www.zhihu.com/search?q=有哪些非常冷门且令人意外的知识)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=常年独居的人靠什么抵抗孤独)
 1. [利物浦vs皇马](https://www.zhihu.com/search?q=利物浦vs皇马)
 1. [被保护得太好的人是怎样的](https://www.zhihu.com/search?q=被保护得太好的人是怎样的)
+1. [中国人到底有多能吃](https://www.zhihu.com/search?q=中国人到底有多能吃)
+1. [你心目中排名第一的饮料是什么](https://www.zhihu.com/search?q=你心目中排名第一的饮料是什么)
+1. [哪句话让你突然沉默了很久](https://www.zhihu.com/search?q=哪句话让你突然沉默了很久)
 1. [有什么尴尬到爆的经历](https://www.zhihu.com/search?q=有什么尴尬到爆的经历)
 1. [不鸡娃的结果是什么](https://www.zhihu.com/search?q=不鸡娃的结果是什么)
 
