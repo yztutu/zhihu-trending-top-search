@@ -1,6 +1,9 @@
 [
-  { "query": "太阳vs勇士", "display_query": "太阳vs勇士" },
-  { "query": "史上最长春节假期", "display_query": "史上最长春节假期" },
+  { "query": "金靖否认“背刺”传言", "display_query": "金靖否认“背刺”传言" },
+  {
+    "query": "重庆市调整部分行政区划",
+    "display_query": "重庆市调整部分行政区划"
+  },
   { "query": "你见过的狠人有多绝", "display_query": "你见过的狠人有多绝" },
   {
     "query": "职业运动员究竟有多厉害",
@@ -27,6 +30,8 @@
     "query": "被保护得太好的人是怎样的",
     "display_query": "被保护得太好的人是怎样的"
   },
+  { "query": "太阳vs勇士", "display_query": "太阳vs勇士" },
+  { "query": "史上最长春节假期", "display_query": "史上最长春节假期" },
   { "query": "中国人到底有多能吃", "display_query": "中国人到底有多能吃" },
   {
     "query": "你心目中排名第一的饮料是什么",
