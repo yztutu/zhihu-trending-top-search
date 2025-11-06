@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 07 2025 05:12:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 07 2025 06:12:38 GMT+0800 (China Standard Time) -->
 
 1. [太阳vs勇士](https://www.zhihu.com/search?q=太阳vs勇士)
 1. [你见过的狠人有多绝](https://www.zhihu.com/search?q=你见过的狠人有多绝)
