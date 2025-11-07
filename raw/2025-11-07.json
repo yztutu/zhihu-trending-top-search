@@ -1,8 +1,6 @@
 [
-  {
-    "query": "你目前最大的困扰是什么",
-    "display_query": "你目前最大的困扰是什么"
-  },
+  { "query": "太阳vs勇士", "display_query": "太阳vs勇士" },
+  { "query": "今日立冬", "display_query": "今日立冬" },
   {
     "query": "你知道的最震惊的冷知识是什么",
     "display_query": "你知道的最震惊的冷知识是什么"
@@ -29,9 +27,11 @@
     "query": "大家提升自己最快的方式是什么",
     "display_query": "大家提升自己最快的方式是什么"
   },
+  {
+    "query": "你目前最大的困扰是什么",
+    "display_query": "你目前最大的困扰是什么"
+  },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
-  { "query": "太阳vs勇士", "display_query": "太阳vs勇士" },
-  { "query": "今日立冬", "display_query": "今日立冬" },
   { "query": "如何评价邵佳一的能力", "display_query": "如何评价邵佳一的能力" },
   {
     "query": "中国重装合成旅战力怎样",
