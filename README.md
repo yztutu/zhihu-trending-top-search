@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 07 2025 09:04:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 07 2025 11:05:20 GMT+0800 (China Standard Time) -->
 
 1. [太阳vs勇士](https://www.zhihu.com/search?q=太阳vs勇士)
+1. [今日立冬](https://www.zhihu.com/search?q=今日立冬)
 1. [你见过的狠人有多绝](https://www.zhihu.com/search?q=你见过的狠人有多绝)
 1. [职业运动员究竟有多厉害](https://www.zhihu.com/search?q=职业运动员究竟有多厉害)
 1. [为什么老一辈人厌恶游戏](https://www.zhihu.com/search?q=为什么老一辈人厌恶游戏)
