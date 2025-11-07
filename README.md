@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 07 2025 20:26:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 07 2025 21:23:17 GMT+0800 (China Standard Time) -->
 
-1. [英伟达市值站上 5 万亿美元](https://www.zhihu.com/search?q=英伟达市值站上 5
-   万亿美元)
+1. [太阳vs勇士](https://www.zhihu.com/search?q=太阳vs勇士)
+1. [今日立冬](https://www.zhihu.com/search?q=今日立冬)
 1. [你知道的最震惊的冷知识是什么](https://www.zhihu.com/search?q=你知道的最震惊的冷知识是什么)
 1. [快船vs太阳](https://www.zhihu.com/search?q=快船vs太阳)
 1. [为什么老一辈人厌恶游戏](https://www.zhihu.com/search?q=为什么老一辈人厌恶游戏)
@@ -27,9 +27,9 @@
 1. [硬币为什么取消中间的方孔](https://www.zhihu.com/search?q=硬币为什么取消中间的方孔)
 1. [雷霆vs开拓者](https://www.zhihu.com/search?q=雷霆vs开拓者)
 1. [中国人到底有多能吃](https://www.zhihu.com/search?q=中国人到底有多能吃)
+1. [英伟达市值站上 5 万亿美元](https://www.zhihu.com/search?q=英伟达市值站上 5
+   万亿美元)
 1. [如何评价电影新少林五祖](https://www.zhihu.com/search?q=如何评价电影新少林五祖)
-1. [太阳vs勇士](https://www.zhihu.com/search?q=太阳vs勇士)
-1. [今日立冬](https://www.zhihu.com/search?q=今日立冬)
 1. [周末你允许孩子睡懒觉吗](https://www.zhihu.com/search?q=周末你允许孩子睡懒觉吗)
 1. [大家提升自己最快的方式是什么](https://www.zhihu.com/search?q=大家提升自己最快的方式是什么)
 1. [福建舰入列 如何评价其影响](https://www.zhihu.com/search?q=福建舰入列
