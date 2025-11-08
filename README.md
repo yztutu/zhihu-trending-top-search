@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 08 2025 21:18:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 08 2025 22:10:32 GMT+0800 (China Standard Time) -->
 
-1. [未来3天或现大地磁暴](https://www.zhihu.com/search?q=未来3天或现大地磁暴)
-1. [有哪些你去旅行后祛魅的城市](https://www.zhihu.com/search?q=有哪些你去旅行后祛魅的城市)
+1. [今日立冬](https://www.zhihu.com/search?q=今日立冬)
 1. [你知道的最震惊的冷知识是什么](https://www.zhihu.com/search?q=你知道的最震惊的冷知识是什么)
 1. [快船vs太阳](https://www.zhihu.com/search?q=快船vs太阳)
 1. [为什么老一辈人厌恶游戏](https://www.zhihu.com/search?q=为什么老一辈人厌恶游戏)
@@ -27,8 +26,9 @@
 1. [硬币为什么取消中间的方孔](https://www.zhihu.com/search?q=硬币为什么取消中间的方孔)
 1. [中国人到底有多能吃](https://www.zhihu.com/search?q=中国人到底有多能吃)
 1. [如何评价电影新少林五祖](https://www.zhihu.com/search?q=如何评价电影新少林五祖)
-1. [今日立冬](https://www.zhihu.com/search?q=今日立冬)
 1. [你心目中排名第一的饮料是什么](https://www.zhihu.com/search?q=你心目中排名第一的饮料是什么)
+1. [未来3天或现大地磁暴](https://www.zhihu.com/search?q=未来3天或现大地磁暴)
+1. [有哪些你去旅行后祛魅的城市](https://www.zhihu.com/search?q=有哪些你去旅行后祛魅的城市)
 
 <!-- END -->
 
