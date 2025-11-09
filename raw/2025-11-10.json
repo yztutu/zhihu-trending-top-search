@@ -1,0 +1,30 @@
+[
+  { "query": "今日立冬", "display_query": "今日立冬" },
+  { "query": "T1夺冠", "display_query": "T1夺冠" },
+  {
+    "query": "你知道的最震惊的冷知识是什么",
+    "display_query": "你知道的最震惊的冷知识是什么"
+  },
+  {
+    "query": "父母腿脚不便 辅助工具",
+    "display_query": "父母腿脚不便 辅助工具"
+  },
+  {
+    "query": "老人走路累 外骨骼有用吗",
+    "display_query": "老人走路累 外骨骼有用吗"
+  },
+  {
+    "query": "长辈上下楼梯困难 解决方案",
+    "display_query": "长辈上下楼梯困难 解决方案"
+  },
+  {
+    "query": "预防老人跌倒 助行设备",
+    "display_query": "预防老人跌倒 助行设备"
+  },
+  {
+    "query": "老年人独立出行 辅助工具",
+    "display_query": "老年人独立出行 辅助工具"
+  },
+  { "query": "医生测评外骨骼机器人", "display_query": "医生测评外骨骼机器人" },
+  { "query": "知乎好物 100 榜单", "display_query": "知乎好物 100 榜单" }
+]
