@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 10 2025 12:21:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 10 2025 13:14:45 GMT+0800 (China Standard Time) -->
 
 1. [T1夺冠](https://www.zhihu.com/search?q=T1夺冠)
 1. [你知道的最震惊的冷知识是什么](https://www.zhihu.com/search?q=你知道的最震惊的冷知识是什么)
