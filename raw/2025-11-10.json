@@ -1,5 +1,4 @@
 [
-  { "query": "今日立冬", "display_query": "今日立冬" },
   { "query": "T1夺冠", "display_query": "T1夺冠" },
   {
     "query": "你知道的最震惊的冷知识是什么",
@@ -26,5 +25,7 @@
     "display_query": "老年人独立出行 辅助工具"
   },
   { "query": "医生测评外骨骼机器人", "display_query": "医生测评外骨骼机器人" },
-  { "query": "知乎好物 100 榜单", "display_query": "知乎好物 100 榜单" }
+  { "query": "知乎好物 100 榜单", "display_query": "知乎好物 100 榜单" },
+  { "query": "今年双十一买点啥", "display_query": "今年双十一买点啥" },
+  { "query": "今日立冬", "display_query": "今日立冬" }
 ]
