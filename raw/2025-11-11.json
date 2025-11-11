@@ -1,5 +1,12 @@
 [
-  { "query": "记者节", "display_query": "记者节" },
+  {
+    "query": "铁墓一击毁灭银河是不是战力崩坏",
+    "display_query": "铁墓一击毁灭银河是不是战力崩坏"
+  },
+  {
+    "query": "博主曝光重庆一河流污染严重",
+    "display_query": "博主曝光重庆一河流污染严重"
+  },
   { "query": "快船五连败", "display_query": "快船五连败" },
   { "query": "火箭战胜雄鹿", "display_query": "火箭战胜雄鹿" },
   {
@@ -20,6 +27,7 @@
     "query": "常年独居的人靠什么抵抗孤独",
     "display_query": "常年独居的人靠什么抵抗孤独"
   },
+  { "query": "记者节", "display_query": "记者节" },
   {
     "query": "你见过最真实的商战是什么",
     "display_query": "你见过最真实的商战是什么"
