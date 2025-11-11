@@ -1,10 +1,12 @@
 [
   { "query": "记者节", "display_query": "记者节" },
+  { "query": "快船五连败", "display_query": "快船五连败" },
   { "query": "火箭战胜雄鹿", "display_query": "火箭战胜雄鹿" },
   {
     "query": "你最讨厌微信朋友圈什么行为",
     "display_query": "你最讨厌微信朋友圈什么行为"
   },
+  { "query": "陈梦晋级女单16强", "display_query": "陈梦晋级女单16强" },
   {
     "query": "为什么在中国邮箱不流行",
     "display_query": "为什么在中国邮箱不流行"
