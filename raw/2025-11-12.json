@@ -1,6 +1,7 @@
 [
   { "query": "快船五连败", "display_query": "快船五连败" },
   { "query": "火箭战胜雄鹿", "display_query": "火箭战胜雄鹿" },
+  { "query": "你们闻过最臭的是什么", "display_query": "你们闻过最臭的是什么" },
   {
     "query": "你最讨厌微信朋友圈什么行为",
     "display_query": "你最讨厌微信朋友圈什么行为"
@@ -11,6 +12,10 @@
     "display_query": "为什么在中国邮箱不流行"
   },
   { "query": "工业克苏鲁什么意思", "display_query": "工业克苏鲁什么意思" },
+  {
+    "query": "演员知道自己正在拍一部烂片吗",
+    "display_query": "演员知道自己正在拍一部烂片吗"
+  },
   {
     "query": "常年独居的人靠什么抵抗孤独",
     "display_query": "常年独居的人靠什么抵抗孤独"
