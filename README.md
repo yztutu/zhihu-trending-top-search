@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 12 2025 20:28:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 12 2025 21:27:59 GMT+0800 (China Standard Time) -->
 
-1. [胖东来2025年销售额突破200亿](https://www.zhihu.com/search?q=胖东来2025年销售额突破200亿)
-1. [巴菲特谢幕信发布](https://www.zhihu.com/search?q=巴菲特谢幕信发布)
+1. [快船五连败](https://www.zhihu.com/search?q=快船五连败)
+1. [火箭战胜雄鹿](https://www.zhihu.com/search?q=火箭战胜雄鹿)
 1. [你们闻过最臭的是什么](https://www.zhihu.com/search?q=你们闻过最臭的是什么)
 1. [你最讨厌微信朋友圈什么行为](https://www.zhihu.com/search?q=你最讨厌微信朋友圈什么行为)
 1. [陈梦晋级女单16强](https://www.zhihu.com/search?q=陈梦晋级女单16强)
@@ -27,8 +27,8 @@
 1. [演员知道自己正在拍一部烂片吗](https://www.zhihu.com/search?q=演员知道自己正在拍一部烂片吗)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=常年独居的人靠什么抵抗孤独)
 1. [你见过最真实的商战是什么](https://www.zhihu.com/search?q=你见过最真实的商战是什么)
-1. [快船五连败](https://www.zhihu.com/search?q=快船五连败)
-1. [火箭战胜雄鹿](https://www.zhihu.com/search?q=火箭战胜雄鹿)
+1. [胖东来2025年销售额突破200亿](https://www.zhihu.com/search?q=胖东来2025年销售额突破200亿)
+1. [巴菲特谢幕信发布](https://www.zhihu.com/search?q=巴菲特谢幕信发布)
 1. [有哪些古籍是近现代才被重新发现的](https://www.zhihu.com/search?q=有哪些古籍是近现代才被重新发现的)
 1. [为什么会人走茶凉](https://www.zhihu.com/search?q=为什么会人走茶凉)
 
