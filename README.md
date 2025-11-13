@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 13 2025 16:18:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 13 2025 17:16:00 GMT+0800 (China Standard Time) -->
 
-1. [男子开车时嘴里叼牙线棒被处罚](https://www.zhihu.com/search?q=男子开车时嘴里叼牙线棒被处罚)
+1. [你们闻过最臭的是什么](https://www.zhihu.com/search?q=你们闻过最臭的是什么)
+1. [你最讨厌微信朋友圈什么行为](https://www.zhihu.com/search?q=你最讨厌微信朋友圈什么行为)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=为什么在中国邮箱不流行)
 1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=工业克苏鲁什么意思)
 1. [演员知道自己正在拍一部烂片吗](https://www.zhihu.com/search?q=演员知道自己正在拍一部烂片吗)
@@ -26,9 +27,8 @@
 1. [为什么会人走茶凉](https://www.zhihu.com/search?q=为什么会人走茶凉)
 1. [你受过最狠的羞辱是什么](https://www.zhihu.com/search?q=你受过最狠的羞辱是什么)
 1. [为什么现在的员工都不爱公司](https://www.zhihu.com/search?q=为什么现在的员工都不爱公司)
+1. [男子开车时嘴里叼牙线棒被处罚](https://www.zhihu.com/search?q=男子开车时嘴里叼牙线棒被处罚)
 1. [如何教育十四五岁满身死气沉沉的学生](https://www.zhihu.com/search?q=如何教育十四五岁满身死气沉沉的学生)
-1. [你们闻过最臭的是什么](https://www.zhihu.com/search?q=你们闻过最臭的是什么)
-1. [你最讨厌微信朋友圈什么行为](https://www.zhihu.com/search?q=你最讨厌微信朋友圈什么行为)
 1. [美宣布暂停实施出口管制穿透性规则一年](https://www.zhihu.com/search?q=美宣布暂停实施出口管制穿透性规则一年)
 1. [日本饮食为什么一餐的量那么少](https://www.zhihu.com/search?q=日本饮食为什么一餐的量那么少)
 
