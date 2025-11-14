@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 14 2025 16:18:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 14 2025 17:14:31 GMT+0800 (China Standard Time) -->
 
-1. [华为系高管淡出理想管理层](https://www.zhihu.com/search?q=华为系高管淡出理想管理层)
+1. [如何评价鸽武缘公开道歉](https://www.zhihu.com/search?q=如何评价鸽武缘公开道歉)
+1. [张颂文回应救人获赠锦旗](https://www.zhihu.com/search?q=张颂文回应救人获赠锦旗)
 1. [你都见过哪些不动声色的善良](https://www.zhihu.com/search?q=你都见过哪些不动声色的善良)
 1. [王楚钦晋级八强](https://www.zhihu.com/search?q=王楚钦晋级八强)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=为什么在中国邮箱不流行)
@@ -26,6 +27,7 @@
 1. [演员知道自己正在拍一部烂片吗](https://www.zhihu.com/search?q=演员知道自己正在拍一部烂片吗)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=常年独居的人靠什么抵抗孤独)
 1. [湖人vs雷霆](https://www.zhihu.com/search?q=湖人vs雷霆)
+1. [华为系高管淡出理想管理层](https://www.zhihu.com/search?q=华为系高管淡出理想管理层)
 1. [有哪些古籍是近现代才被重新发现的](https://www.zhihu.com/search?q=有哪些古籍是近现代才被重新发现的)
 1. [你们闻过最臭的是什么](https://www.zhihu.com/search?q=你们闻过最臭的是什么)
 1. [你最讨厌微信朋友圈什么行为](https://www.zhihu.com/search?q=你最讨厌微信朋友圈什么行为)
