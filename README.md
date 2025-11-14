@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 15 2025 00:17:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 15 2025 01:11:56 GMT+0800 (China Standard Time) -->
 
-1. [28 岁富士康打工突然想学理论物理可行吗](https://www.zhihu.com/search?q=28
-   岁富士康打工突然想学理论物理可行吗)
+1. [10月70城房价出炉](https://www.zhihu.com/search?q=10月70城房价出炉)
+1. [你们闻过最臭的是什么](https://www.zhihu.com/search?q=你们闻过最臭的是什么)
 1. [你最讨厌微信朋友圈什么行为](https://www.zhihu.com/search?q=你最讨厌微信朋友圈什么行为)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=为什么在中国邮箱不流行)
 1. [孙颖莎晋级女单四强](https://www.zhihu.com/search?q=孙颖莎晋级女单四强)
@@ -27,6 +27,8 @@
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=常年独居的人靠什么抵抗孤独)
 1. [湖人vs雷霆](https://www.zhihu.com/search?q=湖人vs雷霆)
 1. [四川舰](https://www.zhihu.com/search?q=四川舰)
+1. [28 岁富士康打工突然想学理论物理可行吗](https://www.zhihu.com/search?q=28
+   岁富士康打工突然想学理论物理可行吗)
 1. [有哪些古籍是近现代才被重新发现的](https://www.zhihu.com/search?q=有哪些古籍是近现代才被重新发现的)
 
 <!-- END -->
