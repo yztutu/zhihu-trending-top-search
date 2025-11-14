@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 15 2025 03:10:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 15 2025 04:15:23 GMT+0800 (China Standard Time) -->
 
 1. [10月70城房价出炉](https://www.zhihu.com/search?q=10月70城房价出炉)
 1. [你们闻过最臭的是什么](https://www.zhihu.com/search?q=你们闻过最臭的是什么)
