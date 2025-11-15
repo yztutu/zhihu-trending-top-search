@@ -15,8 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 15 2025 21:19:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 15 2025 22:11:25 GMT+0800 (China Standard Time) -->
 
+1. [金鸡奖获奖名单](https://www.zhihu.com/search?q=金鸡奖获奖名单)
 1. [10月70城房价出炉](https://www.zhihu.com/search?q=10月70城房价出炉)
 1. [你们闻过最臭的是什么](https://www.zhihu.com/search?q=你们闻过最臭的是什么)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=为什么在中国邮箱不流行)
