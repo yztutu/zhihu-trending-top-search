@@ -1,4 +1,23 @@
 [
+  { "query": "金鸡奖获奖名单", "display_query": "金鸡奖获奖名单" },
+  { "query": "10月70城房价出炉", "display_query": "10月70城房价出炉" },
+  { "query": "孙颖莎晋级女单四强", "display_query": "孙颖莎晋级女单四强" },
+  {
+    "query": "常年独居的人靠什么抵抗孤独",
+    "display_query": "常年独居的人靠什么抵抗孤独"
+  },
+  { "query": "湖人vs雷霆", "display_query": "湖人vs雷霆" },
+  { "query": "四川舰", "display_query": "四川舰" },
+  { "query": "比特币跌破10万美元", "display_query": "比特币跌破10万美元" },
+  {
+    "query": "黄金到底能涨到什么地步",
+    "display_query": "黄金到底能涨到什么地步"
+  },
+  {
+    "query": "大家提升自己最快的方式是什么",
+    "display_query": "大家提升自己最快的方式是什么"
+  },
+  { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
   {
     "query": "四分之一决赛陈梦4比2蒯曼",
     "display_query": "四分之一决赛陈梦4比2蒯曼"
@@ -12,18 +31,8 @@
     "query": "为什么在中国邮箱不流行",
     "display_query": "为什么在中国邮箱不流行"
   },
-  { "query": "孙颖莎晋级女单四强", "display_query": "孙颖莎晋级女单四强" },
   {
     "query": "演员知道自己正在拍一部烂片吗",
     "display_query": "演员知道自己正在拍一部烂片吗"
-  },
-  {
-    "query": "常年独居的人靠什么抵抗孤独",
-    "display_query": "常年独居的人靠什么抵抗孤独"
-  },
-  { "query": "湖人vs雷霆", "display_query": "湖人vs雷霆" },
-  { "query": "四川舰", "display_query": "四川舰" },
-  { "query": "比特币跌破10万美元", "display_query": "比特币跌破10万美元" },
-  { "query": "金鸡奖获奖名单", "display_query": "金鸡奖获奖名单" },
-  { "query": "10月70城房价出炉", "display_query": "10月70城房价出炉" }
+  }
 ]
