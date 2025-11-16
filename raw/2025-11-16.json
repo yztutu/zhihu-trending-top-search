@@ -1,6 +1,12 @@
 [
-  { "query": "金鸡奖获奖名单", "display_query": "金鸡奖获奖名单" },
-  { "query": "10月70城房价出炉", "display_query": "10月70城房价出炉" },
+  {
+    "query": "四分之一决赛陈梦4比2蒯曼",
+    "display_query": "四分之一决赛陈梦4比2蒯曼"
+  },
+  {
+    "query": "12306回应动车盲文标识无凸起",
+    "display_query": "12306回应动车盲文标识无凸起"
+  },
   { "query": "你们闻过最臭的是什么", "display_query": "你们闻过最臭的是什么" },
   {
     "query": "为什么在中国邮箱不流行",
@@ -17,5 +23,7 @@
   },
   { "query": "湖人vs雷霆", "display_query": "湖人vs雷霆" },
   { "query": "四川舰", "display_query": "四川舰" },
-  { "query": "比特币跌破10万美元", "display_query": "比特币跌破10万美元" }
+  { "query": "比特币跌破10万美元", "display_query": "比特币跌破10万美元" },
+  { "query": "金鸡奖获奖名单", "display_query": "金鸡奖获奖名单" },
+  { "query": "10月70城房价出炉", "display_query": "10月70城房价出炉" }
 ]
