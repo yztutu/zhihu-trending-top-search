@@ -1,7 +1,6 @@
 [
   { "query": "金鸡奖获奖名单", "display_query": "金鸡奖获奖名单" },
   { "query": "10月70城房价出炉", "display_query": "10月70城房价出炉" },
-  { "query": "孙颖莎晋级女单四强", "display_query": "孙颖莎晋级女单四强" },
   {
     "query": "常年独居的人靠什么抵抗孤独",
     "display_query": "常年独居的人靠什么抵抗孤独"
@@ -18,6 +17,11 @@
     "display_query": "大家提升自己最快的方式是什么"
   },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
+  {
+    "query": "炒股让你明白了什么真理",
+    "display_query": "炒股让你明白了什么真理"
+  },
+  { "query": "孙颖莎晋级女单四强", "display_query": "孙颖莎晋级女单四强" },
   {
     "query": "四分之一决赛陈梦4比2蒯曼",
     "display_query": "四分之一决赛陈梦4比2蒯曼"
