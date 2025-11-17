@@ -1,6 +1,10 @@
 [
-  { "query": "樊振东 vs 林诗栋", "display_query": "樊振东 vs 林诗栋" },
-  { "query": "张雨霏200蝶季军", "display_query": "张雨霏200蝶季军" },
+  { "query": "金鸡奖获奖名单", "display_query": "金鸡奖获奖名单" },
+  { "query": "孙颖莎vs王曼昱", "display_query": "孙颖莎vs王曼昱" },
+  {
+    "query": "影视作品中哪个武器最奇葩",
+    "display_query": "影视作品中哪个武器最奇葩"
+  },
   {
     "query": "父母腿脚不便 辅助工具",
     "display_query": "父母腿脚不便 辅助工具"
@@ -26,13 +30,9 @@
     "query": "女歌手意外受到电动座椅架挤压身亡",
     "display_query": "女歌手意外受到电动座椅架挤压身亡"
   },
+  { "query": "樊振东 vs 林诗栋", "display_query": "樊振东 vs 林诗栋" },
+  { "query": "张雨霏200蝶季军", "display_query": "张雨霏200蝶季军" },
   { "query": "唐朝诡事录之长安", "display_query": "唐朝诡事录之长安" },
-  { "query": "金鸡奖获奖名单", "display_query": "金鸡奖获奖名单" },
-  { "query": "孙颖莎vs王曼昱", "display_query": "孙颖莎vs王曼昱" },
-  {
-    "query": "影视作品中哪个武器最奇葩",
-    "display_query": "影视作品中哪个武器最奇葩"
-  },
   {
     "query": "医生让625度远视娃每天看手机",
     "display_query": "医生让625度远视娃每天看手机"
