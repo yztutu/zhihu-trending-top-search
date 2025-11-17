@@ -15,10 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 17 2025 18:15:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 17 2025 19:12:21 GMT+0800 (China Standard Time) -->
 
 1. [金鸡奖获奖名单](https://www.zhihu.com/search?q=金鸡奖获奖名单)
+1. [勇士vs鹈鹕](https://www.zhihu.com/search?q=勇士vs鹈鹕)
+1. [古人看到西方大教堂会不会震撼](https://www.zhihu.com/search?q=古人看到西方大教堂会不会震撼)
+1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=常年独居的人靠什么抵抗孤独)
+1. [四川舰](https://www.zhihu.com/search?q=四川舰)
 1. [孙颖莎vs王曼昱](https://www.zhihu.com/search?q=孙颖莎vs王曼昱)
+1. [黄金到底能涨到什么地步](https://www.zhihu.com/search?q=黄金到底能涨到什么地步)
+1. [枭起青壤定档](https://www.zhihu.com/search?q=枭起青壤定档)
+1. [大家提升自己最快的方式是什么](https://www.zhihu.com/search?q=大家提升自己最快的方式是什么)
+1. [长期不上班的人都是什么状态](https://www.zhihu.com/search?q=长期不上班的人都是什么状态)
 1. [影视作品中哪个武器最奇葩](https://www.zhihu.com/search?q=影视作品中哪个武器最奇葩)
 1. [父母腿脚不便 辅助工具](https://www.zhihu.com/search?q=父母腿脚不便 辅助工具)
 1. [老人走路累 外骨骼有用吗](https://www.zhihu.com/search?q=老人走路累
