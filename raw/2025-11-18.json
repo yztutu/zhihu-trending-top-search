@@ -1,8 +1,5 @@
 [
-  {
-    "query": "如何看待sudo-rs曝出多个严重漏洞",
-    "display_query": "如何看待sudo-rs曝出多个严重漏洞"
-  },
+  { "query": "金鸡奖获奖名单", "display_query": "金鸡奖获奖名单" },
   { "query": "勇士vs鹈鹕", "display_query": "勇士vs鹈鹕" },
   {
     "query": "古人看到西方大教堂会不会震撼",
@@ -30,7 +27,10 @@
     "query": "长期不上班的人都是什么状态",
     "display_query": "长期不上班的人都是什么状态"
   },
-  { "query": "金鸡奖获奖名单", "display_query": "金鸡奖获奖名单" },
+  {
+    "query": "如何看待sudo-rs曝出多个严重漏洞",
+    "display_query": "如何看待sudo-rs曝出多个严重漏洞"
+  },
   { "query": "孙颖莎vs王曼昱", "display_query": "孙颖莎vs王曼昱" },
   {
     "query": "为什么中国大力发展核电",
