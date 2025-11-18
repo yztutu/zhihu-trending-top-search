@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 18 2025 18:16:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 18 2025 19:12:11 GMT+0800 (China Standard Time) -->
 
 1. [金鸡奖获奖名单](https://www.zhihu.com/search?q=金鸡奖获奖名单)
 1. [勇士vs鹈鹕](https://www.zhihu.com/search?q=勇士vs鹈鹕)
@@ -26,6 +26,7 @@
 1. [黄金到底能涨到什么地步](https://www.zhihu.com/search?q=黄金到底能涨到什么地步)
 1. [枭起青壤定档](https://www.zhihu.com/search?q=枭起青壤定档)
 1. [大家提升自己最快的方式是什么](https://www.zhihu.com/search?q=大家提升自己最快的方式是什么)
+1. [千千阙歌为什么能一直那么火](https://www.zhihu.com/search?q=千千阙歌为什么能一直那么火)
 1. [长期不上班的人都是什么状态](https://www.zhihu.com/search?q=长期不上班的人都是什么状态)
 1. [为什么中国大力发展核电](https://www.zhihu.com/search?q=为什么中国大力发展核电)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
