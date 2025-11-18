@@ -10,7 +10,6 @@
     "display_query": "常年独居的人靠什么抵抗孤独"
   },
   { "query": "四川舰", "display_query": "四川舰" },
-  { "query": "孙颖莎vs王曼昱", "display_query": "孙颖莎vs王曼昱" },
   {
     "query": "黄金到底能涨到什么地步",
     "display_query": "黄金到底能涨到什么地步"
@@ -28,6 +27,7 @@
     "query": "长期不上班的人都是什么状态",
     "display_query": "长期不上班的人都是什么状态"
   },
+  { "query": "孙颖莎vs王曼昱", "display_query": "孙颖莎vs王曼昱" },
   {
     "query": "为什么中国大力发展核电",
     "display_query": "为什么中国大力发展核电"
