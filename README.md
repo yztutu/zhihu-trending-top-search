@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 18 2025 21:27:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 18 2025 22:13:45 GMT+0800 (China Standard Time) -->
 
-1. [金鸡奖获奖名单](https://www.zhihu.com/search?q=金鸡奖获奖名单)
+1. [如何看待sudo-rs曝出多个严重漏洞](https://www.zhihu.com/search?q=如何看待sudo-rs曝出多个严重漏洞)
 1. [勇士vs鹈鹕](https://www.zhihu.com/search?q=勇士vs鹈鹕)
 1. [古人看到西方大教堂会不会震撼](https://www.zhihu.com/search?q=古人看到西方大教堂会不会震撼)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=常年独居的人靠什么抵抗孤独)
@@ -27,6 +27,7 @@
 1. [大家提升自己最快的方式是什么](https://www.zhihu.com/search?q=大家提升自己最快的方式是什么)
 1. [千千阙歌为什么能一直那么火](https://www.zhihu.com/search?q=千千阙歌为什么能一直那么火)
 1. [长期不上班的人都是什么状态](https://www.zhihu.com/search?q=长期不上班的人都是什么状态)
+1. [金鸡奖获奖名单](https://www.zhihu.com/search?q=金鸡奖获奖名单)
 1. [孙颖莎vs王曼昱](https://www.zhihu.com/search?q=孙颖莎vs王曼昱)
 1. [为什么中国大力发展核电](https://www.zhihu.com/search?q=为什么中国大力发展核电)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
