@@ -15,9 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 19 2025 22:13:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 19 2025 23:14:41 GMT+0800 (China Standard Time) -->
 
-1. [金鸡奖获奖名单](https://www.zhihu.com/search?q=金鸡奖获奖名单)
 1. [湖人vs爵士](https://www.zhihu.com/search?q=湖人vs爵士)
 1. [潘展乐夺得男子100米自由泳金牌](https://www.zhihu.com/search?q=潘展乐夺得男子100米自由泳金牌)
 1. [为什么中国选择发展高铁而不是廉价航空](https://www.zhihu.com/search?q=为什么中国选择发展高铁而不是廉价航空)
@@ -28,6 +27,7 @@
 1. [千千阙歌为什么能一直那么火](https://www.zhihu.com/search?q=千千阙歌为什么能一直那么火)
 1. [在中国搭讪有多难](https://www.zhihu.com/search?q=在中国搭讪有多难)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
+1. [金鸡奖获奖名单](https://www.zhihu.com/search?q=金鸡奖获奖名单)
 1. [炒股让你明白了什么真理](https://www.zhihu.com/search?q=炒股让你明白了什么真理)
 1. [用DeepSeek选股炒股可行吗](https://www.zhihu.com/search?q=用DeepSeek选股炒股可行吗)
 1. [宦官为什么给人的形象都是反派](https://www.zhihu.com/search?q=宦官为什么给人的形象都是反派)
