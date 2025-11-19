@@ -15,12 +15,15 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 19 2025 18:15:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 19 2025 19:12:16 GMT+0800 (China Standard Time) -->
 
 1. [金鸡奖获奖名单](https://www.zhihu.com/search?q=金鸡奖获奖名单)
+1. [湖人vs爵士](https://www.zhihu.com/search?q=湖人vs爵士)
+1. [潘展乐夺得男子100米自由泳金牌](https://www.zhihu.com/search?q=潘展乐夺得男子100米自由泳金牌)
 1. [为什么中国选择发展高铁而不是廉价航空](https://www.zhihu.com/search?q=为什么中国选择发展高铁而不是廉价航空)
 1. [四川舰](https://www.zhihu.com/search?q=四川舰)
 1. [黄金到底能涨到什么地步](https://www.zhihu.com/search?q=黄金到底能涨到什么地步)
+1. [泡馍为什么走不出西安](https://www.zhihu.com/search?q=泡馍为什么走不出西安)
 1. [枭起青壤定档](https://www.zhihu.com/search?q=枭起青壤定档)
 1. [千千阙歌为什么能一直那么火](https://www.zhihu.com/search?q=千千阙歌为什么能一直那么火)
 1. [在中国搭讪有多难](https://www.zhihu.com/search?q=在中国搭讪有多难)
