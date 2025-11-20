@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 21 2025 04:15:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 21 2025 05:12:30 GMT+0800 (China Standard Time) -->
 
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [可以一次性给孩子一年的生活费吗](https://www.zhihu.com/search?q=可以一次性给孩子一年的生活费吗)
