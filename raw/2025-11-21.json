@@ -1,6 +1,12 @@
 [
-  { "query": "A股", "display_query": "A股" },
-  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
+  {
+    "query": "荷兰暂停干预安世半导体",
+    "display_query": "荷兰暂停干预安世半导体"
+  },
+  {
+    "query": "汽车开到报废和开 8 年卖掉哪个更划算",
+    "display_query": "汽车开到报废和开 8 年卖掉哪个更划算"
+  },
   {
     "query": "可以一次性给孩子一年的生活费吗",
     "display_query": "可以一次性给孩子一年的生活费吗"
@@ -21,6 +27,8 @@
     "query": "5年期和1年期利率均维持不变",
     "display_query": "5年期和1年期利率均维持不变"
   },
+  { "query": "A股", "display_query": "A股" },
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   {
     "query": "有哪些信、达、不雅的翻译",
     "display_query": "有哪些信、达、不雅的翻译"
