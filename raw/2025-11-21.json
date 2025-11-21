@@ -1,4 +1,5 @@
 [
+  { "query": "A股", "display_query": "A股" },
   { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   {
     "query": "可以一次性给孩子一年的生活费吗",
@@ -6,11 +7,20 @@
   },
   { "query": "湖人战胜爵士", "display_query": "湖人战胜爵士" },
   {
+    "query": "为什么古代科举不考数学",
+    "display_query": "为什么古代科举不考数学"
+  },
+  {
     "query": "为什么中国选择发展高铁而不是廉价航空",
     "display_query": "为什么中国选择发展高铁而不是廉价航空"
   },
   { "query": "黄河进入凌汛期", "display_query": "黄河进入凌汛期" },
+  { "query": "樊振东3比1王楚钦", "display_query": "樊振东3比1王楚钦" },
   { "query": "火箭vs骑士", "display_query": "火箭vs骑士" },
+  {
+    "query": "5年期和1年期利率均维持不变",
+    "display_query": "5年期和1年期利率均维持不变"
+  },
   {
     "query": "有哪些信、达、不雅的翻译",
     "display_query": "有哪些信、达、不雅的翻译"
