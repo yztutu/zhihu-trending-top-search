@@ -1,9 +1,6 @@
 [
-  { "query": "四喜沈明珠公公被气死", "display_query": "四喜沈明珠公公被气死" },
-  {
-    "query": "刘阳刘毅全运会男双冠军",
-    "display_query": "刘阳刘毅全运会男双冠军"
-  },
+  { "query": "A股", "display_query": "A股" },
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   {
     "query": "可以一次性给孩子一年的生活费吗",
     "display_query": "可以一次性给孩子一年的生活费吗"
@@ -30,6 +27,9 @@
     "query": "为什么流萤的人气这么高",
     "display_query": "为什么流萤的人气这么高"
   },
-  { "query": "A股", "display_query": "A股" },
-  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" }
+  { "query": "四喜沈明珠公公被气死", "display_query": "四喜沈明珠公公被气死" },
+  {
+    "query": "刘阳刘毅全运会男双冠军",
+    "display_query": "刘阳刘毅全运会男双冠军"
+  }
 ]

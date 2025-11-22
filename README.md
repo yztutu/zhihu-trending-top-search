@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 22 2025 20:23:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 22 2025 21:18:54 GMT+0800 (China Standard Time) -->
 
-1. [四喜沈明珠公公被气死](https://www.zhihu.com/search?q=四喜沈明珠公公被气死)
-1. [刘阳刘毅全运会男双冠军](https://www.zhihu.com/search?q=刘阳刘毅全运会男双冠军)
+1. [A股](https://www.zhihu.com/search?q=A股)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [可以一次性给孩子一年的生活费吗](https://www.zhihu.com/search?q=可以一次性给孩子一年的生活费吗)
 1. [为什么古代科举不考数学](https://www.zhihu.com/search?q=为什么古代科举不考数学)
 1. [为什么中国选择发展高铁而不是廉价航空](https://www.zhihu.com/search?q=为什么中国选择发展高铁而不是廉价航空)
@@ -27,8 +27,8 @@
 1. [有哪些信、达、不雅的翻译](https://www.zhihu.com/search?q=有哪些信、达、不雅的翻译)
 1. [泡馍为什么走不出西安](https://www.zhihu.com/search?q=泡馍为什么走不出西安)
 1. [为什么流萤的人气这么高](https://www.zhihu.com/search?q=为什么流萤的人气这么高)
-1. [A股](https://www.zhihu.com/search?q=A股)
-1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
+1. [四喜沈明珠公公被气死](https://www.zhihu.com/search?q=四喜沈明珠公公被气死)
+1. [刘阳刘毅全运会男双冠军](https://www.zhihu.com/search?q=刘阳刘毅全运会男双冠军)
 
 <!-- END -->
 
