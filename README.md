@@ -15,9 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 24 2025 18:16:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 24 2025 19:12:19 GMT+0800 (China Standard Time) -->
 
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
+1. [你吃过最奢侈的一道菜](https://www.zhihu.com/search?q=你吃过最奢侈的一道菜)
 1. [你有哪些当初没听出来的弦外之音](https://www.zhihu.com/search?q=你有哪些当初没听出来的弦外之音)
+1. [美乌发布联合声明](https://www.zhihu.com/search?q=美乌发布联合声明)
+1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=为什么人不能靠意志力戒毒)
+1. [泡馍为什么走不出西安](https://www.zhihu.com/search?q=泡馍为什么走不出西安)
+1. [炒股让你明白了什么真理](https://www.zhihu.com/search?q=炒股让你明白了什么真理)
+1. [如何看待健身锻炼到最后一身伤病](https://www.zhihu.com/search?q=如何看待健身锻炼到最后一身伤病)
+1. [怎么自学成为计算机大佬](https://www.zhihu.com/search?q=怎么自学成为计算机大佬)
+1. [人在什么情况下成长的最快](https://www.zhihu.com/search?q=人在什么情况下成长的最快)
 1. [人在 45 岁是一种什么感觉](https://www.zhihu.com/search?q=人在 45
    岁是一种什么感觉)
 1. [父母腿脚不便 辅助工具](https://www.zhihu.com/search?q=父母腿脚不便 辅助工具)
