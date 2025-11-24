@@ -28,16 +28,16 @@
     "display_query": "老年人独立出行 辅助工具"
   },
   { "query": "医生测评外骨骼机器人", "display_query": "医生测评外骨骼机器人" },
-  { "query": "唐朝诡事录之长安", "display_query": "唐朝诡事录之长安" },
   { "query": "神舟二十二号发射时间", "display_query": "神舟二十二号发射时间" },
+  {
+    "query": "家长用AI监督孩子写作业",
+    "display_query": "家长用AI监督孩子写作业"
+  },
+  { "query": "唐朝诡事录之长安", "display_query": "唐朝诡事录之长安" },
   { "query": "《再见爱人 5》第六期", "display_query": "《再见爱人 5》第六期" },
   {
     "query": "中方:如日方武力介入将行使自卫权",
     "display_query": "中方:如日方武力介入将行使自卫权"
-  },
-  {
-    "query": "家长用AI监督孩子写作业",
-    "display_query": "家长用AI监督孩子写作业"
   },
   { "query": "星巴克被指追杀式营销", "display_query": "星巴克被指追杀式营销" }
 ]
