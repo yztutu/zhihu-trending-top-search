@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 26 2025 05:12:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 26 2025 06:13:27 GMT+0800 (China Standard Time) -->
 
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=为什么有些人的预判能力这么强)
 1. [新疆到底有多干燥](https://www.zhihu.com/search?q=新疆到底有多干燥)
