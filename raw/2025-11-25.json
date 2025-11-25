@@ -1,5 +1,9 @@
 [
-  { "query": "泡馍为什么走不出西安", "display_query": "泡馍为什么走不出西安" },
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
+  {
+    "query": "为什么有些人的预判能力这么强",
+    "display_query": "为什么有些人的预判能力这么强"
+  },
   { "query": "你吃过最奢侈的一道菜", "display_query": "你吃过最奢侈的一道菜" },
   { "query": "新疆到底有多干燥", "display_query": "新疆到底有多干燥" },
   {
@@ -15,16 +19,16 @@
     "query": "为什么人不能靠意志力戒毒",
     "display_query": "为什么人不能靠意志力戒毒"
   },
-  { "query": "喝过最好喝的酒", "display_query": "喝过最好喝的酒" },
+  { "query": "泡馍为什么走不出西安", "display_query": "泡馍为什么走不出西安" },
   {
     "query": "炒股让你明白了什么真理",
     "display_query": "炒股让你明白了什么真理"
   },
+  { "query": "喝过最好喝的酒", "display_query": "喝过最好喝的酒" },
   {
     "query": "如何看待健身锻炼到最后一身伤病",
     "display_query": "如何看待健身锻炼到最后一身伤病"
   },
-  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   {
     "query": "怎么自学成为计算机大佬",
     "display_query": "怎么自学成为计算机大佬"
