@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 25 2025 11:09:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 25 2025 12:19:52 GMT+0800 (China Standard Time) -->
 
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [你吃过最奢侈的一道菜](https://www.zhihu.com/search?q=你吃过最奢侈的一道菜)
