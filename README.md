@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 26 2025 11:09:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 26 2025 12:19:35 GMT+0800 (China Standard Time) -->
 
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=为什么有些人的预判能力这么强)
@@ -24,6 +24,7 @@
 1. [长得帅在生活中有多大优势](https://www.zhihu.com/search?q=长得帅在生活中有多大优势)
 1. [日系车是真的开不坏吗](https://www.zhihu.com/search?q=日系车是真的开不坏吗)
 1. [泡馍为什么走不出西安](https://www.zhihu.com/search?q=泡馍为什么走不出西安)
+1. [你从什么时候变得成熟并删掉游戏](https://www.zhihu.com/search?q=你从什么时候变得成熟并删掉游戏)
 1. [如何看待健身锻炼到最后一身伤病](https://www.zhihu.com/search?q=如何看待健身锻炼到最后一身伤病)
 1. [为什么木叶会允许玖辛奈怀孕生子](https://www.zhihu.com/search?q=为什么木叶会允许玖辛奈怀孕生子)
 1. [为什么玉石在中国才值钱](https://www.zhihu.com/search?q=为什么玉石在中国才值钱)
