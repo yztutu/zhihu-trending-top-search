@@ -15,13 +15,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 27 2025 18:15:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 27 2025 19:12:24 GMT+0800 (China Standard Time) -->
 
+1. [怎样解读驭空戟-1000 性能](https://www.zhihu.com/search?q=怎样解读驭空戟-1000
+   性能)
+1. [如何评价华为Mate80系列下调起售价](https://www.zhihu.com/search?q=如何评价华为Mate80系列下调起售价)
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=为什么有些人的预判能力这么强)
 1. [新疆到底有多干燥](https://www.zhihu.com/search?q=新疆到底有多干燥)
 1. [你有哪些当初没听出来的弦外之音](https://www.zhihu.com/search?q=你有哪些当初没听出来的弦外之音)
 1. [长得帅在生活中有多大优势](https://www.zhihu.com/search?q=长得帅在生活中有多大优势)
+1. [云南咖啡为何走不出中国](https://www.zhihu.com/search?q=云南咖啡为何走不出中国)
+1. [你见过哪些不动声色的善良](https://www.zhihu.com/search?q=你见过哪些不动声色的善良)
+1. [为什么销冠一般最先离职](https://www.zhihu.com/search?q=为什么销冠一般最先离职)
 1. [酒店为什么会有三小时钟点房](https://www.zhihu.com/search?q=酒店为什么会有三小时钟点房)
 1. [你从什么时候变得成熟并删掉游戏](https://www.zhihu.com/search?q=你从什么时候变得成熟并删掉游戏)
 1. [如何看待健身锻炼到最后一身伤病](https://www.zhihu.com/search?q=如何看待健身锻炼到最后一身伤病)
