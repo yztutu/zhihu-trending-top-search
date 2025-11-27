@@ -1,0 +1,30 @@
+[
+  { "query": "A股", "display_query": "A股" },
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
+  {
+    "query": "为什么有些人的预判能力这么强",
+    "display_query": "为什么有些人的预判能力这么强"
+  },
+  { "query": "新疆到底有多干燥", "display_query": "新疆到底有多干燥" },
+  {
+    "query": "长得帅在生活中有多大优势",
+    "display_query": "长得帅在生活中有多大优势"
+  },
+  {
+    "query": "云南咖啡为何走不出中国",
+    "display_query": "云南咖啡为何走不出中国"
+  },
+  {
+    "query": "你见过哪些不动声色的善良",
+    "display_query": "你见过哪些不动声色的善良"
+  },
+  {
+    "query": "为什么销冠一般最先离职",
+    "display_query": "为什么销冠一般最先离职"
+  },
+  { "query": "勇士vs火箭", "display_query": "勇士vs火箭" },
+  {
+    "query": "酒店为什么会有三小时钟点房",
+    "display_query": "酒店为什么会有三小时钟点房"
+  }
+]
