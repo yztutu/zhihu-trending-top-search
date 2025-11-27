@@ -3,10 +3,6 @@
     "query": "为何面包界难出「蜜雪冰城」",
     "display_query": "为何面包界难出「蜜雪冰城」"
   },
-  {
-    "query": "2025年法考主观题成绩11月26日公布",
-    "display_query": "2025年法考主观题成绩11月26日公布"
-  },
   { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   {
     "query": "为什么有些人的预判能力这么强",
@@ -33,8 +29,12 @@
     "query": "为什么销冠一般最先离职",
     "display_query": "为什么销冠一般最先离职"
   },
-  { "query": "A股", "display_query": "A股" },
   { "query": "勇士vs火箭", "display_query": "勇士vs火箭" },
+  {
+    "query": "2025年法考主观题成绩11月26日公布",
+    "display_query": "2025年法考主观题成绩11月26日公布"
+  },
+  { "query": "A股", "display_query": "A股" },
   {
     "query": "怎样解读驭空戟-1000 性能",
     "display_query": "怎样解读驭空戟-1000 性能"
