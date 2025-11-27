@@ -1,12 +1,5 @@
 [
-  {
-    "query": "怎样解读驭空戟-1000 性能",
-    "display_query": "怎样解读驭空戟-1000 性能"
-  },
-  {
-    "query": "如何评价华为Mate80系列下调起售价",
-    "display_query": "如何评价华为Mate80系列下调起售价"
-  },
+  { "query": "A股", "display_query": "A股" },
   { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   {
     "query": "为什么有些人的预判能力这么强",
@@ -32,6 +25,15 @@
   {
     "query": "为什么销冠一般最先离职",
     "display_query": "为什么销冠一般最先离职"
+  },
+  { "query": "勇士vs火箭", "display_query": "勇士vs火箭" },
+  {
+    "query": "怎样解读驭空戟-1000 性能",
+    "display_query": "怎样解读驭空戟-1000 性能"
+  },
+  {
+    "query": "如何评价华为Mate80系列下调起售价",
+    "display_query": "如何评价华为Mate80系列下调起售价"
   },
   {
     "query": "酒店为什么会有三小时钟点房",
