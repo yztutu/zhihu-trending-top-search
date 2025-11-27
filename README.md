@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 27 2025 20:28:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 27 2025 21:27:06 GMT+0800 (China Standard Time) -->
 
-1. [A股](https://www.zhihu.com/search?q=A股)
+1. [为何面包界难出「蜜雪冰城」](https://www.zhihu.com/search?q=为何面包界难出「蜜雪冰城」)
+1. [2025年法考主观题成绩11月26日公布](https://www.zhihu.com/search?q=2025年法考主观题成绩11月26日公布)
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=为什么有些人的预判能力这么强)
 1. [新疆到底有多干燥](https://www.zhihu.com/search?q=新疆到底有多干燥)
@@ -26,6 +27,7 @@
 1. [云南咖啡为何走不出中国](https://www.zhihu.com/search?q=云南咖啡为何走不出中国)
 1. [你见过哪些不动声色的善良](https://www.zhihu.com/search?q=你见过哪些不动声色的善良)
 1. [为什么销冠一般最先离职](https://www.zhihu.com/search?q=为什么销冠一般最先离职)
+1. [A股](https://www.zhihu.com/search?q=A股)
 1. [勇士vs火箭](https://www.zhihu.com/search?q=勇士vs火箭)
 1. [怎样解读驭空戟-1000 性能](https://www.zhihu.com/search?q=怎样解读驭空戟-1000
    性能)
