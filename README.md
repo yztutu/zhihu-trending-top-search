@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 28 2025 17:14:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 28 2025 19:11:51 GMT+0800 (China Standard Time) -->
 
-1. [该如何写魔法世界的衰亡](https://www.zhihu.com/search?q=该如何写魔法世界的衰亡)
-1. [有什么低成本的爱好](https://www.zhihu.com/search?q=有什么低成本的爱好)
+1. [最无用的节俭行为](https://www.zhihu.com/search?q=最无用的节俭行为)
+1. [A股](https://www.zhihu.com/search?q=A股)
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=为什么有些人的预判能力这么强)
 1. [新疆到底有多干燥](https://www.zhihu.com/search?q=新疆到底有多干燥)
@@ -27,7 +27,8 @@
 1. [你见过哪些不动声色的善良](https://www.zhihu.com/search?q=你见过哪些不动声色的善良)
 1. [为什么销冠一般最先离职](https://www.zhihu.com/search?q=为什么销冠一般最先离职)
 1. [勇士vs火箭](https://www.zhihu.com/search?q=勇士vs火箭)
-1. [A股](https://www.zhihu.com/search?q=A股)
+1. [该如何写魔法世界的衰亡](https://www.zhihu.com/search?q=该如何写魔法世界的衰亡)
+1. [有什么低成本的爱好](https://www.zhihu.com/search?q=有什么低成本的爱好)
 1. [酒店为什么会有三小时钟点房](https://www.zhihu.com/search?q=酒店为什么会有三小时钟点房)
 
 <!-- END -->

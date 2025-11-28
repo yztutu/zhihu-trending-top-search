@@ -1,9 +1,6 @@
 [
-  {
-    "query": "该如何写魔法世界的衰亡",
-    "display_query": "该如何写魔法世界的衰亡"
-  },
-  { "query": "有什么低成本的爱好", "display_query": "有什么低成本的爱好" },
+  { "query": "最无用的节俭行为", "display_query": "最无用的节俭行为" },
+  { "query": "A股", "display_query": "A股" },
   { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   {
     "query": "为什么有些人的预判能力这么强",
@@ -27,7 +24,11 @@
     "display_query": "为什么销冠一般最先离职"
   },
   { "query": "勇士vs火箭", "display_query": "勇士vs火箭" },
-  { "query": "A股", "display_query": "A股" },
+  {
+    "query": "该如何写魔法世界的衰亡",
+    "display_query": "该如何写魔法世界的衰亡"
+  },
+  { "query": "有什么低成本的爱好", "display_query": "有什么低成本的爱好" },
   {
     "query": "酒店为什么会有三小时钟点房",
     "display_query": "酒店为什么会有三小时钟点房"
