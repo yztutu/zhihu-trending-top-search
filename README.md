@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 30 2025 16:16:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 30 2025 17:12:38 GMT+0800 (China Standard Time) -->
 
 1. [最无用的节俭行为](https://www.zhihu.com/search?q=最无用的节俭行为)
 1. [A股](https://www.zhihu.com/search?q=A股)
