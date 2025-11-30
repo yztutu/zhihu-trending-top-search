@@ -15,12 +15,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 30 2025 14:20:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 30 2025 15:12:33 GMT+0800 (China Standard Time) -->
 
 1. [最无用的节俭行为](https://www.zhihu.com/search?q=最无用的节俭行为)
 1. [A股](https://www.zhihu.com/search?q=A股)
 1. [行测](https://www.zhihu.com/search?q=行测)
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
+1. [申论](https://www.zhihu.com/search?q=申论)
 1. [为什么销冠一般最先离职](https://www.zhihu.com/search?q=为什么销冠一般最先离职)
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=为什么人不能靠意志力戒毒)
 1. [酒店为什么会有三小时钟点房](https://www.zhihu.com/search?q=酒店为什么会有三小时钟点房)
