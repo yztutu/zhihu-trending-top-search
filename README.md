@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 01 2025 12:43:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 01 2025 13:22:18 GMT+0800 (China Standard Time) -->
 
 1. [行测](https://www.zhihu.com/search?q=行测)
 1. [申论](https://www.zhihu.com/search?q=申论)
@@ -25,8 +25,9 @@
 1. [网传南大教授闻海虎发邮件回应举报](https://www.zhihu.com/search?q=网传南大教授闻海虎发邮件回应举报)
 1. [美团发布上下文级联压缩技术](https://www.zhihu.com/search?q=美团发布上下文级联压缩技术)
 1. [「老穷风」怎么火了](https://www.zhihu.com/search?q=「老穷风」怎么火了)
-1. [喜人奇妙夜2第十期](https://www.zhihu.com/search?q=喜人奇妙夜2第十期)
 1. [多家手机厂商取消air机型](https://www.zhihu.com/search?q=多家手机厂商取消air机型)
+1. [王牧疑似回复闻海虎澄清信](https://www.zhihu.com/search?q=王牧疑似回复闻海虎澄清信)
+1. [喜人奇妙夜2第十期](https://www.zhihu.com/search?q=喜人奇妙夜2第十期)
 1. [疯狂动物城2隐喻](https://www.zhihu.com/search?q=疯狂动物城2隐喻)
 1. [黑龙江大学校史首篇nature](https://www.zhihu.com/search?q=黑龙江大学校史首篇nature)
 1. [疯狂动物城2预售票房超哪吒2](https://www.zhihu.com/search?q=疯狂动物城2预售票房超哪吒2)
