@@ -18,10 +18,11 @@
     "query": "Qwen论文获评NeurIPS 2025最佳论文",
     "display_query": "Qwen论文获评NeurIPS 2025最佳论文"
   },
-  { "query": "威海3.6级地震", "display_query": "威海3.6级地震" },
   {
     "query": "美团发布上下文级联压缩技术",
     "display_query": "美团发布上下文级联压缩技术"
   },
-  { "query": "「老穷风」怎么火了", "display_query": "「老穷风」怎么火了" }
+  { "query": "「老穷风」怎么火了", "display_query": "「老穷风」怎么火了" },
+  { "query": "喜人奇妙夜2第十期", "display_query": "喜人奇妙夜2第十期" },
+  { "query": "威海3.6级地震", "display_query": "威海3.6级地震" }
 ]

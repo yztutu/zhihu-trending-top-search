@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 01 2025 07:12:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 01 2025 09:17:48 GMT+0800 (China Standard Time) -->
 
 1. [行测](https://www.zhihu.com/search?q=行测)
 1. [申论](https://www.zhihu.com/search?q=申论)
@@ -26,9 +26,10 @@
 1. [Qwen论文获评NeurIPS
    2025最佳论文](https://www.zhihu.com/search?q=Qwen论文获评NeurIPS
    2025最佳论文)
-1. [威海3.6级地震](https://www.zhihu.com/search?q=威海3.6级地震)
 1. [美团发布上下文级联压缩技术](https://www.zhihu.com/search?q=美团发布上下文级联压缩技术)
 1. [「老穷风」怎么火了](https://www.zhihu.com/search?q=「老穷风」怎么火了)
+1. [喜人奇妙夜2第十期](https://www.zhihu.com/search?q=喜人奇妙夜2第十期)
+1. [威海3.6级地震](https://www.zhihu.com/search?q=威海3.6级地震)
 
 <!-- END -->
 
