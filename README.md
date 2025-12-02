@@ -15,10 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 02 2025 15:16:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 02 2025 16:20:37 GMT+0800 (China Standard Time) -->
 
 1. [Uzi 复出](https://www.zhihu.com/search?q=Uzi 复出)
 1. [A股](https://www.zhihu.com/search?q=A股)
+1. [人间清醒是什么样子](https://www.zhihu.com/search?q=人间清醒是什么样子)
 1. [行测](https://www.zhihu.com/search?q=行测)
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [申论](https://www.zhihu.com/search?q=申论)
