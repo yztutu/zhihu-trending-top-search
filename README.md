@@ -15,18 +15,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 02 2025 18:16:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 02 2025 19:13:38 GMT+0800 (China Standard Time) -->
 
-1. [Uzi 复出](https://www.zhihu.com/search?q=Uzi 复出)
-1. [A股](https://www.zhihu.com/search?q=A股)
+1. [NIP全员离队](https://www.zhihu.com/search?q=NIP全员离队)
+1. [雷军回应小米汽车续航测试](https://www.zhihu.com/search?q=雷军回应小米汽车续航测试)
 1. [人间清醒是什么样子](https://www.zhihu.com/search?q=人间清醒是什么样子)
 1. [行测](https://www.zhihu.com/search?q=行测)
-1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [申论](https://www.zhihu.com/search?q=申论)
-1. [12月新规来了](https://www.zhihu.com/search?q=12月新规来了)
 1. [湖人vs鹈鹕](https://www.zhihu.com/search?q=湖人vs鹈鹕)
 1. [独行侠险胜快船](https://www.zhihu.com/search?q=独行侠险胜快船)
 1. [有没有可以笑上一年的笑话](https://www.zhihu.com/search?q=有没有可以笑上一年的笑话)
+1. [湖南烟花店主举报公职人员后轻生](https://www.zhihu.com/search?q=湖南烟花店主举报公职人员后轻生)
+1. [河南发现长江流域迄今最早青铜器](https://www.zhihu.com/search?q=河南发现长江流域迄今最早青铜器)
+1. [Uzi 复出](https://www.zhihu.com/search?q=Uzi 复出)
+1. [A股](https://www.zhihu.com/search?q=A股)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
+1. [12月新规来了](https://www.zhihu.com/search?q=12月新规来了)
 1. [跑步真的会越跑越年轻吗](https://www.zhihu.com/search?q=跑步真的会越跑越年轻吗)
 1. [红牛杯](https://www.zhihu.com/search?q=红牛杯)
 1. [如何看待美国网友咆哮物价太高](https://www.zhihu.com/search?q=如何看待美国网友咆哮物价太高)
