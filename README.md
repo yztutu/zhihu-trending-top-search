@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 03 2025 14:22:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 03 2025 15:16:20 GMT+0800 (China Standard Time) -->
 
 1. [人间清醒是什么样子](https://www.zhihu.com/search?q=人间清醒是什么样子)
 1. [行测](https://www.zhihu.com/search?q=行测)
@@ -25,6 +25,7 @@
 1. [12月新规来了](https://www.zhihu.com/search?q=12月新规来了)
 1. [12月起这些新规开始施行](https://www.zhihu.com/search?q=12月起这些新规开始施行)
 1. [有没有可以笑上一年的笑话](https://www.zhihu.com/search?q=有没有可以笑上一年的笑话)
+1. [前两年冲动买房的人怎么样了](https://www.zhihu.com/search?q=前两年冲动买房的人怎么样了)
 1. [12月第一天](https://www.zhihu.com/search?q=12月第一天)
 1. [如何看待美国网友咆哮物价太高](https://www.zhihu.com/search?q=如何看待美国网友咆哮物价太高)
 
