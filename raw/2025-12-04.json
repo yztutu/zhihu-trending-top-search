@@ -1,6 +1,13 @@
 [
-  { "query": "国际残疾人日", "display_query": "国际残疾人日" },
+  {
+    "query": "爆联想ISG上海全员被裁",
+    "display_query": "爆联想ISG上海全员被裁"
+  },
   { "query": "人间清醒是什么样子", "display_query": "人间清醒是什么样子" },
+  {
+    "query": "万达刚赎回的万达广场又被转让",
+    "display_query": "万达刚赎回的万达广场又被转让"
+  },
   { "query": "新疆地震", "display_query": "新疆地震" },
   {
     "query": "你身边有年纪轻轻就去世的人吗",
@@ -22,6 +29,11 @@
     "query": "你看过最感动的短篇漫画是什么",
     "display_query": "你看过最感动的短篇漫画是什么"
   },
+  {
+    "query": "2026 LCK 将引入「教练语音」",
+    "display_query": "2026 LCK 将引入「教练语音」"
+  },
+  { "query": "国际残疾人日", "display_query": "国际残疾人日" },
   {
     "query": "为什么销冠一般最先离职",
     "display_query": "为什么销冠一般最先离职"
