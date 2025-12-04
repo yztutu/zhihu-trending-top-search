@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 04 2025 07:11:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 04 2025 09:06:22 GMT+0800 (China Standard Time) -->
 
 1. [国际残疾人日](https://www.zhihu.com/search?q=国际残疾人日)
 1. [人间清醒是什么样子](https://www.zhihu.com/search?q=人间清醒是什么样子)
