@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 05 2025 16:19:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 05 2025 17:15:14 GMT+0800 (China Standard Time) -->
 
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [新疆地震](https://www.zhihu.com/search?q=新疆地震)
