@@ -1,5 +1,8 @@
 [
-  { "query": "中法发布联合声明", "display_query": "中法发布联合声明" },
+  {
+    "query": "业内称未来手机电脑价格会疯涨",
+    "display_query": "业内称未来手机电脑价格会疯涨"
+  },
   { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   { "query": "有哪些好用的开源软件", "display_query": "有哪些好用的开源软件" },
   { "query": "新疆地震", "display_query": "新疆地震" },
@@ -27,6 +30,7 @@
     "query": "你看过最感动的短篇漫画是什么",
     "display_query": "你看过最感动的短篇漫画是什么"
   },
+  { "query": "中法发布联合声明", "display_query": "中法发布联合声明" },
   {
     "query": "为什么销冠一般最先离职",
     "display_query": "为什么销冠一般最先离职"
