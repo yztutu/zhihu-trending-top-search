@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 06 2025 01:13:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 06 2025 02:18:39 GMT+0800 (China Standard Time) -->
 
-1. [中法发布联合声明](https://www.zhihu.com/search?q=中法发布联合声明)
-1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
+1. [我国科学家首次实现「反冲狭缝」思想实验](https://www.zhihu.com/search?q=我国科学家首次实现「反冲狭缝」思想实验)
 1. [有哪些好用的开源软件](https://www.zhihu.com/search?q=有哪些好用的开源软件)
 1. [新疆地震](https://www.zhihu.com/search?q=新疆地震)
 1. [你身边有年纪轻轻就去世的人吗](https://www.zhihu.com/search?q=你身边有年纪轻轻就去世的人吗)
@@ -26,6 +25,9 @@
 1. [中国人玩阳谋到底有多牛](https://www.zhihu.com/search?q=中国人玩阳谋到底有多牛)
 1. [马刺vs魔术](https://www.zhihu.com/search?q=马刺vs魔术)
 1. [勇士vs76人](https://www.zhihu.com/search?q=勇士vs76人)
+1. [中法发布联合声明](https://www.zhihu.com/search?q=中法发布联合声明)
+1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [你给孩子最大的托底是什么](https://www.zhihu.com/search?q=你给孩子最大的托底是什么)
 
 <!-- END -->
