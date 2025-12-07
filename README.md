@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 07 2025 09:13:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 07 2025 11:21:33 GMT+0800 (China Standard Time) -->
 
 1. [爱奇艺尖叫之夜](https://www.zhihu.com/search?q=爱奇艺尖叫之夜)
 1. [中法发布联合声明](https://www.zhihu.com/search?q=中法发布联合声明)
@@ -23,6 +23,7 @@
 1. [有哪些好用的开源软件](https://www.zhihu.com/search?q=有哪些好用的开源软件)
 1. [新疆地震](https://www.zhihu.com/search?q=新疆地震)
 1. [为什么C标准库没有链表](https://www.zhihu.com/search?q=为什么C标准库没有链表)
+1. [爱奇艺道歉](https://www.zhihu.com/search?q=爱奇艺道歉)
 1. [马刺vs魔术](https://www.zhihu.com/search?q=马刺vs魔术)
 1. [勇士vs76人](https://www.zhihu.com/search?q=勇士vs76人)
 1. [你给孩子最大的托底是什么](https://www.zhihu.com/search?q=你给孩子最大的托底是什么)
