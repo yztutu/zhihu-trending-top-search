@@ -1,11 +1,8 @@
 [
   { "query": "爱奇艺尖叫之夜", "display_query": "爱奇艺尖叫之夜" },
+  { "query": "F1", "display_query": "F1" },
   { "query": "省考", "display_query": "省考" },
   { "query": "爱奇艺道歉", "display_query": "爱奇艺道歉" },
-  {
-    "query": "为什么人会在短期内多次感冒",
-    "display_query": "为什么人会在短期内多次感冒"
-  },
   {
     "query": "无正当理由拒篮球国家队征召将遭行业惩戒",
     "display_query": "无正当理由拒篮球国家队征召将遭行业惩戒"
@@ -23,8 +20,16 @@
     "display_query": "詹姆斯连续 1297 场上双神迹终结"
   },
   {
+    "query": "22岁小伙吃红烧肘子后进ICU",
+    "display_query": "22岁小伙吃红烧肘子后进ICU"
+  },
+  {
     "query": "《喜人奇妙夜》第二季总决赛",
     "display_query": "《喜人奇妙夜》第二季总决赛"
+  },
+  {
+    "query": "为什么人会在短期内多次感冒",
+    "display_query": "为什么人会在短期内多次感冒"
   },
   { "query": "中法发表多份联合声明", "display_query": "中法发表多份联合声明" },
   {
