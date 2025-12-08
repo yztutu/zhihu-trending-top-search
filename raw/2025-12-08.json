@@ -1,5 +1,6 @@
 [
-  { "query": "极地科考", "display_query": "极地科考" },
+  { "query": "F1", "display_query": "F1" },
+  { "query": "省考", "display_query": "省考" },
   {
     "query": "你认为最失败的 Logo 设计有哪些",
     "display_query": "你认为最失败的 Logo 设计有哪些"
@@ -23,10 +24,9 @@
   },
   { "query": "中法发表多份联合声明", "display_query": "中法发表多份联合声明" },
   { "query": "《疯狂动物城2》热映", "display_query": "《疯狂动物城2》热映" },
+  { "query": "极地科考", "display_query": "极地科考" },
   { "query": "全网最忙五人组", "display_query": "全网最忙五人组" },
   { "query": "爱奇艺尖叫之夜", "display_query": "爱奇艺尖叫之夜" },
-  { "query": "F1", "display_query": "F1" },
-  { "query": "省考", "display_query": "省考" },
   { "query": "爱奇艺道歉", "display_query": "爱奇艺道歉" },
   {
     "query": "詹姆斯连续 1297 场上双神迹终结",

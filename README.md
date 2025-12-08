@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 08 2025 17:21:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 08 2025 18:16:36 GMT+0800 (China Standard Time) -->
 
-1. [极地科考](https://www.zhihu.com/search?q=极地科考)
+1. [F1](https://www.zhihu.com/search?q=F1)
+1. [省考](https://www.zhihu.com/search?q=省考)
 1. [你认为最失败的 Logo
    设计有哪些](https://www.zhihu.com/search?q=你认为最失败的 Logo 设计有哪些)
 1. [无正当理由拒篮球国家队征召将遭行业惩戒](https://www.zhihu.com/search?q=无正当理由拒篮球国家队征召将遭行业惩戒)
@@ -27,10 +28,9 @@
 1. [胖东来再招人年薪不低于100万](https://www.zhihu.com/search?q=胖东来再招人年薪不低于100万)
 1. [中法发表多份联合声明](https://www.zhihu.com/search?q=中法发表多份联合声明)
 1. [《疯狂动物城2》热映](https://www.zhihu.com/search?q=《疯狂动物城2》热映)
+1. [极地科考](https://www.zhihu.com/search?q=极地科考)
 1. [全网最忙五人组](https://www.zhihu.com/search?q=全网最忙五人组)
 1. [爱奇艺尖叫之夜](https://www.zhihu.com/search?q=爱奇艺尖叫之夜)
-1. [F1](https://www.zhihu.com/search?q=F1)
-1. [省考](https://www.zhihu.com/search?q=省考)
 1. [爱奇艺道歉](https://www.zhihu.com/search?q=爱奇艺道歉)
 1. [詹姆斯连续 1297 场上双神迹终结](https://www.zhihu.com/search?q=詹姆斯连续
    1297 场上双神迹终结)
