@@ -1,6 +1,17 @@
 [
   { "query": "F1", "display_query": "F1" },
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   { "query": "省考", "display_query": "省考" },
+  { "query": "尖叫之夜", "display_query": "尖叫之夜" },
+  { "query": "勇士vs骑士", "display_query": "勇士vs骑士" },
+  { "query": "火箭vs独行侠", "display_query": "火箭vs独行侠" },
+  { "query": "太阳vs火箭", "display_query": "太阳vs火箭" },
+  {
+    "query": "写西幻该如何避免写成中式西幻",
+    "display_query": "写西幻该如何避免写成中式西幻"
+  },
+  { "query": "维斯塔潘杆位", "display_query": "维斯塔潘杆位" },
+  { "query": "如何评价电视剧金婚", "display_query": "如何评价电视剧金婚" },
   {
     "query": "你认为最失败的 Logo 设计有哪些",
     "display_query": "你认为最失败的 Logo 设计有哪些"
