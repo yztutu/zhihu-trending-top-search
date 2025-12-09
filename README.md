@@ -15,13 +15,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 09 2025 11:13:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 09 2025 12:22:40 GMT+0800 (China Standard Time) -->
 
 1. [F1](https://www.zhihu.com/search?q=F1)
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [省考](https://www.zhihu.com/search?q=省考)
 1. [尖叫之夜](https://www.zhihu.com/search?q=尖叫之夜)
 1. [勇士vs骑士](https://www.zhihu.com/search?q=勇士vs骑士)
+1. [男人的快乐有多简单](https://www.zhihu.com/search?q=男人的快乐有多简单)
 1. [火箭vs独行侠](https://www.zhihu.com/search?q=火箭vs独行侠)
 1. [太阳vs火箭](https://www.zhihu.com/search?q=太阳vs火箭)
 1. [写西幻该如何避免写成中式西幻](https://www.zhihu.com/search?q=写西幻该如何避免写成中式西幻)
