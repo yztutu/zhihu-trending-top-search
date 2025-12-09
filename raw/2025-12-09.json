@@ -1,10 +1,8 @@
 [
   {
-    "query": "中俄两军组织实施联合空中战略巡航",
-    "display_query": "中俄两军组织实施联合空中战略巡航"
+    "query": "与你的相遇本就命中注定",
+    "display_query": "与你的相遇本就命中注定"
   },
-  { "query": "F1", "display_query": "F1" },
-  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   { "query": "省考", "display_query": "省考" },
   { "query": "尖叫之夜", "display_query": "尖叫之夜" },
   { "query": "勇士vs骑士", "display_query": "勇士vs骑士" },
@@ -17,6 +15,12 @@
   },
   { "query": "维斯塔潘杆位", "display_query": "维斯塔潘杆位" },
   { "query": "如何评价电视剧金婚", "display_query": "如何评价电视剧金婚" },
+  {
+    "query": "中俄两军组织实施联合空中战略巡航",
+    "display_query": "中俄两军组织实施联合空中战略巡航"
+  },
+  { "query": "F1", "display_query": "F1" },
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   { "query": "日本地震", "display_query": "日本地震" },
   {
     "query": "孙悟空为什么要菩萨的三根救命毫毛",
