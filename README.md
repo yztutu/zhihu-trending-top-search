@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 11 2025 01:16:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 11 2025 02:21:46 GMT+0800 (China Standard Time) -->
 
 1. [什么样的人算是中了基因彩票](https://www.zhihu.com/search?q=什么样的人算是中了基因彩票)
 1. [创业板指涨逾1%](https://www.zhihu.com/search?q=创业板指涨逾1%)
