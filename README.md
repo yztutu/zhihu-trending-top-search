@@ -15,12 +15,16 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 10 2025 18:16:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 10 2025 19:13:08 GMT+0800 (China Standard Time) -->
 
 1. [中俄两军组织实施联合空中战略巡航](https://www.zhihu.com/search?q=中俄两军组织实施联合空中战略巡航)
 1. [什么样的人算是中了基因彩票](https://www.zhihu.com/search?q=什么样的人算是中了基因彩票)
 1. [勇士vs骑士](https://www.zhihu.com/search?q=勇士vs骑士)
+1. [创业板指涨逾1%](https://www.zhihu.com/search?q=创业板指涨逾1%)
 1. [男人的快乐有多简单](https://www.zhihu.com/search?q=男人的快乐有多简单)
+1. [尼克斯vs猛龙](https://www.zhihu.com/search?q=尼克斯vs猛龙)
+1. [泡馍为什么走不出西安](https://www.zhihu.com/search?q=泡馍为什么走不出西安)
+1. [大家都是怎么驯服狸花猫的](https://www.zhihu.com/search?q=大家都是怎么驯服狸花猫的)
 1. [你给孩子最大的托底是什么](https://www.zhihu.com/search?q=你给孩子最大的托底是什么)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
 1. [如何看待健身锻炼到最后一身伤病](https://www.zhihu.com/search?q=如何看待健身锻炼到最后一身伤病)
