@@ -1,12 +1,9 @@
 [
   {
-    "query": "护眼灯出厂价与中标价差5倍",
-    "display_query": "护眼灯出厂价与中标价差5倍"
+    "query": "中俄两军组织实施联合空中战略巡航",
+    "display_query": "中俄两军组织实施联合空中战略巡航"
   },
-  {
-    "query": "为什么没有一进制计算机",
-    "display_query": "为什么没有一进制计算机"
-  },
+  { "query": "省考", "display_query": "省考" },
   { "query": "勇士vs骑士", "display_query": "勇士vs骑士" },
   { "query": "男人的快乐有多简单", "display_query": "男人的快乐有多简单" },
   {
@@ -28,8 +25,11 @@
   },
   { "query": "今晚下调油价", "display_query": "今晚下调油价" },
   {
-    "query": "中俄两军组织实施联合空中战略巡航",
-    "display_query": "中俄两军组织实施联合空中战略巡航"
+    "query": "护眼灯出厂价与中标价差5倍",
+    "display_query": "护眼灯出厂价与中标价差5倍"
   },
-  { "query": "省考", "display_query": "省考" }
+  {
+    "query": "为什么没有一进制计算机",
+    "display_query": "为什么没有一进制计算机"
+  }
 ]
