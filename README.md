@@ -15,11 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 11 2025 13:17:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 11 2025 14:23:27 GMT+0800 (China Standard Time) -->
 
 1. [导师会翻看你的朋友圈吗](https://www.zhihu.com/search?q=导师会翻看你的朋友圈吗)
 1. [什么样的人算是中了基因彩票](https://www.zhihu.com/search?q=什么样的人算是中了基因彩票)
-1. [美联储降息25个基点](https://www.zhihu.com/search?q=美联储降息25个基点)
 1. [创业板指涨逾1%](https://www.zhihu.com/search?q=创业板指涨逾1%)
 1. [男人的快乐有多简单](https://www.zhihu.com/search?q=男人的快乐有多简单)
 1. [尼克斯vs猛龙](https://www.zhihu.com/search?q=尼克斯vs猛龙)
@@ -28,6 +27,7 @@
 1. [你给孩子最大的托底是什么](https://www.zhihu.com/search?q=你给孩子最大的托底是什么)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
 1. [如何看待健身锻炼到最后一身伤病](https://www.zhihu.com/search?q=如何看待健身锻炼到最后一身伤病)
+1. [美联储降息25个基点](https://www.zhihu.com/search?q=美联储降息25个基点)
 1. [人在什么情况下成长的最快](https://www.zhihu.com/search?q=人在什么情况下成长的最快)
 
 <!-- END -->
