@@ -1,8 +1,10 @@
 [
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   {
     "query": "导师会翻看你的朋友圈吗",
     "display_query": "导师会翻看你的朋友圈吗"
   },
+  { "query": "皇马vs曼城", "display_query": "皇马vs曼城" },
   {
     "query": "什么样的人算是中了基因彩票",
     "display_query": "什么样的人算是中了基因彩票"
