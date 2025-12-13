@@ -1,9 +1,9 @@
 [
-  { "query": "四六级考试", "display_query": "四六级考试" },
   {
-    "query": "导师会翻看你的朋友圈吗",
-    "display_query": "导师会翻看你的朋友圈吗"
+    "query": "数十人在上海老宅挖银元",
+    "display_query": "数十人在上海老宅挖银元"
   },
+  { "query": "甜食真的能改善情绪吗", "display_query": "甜食真的能改善情绪吗" },
   { "query": "四级作文", "display_query": "四级作文" },
   {
     "query": "什么样的人算是中了基因彩票",
@@ -23,6 +23,11 @@
   {
     "query": "为什么中国在很多领域都要求自主研发",
     "display_query": "为什么中国在很多领域都要求自主研发"
+  },
+  { "query": "四六级考试", "display_query": "四六级考试" },
+  {
+    "query": "导师会翻看你的朋友圈吗",
+    "display_query": "导师会翻看你的朋友圈吗"
   },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" }
 ]
