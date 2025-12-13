@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 13 2025 21:21:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 13 2025 22:12:15 GMT+0800 (China Standard Time) -->
 
-1. [数十人在上海老宅挖银元](https://www.zhihu.com/search?q=数十人在上海老宅挖银元)
-1. [甜食真的能改善情绪吗](https://www.zhihu.com/search?q=甜食真的能改善情绪吗)
+1. [四六级考试](https://www.zhihu.com/search?q=四六级考试)
+1. [导师会翻看你的朋友圈吗](https://www.zhihu.com/search?q=导师会翻看你的朋友圈吗)
 1. [四级作文](https://www.zhihu.com/search?q=四级作文)
 1. [什么样的人算是中了基因彩票](https://www.zhihu.com/search?q=什么样的人算是中了基因彩票)
 1. [美联储降息25个基点](https://www.zhihu.com/search?q=美联储降息25个基点)
@@ -27,8 +27,8 @@
 1. [光伏真的不行了吗](https://www.zhihu.com/search?q=光伏真的不行了吗)
 1. [你给孩子最大的托底是什么](https://www.zhihu.com/search?q=你给孩子最大的托底是什么)
 1. [为什么中国在很多领域都要求自主研发](https://www.zhihu.com/search?q=为什么中国在很多领域都要求自主研发)
-1. [四六级考试](https://www.zhihu.com/search?q=四六级考试)
-1. [导师会翻看你的朋友圈吗](https://www.zhihu.com/search?q=导师会翻看你的朋友圈吗)
+1. [数十人在上海老宅挖银元](https://www.zhihu.com/search?q=数十人在上海老宅挖银元)
+1. [甜食真的能改善情绪吗](https://www.zhihu.com/search?q=甜食真的能改善情绪吗)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
 
 <!-- END -->
