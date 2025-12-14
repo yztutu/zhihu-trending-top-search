@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 15 2025 06:12:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 15 2025 07:12:31 GMT+0800 (China Standard Time) -->
 
 1. [四级作文](https://www.zhihu.com/search?q=四级作文)
 1. [王楚钦 vs 莫雷加德](https://www.zhihu.com/search?q=王楚钦 vs 莫雷加德)
@@ -27,6 +27,7 @@
 1. [用东方树叶养茶菌当宠物](https://www.zhihu.com/search?q=用东方树叶养茶菌当宠物)
 1. [OpenAI 正式发布 GPT-5.2](https://www.zhihu.com/search?q=OpenAI 正式发布
    GPT-5.2)
+1. [全国首家现代骑手学院成立](https://www.zhihu.com/search?q=全国首家现代骑手学院成立)
 1. [日本发生 6.8 级地震](https://www.zhihu.com/search?q=日本发生 6.8 级地震)
 1. [蜜雪冰城卖早餐被吐槽有点贵](https://www.zhihu.com/search?q=蜜雪冰城卖早餐被吐槽有点贵)
 
