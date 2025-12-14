@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 14 2025 06:12:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 14 2025 09:13:50 GMT+0800 (China Standard Time) -->
 
 1. [四六级考试](https://www.zhihu.com/search?q=四六级考试)
 1. [四级作文](https://www.zhihu.com/search?q=四级作文)
