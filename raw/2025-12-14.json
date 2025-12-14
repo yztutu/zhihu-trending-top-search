@@ -5,7 +5,6 @@
     "query": "哪些演员的表演可以称为教科书式的演技",
     "display_query": "哪些演员的表演可以称为教科书式的演技"
   },
-  { "query": "孙颖莎vs王艺迪", "display_query": "孙颖莎vs王艺迪" },
   { "query": "光伏真的不行了吗", "display_query": "光伏真的不行了吗" },
   {
     "query": "你给孩子最大的托底是什么",
@@ -28,5 +27,6 @@
     "query": "人在什么情况下成长的最快",
     "display_query": "人在什么情况下成长的最快"
   },
+  { "query": "孙颖莎vs王艺迪", "display_query": "孙颖莎vs王艺迪" },
   { "query": "四六级考试", "display_query": "四六级考试" }
 ]
