@@ -1,9 +1,6 @@
 [
-  { "query": "我国已进入拉尼娜状态", "display_query": "我国已进入拉尼娜状态" },
-  {
-    "query": "宁波通报女婴术后离世医疗事件调查进展",
-    "display_query": "宁波通报女婴术后离世医疗事件调查进展"
-  },
+  { "query": "四级作文", "display_query": "四级作文" },
+  { "query": "麦当劳涨价", "display_query": "麦当劳涨价" },
   {
     "query": "哪一刻让你终于意识到了这就是命",
     "display_query": "哪一刻让你终于意识到了这就是命"
@@ -14,21 +11,25 @@
   },
   { "query": "王楚钦 vs 莫雷加德", "display_query": "王楚钦 vs 莫雷加德" },
   { "query": "泰柬冲突", "display_query": "泰柬冲突" },
+  { "query": "爱你老己 明天见", "display_query": "爱你老己 明天见" },
   {
     "query": "中国贸易顺差首次超1万亿美元",
     "display_query": "中国贸易顺差首次超1万亿美元"
   },
   { "query": "美军扣押委内瑞拉油轮", "display_query": "美军扣押委内瑞拉油轮" },
   {
-    "query": "OpenAI 正式发布 GPT-5.2",
-    "display_query": "OpenAI 正式发布 GPT-5.2"
-  },
-  {
     "query": "护士称电子体温计不准是使用方法不对",
     "display_query": "护士称电子体温计不准是使用方法不对"
   },
-  { "query": "四级作文", "display_query": "四级作文" },
-  { "query": "麦当劳涨价", "display_query": "麦当劳涨价" },
+  { "query": "我国已进入拉尼娜状态", "display_query": "我国已进入拉尼娜状态" },
+  {
+    "query": "宁波通报女婴术后离世医疗事件调查进展",
+    "display_query": "宁波通报女婴术后离世医疗事件调查进展"
+  },
+  {
+    "query": "OpenAI 正式发布 GPT-5.2",
+    "display_query": "OpenAI 正式发布 GPT-5.2"
+  },
   {
     "query": "4斤黄金凤冠被毁业内称重做20万起",
     "display_query": "4斤黄金凤冠被毁业内称重做20万起"
