@@ -1,5 +1,12 @@
 [
+  {
+    "query": "何晴生前一直拿李雪健给自己打气",
+    "display_query": "何晴生前一直拿李雪健给自己打气"
+  },
+  { "query": "湖人vs太阳", "display_query": "湖人vs太阳" },
+  { "query": "T1夺冠", "display_query": "T1夺冠" },
   { "query": "四级作文", "display_query": "四级作文" },
+  { "query": "麦当劳回应涨价", "display_query": "麦当劳回应涨价" },
   { "query": "麦当劳涨价", "display_query": "麦当劳涨价" },
   {
     "query": "哪一刻让你终于意识到了这就是命",
@@ -10,6 +17,7 @@
     "display_query": "你见过最恶心的邻居是什么样子"
   },
   { "query": "王楚钦 vs 莫雷加德", "display_query": "王楚钦 vs 莫雷加德" },
+  { "query": "勇士vs开拓者", "display_query": "勇士vs开拓者" },
   { "query": "泰柬冲突", "display_query": "泰柬冲突" },
   { "query": "爱你老己 明天见", "display_query": "爱你老己 明天见" },
   {
