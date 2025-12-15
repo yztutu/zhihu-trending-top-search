@@ -1,6 +1,7 @@
 [
   { "query": "四级作文", "display_query": "四级作文" },
   { "query": "王楚钦 vs 莫雷加德", "display_query": "王楚钦 vs 莫雷加德" },
+  { "query": "泰柬冲突", "display_query": "泰柬冲突" },
   {
     "query": "中国贸易顺差首次超1万亿美元",
     "display_query": "中国贸易顺差首次超1万亿美元"
@@ -14,6 +15,10 @@
   {
     "query": "OpenAI 正式发布 GPT-5.2",
     "display_query": "OpenAI 正式发布 GPT-5.2"
+  },
+  {
+    "query": "护士称电子体温计不准是使用方法不对",
+    "display_query": "护士称电子体温计不准是使用方法不对"
   },
   {
     "query": "全国首家现代骑手学院成立",
