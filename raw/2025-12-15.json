@@ -1,12 +1,22 @@
 [
-  { "query": "四级作文", "display_query": "四级作文" },
+  {
+    "query": "4斤黄金凤冠被毁业内称重做20万起",
+    "display_query": "4斤黄金凤冠被毁业内称重做20万起"
+  },
+  {
+    "query": "哪一刻让你终于意识到了这就是命",
+    "display_query": "哪一刻让你终于意识到了这就是命"
+  },
+  {
+    "query": "你见过最恶心的邻居是什么样子",
+    "display_query": "你见过最恶心的邻居是什么样子"
+  },
   { "query": "王楚钦 vs 莫雷加德", "display_query": "王楚钦 vs 莫雷加德" },
   { "query": "泰柬冲突", "display_query": "泰柬冲突" },
   {
     "query": "中国贸易顺差首次超1万亿美元",
     "display_query": "中国贸易顺差首次超1万亿美元"
   },
-  { "query": "《再见爱人 5》第九期", "display_query": "《再见爱人 5》第九期" },
   { "query": "美军扣押委内瑞拉油轮", "display_query": "美军扣押委内瑞拉油轮" },
   {
     "query": "迪士尼对OpenAI进行10亿美元股权投资",
@@ -20,6 +30,8 @@
     "query": "护士称电子体温计不准是使用方法不对",
     "display_query": "护士称电子体温计不准是使用方法不对"
   },
+  { "query": "四级作文", "display_query": "四级作文" },
+  { "query": "《再见爱人 5》第九期", "display_query": "《再见爱人 5》第九期" },
   {
     "query": "全国首家现代骑手学院成立",
     "display_query": "全国首家现代骑手学院成立"
