@@ -1,8 +1,5 @@
 [
-  {
-    "query": "何晴生前一直拿李雪健给自己打气",
-    "display_query": "何晴生前一直拿李雪健给自己打气"
-  },
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   { "query": "湖人vs太阳", "display_query": "湖人vs太阳" },
   { "query": "T1夺冠", "display_query": "T1夺冠" },
   { "query": "四级作文", "display_query": "四级作文" },
@@ -18,6 +15,10 @@
   },
   { "query": "王楚钦 vs 莫雷加德", "display_query": "王楚钦 vs 莫雷加德" },
   { "query": "勇士vs开拓者", "display_query": "勇士vs开拓者" },
+  {
+    "query": "何晴生前一直拿李雪健给自己打气",
+    "display_query": "何晴生前一直拿李雪健给自己打气"
+  },
   { "query": "泰柬冲突", "display_query": "泰柬冲突" },
   { "query": "爱你老己 明天见", "display_query": "爱你老己 明天见" },
   {
