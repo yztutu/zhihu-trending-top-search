@@ -13,6 +13,10 @@
     "query": "你见过最恶心的邻居是什么样子",
     "display_query": "你见过最恶心的邻居是什么样子"
   },
-  { "query": "王楚钦 vs 莫雷加德", "display_query": "王楚钦 vs 莫雷加德" },
-  { "query": "勇士vs开拓者", "display_query": "勇士vs开拓者" }
+  { "query": "勇士vs开拓者", "display_query": "勇士vs开拓者" },
+  {
+    "query": "为什么人不能靠意志力戒毒",
+    "display_query": "为什么人不能靠意志力戒毒"
+  },
+  { "query": "王楚钦 vs 莫雷加德", "display_query": "王楚钦 vs 莫雷加德" }
 ]
