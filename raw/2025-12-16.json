@@ -1,4 +1,5 @@
 [
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   { "query": "湖人vs太阳", "display_query": "湖人vs太阳" },
   { "query": "t1夺冠", "display_query": "t1夺冠" },
   { "query": "世界强化免疫日", "display_query": "世界强化免疫日" },
@@ -36,7 +37,6 @@
     "query": "未「上岸」年轻人转向社工岗",
     "display_query": "未「上岸」年轻人转向社工岗"
   },
-  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   { "query": "T1夺冠", "display_query": "T1夺冠" },
   {
     "query": "为什么人不能靠意志力戒毒",
