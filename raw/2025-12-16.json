@@ -1,9 +1,9 @@
 [
-  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
-  { "query": "湖人vs太阳", "display_query": "湖人vs太阳" },
-  { "query": "T1夺冠", "display_query": "T1夺冠" },
-  { "query": "麦当劳回应涨价", "display_query": "麦当劳回应涨价" },
-  { "query": "麦当劳涨价", "display_query": "麦当劳涨价" },
+  { "query": "笑有新生", "display_query": "笑有新生" },
+  {
+    "query": "《文艺报》专题讨论大文学观",
+    "display_query": "《文艺报》专题讨论大文学观"
+  },
   {
     "query": "哪一刻让你终于意识到了这就是命",
     "display_query": "哪一刻让你终于意识到了这就是命"
@@ -17,6 +17,24 @@
     "display_query": "你干过最牛的一件事是什么"
   },
   { "query": "勇士vs开拓者", "display_query": "勇士vs开拓者" },
+  { "query": "吴秀波被执行6200万", "display_query": "吴秀波被执行6200万" },
+  {
+    "query": "360回应前高管指控周鸿祎财务造假",
+    "display_query": "360回应前高管指控周鸿祎财务造假"
+  },
+  {
+    "query": "科学家用死蚊子口器做 3D 打印喷嘴",
+    "display_query": "科学家用死蚊子口器做 3D 打印喷嘴"
+  },
+  {
+    "query": "未「上岸」年轻人转向社工岗",
+    "display_query": "未「上岸」年轻人转向社工岗"
+  },
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
+  { "query": "湖人vs太阳", "display_query": "湖人vs太阳" },
+  { "query": "T1夺冠", "display_query": "T1夺冠" },
+  { "query": "麦当劳回应涨价", "display_query": "麦当劳回应涨价" },
+  { "query": "麦当劳涨价", "display_query": "麦当劳涨价" },
   {
     "query": "为什么人不能靠意志力戒毒",
     "display_query": "为什么人不能靠意志力戒毒"
