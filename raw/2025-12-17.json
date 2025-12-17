@@ -1,9 +1,6 @@
 [
-  {
-    "query": "有何办法能永久禁止 windows 更新",
-    "display_query": "有何办法能永久禁止 windows 更新"
-  },
-  { "query": "杭州小米交付中心车祸", "display_query": "杭州小米交付中心车祸" },
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
+  { "query": "湖人vs太阳", "display_query": "湖人vs太阳" },
   { "query": "t1夺冠", "display_query": "t1夺冠" },
   { "query": "世界强化免疫日", "display_query": "世界强化免疫日" },
   { "query": "麦当劳涨价", "display_query": "麦当劳涨价" },
@@ -25,13 +22,13 @@
     "display_query": "为什么人不能靠意志力戒毒"
   },
   {
+    "query": "有何办法能永久禁止 windows 更新",
+    "display_query": "有何办法能永久禁止 windows 更新"
+  },
+  { "query": "杭州小米交付中心车祸", "display_query": "杭州小米交付中心车祸" },
+  {
     "query": "西安工商学院「缴费消挂科」是什么情况",
     "display_query": "西安工商学院「缴费消挂科」是什么情况"
   },
-  {
-    "query": "沐曦股份上市高开 568%",
-    "display_query": "沐曦股份上市高开 568%"
-  },
-  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
-  { "query": "湖人vs太阳", "display_query": "湖人vs太阳" }
+  { "query": "沐曦股份上市高开 568%", "display_query": "沐曦股份上市高开 568%" }
 ]
