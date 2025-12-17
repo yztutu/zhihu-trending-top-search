@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 17 2025 09:04:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 17 2025 11:14:45 GMT+0800 (China Standard Time) -->
 
-1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
-1. [湖人vs太阳](https://www.zhihu.com/search?q=湖人vs太阳)
+1. [西安工商学院「缴费消挂科」是什么情况](https://www.zhihu.com/search?q=西安工商学院「缴费消挂科」是什么情况)
+1. [沐曦股份上市高开 568%](https://www.zhihu.com/search?q=沐曦股份上市高开 568%)
 1. [t1夺冠](https://www.zhihu.com/search?q=t1夺冠)
 1. [世界强化免疫日](https://www.zhihu.com/search?q=世界强化免疫日)
 1. [麦当劳涨价](https://www.zhihu.com/search?q=麦当劳涨价)
@@ -27,6 +27,8 @@
 1. [你干过最牛的一件事是什么](https://www.zhihu.com/search?q=你干过最牛的一件事是什么)
 1. [金价又涨了](https://www.zhihu.com/search?q=金价又涨了)
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=为什么人不能靠意志力戒毒)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
+1. [湖人vs太阳](https://www.zhihu.com/search?q=湖人vs太阳)
 
 <!-- END -->
 
