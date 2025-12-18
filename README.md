@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 18 2025 15:17:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 18 2025 16:20:13 GMT+0800 (China Standard Time) -->
 
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [哈工大暖廊](https://www.zhihu.com/search?q=哈工大暖廊)
@@ -26,6 +26,7 @@
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=为什么人不能靠意志力戒毒)
 1. [大家都是怎么驯服狸花猫的](https://www.zhihu.com/search?q=大家都是怎么驯服狸花猫的)
 1. [钱可以成为一个人的底气吗](https://www.zhihu.com/search?q=钱可以成为一个人的底气吗)
+1. [你是如何理解「当时只道是寻常」的](https://www.zhihu.com/search?q=你是如何理解「当时只道是寻常」的)
 1. [你给孩子最大的托底是什么](https://www.zhihu.com/search?q=你给孩子最大的托底是什么)
 1. [麦当劳涨价](https://www.zhihu.com/search?q=麦当劳涨价)
 
