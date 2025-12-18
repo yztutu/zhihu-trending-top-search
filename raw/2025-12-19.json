@@ -1,0 +1,30 @@
+[
+  { "query": "哈工大暖廊", "display_query": "哈工大暖廊" },
+  { "query": "鞠婧祎 丝芭", "display_query": "鞠婧祎 丝芭" },
+  {
+    "query": "你干过最牛的一件事是什么",
+    "display_query": "你干过最牛的一件事是什么"
+  },
+  { "query": "有什么震惊了你的名言", "display_query": "有什么震惊了你的名言" },
+  {
+    "query": "为什么人不能靠意志力戒毒",
+    "display_query": "为什么人不能靠意志力戒毒"
+  },
+  {
+    "query": "大家都是怎么驯服狸花猫的",
+    "display_query": "大家都是怎么驯服狸花猫的"
+  },
+  {
+    "query": "你是如何理解「当时只道是寻常」的",
+    "display_query": "你是如何理解「当时只道是寻常」的"
+  },
+  { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
+  {
+    "query": "如何评价电视剧《新三国》",
+    "display_query": "如何评价电视剧《新三国》"
+  },
+  {
+    "query": "用DeepSeek选股炒股可行吗",
+    "display_query": "用DeepSeek选股炒股可行吗"
+  }
+]
