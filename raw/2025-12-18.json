@@ -1,6 +1,6 @@
 [
   { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
-  { "query": "麦当劳涨价", "display_query": "麦当劳涨价" },
+  { "query": "哈工大暖廊", "display_query": "哈工大暖廊" },
   {
     "query": "哪一刻让你终于意识到了这就是命",
     "display_query": "哪一刻让你终于意识到了这就是命"
@@ -29,5 +29,6 @@
   {
     "query": "你给孩子最大的托底是什么",
     "display_query": "你给孩子最大的托底是什么"
-  }
+  },
+  { "query": "麦当劳涨价", "display_query": "麦当劳涨价" }
 ]
