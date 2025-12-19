@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 19 2025 18:15:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 19 2025 19:12:49 GMT+0800 (China Standard Time) -->
 
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [鞠婧祎 丝芭](https://www.zhihu.com/search?q=鞠婧祎 丝芭)
@@ -26,6 +26,7 @@
 1. [大家都是怎么驯服狸花猫的](https://www.zhihu.com/search?q=大家都是怎么驯服狸花猫的)
 1. [你是如何理解「当时只道是寻常」的](https://www.zhihu.com/search?q=你是如何理解「当时只道是寻常」的)
 1. [你给孩子最大的托底是什么](https://www.zhihu.com/search?q=你给孩子最大的托底是什么)
+1. [2025世界人形机器人运动会](https://www.zhihu.com/search?q=2025世界人形机器人运动会)
 1. [如何通俗解释大数定律](https://www.zhihu.com/search?q=如何通俗解释大数定律)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
 1. [如何评价电视剧《新三国》](https://www.zhihu.com/search?q=如何评价电视剧《新三国》)
