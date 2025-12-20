@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 21 2025 06:12:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 21 2025 07:12:57 GMT+0800 (China Standard Time) -->
 
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [考研政治](https://www.zhihu.com/search?q=考研政治)
