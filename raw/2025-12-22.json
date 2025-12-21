@@ -1,0 +1,24 @@
+[
+  { "query": "考研数学", "display_query": "考研数学" },
+  { "query": "今日冬至", "display_query": "今日冬至" },
+  { "query": "泰柬冲突", "display_query": "泰柬冲突" },
+  {
+    "query": "宁波通报女婴术后离世医疗事件调查进展",
+    "display_query": "宁波通报女婴术后离世医疗事件调查进展"
+  },
+  {
+    "query": "谷歌发布 Gemini 3 Flash",
+    "display_query": "谷歌发布 Gemini 3 Flash"
+  },
+  { "query": "周杰伦代言美团外卖", "display_query": "周杰伦代言美团外卖" },
+  {
+    "query": "阿维塔智驾状态下撞大货车",
+    "display_query": "阿维塔智驾状态下撞大货车"
+  },
+  { "query": "《再见爱人 5》第十期", "display_query": "《再见爱人 5》第十期" },
+  {
+    "query": "OpenAI 被曝正寻求千亿美元融资",
+    "display_query": "OpenAI 被曝正寻求千亿美元融资"
+  },
+  { "query": "新概念英语过时了吗", "display_query": "新概念英语过时了吗" }
+]
