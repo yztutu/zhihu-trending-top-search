@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 21 2025 19:11:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 21 2025 20:26:13 GMT+0800 (China Standard Time) -->
 
-1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
-1. [考研政治](https://www.zhihu.com/search?q=考研政治)
+1. [《西虹市首富》里钱越花越多现实中会有吗](https://www.zhihu.com/search?q=《西虹市首富》里钱越花越多现实中会有吗)
 1. [考研数学](https://www.zhihu.com/search?q=考研数学)
 1. [考研英语](https://www.zhihu.com/search?q=考研英语)
 1. [今日冬至](https://www.zhihu.com/search?q=今日冬至)
@@ -28,6 +27,8 @@
 1. [你是如何理解「当时只道是寻常」的](https://www.zhihu.com/search?q=你是如何理解「当时只道是寻常」的)
 1. [你给孩子最大的托底是什么](https://www.zhihu.com/search?q=你给孩子最大的托底是什么)
 1. [如何通俗解释大数定律](https://www.zhihu.com/search?q=如何通俗解释大数定律)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
+1. [考研政治](https://www.zhihu.com/search?q=考研政治)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
 
 <!-- END -->

@@ -1,6 +1,8 @@
 [
-  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
-  { "query": "考研政治", "display_query": "考研政治" },
+  {
+    "query": "《西虹市首富》里钱越花越多现实中会有吗",
+    "display_query": "《西虹市首富》里钱越花越多现实中会有吗"
+  },
   { "query": "考研数学", "display_query": "考研数学" },
   { "query": "考研英语", "display_query": "考研英语" },
   { "query": "今日冬至", "display_query": "今日冬至" },
@@ -22,5 +24,7 @@
     "display_query": "你给孩子最大的托底是什么"
   },
   { "query": "如何通俗解释大数定律", "display_query": "如何通俗解释大数定律" },
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
+  { "query": "考研政治", "display_query": "考研政治" },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" }
 ]
