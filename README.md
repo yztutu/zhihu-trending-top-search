@@ -15,10 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 21 2025 09:13:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 21 2025 11:23:42 GMT+0800 (China Standard Time) -->
 
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [考研政治](https://www.zhihu.com/search?q=考研政治)
+1. [考研数学](https://www.zhihu.com/search?q=考研数学)
 1. [考研英语](https://www.zhihu.com/search?q=考研英语)
 1. [今日冬至](https://www.zhihu.com/search?q=今日冬至)
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=为什么人不能靠意志力戒毒)
