@@ -1,8 +1,5 @@
 [
-  {
-    "query": "中国乒协启动奥运教练竞聘",
-    "display_query": "中国乒协启动奥运教练竞聘"
-  },
+  { "query": "今日冬至", "display_query": "今日冬至" },
   { "query": "有哪些世界地理冷知识", "display_query": "有哪些世界地理冷知识" },
   {
     "query": "生活中你们见过最愚蠢的设计是啥",
@@ -33,8 +30,11 @@
     "query": "OpenAI 被曝正寻求千亿美元融资",
     "display_query": "OpenAI 被曝正寻求千亿美元融资"
   },
+  {
+    "query": "中国乒协启动奥运教练竞聘",
+    "display_query": "中国乒协启动奥运教练竞聘"
+  },
   { "query": "考研数学", "display_query": "考研数学" },
-  { "query": "今日冬至", "display_query": "今日冬至" },
   { "query": "泰柬冲突", "display_query": "泰柬冲突" },
   {
     "query": "谷歌发布 Gemini 3 Flash",

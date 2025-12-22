@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 22 2025 16:21:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 22 2025 17:21:28 GMT+0800 (China Standard Time) -->
 
-1. [中国乒协启动奥运教练竞聘](https://www.zhihu.com/search?q=中国乒协启动奥运教练竞聘)
+1. [今日冬至](https://www.zhihu.com/search?q=今日冬至)
 1. [有哪些世界地理冷知识](https://www.zhihu.com/search?q=有哪些世界地理冷知识)
 1. [生活中你们见过最愚蠢的设计是啥](https://www.zhihu.com/search?q=生活中你们见过最愚蠢的设计是啥)
 1. [中国古代画家为何不追求「画得像」](https://www.zhihu.com/search?q=中国古代画家为何不追求「画得像」)
@@ -28,8 +28,8 @@
 1. [宁波通报女婴术后离世医疗事件调查进展](https://www.zhihu.com/search?q=宁波通报女婴术后离世医疗事件调查进展)
 1. [OpenAI 被曝正寻求千亿美元融资](https://www.zhihu.com/search?q=OpenAI
    被曝正寻求千亿美元融资)
+1. [中国乒协启动奥运教练竞聘](https://www.zhihu.com/search?q=中国乒协启动奥运教练竞聘)
 1. [考研数学](https://www.zhihu.com/search?q=考研数学)
-1. [今日冬至](https://www.zhihu.com/search?q=今日冬至)
 1. [泰柬冲突](https://www.zhihu.com/search?q=泰柬冲突)
 1. [谷歌发布 Gemini 3 Flash](https://www.zhihu.com/search?q=谷歌发布 Gemini 3
    Flash)
