@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 22 2025 09:12:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 22 2025 11:26:31 GMT+0800 (China Standard Time) -->
 
 1. [考研数学](https://www.zhihu.com/search?q=考研数学)
 1. [今日冬至](https://www.zhihu.com/search?q=今日冬至)
@@ -25,10 +25,11 @@
    Flash)
 1. [周杰伦代言美团外卖](https://www.zhihu.com/search?q=周杰伦代言美团外卖)
 1. [阿维塔智驾状态下撞大货车](https://www.zhihu.com/search?q=阿维塔智驾状态下撞大货车)
-1. [《再见爱人 5》第十期](https://www.zhihu.com/search?q=《再见爱人 5》第十期)
 1. [OpenAI 被曝正寻求千亿美元融资](https://www.zhihu.com/search?q=OpenAI
    被曝正寻求千亿美元融资)
 1. [新概念英语过时了吗](https://www.zhihu.com/search?q=新概念英语过时了吗)
+1. [小车刹车失灵狂奔490公里油耗尽才停](https://www.zhihu.com/search?q=小车刹车失灵狂奔490公里油耗尽才停)
+1. [《再见爱人 5》第十期](https://www.zhihu.com/search?q=《再见爱人 5》第十期)
 
 <!-- END -->
 
