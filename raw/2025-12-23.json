@@ -1,6 +1,8 @@
 [
-  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
-  { "query": "考研数学", "display_query": "考研数学" },
+  {
+    "query": "演技封神究竟是个什么水平",
+    "display_query": "演技封神究竟是个什么水平"
+  },
   { "query": "今日冬至", "display_query": "今日冬至" },
   { "query": "有哪些世界地理冷知识", "display_query": "有哪些世界地理冷知识" },
   { "query": "76人vs尼克斯", "display_query": "76人vs尼克斯" },
@@ -11,5 +13,11 @@
     "display_query": "生活中你们见过最愚蠢的设计是啥"
   },
   { "query": "湖人vs快船", "display_query": "湖人vs快船" },
-  { "query": "雄鹿vs森林狼", "display_query": "雄鹿vs森林狼" }
+  { "query": "雄鹿vs森林狼", "display_query": "雄鹿vs森林狼" },
+  {
+    "query": "中国古代画家为何不追求「画得像」",
+    "display_query": "中国古代画家为何不追求「画得像」"
+  },
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
+  { "query": "考研数学", "display_query": "考研数学" }
 ]
