@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 23 2025 18:16:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 23 2025 19:13:13 GMT+0800 (China Standard Time) -->
 
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
+1. [湖人vs太阳](https://www.zhihu.com/search?q=湖人vs太阳)
 1. [考研数学](https://www.zhihu.com/search?q=考研数学)
 1. [今日冬至](https://www.zhihu.com/search?q=今日冬至)
 1. [有哪些瞬间你秒懂了别人的暗示](https://www.zhihu.com/search?q=有哪些瞬间你秒懂了别人的暗示)
