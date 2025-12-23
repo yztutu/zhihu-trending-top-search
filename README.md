@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 23 2025 19:13:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 23 2025 20:29:48 GMT+0800 (China Standard Time) -->
 
-1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
-1. [湖人vs太阳](https://www.zhihu.com/search?q=湖人vs太阳)
+1. [央视曝光旧衣回收产业链内幕](https://www.zhihu.com/search?q=央视曝光旧衣回收产业链内幕)
+1. [央视曝光网红“玫瑰盐”真相](https://www.zhihu.com/search?q=央视曝光网红“玫瑰盐”真相)
 1. [考研数学](https://www.zhihu.com/search?q=考研数学)
 1. [今日冬至](https://www.zhihu.com/search?q=今日冬至)
 1. [有哪些瞬间你秒懂了别人的暗示](https://www.zhihu.com/search?q=有哪些瞬间你秒懂了别人的暗示)
@@ -27,6 +27,8 @@
 1. [曼城vs西汉姆联](https://www.zhihu.com/search?q=曼城vs西汉姆联)
 1. [金价又涨了](https://www.zhihu.com/search?q=金价又涨了)
 1. [生活中你们见过最愚蠢的设计是啥](https://www.zhihu.com/search?q=生活中你们见过最愚蠢的设计是啥)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
+1. [湖人vs太阳](https://www.zhihu.com/search?q=湖人vs太阳)
 1. [湖人vs快船](https://www.zhihu.com/search?q=湖人vs快船)
 1. [演技封神究竟是个什么水平](https://www.zhihu.com/search?q=演技封神究竟是个什么水平)
 1. [雄鹿vs森林狼](https://www.zhihu.com/search?q=雄鹿vs森林狼)

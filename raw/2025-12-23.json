@@ -1,6 +1,12 @@
 [
-  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
-  { "query": "湖人vs太阳", "display_query": "湖人vs太阳" },
+  {
+    "query": "央视曝光旧衣回收产业链内幕",
+    "display_query": "央视曝光旧衣回收产业链内幕"
+  },
+  {
+    "query": "央视曝光网红“玫瑰盐”真相",
+    "display_query": "央视曝光网红“玫瑰盐”真相"
+  },
   { "query": "考研数学", "display_query": "考研数学" },
   { "query": "今日冬至", "display_query": "今日冬至" },
   {
@@ -15,6 +21,8 @@
     "query": "生活中你们见过最愚蠢的设计是啥",
     "display_query": "生活中你们见过最愚蠢的设计是啥"
   },
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
+  { "query": "湖人vs太阳", "display_query": "湖人vs太阳" },
   { "query": "湖人vs快船", "display_query": "湖人vs快船" },
   {
     "query": "演技封神究竟是个什么水平",
