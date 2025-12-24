@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 24 2025 21:27:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 24 2025 22:13:37 GMT+0800 (China Standard Time) -->
 
 1. [湖人vs太阳](https://www.zhihu.com/search?q=湖人vs太阳)
 1. [今日冬至](https://www.zhihu.com/search?q=今日冬至)
