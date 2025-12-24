@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 24 2025 19:13:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 24 2025 20:29:20 GMT+0800 (China Standard Time) -->
 
-1. [湖人vs太阳](https://www.zhihu.com/search?q=湖人vs太阳)
+1. [双轨让人眼前一亮又一亮](https://www.zhihu.com/search?q=双轨让人眼前一亮又一亮)
 1. [今日冬至](https://www.zhihu.com/search?q=今日冬至)
 1. [有哪些瞬间你秒懂了别人的暗示](https://www.zhihu.com/search?q=有哪些瞬间你秒懂了别人的暗示)
 1. [有哪些世界地理冷知识](https://www.zhihu.com/search?q=有哪些世界地理冷知识)
@@ -27,6 +27,7 @@
 1. [中国古代画家为何不追求「画得像」](https://www.zhihu.com/search?q=中国古代画家为何不追求「画得像」)
 1. [结账时发现东西很贵怎么办](https://www.zhihu.com/search?q=结账时发现东西很贵怎么办)
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=为什么人不能靠意志力戒毒)
+1. [湖人vs太阳](https://www.zhihu.com/search?q=湖人vs太阳)
 1. [小型的地级市会有建地铁那天么](https://www.zhihu.com/search?q=小型的地级市会有建地铁那天么)
 
 <!-- END -->

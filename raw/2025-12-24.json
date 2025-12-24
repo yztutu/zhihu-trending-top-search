@@ -1,5 +1,8 @@
 [
-  { "query": "湖人vs太阳", "display_query": "湖人vs太阳" },
+  {
+    "query": "双轨让人眼前一亮又一亮",
+    "display_query": "双轨让人眼前一亮又一亮"
+  },
   { "query": "今日冬至", "display_query": "今日冬至" },
   {
     "query": "有哪些瞬间你秒懂了别人的暗示",
@@ -24,6 +27,7 @@
     "query": "为什么人不能靠意志力戒毒",
     "display_query": "为什么人不能靠意志力戒毒"
   },
+  { "query": "湖人vs太阳", "display_query": "湖人vs太阳" },
   {
     "query": "小型的地级市会有建地铁那天么",
     "display_query": "小型的地级市会有建地铁那天么"
