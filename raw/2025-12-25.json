@@ -1,5 +1,5 @@
 [
-  { "query": "考研数学", "display_query": "考研数学" },
+  { "query": "广东把冬至过成夏至", "display_query": "广东把冬至过成夏至" },
   { "query": "今日冬至", "display_query": "今日冬至" },
   {
     "query": "有哪些瞬间你秒懂了别人的暗示",
@@ -30,6 +30,7 @@
     "query": "为何现在的成年人都没有大人的感觉",
     "display_query": "为何现在的成年人都没有大人的感觉"
   },
+  { "query": "考研数学", "display_query": "考研数学" },
   {
     "query": "你觉得学英语最大的阻碍是什么",
     "display_query": "你觉得学英语最大的阻碍是什么"
