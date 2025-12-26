@@ -3,6 +3,8 @@
     "query": "有哪些瞬间你秒懂了别人的暗示",
     "display_query": "有哪些瞬间你秒懂了别人的暗示"
   },
+  { "query": "森林狼vs掘金", "display_query": "森林狼vs掘金" },
+  { "query": "茅台价格全线上涨", "display_query": "茅台价格全线上涨" },
   {
     "query": "你见过哪些不动声色的善良",
     "display_query": "你见过哪些不动声色的善良"
@@ -16,9 +18,14 @@
     "display_query": "为何现在的成年人都没有大人的感觉"
   },
   {
+    "query": "钱可以成为一个人的底气吗",
+    "display_query": "钱可以成为一个人的底气吗"
+  },
+  {
     "query": "你给孩子最大的托底是什么",
     "display_query": "你给孩子最大的托底是什么"
   },
+  { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
   {
     "query": "最顶级的情绪价值是什么",
     "display_query": "最顶级的情绪价值是什么"
