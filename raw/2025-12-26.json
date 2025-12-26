@@ -1,8 +1,9 @@
 [
   {
-    "query": "什么性格的人能在职场中混的好",
-    "display_query": "什么性格的人能在职场中混的好"
+    "query": "有哪些瞬间你秒懂了别人的暗示",
+    "display_query": "有哪些瞬间你秒懂了别人的暗示"
   },
+  { "query": "森林狼vs掘金", "display_query": "森林狼vs掘金" },
   { "query": "茅台价格全线上涨", "display_query": "茅台价格全线上涨" },
   {
     "query": "你见过哪些不动声色的善良",
@@ -30,14 +31,13 @@
     "display_query": "最顶级的情绪价值是什么"
   },
   {
+    "query": "什么性格的人能在职场中混的好",
+    "display_query": "什么性格的人能在职场中混的好"
+  },
+  {
     "query": "明白什么道理后你就不再焦虑了",
     "display_query": "明白什么道理后你就不再焦虑了"
   },
-  {
-    "query": "有哪些瞬间你秒懂了别人的暗示",
-    "display_query": "有哪些瞬间你秒懂了别人的暗示"
-  },
-  { "query": "森林狼vs掘金", "display_query": "森林狼vs掘金" },
   {
     "query": "人在什么情况下成长的最快",
     "display_query": "人在什么情况下成长的最快"
