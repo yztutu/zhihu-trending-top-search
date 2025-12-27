@@ -1,12 +1,6 @@
 [
-  {
-    "query": "对于普通人而言幸福是什么",
-    "display_query": "对于普通人而言幸福是什么"
-  },
-  {
-    "query": "医院回应阚清子生产信息泄露",
-    "display_query": "医院回应阚清子生产信息泄露"
-  },
+  { "query": "森林狼vs掘金", "display_query": "森林狼vs掘金" },
+  { "query": "茅台价格全线上涨", "display_query": "茅台价格全线上涨" },
   {
     "query": "为什么人不能靠意志力戒毒",
     "display_query": "为什么人不能靠意志力戒毒"
@@ -33,8 +27,14 @@
     "display_query": "什么家庭能养出松弛感的孩子"
   },
   { "query": "投资者最稀缺的是什么", "display_query": "投资者最稀缺的是什么" },
-  { "query": "森林狼vs掘金", "display_query": "森林狼vs掘金" },
-  { "query": "茅台价格全线上涨", "display_query": "茅台价格全线上涨" },
+  {
+    "query": "对于普通人而言幸福是什么",
+    "display_query": "对于普通人而言幸福是什么"
+  },
+  {
+    "query": "医院回应阚清子生产信息泄露",
+    "display_query": "医院回应阚清子生产信息泄露"
+  },
   {
     "query": "什么行为极大改善了你的心理健康",
     "display_query": "什么行为极大改善了你的心理健康"
