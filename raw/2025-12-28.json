@@ -1,12 +1,15 @@
 [
-  { "query": "福建震感", "display_query": "福建震感" },
-  { "query": "泉州震感", "display_query": "泉州震感" },
-  { "query": "森林狼vs掘金", "display_query": "森林狼vs掘金" },
-  { "query": "茅台价格全线上涨", "display_query": "茅台价格全线上涨" },
+  {
+    "query": "如何评价鸣潮新角色琳奈",
+    "display_query": "如何评价鸣潮新角色琳奈"
+  },
   {
     "query": "为什么人不能靠意志力戒毒",
     "display_query": "为什么人不能靠意志力戒毒"
   },
+  { "query": "森林狼vs掘金", "display_query": "森林狼vs掘金" },
+  { "query": "茅台价格全线上涨", "display_query": "茅台价格全线上涨" },
+  { "query": "公粮是农业税吗", "display_query": "公粮是农业税吗" },
   {
     "query": "钱可以成为一个人的底气吗",
     "display_query": "钱可以成为一个人的底气吗"
@@ -23,5 +26,7 @@
   {
     "query": "什么家庭能养出松弛感的孩子",
     "display_query": "什么家庭能养出松弛感的孩子"
-  }
+  },
+  { "query": "福建震感", "display_query": "福建震感" },
+  { "query": "泉州震感", "display_query": "泉州震感" }
 ]
