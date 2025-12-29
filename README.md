@@ -15,19 +15,26 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 29 2025 09:14:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 29 2025 11:42:51 GMT+0800 (China Standard Time) -->
 
-1. [深圳大学乒超女团夺冠](https://www.zhihu.com/search?q=深圳大学乒超女团夺冠)
 1. [字节120名员工因触犯红线被辞](https://www.zhihu.com/search?q=字节120名员工因触犯红线被辞)
+1. [深圳大学乒超女团夺冠](https://www.zhihu.com/search?q=深圳大学乒超女团夺冠)
+1. [日本知名巨头川崎重工承认造假](https://www.zhihu.com/search?q=日本知名巨头川崎重工承认造假)
+1. [霸王茶姬咖啡因含量遭质疑](https://www.zhihu.com/search?q=霸王茶姬咖啡因含量遭质疑)
+1. [同事总说我有「学生思维」](https://www.zhihu.com/search?q=同事总说我有「学生思维」)
+1. [央视曝光韩束两款面膜检出违禁
+   EGF](https://www.zhihu.com/search?q=央视曝光韩束两款面膜检出违禁 EGF)
+1. [全世界都在围堵隐藏式门把手](https://www.zhihu.com/search?q=全世界都在围堵隐藏式门把手)
+1. [王者万象棋开启冬季测试](https://www.zhihu.com/search?q=王者万象棋开启冬季测试)
+1. [ 赵永坡接任魏牌CEO](https://www.zhihu.com/search?q= 赵永坡接任魏牌CEO)
+1. [魏牌人事动荡](https://www.zhihu.com/search?q=魏牌人事动荡)
 1. [女演员自曝被粉丝跟踪 6
    年](https://www.zhihu.com/search?q=女演员自曝被粉丝跟踪 6 年)
-1. [霸王茶姬咖啡因含量遭质疑](https://www.zhihu.com/search?q=霸王茶姬咖啡因含量遭质疑)
 1. [1 岁宝宝误食紫草油病危](https://www.zhihu.com/search?q=1
    岁宝宝误食紫草油病危)
 1. [《飞驰人生 3》定档](https://www.zhihu.com/search?q=《飞驰人生 3》定档)
 1. [杨毅孟铎西热等直播 CBA
    杯带货](https://www.zhihu.com/search?q=杨毅孟铎西热等直播 CBA 杯带货)
-1. [同事总说我有「学生思维」](https://www.zhihu.com/search?q=同事总说我有「学生思维」)
 1. [苹果首款折叠 iPhone
    渲染视频曝光](https://www.zhihu.com/search?q=苹果首款折叠 iPhone
    渲染视频曝光)

@@ -1,16 +1,38 @@
 [
-  { "query": "深圳大学乒超女团夺冠", "display_query": "深圳大学乒超女团夺冠" },
   {
     "query": "字节120名员工因触犯红线被辞",
     "display_query": "字节120名员工因触犯红线被辞"
   },
+  { "query": "深圳大学乒超女团夺冠", "display_query": "深圳大学乒超女团夺冠" },
   {
-    "query": "女演员自曝被粉丝跟踪 6 年",
-    "display_query": "女演员自曝被粉丝跟踪 6 年"
+    "query": "日本知名巨头川崎重工承认造假",
+    "display_query": "日本知名巨头川崎重工承认造假"
   },
   {
     "query": "霸王茶姬咖啡因含量遭质疑",
     "display_query": "霸王茶姬咖啡因含量遭质疑"
+  },
+  {
+    "query": "同事总说我有「学生思维」",
+    "display_query": "同事总说我有「学生思维」"
+  },
+  {
+    "query": "央视曝光韩束两款面膜检出违禁 EGF",
+    "display_query": "央视曝光韩束两款面膜检出违禁 EGF"
+  },
+  {
+    "query": "全世界都在围堵隐藏式门把手",
+    "display_query": "全世界都在围堵隐藏式门把手"
+  },
+  {
+    "query": "王者万象棋开启冬季测试",
+    "display_query": "王者万象棋开启冬季测试"
+  },
+  { "query": " 赵永坡接任魏牌CEO", "display_query": " 赵永坡接任魏牌CEO" },
+  { "query": "魏牌人事动荡", "display_query": "魏牌人事动荡" },
+  {
+    "query": "女演员自曝被粉丝跟踪 6 年",
+    "display_query": "女演员自曝被粉丝跟踪 6 年"
   },
   {
     "query": "1 岁宝宝误食紫草油病危",
@@ -20,10 +42,6 @@
   {
     "query": "杨毅孟铎西热等直播 CBA 杯带货",
     "display_query": "杨毅孟铎西热等直播 CBA 杯带货"
-  },
-  {
-    "query": "同事总说我有「学生思维」",
-    "display_query": "同事总说我有「学生思维」"
   },
   {
     "query": "苹果首款折叠 iPhone 渲染视频曝光",
