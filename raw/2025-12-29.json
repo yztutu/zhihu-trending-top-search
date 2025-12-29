@@ -1,14 +1,8 @@
 [
-  { "query": "福建震感", "display_query": "福建震感" },
-  { "query": "泉州震感", "display_query": "泉州震感" },
   { "query": "深圳大学乒超女团夺冠", "display_query": "深圳大学乒超女团夺冠" },
   {
     "query": "字节120名员工因触犯红线被辞",
     "display_query": "字节120名员工因触犯红线被辞"
-  },
-  {
-    "query": "高血压没有症状就不用吃药是真的吗",
-    "display_query": "高血压没有症状就不用吃药是真的吗"
   },
   {
     "query": "女演员自曝被粉丝跟踪 6 年",
@@ -26,5 +20,23 @@
   {
     "query": "杨毅孟铎西热等直播 CBA 杯带货",
     "display_query": "杨毅孟铎西热等直播 CBA 杯带货"
+  },
+  {
+    "query": "同事总说我有「学生思维」",
+    "display_query": "同事总说我有「学生思维」"
+  },
+  {
+    "query": "苹果首款折叠 iPhone 渲染视频曝光",
+    "display_query": "苹果首款折叠 iPhone 渲染视频曝光"
+  },
+  {
+    "query": "L3 级自动驾驶上路通行",
+    "display_query": "L3 级自动驾驶上路通行"
+  },
+  { "query": "福建震感", "display_query": "福建震感" },
+  { "query": "泉州震感", "display_query": "泉州震感" },
+  {
+    "query": "高血压没有症状就不用吃药是真的吗",
+    "display_query": "高血压没有症状就不用吃药是真的吗"
   }
 ]
