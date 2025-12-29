@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 29 2025 14:25:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 29 2025 15:20:42 GMT+0800 (China Standard Time) -->
 
 1. [深圳大学乒超女团夺冠](https://www.zhihu.com/search?q=深圳大学乒超女团夺冠)
-1. [字节120名员工因触犯红线被辞](https://www.zhihu.com/search?q=字节120名员工因触犯红线被辞)
 1. [霸王茶姬咖啡因含量遭质疑](https://www.zhihu.com/search?q=霸王茶姬咖啡因含量遭质疑)
 1. [同事总说我有「学生思维」](https://www.zhihu.com/search?q=同事总说我有「学生思维」)
 1. [央视曝光韩束两款面膜检出违禁
@@ -30,11 +29,12 @@
 1. [浙江多地高额补贴专科生](https://www.zhihu.com/search?q=浙江多地高额补贴专科生)
 1. [男子每天穿破损羽绒服确诊「羽绒肺」](https://www.zhihu.com/search?q=男子每天穿破损羽绒服确诊「羽绒肺」)
 1. [欣旺达子公司因电芯质量被起诉](https://www.zhihu.com/search?q=欣旺达子公司因电芯质量被起诉)
+1. [女子发现接触两根手指能调整呼吸](https://www.zhihu.com/search?q=女子发现接触两根手指能调整呼吸)
+1. [字节120名员工因触犯红线被辞](https://www.zhihu.com/search?q=字节120名员工因触犯红线被辞)
 1. [汽车高速耗尽电量 2
    人推车被撞身亡](https://www.zhihu.com/search?q=汽车高速耗尽电量 2
    人推车被撞身亡)
 1. [「成都女子家门口被害案」抗诉申请未通过](https://www.zhihu.com/search?q=「成都女子家门口被害案」抗诉申请未通过)
-1. [女子发现接触两根手指能调整呼吸](https://www.zhihu.com/search?q=女子发现接触两根手指能调整呼吸)
 1. [日本知名巨头川崎重工承认造假](https://www.zhihu.com/search?q=日本知名巨头川崎重工承认造假)
 1. [全世界都在围堵隐藏式门把手](https://www.zhihu.com/search?q=全世界都在围堵隐藏式门把手)
 1. [王者万象棋开启冬季测试](https://www.zhihu.com/search?q=王者万象棋开启冬季测试)
