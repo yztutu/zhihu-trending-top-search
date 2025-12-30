@@ -1,9 +1,5 @@
 [
-  {
-    "query": "「老舅」里为什么让舅妈下线",
-    "display_query": "「老舅」里为什么让舅妈下线"
-  },
-  { "query": "下周上四休三", "display_query": "下周上四休三" },
+  { "query": "深圳大学乒超女团夺冠", "display_query": "深圳大学乒超女团夺冠" },
   { "query": "跨年朋友圈文案", "display_query": "跨年朋友圈文案" },
   { "query": "沪指8连阳", "display_query": "沪指8连阳" },
   {
@@ -24,11 +20,15 @@
     "query": "钱可以成为一个人的底气吗",
     "display_query": "钱可以成为一个人的底气吗"
   },
-  { "query": "深圳大学乒超女团夺冠", "display_query": "深圳大学乒超女团夺冠" },
   {
     "query": "你给孩子最大的托底是什么",
     "display_query": "你给孩子最大的托底是什么"
   },
+  {
+    "query": "「老舅」里为什么让舅妈下线",
+    "display_query": "「老舅」里为什么让舅妈下线"
+  },
+  { "query": "下周上四休三", "display_query": "下周上四休三" },
   { "query": "现在就出发第三季收官", "display_query": "现在就出发第三季收官" },
   {
     "query": "只要在吃药就千万别吃这种水果",
