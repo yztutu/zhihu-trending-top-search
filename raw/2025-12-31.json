@@ -1,6 +1,5 @@
 [
   { "query": "湖人vs活塞", "display_query": "湖人vs活塞" },
-  { "query": "深圳大学乒超女团夺冠", "display_query": "深圳大学乒超女团夺冠" },
   { "query": "跨年晚会", "display_query": "跨年晚会" },
   { "query": "央视跨年晚会", "display_query": "央视跨年晚会" },
   { "query": "跨年朋友圈文案", "display_query": "跨年朋友圈文案" },
@@ -18,14 +17,15 @@
     "display_query": "为什么人不能靠意志力戒毒"
   },
   { "query": "C919还能成批生产吗", "display_query": "C919还能成批生产吗" },
+  {
+    "query": "你觉得学英语最大的阻碍是什么",
+    "display_query": "你觉得学英语最大的阻碍是什么"
+  },
+  { "query": "深圳大学乒超女团夺冠", "display_query": "深圳大学乒超女团夺冠" },
   { "query": "孩子最让你暖心的瞬间", "display_query": "孩子最让你暖心的瞬间" },
   {
     "query": "人类永远都无法离开KBC空洞吗",
     "display_query": "人类永远都无法离开KBC空洞吗"
-  },
-  {
-    "query": "你觉得学英语最大的阻碍是什么",
-    "display_query": "你觉得学英语最大的阻碍是什么"
   },
   {
     "query": "大家提升自己最快的方式是什么",
