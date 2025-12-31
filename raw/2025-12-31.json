@@ -1,6 +1,8 @@
 [
-  { "query": "深圳大学乒超女团夺冠", "display_query": "深圳大学乒超女团夺冠" },
-  { "query": "跨年晚会", "display_query": "跨年晚会" },
+  {
+    "query": "与同事关系不好是否要彻底翻脸",
+    "display_query": "与同事关系不好是否要彻底翻脸"
+  },
   { "query": "央视跨年晚会", "display_query": "央视跨年晚会" },
   { "query": "跨年朋友圈文案", "display_query": "跨年朋友圈文案" },
   {
@@ -19,6 +21,8 @@
   },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
   { "query": "学好语文的关键是什么", "display_query": "学好语文的关键是什么" },
+  { "query": "深圳大学乒超女团夺冠", "display_query": "深圳大学乒超女团夺冠" },
+  { "query": "跨年晚会", "display_query": "跨年晚会" },
   {
     "query": "最顶级的情绪价值是什么",
     "display_query": "最顶级的情绪价值是什么"
