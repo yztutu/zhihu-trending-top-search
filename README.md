@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 01 2026 09:16:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 01 2026 11:44:28 GMT+0800 (China Standard Time) -->
 
-1. [湖人vs活塞](https://www.zhihu.com/search?q=湖人vs活塞)
-1. [跨年晚会](https://www.zhihu.com/search?q=跨年晚会)
+1. [李诞吐槽南极：伙食不如泡面企鹅臭](https://www.zhihu.com/search?q=李诞吐槽南极：伙食不如泡面企鹅臭)
+1. [火箭力克步行者](https://www.zhihu.com/search?q=火箭力克步行者)
 1. [央视跨年晚会](https://www.zhihu.com/search?q=央视跨年晚会)
 1. [一个人最大的底气来自哪里](https://www.zhihu.com/search?q=一个人最大的底气来自哪里)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=为什么现在不创造新的汉字了)
@@ -27,6 +27,8 @@
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919还能成批生产吗)
 1. [你给孩子最大的托底是什么](https://www.zhihu.com/search?q=你给孩子最大的托底是什么)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
+1. [湖人vs活塞](https://www.zhihu.com/search?q=湖人vs活塞)
+1. [跨年晚会](https://www.zhihu.com/search?q=跨年晚会)
 
 <!-- END -->
 
