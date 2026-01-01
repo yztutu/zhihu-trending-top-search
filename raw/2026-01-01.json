@@ -10,7 +10,6 @@
     "query": "为什么现在不创造新的汉字了",
     "display_query": "为什么现在不创造新的汉字了"
   },
-  { "query": "A股行情", "display_query": "A股行情" },
   {
     "query": "为什么人不能靠意志力戒毒",
     "display_query": "为什么人不能靠意志力戒毒"
@@ -21,6 +20,11 @@
     "display_query": "你给孩子最大的托底是什么"
   },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
+  {
+    "query": "最顶级的情绪价值是什么",
+    "display_query": "最顶级的情绪价值是什么"
+  },
+  { "query": "A股行情", "display_query": "A股行情" },
   {
     "query": "李诞吐槽南极：伙食不如泡面企鹅臭",
     "display_query": "李诞吐槽南极：伙食不如泡面企鹅臭"
