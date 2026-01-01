@@ -1,9 +1,6 @@
 [
-  {
-    "query": "李诞吐槽南极：伙食不如泡面企鹅臭",
-    "display_query": "李诞吐槽南极：伙食不如泡面企鹅臭"
-  },
-  { "query": "火箭力克步行者", "display_query": "火箭力克步行者" },
+  { "query": "湖人vs活塞", "display_query": "湖人vs活塞" },
+  { "query": "跨年晚会", "display_query": "跨年晚会" },
   { "query": "央视跨年晚会", "display_query": "央视跨年晚会" },
   {
     "query": "一个人最大的底气来自哪里",
@@ -24,6 +21,9 @@
     "display_query": "你给孩子最大的托底是什么"
   },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
-  { "query": "湖人vs活塞", "display_query": "湖人vs活塞" },
-  { "query": "跨年晚会", "display_query": "跨年晚会" }
+  {
+    "query": "李诞吐槽南极：伙食不如泡面企鹅臭",
+    "display_query": "李诞吐槽南极：伙食不如泡面企鹅臭"
+  },
+  { "query": "火箭力克步行者", "display_query": "火箭力克步行者" }
 ]
