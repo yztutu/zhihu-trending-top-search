@@ -15,11 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 02 2026 19:13:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 02 2026 20:28:16 GMT+0800 (China Standard Time) -->
 
 1. [湖人vs活塞](https://www.zhihu.com/search?q=湖人vs活塞)
-1. [跨年晚会](https://www.zhihu.com/search?q=跨年晚会)
-1. [央视跨年晚会](https://www.zhihu.com/search?q=央视跨年晚会)
 1. [一个人最大的底气来自哪里](https://www.zhihu.com/search?q=一个人最大的底气来自哪里)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=为什么现在不创造新的汉字了)
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=为什么人不能靠意志力戒毒)
@@ -27,6 +25,10 @@
 1. [你给孩子最大的托底是什么](https://www.zhihu.com/search?q=你给孩子最大的托底是什么)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
 1. [最顶级的情绪价值是什么](https://www.zhihu.com/search?q=最顶级的情绪价值是什么)
+1. [明白什么道理后你就不再焦虑了](https://www.zhihu.com/search?q=明白什么道理后你就不再焦虑了)
+1. [人在什么情况下成长的最快](https://www.zhihu.com/search?q=人在什么情况下成长的最快)
+1. [跨年晚会](https://www.zhihu.com/search?q=跨年晚会)
+1. [央视跨年晚会](https://www.zhihu.com/search?q=央视跨年晚会)
 
 <!-- END -->
 
