@@ -1,8 +1,6 @@
 [
-  {
-    "query": "手术把大脑拿出来还能放回去吗",
-    "display_query": "手术把大脑拿出来还能放回去吗"
-  },
+  { "query": "超级月亮", "display_query": "超级月亮" },
+  { "query": "湖人vs活塞", "display_query": "湖人vs活塞" },
   {
     "query": "一个人最大的底气来自哪里",
     "display_query": "一个人最大的底气来自哪里"
@@ -30,11 +28,13 @@
     "display_query": "明白什么道理后你就不再焦虑了"
   },
   {
+    "query": "手术把大脑拿出来还能放回去吗",
+    "display_query": "手术把大脑拿出来还能放回去吗"
+  },
+  {
     "query": "人在什么情况下成长的最快",
     "display_query": "人在什么情况下成长的最快"
   },
-  { "query": "超级月亮", "display_query": "超级月亮" },
-  { "query": "湖人vs活塞", "display_query": "湖人vs活塞" },
   { "query": "万向钱潮涨停", "display_query": "万向钱潮涨停" },
   { "query": "知乎年度盘点", "display_query": "知乎年度盘点" },
   { "query": "宇宙闪烁请注意", "display_query": "宇宙闪烁请注意" }
