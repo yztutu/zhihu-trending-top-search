@@ -1,6 +1,9 @@
 [
-  { "query": "万向钱潮涨停", "display_query": "万向钱潮涨停" },
-  { "query": "知乎年度盘点", "display_query": "知乎年度盘点" },
+  { "query": "湖人vs活塞", "display_query": "湖人vs活塞" },
+  {
+    "query": "一个人最大的底气来自哪里",
+    "display_query": "一个人最大的底气来自哪里"
+  },
   {
     "query": "为什么现在不创造新的汉字了",
     "display_query": "为什么现在不创造新的汉字了"
@@ -23,14 +26,11 @@
     "query": "明白什么道理后你就不再焦虑了",
     "display_query": "明白什么道理后你就不再焦虑了"
   },
-  { "query": "宇宙闪烁请注意", "display_query": "宇宙闪烁请注意" },
-  { "query": "湖人vs活塞", "display_query": "湖人vs活塞" },
-  {
-    "query": "一个人最大的底气来自哪里",
-    "display_query": "一个人最大的底气来自哪里"
-  },
   {
     "query": "人在什么情况下成长的最快",
     "display_query": "人在什么情况下成长的最快"
-  }
+  },
+  { "query": "万向钱潮涨停", "display_query": "万向钱潮涨停" },
+  { "query": "知乎年度盘点", "display_query": "知乎年度盘点" },
+  { "query": "宇宙闪烁请注意", "display_query": "宇宙闪烁请注意" }
 ]
