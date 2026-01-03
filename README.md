@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jan 03 2026 19:11:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jan 03 2026 20:26:51 GMT+0800 (China Standard Time) -->
 
-1. [超级月亮](https://www.zhihu.com/search?q=超级月亮)
-1. [湖人vs活塞](https://www.zhihu.com/search?q=湖人vs活塞)
+1. [手术把大脑拿出来还能放回去吗](https://www.zhihu.com/search?q=手术把大脑拿出来还能放回去吗)
 1. [一个人最大的底气来自哪里](https://www.zhihu.com/search?q=一个人最大的底气来自哪里)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=为什么现在不创造新的汉字了)
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=为什么人不能靠意志力戒毒)
@@ -28,6 +27,8 @@
 1. [最顶级的情绪价值是什么](https://www.zhihu.com/search?q=最顶级的情绪价值是什么)
 1. [明白什么道理后你就不再焦虑了](https://www.zhihu.com/search?q=明白什么道理后你就不再焦虑了)
 1. [人在什么情况下成长的最快](https://www.zhihu.com/search?q=人在什么情况下成长的最快)
+1. [超级月亮](https://www.zhihu.com/search?q=超级月亮)
+1. [湖人vs活塞](https://www.zhihu.com/search?q=湖人vs活塞)
 1. [万向钱潮涨停](https://www.zhihu.com/search?q=万向钱潮涨停)
 1. [知乎年度盘点](https://www.zhihu.com/search?q=知乎年度盘点)
 1. [宇宙闪烁请注意](https://www.zhihu.com/search?q=宇宙闪烁请注意)
