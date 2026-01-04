@@ -1,0 +1,18 @@
+[
+  { "query": "上海春考", "display_query": "上海春考" },
+  { "query": "元旦假期最后一天", "display_query": "元旦假期最后一天" },
+  { "query": "超级月亮", "display_query": "超级月亮" },
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
+  {
+    "query": "一个人最大的底气来自哪里",
+    "display_query": "一个人最大的底气来自哪里"
+  },
+  { "query": "76人vs尼克斯", "display_query": "76人vs尼克斯" },
+  {
+    "query": "为什么现在不创造新的汉字了",
+    "display_query": "为什么现在不创造新的汉字了"
+  },
+  { "query": "雷霆vs勇士", "display_query": "雷霆vs勇士" },
+  { "query": "公司倒闭前有什么征兆", "display_query": "公司倒闭前有什么征兆" },
+  { "query": "灰熊vs湖人", "display_query": "灰熊vs湖人" }
+]
