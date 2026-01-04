@@ -1,4 +1,9 @@
 [
+  { "query": "上海春考", "display_query": "上海春考" },
+  { "query": "元旦假期最后一天", "display_query": "元旦假期最后一天" },
+  { "query": "超级月亮", "display_query": "超级月亮" },
+  { "query": "雷霆vs勇士", "display_query": "雷霆vs勇士" },
+  { "query": "灰熊vs湖人", "display_query": "灰熊vs湖人" },
   { "query": "知乎个人年度报告", "display_query": "知乎个人年度报告" },
   { "query": "知乎年度盘点", "display_query": "知乎年度盘点" },
   { "query": "知乎年终盘点", "display_query": "知乎年终盘点" },
@@ -25,6 +30,5 @@
   {
     "query": "特斯拉丢掉全球电车销冠王座",
     "display_query": "特斯拉丢掉全球电车销冠王座"
-  },
-  { "query": "超级月亮", "display_query": "超级月亮" }
+  }
 ]

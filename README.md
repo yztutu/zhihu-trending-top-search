@@ -15,8 +15,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 04 2026 14:22:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 04 2026 15:16:05 GMT+0800 (China Standard Time) -->
 
+1. [上海春考](https://www.zhihu.com/search?q=上海春考)
+1. [元旦假期最后一天](https://www.zhihu.com/search?q=元旦假期最后一天)
+1. [超级月亮](https://www.zhihu.com/search?q=超级月亮)
+1. [雷霆vs勇士](https://www.zhihu.com/search?q=雷霆vs勇士)
+1. [灰熊vs湖人](https://www.zhihu.com/search?q=灰熊vs湖人)
 1. [知乎个人年度报告](https://www.zhihu.com/search?q=知乎个人年度报告)
 1. [知乎年度盘点](https://www.zhihu.com/search?q=知乎年度盘点)
 1. [知乎年终盘点](https://www.zhihu.com/search?q=知乎年终盘点)
@@ -33,7 +38,6 @@
 1. [《再见爱人 5》第十二期](https://www.zhihu.com/search?q=《再见爱人
    5》第十二期)
 1. [特斯拉丢掉全球电车销冠王座](https://www.zhihu.com/search?q=特斯拉丢掉全球电车销冠王座)
-1. [超级月亮](https://www.zhihu.com/search?q=超级月亮)
 
 <!-- END -->
 
