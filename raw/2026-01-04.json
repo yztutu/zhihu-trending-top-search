@@ -1,21 +1,29 @@
 [
-  { "query": "faker获青龙勋章", "display_query": "faker获青龙勋章" },
   {
-    "query": "《再见爱人 5》第十二期",
-    "display_query": "《再见爱人 5》第十二期"
+    "query": "护士晒男友帮忙贴药瓶标签写报告",
+    "display_query": "护士晒男友帮忙贴药瓶标签写报告"
+  },
+  {
+    "query": "茅台1499元直销成黄牛噩梦",
+    "display_query": "茅台1499元直销成黄牛噩梦"
   },
   { "query": "知乎个人年度报告", "display_query": "知乎个人年度报告" },
-  {
-    "query": "特斯拉丢掉全球电车销冠王座",
-    "display_query": "特斯拉丢掉全球电车销冠王座"
-  },
+  { "query": "知乎年度盘点", "display_query": "知乎年度盘点" },
   { "query": "知乎年终盘点", "display_query": "知乎年终盘点" },
   { "query": "知乎2025年度盘点", "display_query": "知乎2025年度盘点" },
   { "query": "到底什么是真的", "display_query": "到底什么是真的" },
   { "query": "2025年终小问", "display_query": "2025年终小问" },
   { "query": "知乎年度视频", "display_query": "知乎年度视频" },
+  { "query": "年度报告", "display_query": "年度报告" },
+  { "query": "faker获青龙勋章", "display_query": "faker获青龙勋章" },
+  {
+    "query": "《再见爱人 5》第十二期",
+    "display_query": "《再见爱人 5》第十二期"
+  },
+  {
+    "query": "特斯拉丢掉全球电车销冠王座",
+    "display_query": "特斯拉丢掉全球电车销冠王座"
+  },
   { "query": "2025知乎年度视频", "display_query": "2025知乎年度视频" },
-  { "query": "超级月亮", "display_query": "超级月亮" },
-  { "query": "知乎年度盘点", "display_query": "知乎年度盘点" },
-  { "query": "年度报告", "display_query": "年度报告" }
+  { "query": "超级月亮", "display_query": "超级月亮" }
 ]
