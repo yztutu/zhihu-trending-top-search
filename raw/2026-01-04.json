@@ -1,12 +1,6 @@
 [
-  {
-    "query": "比亚迪超越特斯拉成全球电车销冠",
-    "display_query": "比亚迪超越特斯拉成全球电车销冠"
-  },
-  {
-    "query": "为什么读英语长难句那么辛苦",
-    "display_query": "为什么读英语长难句那么辛苦"
-  },
+  { "query": "上海春考", "display_query": "上海春考" },
+  { "query": "元旦假期最后一天", "display_query": "元旦假期最后一天" },
   { "query": "超级月亮", "display_query": "超级月亮" },
   { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   {
@@ -21,6 +15,14 @@
   { "query": "雷霆vs勇士", "display_query": "雷霆vs勇士" },
   { "query": "公司倒闭前有什么征兆", "display_query": "公司倒闭前有什么征兆" },
   { "query": "灰熊vs湖人", "display_query": "灰熊vs湖人" },
+  {
+    "query": "比亚迪超越特斯拉成全球电车销冠",
+    "display_query": "比亚迪超越特斯拉成全球电车销冠"
+  },
+  {
+    "query": "为什么读英语长难句那么辛苦",
+    "display_query": "为什么读英语长难句那么辛苦"
+  },
   { "query": "暖阳fmvp", "display_query": "暖阳fmvp" },
   { "query": "知乎年度视频", "display_query": "知乎年度视频" },
   { "query": "知乎个人年度报告", "display_query": "知乎个人年度报告" },
@@ -28,8 +30,6 @@
   { "query": "知乎年终盘点", "display_query": "知乎年终盘点" },
   { "query": "知乎2025年度盘点", "display_query": "知乎2025年度盘点" },
   { "query": "到底什么是真的", "display_query": "到底什么是真的" },
-  { "query": "上海春考", "display_query": "上海春考" },
-  { "query": "元旦假期最后一天", "display_query": "元旦假期最后一天" },
   { "query": "2025年终小问", "display_query": "2025年终小问" },
   { "query": "2025知乎年度视频", "display_query": "2025知乎年度视频" },
   { "query": "年度报告", "display_query": "年度报告" },
