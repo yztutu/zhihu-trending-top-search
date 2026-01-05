@@ -1,9 +1,6 @@
 [
-  {
-    "query": "年轻人把“梗”做成一门新生意",
-    "display_query": "年轻人把“梗”做成一门新生意"
-  },
-  { "query": "黛玉是否有性格缺陷", "display_query": "黛玉是否有性格缺陷" },
+  { "query": "上海春考", "display_query": "上海春考" },
+  { "query": "元旦假期最后一天", "display_query": "元旦假期最后一天" },
   { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   {
     "query": "一个人最大的底气来自哪里",
@@ -22,6 +19,11 @@
     "display_query": "为什么读英语长难句那么辛苦"
   },
   {
+    "query": "年轻人把“梗”做成一门新生意",
+    "display_query": "年轻人把“梗”做成一门新生意"
+  },
+  { "query": "黛玉是否有性格缺陷", "display_query": "黛玉是否有性格缺陷" },
+  {
     "query": "为什么人不能靠意志力戒毒",
     "display_query": "为什么人不能靠意志力戒毒"
   },
@@ -29,8 +31,6 @@
   { "query": "2026首个超级月亮", "display_query": "2026首个超级月亮" },
   { "query": "佘诗曼四封TVB视后", "display_query": "佘诗曼四封TVB视后" },
   { "query": "灰熊vs湖人", "display_query": "灰熊vs湖人" },
-  { "query": "上海春考", "display_query": "上海春考" },
-  { "query": "元旦假期最后一天", "display_query": "元旦假期最后一天" },
   { "query": "超级月亮", "display_query": "超级月亮" },
   {
     "query": "切尔西主帅马雷斯卡离任",
