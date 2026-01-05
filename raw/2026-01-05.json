@@ -1,4 +1,6 @@
 [
+  { "query": "上海春考", "display_query": "上海春考" },
+  { "query": "元旦假期最后一天", "display_query": "元旦假期最后一天" },
   {
     "query": "一个人最大的底气来自哪里",
     "display_query": "一个人最大的底气来自哪里"
@@ -24,8 +26,6 @@
     "query": "为什么有很多人连基本的常识都没有",
     "display_query": "为什么有很多人连基本的常识都没有"
   },
-  { "query": "上海春考", "display_query": "上海春考" },
-  { "query": "元旦假期最后一天", "display_query": "元旦假期最后一天" },
   { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   {
     "query": "为什么现在不创造新的汉字了",
