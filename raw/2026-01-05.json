@@ -1,6 +1,4 @@
 [
-  { "query": "2026首个超级月亮", "display_query": "2026首个超级月亮" },
-  { "query": "佘诗曼四封TVB视后", "display_query": "佘诗曼四封TVB视后" },
   { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   {
     "query": "一个人最大的底气来自哪里",
@@ -13,8 +11,19 @@
   },
   { "query": "雷霆vs勇士", "display_query": "雷霆vs勇士" },
   { "query": "公司倒闭前有什么征兆", "display_query": "公司倒闭前有什么征兆" },
-  { "query": "灰熊vs湖人", "display_query": "灰熊vs湖人" },
   { "query": "哪些演员演什么像什么", "display_query": "哪些演员演什么像什么" },
+  {
+    "query": "为什么读英语长难句那么辛苦",
+    "display_query": "为什么读英语长难句那么辛苦"
+  },
+  {
+    "query": "为什么人不能靠意志力戒毒",
+    "display_query": "为什么人不能靠意志力戒毒"
+  },
+  { "query": "C919还能成批生产吗", "display_query": "C919还能成批生产吗" },
+  { "query": "2026首个超级月亮", "display_query": "2026首个超级月亮" },
+  { "query": "佘诗曼四封TVB视后", "display_query": "佘诗曼四封TVB视后" },
+  { "query": "灰熊vs湖人", "display_query": "灰熊vs湖人" },
   { "query": "上海春考", "display_query": "上海春考" },
   { "query": "元旦假期最后一天", "display_query": "元旦假期最后一天" },
   { "query": "超级月亮", "display_query": "超级月亮" },
