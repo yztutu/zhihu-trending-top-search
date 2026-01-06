@@ -1,8 +1,7 @@
 [
-  { "query": "哪些演员演什么像什么", "display_query": "哪些演员演什么像什么" },
   {
-    "query": "为什么有很多人连基本的常识都没有",
-    "display_query": "为什么有很多人连基本的常识都没有"
+    "query": "雄霸为什么一定要杀掉风云",
+    "display_query": "雄霸为什么一定要杀掉风云"
   },
   { "query": "知乎个人年度报告", "display_query": "知乎个人年度报告" },
   { "query": "知乎年度盘点", "display_query": "知乎年度盘点" },
@@ -11,5 +10,11 @@
   { "query": "到底什么是真的", "display_query": "到底什么是真的" },
   { "query": "2025年终小问", "display_query": "2025年终小问" },
   { "query": "知乎年度视频", "display_query": "知乎年度视频" },
-  { "query": "2025知乎年度视频", "display_query": "2025知乎年度视频" }
+  { "query": "2025知乎年度视频", "display_query": "2025知乎年度视频" },
+  { "query": "年度报告", "display_query": "年度报告" },
+  { "query": "哪些演员演什么像什么", "display_query": "哪些演员演什么像什么" },
+  {
+    "query": "为什么有很多人连基本的常识都没有",
+    "display_query": "为什么有很多人连基本的常识都没有"
+  }
 ]
