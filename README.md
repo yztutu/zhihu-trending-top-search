@@ -15,20 +15,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 06 2026 11:23:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 06 2026 12:33:43 GMT+0800 (China Standard Time) -->
 
-1. [雄霸为什么一定要杀掉风云](https://www.zhihu.com/search?q=雄霸为什么一定要杀掉风云)
+1. [有哪些瞬间你秒懂了别人的暗示](https://www.zhihu.com/search?q=有哪些瞬间你秒懂了别人的暗示)
+1. [哪些演员演什么像什么](https://www.zhihu.com/search?q=哪些演员演什么像什么)
+1. [为什么有很多人连基本的常识都没有](https://www.zhihu.com/search?q=为什么有很多人连基本的常识都没有)
+1. [怎么在 40 岁成为副厅](https://www.zhihu.com/search?q=怎么在 40 岁成为副厅)
 1. [知乎个人年度报告](https://www.zhihu.com/search?q=知乎个人年度报告)
 1. [知乎年度盘点](https://www.zhihu.com/search?q=知乎年度盘点)
 1. [知乎年终盘点](https://www.zhihu.com/search?q=知乎年终盘点)
 1. [知乎2025年度盘点](https://www.zhihu.com/search?q=知乎2025年度盘点)
 1. [到底什么是真的](https://www.zhihu.com/search?q=到底什么是真的)
 1. [2025年终小问](https://www.zhihu.com/search?q=2025年终小问)
+1. [雄霸为什么一定要杀掉风云](https://www.zhihu.com/search?q=雄霸为什么一定要杀掉风云)
 1. [知乎年度视频](https://www.zhihu.com/search?q=知乎年度视频)
 1. [2025知乎年度视频](https://www.zhihu.com/search?q=2025知乎年度视频)
 1. [年度报告](https://www.zhihu.com/search?q=年度报告)
-1. [哪些演员演什么像什么](https://www.zhihu.com/search?q=哪些演员演什么像什么)
-1. [为什么有很多人连基本的常识都没有](https://www.zhihu.com/search?q=为什么有很多人连基本的常识都没有)
 
 <!-- END -->
 
