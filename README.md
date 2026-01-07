@@ -15,12 +15,15 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 07 2026 11:23:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 07 2026 12:34:35 GMT+0800 (China Standard Time) -->
 
 1. [箱根驿传](https://www.zhihu.com/search?q=箱根驿传)
 1. [有哪些瞬间你秒懂了别人的暗示](https://www.zhihu.com/search?q=有哪些瞬间你秒懂了别人的暗示)
+1. [哪个角色小时候讨厌长大就理解了](https://www.zhihu.com/search?q=哪个角色小时候讨厌长大就理解了)
 1. [哪些演员演什么像什么](https://www.zhihu.com/search?q=哪些演员演什么像什么)
+1. [如何看待大量水库改名为湖](https://www.zhihu.com/search?q=如何看待大量水库改名为湖)
 1. [为什么有很多人连基本的常识都没有](https://www.zhihu.com/search?q=为什么有很多人连基本的常识都没有)
+1. [巴菲特为什么清仓了比亚迪](https://www.zhihu.com/search?q=巴菲特为什么清仓了比亚迪)
 1. [怎么在 40 岁成为副厅](https://www.zhihu.com/search?q=怎么在 40 岁成为副厅)
 1. [知乎个人年度报告](https://www.zhihu.com/search?q=知乎个人年度报告)
 1. [知乎年度盘点](https://www.zhihu.com/search?q=知乎年度盘点)
