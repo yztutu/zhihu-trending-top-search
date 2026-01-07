@@ -10,21 +10,21 @@
   },
   { "query": "哪些演员演什么像什么", "display_query": "哪些演员演什么像什么" },
   {
-    "query": "如何看待大量水库改名为湖",
-    "display_query": "如何看待大量水库改名为湖"
-  },
-  {
     "query": "为什么有很多人连基本的常识都没有",
     "display_query": "为什么有很多人连基本的常识都没有"
-  },
-  {
-    "query": "巴菲特为什么清仓了比亚迪",
-    "display_query": "巴菲特为什么清仓了比亚迪"
   },
   { "query": "怎么在 40 岁成为副厅", "display_query": "怎么在 40 岁成为副厅" },
   { "query": "知乎个人年度报告", "display_query": "知乎个人年度报告" },
   { "query": "知乎年度盘点", "display_query": "知乎年度盘点" },
   { "query": "知乎年终盘点", "display_query": "知乎年终盘点" },
   { "query": "知乎2025年度盘点", "display_query": "知乎2025年度盘点" },
+  {
+    "query": "如何看待大量水库改名为湖",
+    "display_query": "如何看待大量水库改名为湖"
+  },
+  {
+    "query": "巴菲特为什么清仓了比亚迪",
+    "display_query": "巴菲特为什么清仓了比亚迪"
+  },
   { "query": "到底什么是真的", "display_query": "到底什么是真的" }
 ]
