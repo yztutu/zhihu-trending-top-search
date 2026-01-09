@@ -1,4 +1,9 @@
 [
+  { "query": "湖人vs鹈鹕", "display_query": "湖人vs鹈鹕" },
+  {
+    "query": "有哪些瞬间你秒懂了别人的暗示",
+    "display_query": "有哪些瞬间你秒懂了别人的暗示"
+  },
   {
     "query": "哪个角色小时候讨厌长大就理解了",
     "display_query": "哪个角色小时候讨厌长大就理解了"
@@ -29,10 +34,5 @@
   {
     "query": "人在什么情况下成长的最快",
     "display_query": "人在什么情况下成长的最快"
-  },
-  { "query": "湖人vs鹈鹕", "display_query": "湖人vs鹈鹕" },
-  {
-    "query": "有哪些瞬间你秒懂了别人的暗示",
-    "display_query": "有哪些瞬间你秒懂了别人的暗示"
   }
 ]

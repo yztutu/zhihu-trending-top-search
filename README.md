@@ -15,8 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 09 2026 07:13:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 09 2026 09:12:05 GMT+0800 (China Standard Time) -->
 
+1. [湖人vs鹈鹕](https://www.zhihu.com/search?q=湖人vs鹈鹕)
+1. [有哪些瞬间你秒懂了别人的暗示](https://www.zhihu.com/search?q=有哪些瞬间你秒懂了别人的暗示)
 1. [哪个角色小时候讨厌长大就理解了](https://www.zhihu.com/search?q=哪个角色小时候讨厌长大就理解了)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=为什么现在不创造新的汉字了)
 1. [火箭vs开拓者](https://www.zhihu.com/search?q=火箭vs开拓者)
@@ -27,8 +29,6 @@
 1. [最顶级的情绪价值是什么](https://www.zhihu.com/search?q=最顶级的情绪价值是什么)
 1. [明白什么道理后你就不再焦虑了](https://www.zhihu.com/search?q=明白什么道理后你就不再焦虑了)
 1. [人在什么情况下成长的最快](https://www.zhihu.com/search?q=人在什么情况下成长的最快)
-1. [湖人vs鹈鹕](https://www.zhihu.com/search?q=湖人vs鹈鹕)
-1. [有哪些瞬间你秒懂了别人的暗示](https://www.zhihu.com/search?q=有哪些瞬间你秒懂了别人的暗示)
 
 <!-- END -->
 
