@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 12 2026 15:21:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 12 2026 16:22:56 GMT+0800 (China Standard Time) -->
 
-1. [为什么优秀员工往往最先离职](https://www.zhihu.com/search?q=为什么优秀员工往往最先离职)
+1. [陈幸同 4-0 蒯曼](https://www.zhihu.com/search?q=陈幸同 4-0 蒯曼)
+1. [爬楼扫地机](https://www.zhihu.com/search?q=爬楼扫地机)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=为什么现在不创造新的汉字了)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=为什么在中国邮箱不流行)
 1. [巴萨vs皇马](https://www.zhihu.com/search?q=巴萨vs皇马)
@@ -26,6 +27,7 @@
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
 1. [上汽为什么需要华为](https://www.zhihu.com/search?q=上汽为什么需要华为)
 1. [最顶级的情绪价值是什么](https://www.zhihu.com/search?q=最顶级的情绪价值是什么)
+1. [为什么优秀员工往往最先离职](https://www.zhihu.com/search?q=为什么优秀员工往往最先离职)
 1. [邓布利多为什么要让海格成为老师](https://www.zhihu.com/search?q=邓布利多为什么要让海格成为老师)
 1. [小区因收不齐物业费46部电梯全停运](https://www.zhihu.com/search?q=小区因收不齐物业费46部电梯全停运)
 1. [美军强掳马杜罗](https://www.zhihu.com/search?q=美军强掳马杜罗)
