@@ -1,11 +1,25 @@
 [
+  { "query": "美军强掳马杜罗", "display_query": "美军强掳马杜罗" },
+  { "query": "美国活捉马杜罗细节", "display_query": "美国活捉马杜罗细节" },
+  { "query": "CES2026", "display_query": "CES2026" },
+  { "query": "上知乎，看 CES", "display_query": "上知乎，看 CES" },
+  { "query": "无孔不入的 AI", "display_query": "无孔不入的 AI" },
+  { "query": "2026，AI 落地元年", "display_query": "2026，AI 落地元年" },
+  {
+    "query": "CES 见证「智能体」觉醒",
+    "display_query": "CES 见证「智能体」觉醒"
+  },
+  {
+    "query": "当所有硬件都拥有「大脑」",
+    "display_query": "当所有硬件都拥有「大脑」"
+  },
+  { "query": "AI告别炫技，回归生活", "display_query": "AI告别炫技，回归生活" },
+  { "query": "CES 2026 神预测", "display_query": "CES 2026 神预测" },
   {
     "query": "美军空袭委内瑞拉首都加拉加斯",
     "display_query": "美军空袭委内瑞拉首都加拉加斯"
   },
-  { "query": "美军强掳马杜罗", "display_query": "美军强掳马杜罗" },
   { "query": "委内瑞拉发生了什么", "display_query": "委内瑞拉发生了什么" },
-  { "query": "美国活捉马杜罗细节", "display_query": "美国活捉马杜罗细节" },
   {
     "query": "美军150多架飞机参与马杜罗抓捕",
     "display_query": "美军150多架飞机参与马杜罗抓捕"
@@ -17,8 +31,5 @@
   {
     "query": "委内瑞拉防空力量为何形同虚设",
     "display_query": "委内瑞拉防空力量为何形同虚设"
-  },
-  { "query": "CES2026", "display_query": "CES2026" },
-  { "query": "上知乎，看 CES", "display_query": "上知乎，看 CES" },
-  { "query": "无孔不入的 AI", "display_query": "无孔不入的 AI" }
+  }
 ]
