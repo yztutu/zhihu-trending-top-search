@@ -1,5 +1,8 @@
 [
-  { "query": "国乒国羽为何后继乏力", "display_query": "国乒国羽为何后继乏力" },
+  {
+    "query": "为什么在中国邮箱不流行",
+    "display_query": "为什么在中国邮箱不流行"
+  },
   {
     "query": "黎曼猜想为什么难以解决",
     "display_query": "黎曼猜想为什么难以解决"
@@ -14,10 +17,6 @@
     "query": "人在什么情况下成长的最快",
     "display_query": "人在什么情况下成长的最快"
   },
-  {
-    "query": "谷歌 Gemini 将接管苹果 Siri 大脑",
-    "display_query": "谷歌 Gemini 将接管苹果 Siri 大脑"
-  },
   { "query": "如何成为逻辑清晰的人", "display_query": "如何成为逻辑清晰的人" },
   {
     "query": "普通家庭对孩子最好的托举是什么",
@@ -26,5 +25,14 @@
   {
     "query": "什么家庭能养出松弛感的孩子",
     "display_query": "什么家庭能养出松弛感的孩子"
+  },
+  {
+    "query": "提升自己最快的方式是什么",
+    "display_query": "提升自己最快的方式是什么"
+  },
+  { "query": "国乒国羽为何后继乏力", "display_query": "国乒国羽为何后继乏力" },
+  {
+    "query": "谷歌 Gemini 将接管苹果 Siri 大脑",
+    "display_query": "谷歌 Gemini 将接管苹果 Siri 大脑"
   }
 ]
