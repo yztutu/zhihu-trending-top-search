@@ -1,4 +1,5 @@
 [
+  { "query": "国考成绩", "display_query": "国考成绩" },
   {
     "query": "为什么在中国邮箱不流行",
     "display_query": "为什么在中国邮箱不流行"
