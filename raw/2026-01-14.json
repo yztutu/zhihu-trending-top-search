@@ -4,12 +4,17 @@
     "query": "为什么在中国邮箱不流行",
     "display_query": "为什么在中国邮箱不流行"
   },
+  { "query": "掘金vs鹈鹕", "display_query": "掘金vs鹈鹕" },
   {
     "query": "黎曼猜想为什么难以解决",
     "display_query": "黎曼猜想为什么难以解决"
   },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
   { "query": "上汽为什么需要华为", "display_query": "上汽为什么需要华为" },
+  {
+    "query": "邓布利多为什么要让海格成为老师",
+    "display_query": "邓布利多为什么要让海格成为老师"
+  },
   {
     "query": "普通家庭怎么带孩子见世面",
     "display_query": "普通家庭怎么带孩子见世面"
