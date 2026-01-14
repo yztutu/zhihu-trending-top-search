@@ -1,0 +1,30 @@
+[
+  { "query": "国考成绩公布", "display_query": "国考成绩公布" },
+  { "query": "国考成绩", "display_query": "国考成绩" },
+  { "query": "掘金vs鹈鹕", "display_query": "掘金vs鹈鹕" },
+  { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
+  {
+    "query": "邓布利多为什么要让海格成为老师",
+    "display_query": "邓布利多为什么要让海格成为老师"
+  },
+  {
+    "query": "普通家庭怎么带孩子见世面",
+    "display_query": "普通家庭怎么带孩子见世面"
+  },
+  {
+    "query": "人在什么情况下成长的最快",
+    "display_query": "人在什么情况下成长的最快"
+  },
+  {
+    "query": "普通家庭对孩子最好的托举是什么",
+    "display_query": "普通家庭对孩子最好的托举是什么"
+  },
+  {
+    "query": "什么家庭能养出松弛感的孩子",
+    "display_query": "什么家庭能养出松弛感的孩子"
+  },
+  {
+    "query": "提升自己最快的方式是什么",
+    "display_query": "提升自己最快的方式是什么"
+  }
+]
