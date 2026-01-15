@@ -1,7 +1,11 @@
 [
-  { "query": "国考成绩公布", "display_query": "国考成绩公布" },
+  {
+    "query": "你认为文学需要批判性思维吗",
+    "display_query": "你认为文学需要批判性思维吗"
+  },
   { "query": "国考成绩", "display_query": "国考成绩" },
   { "query": "国考分数线公布", "display_query": "国考分数线公布" },
+  { "query": "降息", "display_query": "降息" },
   { "query": "WBG对战IG", "display_query": "WBG对战IG" },
   { "query": "TES对战JDG", "display_query": "TES对战JDG" },
   { "query": "掘金vs鹈鹕", "display_query": "掘金vs鹈鹕" },
@@ -14,6 +18,7 @@
     "query": "普通家庭怎么带孩子见世面",
     "display_query": "普通家庭怎么带孩子见世面"
   },
+  { "query": "国考成绩公布", "display_query": "国考成绩公布" },
   {
     "query": "人在什么情况下成长的最快",
     "display_query": "人在什么情况下成长的最快"
