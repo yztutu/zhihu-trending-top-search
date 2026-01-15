@@ -1,5 +1,9 @@
 [
-  { "query": "国考成绩公布", "display_query": "国考成绩公布" },
+  { "query": "星链可以取代5G吗", "display_query": "星链可以取代5G吗" },
+  {
+    "query": "蔡依林台北演唱会亏损超7千万",
+    "display_query": "蔡依林台北演唱会亏损超7千万"
+  },
   { "query": "国考成绩", "display_query": "国考成绩" },
   { "query": "国考分数线公布", "display_query": "国考分数线公布" },
   { "query": "降息", "display_query": "降息" },
@@ -11,6 +15,7 @@
     "query": "邓布利多为什么要让海格成为老师",
     "display_query": "邓布利多为什么要让海格成为老师"
   },
+  { "query": "国考成绩公布", "display_query": "国考成绩公布" },
   {
     "query": "普通家庭怎么带孩子见世面",
     "display_query": "普通家庭怎么带孩子见世面"
