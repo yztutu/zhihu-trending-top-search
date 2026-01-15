@@ -2,6 +2,8 @@
   { "query": "国考成绩公布", "display_query": "国考成绩公布" },
   { "query": "国考成绩", "display_query": "国考成绩" },
   { "query": "国考分数线公布", "display_query": "国考分数线公布" },
+  { "query": "WBG对战IG", "display_query": "WBG对战IG" },
+  { "query": "TES对战JDG", "display_query": "TES对战JDG" },
   { "query": "掘金vs鹈鹕", "display_query": "掘金vs鹈鹕" },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
   {
