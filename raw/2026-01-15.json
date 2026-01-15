@@ -1,6 +1,7 @@
 [
-  { "query": "国考成绩公布", "display_query": "国考成绩公布" },
+  { "query": "死了么 App 爆火", "display_query": "死了么 App 爆火" },
   { "query": "国考成绩", "display_query": "国考成绩" },
+  { "query": "国考分数线公布", "display_query": "国考分数线公布" },
   { "query": "掘金vs鹈鹕", "display_query": "掘金vs鹈鹕" },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
   {
@@ -23,6 +24,7 @@
     "query": "什么家庭能养出松弛感的孩子",
     "display_query": "什么家庭能养出松弛感的孩子"
   },
+  { "query": "国考成绩公布", "display_query": "国考成绩公布" },
   {
     "query": "提升自己最快的方式是什么",
     "display_query": "提升自己最快的方式是什么"
