@@ -3,11 +3,8 @@
     "query": "U23国足首次晋级亚洲杯8强",
     "display_query": "U23国足首次晋级亚洲杯8强"
   },
-  {
-    "query": "原神月之四少女值得抽吗",
-    "display_query": "原神月之四少女值得抽吗"
-  },
   { "query": "国考分数线公布", "display_query": "国考分数线公布" },
+  { "query": "降息", "display_query": "降息" },
   { "query": "WBG对战IG", "display_query": "WBG对战IG" },
   { "query": "TES对战JDG", "display_query": "TES对战JDG" },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
@@ -21,9 +18,12 @@
     "display_query": "汇报工作时如何做到清晰有条理"
   },
   { "query": "黄金什么时候会大跌", "display_query": "黄金什么时候会大跌" },
+  {
+    "query": "原神月之四少女值得抽吗",
+    "display_query": "原神月之四少女值得抽吗"
+  },
   { "query": "国考成绩公布", "display_query": "国考成绩公布" },
   { "query": "国考成绩", "display_query": "国考成绩" },
-  { "query": "降息", "display_query": "降息" },
   { "query": "特斯拉fsd停售", "display_query": "特斯拉fsd停售" },
   {
     "query": "什么家庭能养出松弛感的孩子",
