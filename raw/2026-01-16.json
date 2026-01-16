@@ -1,5 +1,6 @@
 [
   { "query": "国考成绩公布", "display_query": "国考成绩公布" },
+  { "query": "给动物喝白酒会怎样", "display_query": "给动物喝白酒会怎样" },
   { "query": "国考成绩", "display_query": "国考成绩" },
   { "query": "国考分数线公布", "display_query": "国考分数线公布" },
   { "query": "降息", "display_query": "降息" },
