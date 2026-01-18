@@ -1,12 +1,5 @@
 [
-  {
-    "query": "央行官宣：结构性降息落地",
-    "display_query": "央行官宣：结构性降息落地"
-  },
-  {
-    "query": "今年三九不冷后面还会冷吗",
-    "display_query": "今年三九不冷后面还会冷吗"
-  },
+  { "query": "给动物喝白酒会怎样", "display_query": "给动物喝白酒会怎样" },
   { "query": "降息", "display_query": "降息" },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
   { "query": "iG对战AL", "display_query": "iG对战AL" },
@@ -19,15 +12,22 @@
     "query": "坐高铁再也不用扛行李了",
     "display_query": "坐高铁再也不用扛行李了"
   },
-  { "query": "BLG拿下WBG", "display_query": "BLG拿下WBG" },
-  {
-    "query": "什么行为极大改善了你的心理健康",
-    "display_query": "什么行为极大改善了你的心理健康"
-  },
-  { "query": "给动物喝白酒会怎样", "display_query": "给动物喝白酒会怎样" },
   {
     "query": "提升自己最快的方式是什么",
     "display_query": "提升自己最快的方式是什么"
   },
-  { "query": "如何评价电视剧新三国", "display_query": "如何评价电视剧新三国" }
+  {
+    "query": "什么行为极大改善了你的心理健康",
+    "display_query": "什么行为极大改善了你的心理健康"
+  },
+  { "query": "如何评价电视剧新三国", "display_query": "如何评价电视剧新三国" },
+  {
+    "query": "央行官宣：结构性降息落地",
+    "display_query": "央行官宣：结构性降息落地"
+  },
+  {
+    "query": "今年三九不冷后面还会冷吗",
+    "display_query": "今年三九不冷后面还会冷吗"
+  },
+  { "query": "BLG拿下WBG", "display_query": "BLG拿下WBG" }
 ]
