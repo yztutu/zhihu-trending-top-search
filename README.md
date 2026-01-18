@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 18 2026 14:21:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 18 2026 15:14:56 GMT+0800 (China Standard Time) -->
 
 1. [给动物喝白酒会怎样](https://www.zhihu.com/search?q=给动物喝白酒会怎样)
 1. [降息](https://www.zhihu.com/search?q=降息)
