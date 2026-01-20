@@ -1,8 +1,5 @@
 [
-  {
-    "query": "骂人也违法了最高可判三年",
-    "display_query": "骂人也违法了最高可判三年"
-  },
+  { "query": "火箭vs森林狼", "display_query": "火箭vs森林狼" },
   { "query": "河南进入雨雪最强时段", "display_query": "河南进入雨雪最强时段" },
   {
     "query": "为什么现在不创造新的汉字了",
@@ -26,6 +23,10 @@
   {
     "query": "最顶级的情绪价值是什么",
     "display_query": "最顶级的情绪价值是什么"
+  },
+  {
+    "query": "骂人也违法了最高可判三年",
+    "display_query": "骂人也违法了最高可判三年"
   },
   { "query": "blg战胜tes", "display_query": "blg战胜tes" },
   {

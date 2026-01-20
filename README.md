@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 20 2026 20:34:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 20 2026 21:40:45 GMT+0800 (China Standard Time) -->
 
-1. [骂人也违法了最高可判三年](https://www.zhihu.com/search?q=骂人也违法了最高可判三年)
+1. [火箭vs森林狼](https://www.zhihu.com/search?q=火箭vs森林狼)
 1. [河南进入雨雪最强时段](https://www.zhihu.com/search?q=河南进入雨雪最强时段)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=为什么现在不创造新的汉字了)
 1. [JDG战胜AL](https://www.zhihu.com/search?q=JDG战胜AL)
@@ -27,6 +27,7 @@
 1. [如何用最少的钱打扮自己](https://www.zhihu.com/search?q=如何用最少的钱打扮自己)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
 1. [最顶级的情绪价值是什么](https://www.zhihu.com/search?q=最顶级的情绪价值是什么)
+1. [骂人也违法了最高可判三年](https://www.zhihu.com/search?q=骂人也违法了最高可判三年)
 1. [blg战胜tes](https://www.zhihu.com/search?q=blg战胜tes)
 1. [人在什么情况下成长的最快](https://www.zhihu.com/search?q=人在什么情况下成长的最快)
 1. [什么样的版图可以称为美观](https://www.zhihu.com/search?q=什么样的版图可以称为美观)
