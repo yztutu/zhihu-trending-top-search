@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 20 2026 15:21:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 20 2026 16:22:32 GMT+0800 (China Standard Time) -->
 
 1. [blg战胜tes](https://www.zhihu.com/search?q=blg战胜tes)
 1. [河南进入雨雪最强时段](https://www.zhihu.com/search?q=河南进入雨雪最强时段)
