@@ -1,8 +1,5 @@
 [
-  {
-    "query": "吃的最多的下酒菜是什么",
-    "display_query": "吃的最多的下酒菜是什么"
-  },
+  { "query": "blg战胜tes", "display_query": "blg战胜tes" },
   { "query": "河南进入雨雪最强时段", "display_query": "河南进入雨雪最强时段" },
   { "query": "JDG战胜AL", "display_query": "JDG战胜AL" },
   { "query": "湖人vs开拓者", "display_query": "湖人vs开拓者" },
@@ -15,7 +12,10 @@
     "display_query": "如何用最少的钱打扮自己"
   },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
-  { "query": "怎么自学高中物理", "display_query": "怎么自学高中物理" },
+  {
+    "query": "最顶级的情绪价值是什么",
+    "display_query": "最顶级的情绪价值是什么"
+  },
   {
     "query": "人在什么情况下成长的最快",
     "display_query": "人在什么情况下成长的最快"
@@ -24,11 +24,11 @@
     "query": "什么样的版图可以称为美观",
     "display_query": "什么样的版图可以称为美观"
   },
-  { "query": "blg战胜tes", "display_query": "blg战胜tes" },
   {
-    "query": "最顶级的情绪价值是什么",
-    "display_query": "最顶级的情绪价值是什么"
+    "query": "吃的最多的下酒菜是什么",
+    "display_query": "吃的最多的下酒菜是什么"
   },
+  { "query": "怎么自学高中物理", "display_query": "怎么自学高中物理" },
   { "query": "黄金什么时候会大跌", "display_query": "黄金什么时候会大跌" },
   {
     "query": "嫣然天使基金暂停筹款 医院有意找新址",
