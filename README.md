@@ -15,12 +15,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 20 2026 18:20:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 20 2026 19:18:04 GMT+0800 (China Standard Time) -->
 
 1. [blg战胜tes](https://www.zhihu.com/search?q=blg战胜tes)
 1. [河南进入雨雪最强时段](https://www.zhihu.com/search?q=河南进入雨雪最强时段)
+1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=为什么现在不创造新的汉字了)
 1. [JDG战胜AL](https://www.zhihu.com/search?q=JDG战胜AL)
 1. [湖人vs开拓者](https://www.zhihu.com/search?q=湖人vs开拓者)
+1. [哪些东西已经贵到不值得买了](https://www.zhihu.com/search?q=哪些东西已经贵到不值得买了)
 1. [力与能量哪一个更为本质](https://www.zhihu.com/search?q=力与能量哪一个更为本质)
 1. [如何用最少的钱打扮自己](https://www.zhihu.com/search?q=如何用最少的钱打扮自己)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)

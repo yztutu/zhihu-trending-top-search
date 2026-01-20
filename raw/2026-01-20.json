@@ -1,8 +1,16 @@
 [
   { "query": "blg战胜tes", "display_query": "blg战胜tes" },
   { "query": "河南进入雨雪最强时段", "display_query": "河南进入雨雪最强时段" },
+  {
+    "query": "为什么现在不创造新的汉字了",
+    "display_query": "为什么现在不创造新的汉字了"
+  },
   { "query": "JDG战胜AL", "display_query": "JDG战胜AL" },
   { "query": "湖人vs开拓者", "display_query": "湖人vs开拓者" },
+  {
+    "query": "哪些东西已经贵到不值得买了",
+    "display_query": "哪些东西已经贵到不值得买了"
+  },
   {
     "query": "力与能量哪一个更为本质",
     "display_query": "力与能量哪一个更为本质"
