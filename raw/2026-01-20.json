@@ -1,5 +1,8 @@
 [
-  { "query": "blg战胜tes", "display_query": "blg战胜tes" },
+  {
+    "query": "骂人也违法了最高可判三年",
+    "display_query": "骂人也违法了最高可判三年"
+  },
   { "query": "河南进入雨雪最强时段", "display_query": "河南进入雨雪最强时段" },
   {
     "query": "为什么现在不创造新的汉字了",
@@ -24,6 +27,7 @@
     "query": "最顶级的情绪价值是什么",
     "display_query": "最顶级的情绪价值是什么"
   },
+  { "query": "blg战胜tes", "display_query": "blg战胜tes" },
   {
     "query": "人在什么情况下成长的最快",
     "display_query": "人在什么情况下成长的最快"
