@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 22 2026 23:20:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 23 2026 00:20:03 GMT+0800 (China Standard Time) -->
 1. [开造啦！好奇岛](https://www.zhihu.com/search?q=开造啦！好奇岛)
 1. [好奇岛装扮游戏](https://www.zhihu.com/search?q=好奇岛装扮游戏)
 1. [王子璇 文吉儿](https://www.zhihu.com/search?q=王子璇 文吉儿)
@@ -26,7 +26,6 @@
 1. [知乎智能搜索skill](https://www.zhihu.com/search?q=知乎智能搜索skill)
 1. [知乎智能搜索](https://www.zhihu.com/search?q=知乎智能搜索)
 1. [南京零元面馆创始人愿补偿周边商家](https://www.zhihu.com/search?q=南京零元面馆创始人愿补偿周边商家)
-1. [DeepSeek调整对话上限长度](https://www.zhihu.com/search?q=DeepSeek调整对话上限长度)
 <!-- END -->
 
 历史归档 [./archives](./archives)
