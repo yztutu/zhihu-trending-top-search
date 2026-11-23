@@ -15,8 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 24 2026 05:50:45 GMT+0800 (China Standard Time) -->
-
+<!-- 最后更新时间 Tue Nov 24 2026 06:20:03 GMT+0800 (China Standard Time) -->
 1. [F1](https://www.zhihu.com/search?q=F1)
 1. [国考准考证](https://www.zhihu.com/search?q=国考准考证)
 1. [上海地铁涨价](https://www.zhihu.com/search?q=上海地铁涨价)
@@ -27,7 +26,6 @@
 1. [知乎好奇岛装扮游戏](https://www.zhihu.com/search?q=知乎好奇岛装扮游戏)
 1. [三甲医院医生推荐患者去三乙医院](https://www.zhihu.com/search?q=三甲医院医生推荐患者去三乙医院)
 1. [知乎智能搜索全新上线](https://www.zhihu.com/search?q=知乎智能搜索全新上线)
-
 <!-- END -->
 
 历史归档 [./archives](./archives)
