@@ -1,1 +1,19 @@
-[{"query":"开造啦！好奇岛","display_query":"开造啦！好奇岛"},{"query":"好奇岛装扮游戏","display_query":"好奇岛装扮游戏"},{"query":"王子璇 文吉儿","display_query":"王子璇 文吉儿"},{"query":"罗小黑战记","display_query":"罗小黑战记"},{"query":"知乎好奇岛装扮游戏","display_query":"知乎好奇岛装扮游戏"},{"query":"知乎智能搜索全新上线","display_query":"知乎智能搜索全新上线"},{"query":"黄仁勋辞任英伟达CEO","display_query":"黄仁勋辞任英伟达CEO"},{"query":"知乎智能搜索skill","display_query":"知乎智能搜索skill"},{"query":"知乎智能搜索","display_query":"知乎智能搜索"},{"query":"南京零元面馆创始人愿补偿周边商家","display_query":"南京零元面馆创始人愿补偿周边商家"},{"query":"DeepSeek调整对话上限长度","display_query":"DeepSeek调整对话上限长度"}]
+[
+  { "query": "开造啦！好奇岛", "display_query": "开造啦！好奇岛" },
+  { "query": "好奇岛装扮游戏", "display_query": "好奇岛装扮游戏" },
+  { "query": "王子璇 文吉儿", "display_query": "王子璇 文吉儿" },
+  { "query": "罗小黑战记", "display_query": "罗小黑战记" },
+  { "query": "知乎好奇岛装扮游戏", "display_query": "知乎好奇岛装扮游戏" },
+  { "query": "知乎智能搜索全新上线", "display_query": "知乎智能搜索全新上线" },
+  { "query": "黄仁勋辞任英伟达CEO", "display_query": "黄仁勋辞任英伟达CEO" },
+  { "query": "知乎智能搜索skill", "display_query": "知乎智能搜索skill" },
+  { "query": "知乎智能搜索", "display_query": "知乎智能搜索" },
+  {
+    "query": "南京零元面馆创始人愿补偿周边商家",
+    "display_query": "南京零元面馆创始人愿补偿周边商家"
+  },
+  {
+    "query": "DeepSeek调整对话上限长度",
+    "display_query": "DeepSeek调整对话上限长度"
+  }
+]
