@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 25 2026 23:02:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 25 2026 23:48:23 GMT+0800 (China Standard Time) -->
 
 1. [欧冠联赛](https://www.zhihu.com/search?q=欧冠联赛)
 1. [上海地铁涨价](https://www.zhihu.com/search?q=上海地铁涨价)
