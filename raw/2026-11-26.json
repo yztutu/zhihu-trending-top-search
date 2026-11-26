@@ -1,20 +1,39 @@
 [
   {
-    "query": "OpenAI证明矩阵乘法指数下界为9/4",
-    "display_query": "OpenAI证明矩阵乘法指数下界为9/4"
+    "query": "SpaceX申请部署百万颗卫星",
+    "display_query": "SpaceX申请部署百万颗卫星"
   },
+  { "query": "上海地铁涨价", "display_query": "上海地铁涨价" },
+  {
+    "query": "AI 漫剧《持械入宋》热播",
+    "display_query": "AI 漫剧《持械入宋》热播"
+  },
+  { "query": "黄仁勋辞任英伟达CEO", "display_query": "黄仁勋辞任英伟达CEO" },
   {
     "query": "山姆上架国航3970元四次卡",
     "display_query": "山姆上架国航3970元四次卡"
   },
   {
-    "query": "男子见义勇为后被定速巡航车撞身亡",
-    "display_query": "男子见义勇为后被定速巡航车撞身亡"
+    "query": "知乎数据开放平台新玩法",
+    "display_query": "知乎数据开放平台新玩法"
   },
   { "query": "DeepSeek调整API定价", "display_query": "DeepSeek调整API定价" },
   {
+    "query": "多所高校推出一分钱早餐",
+    "display_query": "多所高校推出一分钱早餐"
+  },
+  { "query": "AI证明黎曼猜想", "display_query": "AI证明黎曼猜想" },
+  {
     "query": "余文乐自曝躯体化严重到不能开车",
     "display_query": "余文乐自曝躯体化严重到不能开车"
+  },
+  {
+    "query": "OpenAI证明矩阵乘法指数下界为9/4",
+    "display_query": "OpenAI证明矩阵乘法指数下界为9/4"
+  },
+  {
+    "query": "男子见义勇为后被定速巡航车撞身亡",
+    "display_query": "男子见义勇为后被定速巡航车撞身亡"
   },
   {
     "query": "金价大幅回撤多方提示风险",
@@ -34,21 +53,11 @@
     "display_query": "外卖小哥一句treetree的带火炸鸡"
   },
   { "query": "欧冠联赛", "display_query": "欧冠联赛" },
-  { "query": "上海地铁涨价", "display_query": "上海地铁涨价" },
   { "query": "亚冠精英", "display_query": "亚冠精英" },
-  {
-    "query": "知乎数据开放平台新玩法",
-    "display_query": "知乎数据开放平台新玩法"
-  },
   { "query": "11月20日A股行情", "display_query": "11月20日A股行情" },
   { "query": "A股放量1171亿", "display_query": "A股放量1171亿" },
   {
     "query": "上证50指数探底回升收红",
     "display_query": "上证50指数探底回升收红"
-  },
-  {
-    "query": "多所高校推出一分钱早餐",
-    "display_query": "多所高校推出一分钱早餐"
-  },
-  { "query": "AI证明黎曼猜想", "display_query": "AI证明黎曼猜想" }
+  }
 ]
