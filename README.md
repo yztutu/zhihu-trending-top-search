@@ -15,13 +15,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 26 2026 08:31:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 26 2026 13:30:58 GMT+0800 (China Standard Time) -->
 
+1. [OpenAI证明矩阵乘法指数下界为9/4](https://www.zhihu.com/search?q=OpenAI证明矩阵乘法指数下界为9/4)
+1. [山姆上架国航3970元四次卡](https://www.zhihu.com/search?q=山姆上架国航3970元四次卡)
+1. [男子见义勇为后被定速巡航车撞身亡](https://www.zhihu.com/search?q=男子见义勇为后被定速巡航车撞身亡)
+1. [DeepSeek调整API定价](https://www.zhihu.com/search?q=DeepSeek调整API定价)
+1. [余文乐自曝躯体化严重到不能开车](https://www.zhihu.com/search?q=余文乐自曝躯体化严重到不能开车)
+1. [金价大幅回撤多方提示风险](https://www.zhihu.com/search?q=金价大幅回撤多方提示风险)
+1. [网传Anthropic称质因数分解属P](https://www.zhihu.com/search?q=网传Anthropic称质因数分解属P)
+1. [学者质疑黎曼猜想证明无效](https://www.zhihu.com/search?q=学者质疑黎曼猜想证明无效)
+1. [GTA6结局](https://www.zhihu.com/search?q=GTA6结局)
+1. [外卖小哥一句treetree的带火炸鸡](https://www.zhihu.com/search?q=外卖小哥一句treetree的带火炸鸡)
 1. [欧冠联赛](https://www.zhihu.com/search?q=欧冠联赛)
 1. [上海地铁涨价](https://www.zhihu.com/search?q=上海地铁涨价)
 1. [亚冠精英](https://www.zhihu.com/search?q=亚冠精英)
 1. [知乎数据开放平台新玩法](https://www.zhihu.com/search?q=知乎数据开放平台新玩法)
-1. [DeepSeek调整API定价](https://www.zhihu.com/search?q=DeepSeek调整API定价)
 1. [11月20日A股行情](https://www.zhihu.com/search?q=11月20日A股行情)
 1. [A股放量1171亿](https://www.zhihu.com/search?q=A股放量1171亿)
 1. [上证50指数探底回升收红](https://www.zhihu.com/search?q=上证50指数探底回升收红)

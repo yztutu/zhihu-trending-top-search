@@ -1,4 +1,38 @@
 [
+  {
+    "query": "OpenAI证明矩阵乘法指数下界为9/4",
+    "display_query": "OpenAI证明矩阵乘法指数下界为9/4"
+  },
+  {
+    "query": "山姆上架国航3970元四次卡",
+    "display_query": "山姆上架国航3970元四次卡"
+  },
+  {
+    "query": "男子见义勇为后被定速巡航车撞身亡",
+    "display_query": "男子见义勇为后被定速巡航车撞身亡"
+  },
+  { "query": "DeepSeek调整API定价", "display_query": "DeepSeek调整API定价" },
+  {
+    "query": "余文乐自曝躯体化严重到不能开车",
+    "display_query": "余文乐自曝躯体化严重到不能开车"
+  },
+  {
+    "query": "金价大幅回撤多方提示风险",
+    "display_query": "金价大幅回撤多方提示风险"
+  },
+  {
+    "query": "网传Anthropic称质因数分解属P",
+    "display_query": "网传Anthropic称质因数分解属P"
+  },
+  {
+    "query": "学者质疑黎曼猜想证明无效",
+    "display_query": "学者质疑黎曼猜想证明无效"
+  },
+  { "query": "GTA6结局", "display_query": "GTA6结局" },
+  {
+    "query": "外卖小哥一句treetree的带火炸鸡",
+    "display_query": "外卖小哥一句treetree的带火炸鸡"
+  },
   { "query": "欧冠联赛", "display_query": "欧冠联赛" },
   { "query": "上海地铁涨价", "display_query": "上海地铁涨价" },
   { "query": "亚冠精英", "display_query": "亚冠精英" },
@@ -6,7 +40,6 @@
     "query": "知乎数据开放平台新玩法",
     "display_query": "知乎数据开放平台新玩法"
   },
-  { "query": "DeepSeek调整API定价", "display_query": "DeepSeek调整API定价" },
   { "query": "11月20日A股行情", "display_query": "11月20日A股行情" },
   { "query": "A股放量1171亿", "display_query": "A股放量1171亿" },
   {
