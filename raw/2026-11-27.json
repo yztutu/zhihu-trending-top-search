@@ -1,8 +1,11 @@
 [
+  { "query": "A股", "display_query": "A股" },
+  { "query": "92号汽油重返7元时代", "display_query": "92号汽油重返7元时代" },
   {
     "query": "AI 漫剧《持械入宋》热播",
     "display_query": "AI 漫剧《持械入宋》热播"
   },
+  { "query": "后会友期", "display_query": "后会友期" },
   {
     "query": "沈阳一商场保洁大叔凭高颜值出圈",
     "display_query": "沈阳一商场保洁大叔凭高颜值出圈"

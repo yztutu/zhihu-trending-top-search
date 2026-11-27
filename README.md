@@ -15,10 +15,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 27 2026 17:10:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 27 2026 20:47:18 GMT+0800 (China Standard Time) -->
 
+1. [A股](https://www.zhihu.com/search?q=A股)
+1. [92号汽油重返7元时代](https://www.zhihu.com/search?q=92号汽油重返7元时代)
 1. [AI 漫剧《持械入宋》热播](https://www.zhihu.com/search?q=AI
    漫剧《持械入宋》热播)
+1. [后会友期](https://www.zhihu.com/search?q=后会友期)
 1. [沈阳一商场保洁大叔凭高颜值出圈](https://www.zhihu.com/search?q=沈阳一商场保洁大叔凭高颜值出圈)
 1. [山姆上架国航3970元四次卡](https://www.zhihu.com/search?q=山姆上架国航3970元四次卡)
 1. [Hy4 flash 正式开源](https://www.zhihu.com/search?q=Hy4 flash 正式开源)
