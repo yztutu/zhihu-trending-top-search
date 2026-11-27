@@ -1,13 +1,12 @@
 [
   {
-    "query": "SpaceX申请部署百万颗卫星",
-    "display_query": "SpaceX申请部署百万颗卫星"
-  },
-  {
     "query": "AI 漫剧《持械入宋》热播",
     "display_query": "AI 漫剧《持械入宋》热播"
   },
-  { "query": "黄仁勋辞任英伟达CEO", "display_query": "黄仁勋辞任英伟达CEO" },
+  {
+    "query": "沈阳一商场保洁大叔凭高颜值出圈",
+    "display_query": "沈阳一商场保洁大叔凭高颜值出圈"
+  },
   {
     "query": "山姆上架国航3970元四次卡",
     "display_query": "山姆上架国航3970元四次卡"
@@ -18,11 +17,28 @@
     "display_query": "知乎数据开放平台新玩法"
   },
   { "query": "DeepSeek调整API定价", "display_query": "DeepSeek调整API定价" },
+  { "query": "AI证明黎曼猜想", "display_query": "AI证明黎曼猜想" },
+  {
+    "query": "最新殡仪馆公墓管理办法公布",
+    "display_query": "最新殡仪馆公墓管理办法公布"
+  },
+  {
+    "query": "AI证明黎曼猜想科学家能否获菲奖",
+    "display_query": "AI证明黎曼猜想科学家能否获菲奖"
+  },
+  {
+    "query": "李亚鹏建议月捐1元支持嫣然基金",
+    "display_query": "李亚鹏建议月捐1元支持嫣然基金"
+  },
+  {
+    "query": "SpaceX申请部署百万颗卫星",
+    "display_query": "SpaceX申请部署百万颗卫星"
+  },
+  { "query": "黄仁勋辞任英伟达CEO", "display_query": "黄仁勋辞任英伟达CEO" },
   {
     "query": "多所高校推出一分钱早餐",
     "display_query": "多所高校推出一分钱早餐"
   },
-  { "query": "AI证明黎曼猜想", "display_query": "AI证明黎曼猜想" },
   { "query": "利物浦4比0大胜曼联", "display_query": "利物浦4比0大胜曼联" },
   { "query": "蔡磊进入渐冻症终末期", "display_query": "蔡磊进入渐冻症终末期" }
 ]
