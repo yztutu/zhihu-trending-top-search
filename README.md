@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 28 2026 03:13:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 28 2026 06:08:23 GMT+0800 (China Standard Time) -->
 
 1. [A股](https://www.zhihu.com/search?q=A股)
 1. [92号汽油重返7元时代](https://www.zhihu.com/search?q=92号汽油重返7元时代)
