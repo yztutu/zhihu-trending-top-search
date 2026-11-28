@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 28 2026 18:56:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 28 2026 21:16:32 GMT+0800 (China Standard Time) -->
 
 1. [A股](https://www.zhihu.com/search?q=A股)
 1. [92号汽油重返7元时代](https://www.zhihu.com/search?q=92号汽油重返7元时代)
@@ -24,8 +24,10 @@
 1. [山姆上架国航3970元四次卡](https://www.zhihu.com/search?q=山姆上架国航3970元四次卡)
 1. [知乎数据开放平台新玩法](https://www.zhihu.com/search?q=知乎数据开放平台新玩法)
 1. [DeepSeek调整API定价](https://www.zhihu.com/search?q=DeepSeek调整API定价)
-1. [AI证明黎曼猜想](https://www.zhihu.com/search?q=AI证明黎曼猜想)
 1. [李亚鹏建议月捐1元支持嫣然基金](https://www.zhihu.com/search?q=李亚鹏建议月捐1元支持嫣然基金)
+1. [黄仁勋恢复英伟达总裁CEO职务](https://www.zhihu.com/search?q=黄仁勋恢复英伟达总裁CEO职务)
+1. [黄仁勋复职原因](https://www.zhihu.com/search?q=黄仁勋复职原因)
+1. [AI证明黎曼猜想](https://www.zhihu.com/search?q=AI证明黎曼猜想)
 1. [华为发布折叠屏MateX8](https://www.zhihu.com/search?q=华为发布折叠屏MateX8)
 1. [伪史论的生意都是流量算计](https://www.zhihu.com/search?q=伪史论的生意都是流量算计)
 1. [小米汽车利润突然掉头](https://www.zhihu.com/search?q=小米汽车利润突然掉头)
