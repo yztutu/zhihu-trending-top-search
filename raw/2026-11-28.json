@@ -1,10 +1,9 @@
 [
-  { "query": "A股", "display_query": "A股" },
-  { "query": "92号汽油重返7元时代", "display_query": "92号汽油重返7元时代" },
   {
-    "query": "AI 漫剧《持械入宋》热播",
-    "display_query": "AI 漫剧《持械入宋》热播"
+    "query": "伪史论的生意都是流量算计",
+    "display_query": "伪史论的生意都是流量算计"
   },
+  { "query": "小米汽车利润突然掉头", "display_query": "小米汽车利润突然掉头" },
   { "query": "后会友期", "display_query": "后会友期" },
   {
     "query": "沈阳一商场保洁大叔凭高颜值出圈",
@@ -14,11 +13,25 @@
     "query": "山姆上架国航3970元四次卡",
     "display_query": "山姆上架国航3970元四次卡"
   },
-  { "query": "Hy4 flash 正式开源", "display_query": "Hy4 flash 正式开源" },
   {
     "query": "知乎数据开放平台新玩法",
     "display_query": "知乎数据开放平台新玩法"
   },
   { "query": "DeepSeek调整API定价", "display_query": "DeepSeek调整API定价" },
-  { "query": "AI证明黎曼猜想", "display_query": "AI证明黎曼猜想" }
+  { "query": "AI证明黎曼猜想", "display_query": "AI证明黎曼猜想" },
+  {
+    "query": "AI证明黎曼猜想科学家能否获菲奖",
+    "display_query": "AI证明黎曼猜想科学家能否获菲奖"
+  },
+  {
+    "query": "李亚鹏建议月捐1元支持嫣然基金",
+    "display_query": "李亚鹏建议月捐1元支持嫣然基金"
+  },
+  { "query": "A股", "display_query": "A股" },
+  { "query": "92号汽油重返7元时代", "display_query": "92号汽油重返7元时代" },
+  {
+    "query": "AI 漫剧《持械入宋》热播",
+    "display_query": "AI 漫剧《持械入宋》热播"
+  },
+  { "query": "Hy4 flash 正式开源", "display_query": "Hy4 flash 正式开源" }
 ]
